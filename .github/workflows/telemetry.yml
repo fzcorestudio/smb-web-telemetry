@@ -1,0 +1,71 @@
+name: Regional Web Performance & DOM Telemetry Indexer
+
+on:
+  schedule:
+    # Runs continuously every 30 minutes throughout the night (12 AM - 12 PM PKT / 19:00 - 07:00 UTC)
+    - cron: '*/30 19-23 * * *'
+    - cron: '*/30 0-7 * * *'
+  workflow_dispatch:
+    inputs:
+      target_records:
+        description: 'Target records count'
+        required: false
+        default: '150'
+
+concurrency:
+  group: telemetry-index-run
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  telemetry-index:
+    name: Crawl & Audit Regional Web Telemetry
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: 🚚 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Playwright & Telemetry Stack
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright dnspython beautifulsoup4 requests urllib3
+          python -m playwright install --with-deps chromium
+
+      - name: 🚀 Run Autonomous Telemetry Supervisor
+        run: |
+          COUNT="${{ github.event.inputs.target_records || 150 }}"
+          echo "Initiating supervised crawl for $COUNT records..."
+          python supervisor.py "$COUNT"
+
+      - name: 💾 Commit & Push Telemetry Data
+        run: |
+          git config --global user.name "Telemetry Bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add telemetry_data/*.json telemetry_data/*.log || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(telemetry): automated regional benchmark sync [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase -X theirs origin main && git push origin main && break || sleep 5
+            done
+          else
+            echo "Zero changes to commit."
+          fi
+
+      - name: 📤 Upload Telemetry Artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-telemetry-latest
+          path: telemetry_data/market_records.json
+          retention-days: 14
