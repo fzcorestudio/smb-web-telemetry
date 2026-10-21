@@ -15454,5 +15454,2021 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Sol Army Home (Miami, FL). Profile: Rank #35 on Google Maps (20 reviews, 3.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-21T22:25:47.060514+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623201-1",
+    "estimated_rank": 32,
+    "business_name": "She Builds All",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://shebuildsall.com",
+    "domain": "shebuildsall.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at She Builds All (Houston, TX). Profile: Rank #32 on Google Maps (22 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T22:53:21.381550+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623249-13",
+    "estimated_rank": 42,
+    "business_name": "SF Custom Homes, LLC",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.sfcustomhomes.com",
+    "domain": "sfcustomhomes.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at SF Custom Homes, LLC (Houston, TX). Profile: Rank #42 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T22:54:09.856884+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623292-1",
+    "estimated_rank": 27,
+    "business_name": "Houston Superior Epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://houstonsuperiorepoxy.com",
+    "domain": "houstonsuperiorepoxy.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@houstonsuperiorepoxy.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Superior Epoxy (Houston, TX). Profile: Rank #27 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T22:54:52.817882+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623335-1",
+    "estimated_rank": 25,
+    "business_name": "Tell Your Tale Marketing & Design",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://tellyourtale.com",
+    "domain": "tellyourtale.com",
+    "reviews_count": 15,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tell Your Tale Marketing & Design (Houston, TX). Profile: Rank #25 on Google Maps (15 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T22:55:35.169502+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623335-2",
+    "estimated_rank": 26,
+    "business_name": "BrandExtract",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.brandextract.com",
+    "domain": "brandextract.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at BrandExtract (Houston, TX). Profile: Rank #26 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T22:55:35.905627+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623346-7",
+    "estimated_rank": 40,
+    "business_name": "Intuitive",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.intuitivecreate.com",
+    "domain": "intuitivecreate.com",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Nextgen Empowerment",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Nextgen Empowerment at Intuitive (Houston, TX). Profile: Rank #40 on Google Maps (14 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T22:55:46.334284+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623366-1",
+    "estimated_rank": 21,
+    "business_name": "Horizon Pavers",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://horizonpavers.com",
+    "domain": "horizonpavers.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Horizon Pavers (Houston, TX). Profile: Rank #21 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T22:56:06.198461+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623373-3",
+    "estimated_rank": 25,
+    "business_name": "ProModular Hardscapes LLC",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://promodular.com",
+    "domain": "promodular.com",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@promodular.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at ProModular Hardscapes LLC (Houston, TX). Profile: Rank #25 on Google Maps (8 reviews, 4.5★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:56:13.607191+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623416-7",
+    "estimated_rank": 53,
+    "business_name": "Complete Fencing & Repair",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://completefencingandrepairs.com",
+    "domain": "completefencingandrepairs.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Complete Fencing & Repair (Houston, TX). Profile: Rank #53 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:56:56.328996+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623420-9",
+    "estimated_rank": 55,
+    "business_name": "Top Rail Fence Northwest Houston",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://toprailfences.com/locations/northwest-houston",
+    "domain": "toprailfences.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Top Rail Fence Northwest Houston (Houston, TX). Profile: Rank #55 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T22:57:00.521123+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623435-1",
+    "estimated_rank": 21,
+    "business_name": "Mint Condition Commercial Cleaning Houston",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.mintconditioninc.com/locations/houston-tx/commercial-cleaning-services",
+    "domain": "mintconditioninc.com",
+    "reviews_count": 23,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mint Condition Commercial Cleaning Houston (Houston, TX). Profile: Rank #21 on Google Maps (23 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T22:57:15.860700+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623443-5",
+    "estimated_rank": 45,
+    "business_name": "S&H Sparkle Cleaning Service",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://shsparklecleaningservice.com",
+    "domain": "shsparklecleaningservice.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at S&H Sparkle Cleaning Service (Houston, TX). Profile: Rank #45 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:57:23.430696+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623530-5",
+    "estimated_rank": 49,
+    "business_name": "Humble Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://humblefoundationrepair.com",
+    "domain": "humblefoundationrepair.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business at Humble Foundation Repair (Houston, TX). Profile: Rank #49 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:58:50.964471+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623534-7",
+    "estimated_rank": 52,
+    "business_name": "Houston Waterproofing",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.houston-waterproofing.com",
+    "domain": "houston-waterproofing.com",
+    "reviews_count": 26,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Waterproofing (Houston, TX). Profile: Rank #52 on Google Maps (26 reviews, 4.2★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:58:54.062592+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623538-8",
+    "estimated_rank": 53,
+    "business_name": "Heights Foundation Repair Experts",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://heightsfoundationrepairexperts.com",
+    "domain": "heightsfoundationrepairexperts.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Heights Foundation Repair Experts (Houston, TX). Profile: Rank #53 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:58:58.307380+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623557-3",
+    "estimated_rank": 41,
+    "business_name": "DPS Design Painting - Interior Painter Quality Exterior Painting Service Kitchen Remodeling",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://dpsdesignpainting.com",
+    "domain": "dpsdesignpainting.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at DPS Design Painting - Interior Painter Quality Exterior Painting Service Kitchen Remodeling (Houston, TX). Profile: Rank #41 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:59:17.375097+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623572-1",
+    "estimated_rank": 21,
+    "business_name": "Water Damage Restoration Houston",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://emergency-waterdamage.com",
+    "domain": "emergency-waterdamage.com",
+    "reviews_count": 3,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Water Damage Restoration Houston (Houston, TX). Profile: Rank #21 on Google Maps (3 reviews, 3.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:59:32.207073+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623572-2",
+    "estimated_rank": 24,
+    "business_name": "Houston Water Damage Restoration",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://houston-water-damage-restoration.com",
+    "domain": "houston-water-damage-restoration.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Water Damage Restoration (Houston, TX). Profile: Rank #24 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:59:32.751074+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623574-3",
+    "estimated_rank": 28,
+    "business_name": "National Water Damage Restoration Houston",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://nationalwaterdamagerestorationhouston.com",
+    "domain": "nationalwaterdamagerestorationhouston.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at National Water Damage Restoration Houston (Houston, TX). Profile: Rank #28 on Google Maps (6 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:59:34.338926+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623576-5",
+    "estimated_rank": 30,
+    "business_name": "Express Water Damage Restoration Houston",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://water-damage-restoration-houston.com",
+    "domain": "water-damage-restoration-houston.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Express Water Damage Restoration Houston (Houston, TX). Profile: Rank #30 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:59:36.298382+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623578-6",
+    "estimated_rank": 36,
+    "business_name": "SuperDry Water Damage Cleanup Houston",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://flood--damage.net",
+    "domain": "flood--damage.net",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at SuperDry Water Damage Cleanup Houston (Houston, TX). Profile: Rank #36 on Google Maps (16 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:59:38.009849+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623579-7",
+    "estimated_rank": 40,
+    "business_name": "Houston Mold Removal Services",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://houston-mold-removal.com",
+    "domain": "houston-mold-removal.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Mold Removal Services (Houston, TX). Profile: Rank #40 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T22:59:39.127834+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623678-1",
+    "estimated_rank": 28,
+    "business_name": "Paragon Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.paragonpool.com",
+    "domain": "paragonpool.com",
+    "reviews_count": 16,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Paragon Pools (Houston, TX). Profile: Rank #28 on Google Maps (16 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:01:18.552570+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623680-2",
+    "estimated_rank": 40,
+    "business_name": "NorthPointe Custom Pools, LLC",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.northpointecustompools.com",
+    "domain": "northpointecustompools.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@northpointecustompools.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at NorthPointe Custom Pools, LLC (Houston, TX). Profile: Rank #40 on Google Maps (24 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:01:20.284040+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623681-3",
+    "estimated_rank": 47,
+    "business_name": "Out back Pool and Spa Creations",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://outbackpool.net",
+    "domain": "outbackpool.net",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Out back Pool and Spa Creations (Houston, TX). Profile: Rank #47 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:01:21.175200+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623685-4",
+    "estimated_rank": 48,
+    "business_name": "Blue Haven Pools & Spas",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.bluehaven.com/clear-lake-swimming-pool-builder",
+    "domain": "bluehaven.com",
+    "reviews_count": 7,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Before/After Visual Image Comparison Slider",
+      "concrete_observation": "Project transformations are buried in static photo grids instead of an engaging, high-conversion swipe comparison slider.",
+      "matched_fzcore_service": "Service 6: Interactive Before/After Visual Showcase Slider",
+      "recommended_entry_price": "$120",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Blue Haven Pools & Spas (Houston, TX). Profile: Rank #48 on Google Maps (7 reviews, 4.4★). Audit Flaw: Project transformations are buried in static photo grids instead of an engaging, high-conversion swipe comparison slider. Pitch Offer: Service 6: Interactive Before/After Visual Showcase Slider for $120 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:01:25.904547+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623728-2",
+    "estimated_rank": 28,
+    "business_name": "WOW Mobile Detailing Miami",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://carwashwow.com",
+    "domain": "carwashwow.com",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at WOW Mobile Detailing Miami (Miami, FL). Profile: Rank #28 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:02:08.575993+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623730-3",
+    "estimated_rank": 34,
+    "business_name": "Noble Mobile Auto Spa",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://noblemobileautospa.com",
+    "domain": "noblemobileautospa.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Noble Mobile Auto Spa (Miami, FL). Profile: Rank #34 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:02:10.991067+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623731-4",
+    "estimated_rank": 40,
+    "business_name": "City Twin Mobile Detailing",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://linktr.ee/citytwindetail",
+    "domain": "linktr.ee",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at City Twin Mobile Detailing (Miami, FL). Profile: Rank #40 on Google Maps (13 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:02:11.499162+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623761-1",
+    "estimated_rank": 32,
+    "business_name": "DC Plumbing and Remodeling Designs Corp.",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://dcplumbingandremodeling.com",
+    "domain": "dcplumbingandremodeling.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Perez Business",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Perez Business at DC Plumbing and Remodeling Designs Corp. (Miami, FL). Profile: Rank #32 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:02:41.662859+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623762-2",
+    "estimated_rank": 36,
+    "business_name": "Kool Renovations",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.koolrenovations.com",
+    "domain": "koolrenovations.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@koolrenovations.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Kool Renovations (Miami, FL). Profile: Rank #36 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:02:42.330771+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623764-5",
+    "estimated_rank": 48,
+    "business_name": "Hollywood Kitchen and Bath Remodel",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://hollywoodkitchenandbathremodel.online",
+    "domain": "hollywoodkitchenandbathremodel.online",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hollywood Kitchen and Bath Remodel (Miami, FL). Profile: Rank #48 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:02:44.809360+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623789-1",
+    "estimated_rank": 22,
+    "business_name": "Navicon Construction | Luxury Homebuilder",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.naviconus.com",
+    "domain": "naviconus.com",
+    "reviews_count": 11,
+    "rating": 3.9,
+    "decision_maker": {
+      "name": "Newproject",
+      "verified_email": "newproject@naviconus.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Newproject at Navicon Construction | Luxury Homebuilder (Miami, FL). Profile: Rank #22 on Google Maps (11 reviews, 3.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:03:09.432148+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623789-2",
+    "estimated_rank": 25,
+    "business_name": "Ballagas Construction",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://ballagasconstruction.com",
+    "domain": "ballagasconstruction.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Broward",
+      "verified_email": "contact@ballagasconstruction.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Broward at Ballagas Construction (Miami, FL). Profile: Rank #25 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:03:09.689028+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623791-3",
+    "estimated_rank": 27,
+    "business_name": "HART Homes (Hart Luxury Homes)",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://harthomesflorida.com",
+    "domain": "harthomesflorida.com",
+    "reviews_count": 4,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at HART Homes (Hart Luxury Homes) (Miami, FL). Profile: Rank #27 on Google Maps (4 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:03:11.608019+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623792-4",
+    "estimated_rank": 31,
+    "business_name": "J.P. DiMisa Luxury Homes, Inc.",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.jpdadev.com",
+    "domain": "jpdadev.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at J.P. DiMisa Luxury Homes, Inc. (Miami, FL). Profile: Rank #31 on Google Maps (6 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:03:12.568152+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623794-5",
+    "estimated_rank": 33,
+    "business_name": "Miami Pro Construction",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.miamiproconstruction.com",
+    "domain": "miamiproconstruction.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Miami Pro",
+      "verified_email": "info@miamiproconstruction.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Miami Pro at Miami Pro Construction (Miami, FL). Profile: Rank #33 on Google Maps (28 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:03:14.637925+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623795-6",
+    "estimated_rank": 35,
+    "business_name": "JD-MIAMI",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://jd-miami.com",
+    "domain": "jd-miami.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Architecture",
+      "verified_email": "architecture@jd-miami.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Architecture at JD-MIAMI (Miami, FL). Profile: Rank #35 on Google Maps (19 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:03:15.008819+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623795-7",
+    "estimated_rank": 36,
+    "business_name": "Builder’s Luxury Construction and Design LLC",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://buildersluxurygroup.com",
+    "domain": "buildersluxurygroup.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Brooklyn Simmons",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Brooklyn Simmons at Builder’s Luxury Construction and Design LLC (Miami, FL). Profile: Rank #36 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:03:15.575385+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623796-8",
+    "estimated_rank": 37,
+    "business_name": "Now Eco Home",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.nowecohome.com",
+    "domain": "nowecohome.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Zaki Lev",
+      "verified_email": "info@nowecohome.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Zaki Lev at Now Eco Home (Miami, FL). Profile: Rank #37 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:03:16.420090+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623796-9",
+    "estimated_rank": 39,
+    "business_name": "Authentic Construction",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://authenticconstruct.com",
+    "domain": "authenticconstruct.com",
+    "reviews_count": 5,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@authenticconstruct.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Authentic Construction (Miami, FL). Profile: Rank #39 on Google Maps (5 reviews, 4.2★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:03:16.954055+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623799-10",
+    "estimated_rank": 40,
+    "business_name": "New Construction Homes in South Florida",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.newconstructionhomessouthflorida.com",
+    "domain": "newconstructionhomessouthflorida.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at New Construction Homes in South Florida (Miami, FL). Profile: Rank #40 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:03:19.826047+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623800-11",
+    "estimated_rank": 41,
+    "business_name": "Madison Construction Group Inc.",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.madisongc.com",
+    "domain": "madisongc.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Andres",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Andres at Madison Construction Group Inc. (Miami, FL). Profile: Rank #41 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:03:20.315262+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623820-12",
+    "estimated_rank": 48,
+    "business_name": "Sunstate Builders-South",
+    "category": "Luxury Custom Home Builder",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.sunstatebuilder.com",
+    "domain": "sunstatebuilder.com",
+    "reviews_count": 9,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Born",
+      "verified_email": "sales@sunstatebuilder.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Born at Sunstate Builders-South (Miami, FL). Profile: Rank #48 on Google Maps (9 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:03:40.060542+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623870-7",
+    "estimated_rank": 43,
+    "business_name": "Gladiators Improvement",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://gladiatorsimprovement.com",
+    "domain": "gladiatorsimprovement.com",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Arynzon Bra",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Arynzon Bra at Gladiators Improvement (Miami, FL). Profile: Rank #43 on Google Maps (17 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:04:30.958540+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623876-9",
+    "estimated_rank": 55,
+    "business_name": "Apex Epoxy Flooring of Hialeah",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://apexflooringllc.com/apex-epoxy-flooring-of-hialeah",
+    "domain": "apexflooringllc.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Charleston",
+      "verified_email": "info@apexflooringllc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Charleston at Apex Epoxy Flooring of Hialeah (Miami, FL). Profile: Rank #55 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:04:36.277667+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623915-1",
+    "estimated_rank": 22,
+    "business_name": "Social Brand",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.socialbrand-mia.com",
+    "domain": "socialbrand-mia.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Websites",
+      "verified_email": "info@socialbrand-mia.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Websites at Social Brand (Miami, FL). Profile: Rank #22 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:05:15.263818+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623916-2",
+    "estimated_rank": 25,
+    "business_name": "DSN HOUSE COLLECTIVE - Branding | Web | Motion | Videos | Consultancy",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://dsnhousecollective.com",
+    "domain": "dsnhousecollective.com",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "David",
+      "verified_email": "david@dsnhousecollective.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: David at DSN HOUSE COLLECTIVE - Branding | Web | Motion | Videos | Consultancy (Miami, FL). Profile: Rank #25 on Google Maps (21 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:16.978559+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623917-3",
+    "estimated_rank": 26,
+    "business_name": "theBrandley Branding Studio",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.thebrandley.com",
+    "domain": "thebrandley.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "We Help",
+      "verified_email": "roberto@thebrandley.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: We Help at theBrandley Branding Studio (Miami, FL). Profile: Rank #26 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:17.260292+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623917-4",
+    "estimated_rank": 30,
+    "business_name": "Design Church Co. | Brand Design for Churches & Kingdom Ventures",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://designchurch.co",
+    "domain": "designchurch.co",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Allan Meade",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Allan Meade at Design Church Co. | Brand Design for Churches & Kingdom Ventures (Miami, FL). Profile: Rank #30 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:17.826322+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623918-5",
+    "estimated_rank": 32,
+    "business_name": "Brand Poets",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://brandpoets.com",
+    "domain": "brandpoets.com",
+    "reviews_count": 23,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Chatburn",
+      "verified_email": "hello@brandpoets.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Chatburn at Brand Poets (Miami, FL). Profile: Rank #32 on Google Maps (23 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:18.048794+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623919-6",
+    "estimated_rank": 35,
+    "business_name": "Miami B2B Marketing Agency - Ca Design",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://cadesign.io",
+    "domain": "cadesign.io",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Luis Ramirez",
+      "verified_email": "hello@cadesign.io",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Luis Ramirez at Miami B2B Marketing Agency - Ca Design (Miami, FL). Profile: Rank #35 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:19.169836+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623920-7",
+    "estimated_rank": 48,
+    "business_name": "Xposure Advertising",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://xposureadvertising.com",
+    "domain": "xposureadvertising.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Mylene",
+      "verified_email": "mylene@xposureadvertising.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Mylene at Xposure Advertising (Miami, FL). Profile: Rank #48 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:20.341878+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623933-1",
+    "estimated_rank": 32,
+    "business_name": "Perfect Pavers of Palm Beach",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://paversofpalmbeach.com",
+    "domain": "paversofpalmbeach.com",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "office@paversofpalmbeach.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Before/After Visual Image Comparison Slider",
+      "concrete_observation": "Project transformations are buried in static photo grids instead of an engaging, high-conversion swipe comparison slider.",
+      "matched_fzcore_service": "Service 6: Interactive Before/After Visual Showcase Slider",
+      "recommended_entry_price": "$120",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Perfect Pavers of Palm Beach (Miami, FL). Profile: Rank #32 on Google Maps (24 reviews, 5.0★). Audit Flaw: Project transformations are buried in static photo grids instead of an engaging, high-conversion swipe comparison slider. Pitch Offer: Service 6: Interactive Before/After Visual Showcase Slider for $120 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:05:33.824952+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623935-2",
+    "estimated_rank": 37,
+    "business_name": "Driveway Pavers Miami",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://drivewaypaversmiami.com",
+    "domain": "drivewaypaversmiami.com",
+    "reviews_count": 21,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Driveway Pavers Miami (Miami, FL). Profile: Rank #37 on Google Maps (21 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:05:35.126179+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623936-3",
+    "estimated_rank": 39,
+    "business_name": "Greenfield Landscaping & Services",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.greenfieldlandscapingmiami.com",
+    "domain": "greenfieldlandscapingmiami.com",
+    "reviews_count": 19,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Greenfield Landscaping & Services (Miami, FL). Profile: Rank #39 on Google Maps (19 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:05:36.044929+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623940-4",
+    "estimated_rank": 44,
+    "business_name": "Paverson LLC",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.paverson.com",
+    "domain": "paverson.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@paverson.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Paverson LLC (Miami, FL). Profile: Rank #44 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:40.226230+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623940-5",
+    "estimated_rank": 45,
+    "business_name": "Hollywood Stone",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.hollywoodstoneinc.com",
+    "domain": "hollywoodstoneinc.com",
+    "reviews_count": 17,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hollywood Stone (Miami, FL). Profile: Rank #45 on Google Maps (17 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:40.970961+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623941-6",
+    "estimated_rank": 46,
+    "business_name": "VLC Hardscape LLC Paver & Stone",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.vlchardscape.com",
+    "domain": "vlchardscape.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at VLC Hardscape LLC Paver & Stone (Miami, FL). Profile: Rank #46 on Google Maps (15 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:41.670661+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623942-7",
+    "estimated_rank": 47,
+    "business_name": "Amazing Outdoors Miami",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.amazingoutdoorsmiami.com",
+    "domain": "amazingoutdoorsmiami.com",
+    "reviews_count": 27,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Amazing Outdoors Miami (Miami, FL). Profile: Rank #47 on Google Maps (27 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:05:42.657440+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623968-4",
+    "estimated_rank": 30,
+    "business_name": "Door Master Gate Repair",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://doormasterfl.com",
+    "domain": "doormasterfl.com",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Door Master Gate Repair (Miami, FL). Profile: Rank #30 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:06:08.936754+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623982-10",
+    "estimated_rank": 54,
+    "business_name": "J fence Services Corp",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://jfences.com",
+    "domain": "jfences.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at J fence Services Corp (Miami, FL). Profile: Rank #54 on Google Maps (22 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:06:22.528279+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623984-11",
+    "estimated_rank": 56,
+    "business_name": "DS Ornamental Iron Work, LLC",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://dsornamental.com",
+    "domain": "dsornamental.com",
+    "reviews_count": 19,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Davesimeon",
+      "verified_email": "davesimeon@dsornamental.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Davesimeon at DS Ornamental Iron Work, LLC (Miami, FL). Profile: Rank #56 on Google Maps (19 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:06:24.931807+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624005-5",
+    "estimated_rank": 33,
+    "business_name": "Best Value Janitorial Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://bestvaluejanitorialservices.com",
+    "domain": "bestvaluejanitorialservices.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@bestvaluejanitorialservices.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Best Value Janitorial Services (Miami, FL). Profile: Rank #33 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:06:45.312757+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624009-6",
+    "estimated_rank": 36,
+    "business_name": "305 Janitorial Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://305janitorialservices.com",
+    "domain": "305janitorialservices.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@305janitorialservices.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at 305 Janitorial Services (Miami, FL). Profile: Rank #36 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:06:49.400970+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624010-7",
+    "estimated_rank": 45,
+    "business_name": "Precision Cleaning Group LLC",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://precisioncleaninggroupllc.com",
+    "domain": "precisioncleaninggroupllc.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Precision Cleaning Group LLC (Miami, FL). Profile: Rank #45 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:06:50.130542+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624012-8",
+    "estimated_rank": 46,
+    "business_name": "Office Pride Commercial Cleaning Services of Miami-Homestead",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://officepride.com/miami-homestead",
+    "domain": "officepride.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Office Pride Commercial Cleaning Services of Miami-Homestead (Miami, FL). Profile: Rank #46 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:06:52.817937+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624049-1",
+    "estimated_rank": 26,
+    "business_name": "Martinez Roofing Miami",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.martinezroofingmiami.com",
+    "domain": "martinezroofingmiami.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@martinezroofingmiami.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Martinez Roofing Miami (Miami, FL). Profile: Rank #26 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:07:29.265041+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624076-1",
+    "estimated_rank": 22,
+    "business_name": "RelisLaw Visa Immigration Florida",
+    "category": "Immigration & Visa Consultant",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://relislaw.com",
+    "domain": "relislaw.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Or Manager",
+      "verified_email": "intake@relislaw.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Or Manager at RelisLaw Visa Immigration Florida (Miami, FL). Profile: Rank #22 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:07:56.547060+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624106-1",
+    "estimated_rank": 28,
+    "business_name": "Gonzalez Painting & Waterproofing, Inc.",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.gonzalezpaintinginc.com",
+    "domain": "gonzalezpaintinginc.com",
+    "reviews_count": 22,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@gonzalezpaintinginc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Gonzalez Painting & Waterproofing, Inc. (Miami, FL). Profile: Rank #28 on Google Maps (22 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:08:26.269658+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624107-2",
+    "estimated_rank": 36,
+    "business_name": "Rodriguez Painters , Inc",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://rodriguezpaintersinc.com",
+    "domain": "rodriguezpaintersinc.com",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Rodriguez Painters , Inc (Miami, FL). Profile: Rank #36 on Google Maps (14 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:08:27.540308+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792624108-3",
+    "estimated_rank": 37,
+    "business_name": "Florida Coastal Painters",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "website": "https://floridaclosetpros.com",
+    "domain": "floridaclosetpros.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Florida Coastal Painters (Miami, FL). Profile: Rank #37 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:08:28.751520+00:00"
   }
 ]
