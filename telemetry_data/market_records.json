@@ -17470,5 +17470,2721 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Florida Coastal Painters (Miami, FL). Profile: Rank #37 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
     "harvested_at": "2026-10-21T23:08:28.751520+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625051-2",
+    "estimated_rank": 40,
+    "business_name": "TreePro",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://1treepro.com",
+    "domain": "1treepro.com",
+    "reviews_count": 28,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at TreePro (Houston, TX). Profile: Rank #40 on Google Maps (28 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:24:11.070804+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625066-3",
+    "estimated_rank": 50,
+    "business_name": "Coat My Slab",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://coatmyslab.com",
+    "domain": "coatmyslab.com",
+    "reviews_count": 23,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Michael",
+      "verified_email": "michael@coatmyslab.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Michael at Coat My Slab (Houston, TX). Profile: Rank #50 on Google Maps (23 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:24:26.339967+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625067-4",
+    "estimated_rank": 55,
+    "business_name": "Max Epoxy Flooring",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://maxepoxyflooring.com",
+    "domain": "maxepoxyflooring.com",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Max Epoxy Flooring (Houston, TX). Profile: Rank #55 on Google Maps (27 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:24:27.796505+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625068-5",
+    "estimated_rank": 56,
+    "business_name": "Surface Systems of Texas",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://surfacesystemsoftexas.com",
+    "domain": "surfacesystemsoftexas.com",
+    "reviews_count": 15,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Surface Systems of Texas (Houston, TX). Profile: Rank #56 on Google Maps (15 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:24:28.446064+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625156-7",
+    "estimated_rank": 47,
+    "business_name": "Houston Sewage Cleanup & Water Damage Restoration",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://sewagecleanupandsewageremoval.us",
+    "domain": "sewagecleanupandsewageremoval.us",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Sewage Cleanup & Water Damage Restoration (Houston, TX). Profile: Rank #47 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:25:56.286241+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625157-8",
+    "estimated_rank": 54,
+    "business_name": "Rhino Water Damage Restoration Houston",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://watercleanup.us",
+    "domain": "watercleanup.us",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@watercleanup.us",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Rhino Water Damage Restoration Houston (Houston, TX). Profile: Rank #54 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:25:57.583811+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625188-3",
+    "estimated_rank": 53,
+    "business_name": "Noir Kitchen Remodeling Houston",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://noirkitchenremodelinghouston.com",
+    "domain": "noirkitchenremodelinghouston.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Noir Kitchen Remodeling Houston (Houston, TX). Profile: Rank #53 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:26:28.952761+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625249-4",
+    "estimated_rank": 51,
+    "business_name": "Pritchard Industries",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.pritchardindustries.com",
+    "domain": "pritchardindustries.com",
+    "reviews_count": 21,
+    "rating": 3.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@pritchardindustries.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pritchard Industries (Houston, TX). Profile: Rank #51 on Google Maps (21 reviews, 3.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:27:29.403482+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625291-15",
+    "estimated_rank": 47,
+    "business_name": "Hana Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://hanacustomhomes.com",
+    "domain": "hanacustomhomes.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hana Custom Homes (Houston, TX). Profile: Rank #47 on Google Maps (10 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:28:11.296890+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625308-19",
+    "estimated_rank": 53,
+    "business_name": "Croix Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.croixhomes.com",
+    "domain": "croixhomes.com",
+    "reviews_count": 21,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Mrosenquist",
+      "verified_email": "mrosenquist@croixhomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Mrosenquist at Croix Custom Homes (Houston, TX). Profile: Rank #53 on Google Maps (21 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:28:28.865981+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625311-20",
+    "estimated_rank": 54,
+    "business_name": "Fairmont Custom Homes, LLC",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.fairmontcustomhomes.com",
+    "domain": "fairmontcustomhomes.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Fairmont Custom Homes, LLC (Houston, TX). Profile: Rank #54 on Google Maps (28 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:28:31.367338+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625312-21",
+    "estimated_rank": 56,
+    "business_name": "Harvard Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://harvardhomeshou.com",
+    "domain": "harvardhomeshou.com",
+    "reviews_count": 7,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@harvardhomeshou.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Harvard Homes (Houston, TX). Profile: Rank #56 on Google Maps (7 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:28:32.653103+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625313-22",
+    "estimated_rank": 57,
+    "business_name": "Trinity Estate Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.trinityestatehomes.com",
+    "domain": "trinityestatehomes.com",
+    "reviews_count": 20,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Trinity Estate Homes (Houston, TX). Profile: Rank #57 on Google Maps (20 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:28:33.941294+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625333-2",
+    "estimated_rank": 22,
+    "business_name": "The Design Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.designagencyhouston.com",
+    "domain": "designagencyhouston.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The Design Agency (Houston, TX). Profile: Rank #22 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:28:53.770750+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625336-3",
+    "estimated_rank": 27,
+    "business_name": "Venture and Grow Marketing",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://ventureandgrow.com",
+    "domain": "ventureandgrow.com",
+    "reviews_count": 14,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Venture and Grow Marketing (Houston, TX). Profile: Rank #27 on Google Maps (14 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:28:56.896550+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625349-8",
+    "estimated_rank": 48,
+    "business_name": "Kreadiv & Koo",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://kreadivkoo.com",
+    "domain": "kreadivkoo.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Dpolk",
+      "verified_email": "dpolk@kreadivkoo.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Dpolk at Kreadiv & Koo (Houston, TX). Profile: Rank #48 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:29:09.050149+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625376-2",
+    "estimated_rank": 36,
+    "business_name": "Clear Lake Pool Builder",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.clearlakepoolbuilder.com",
+    "domain": "clearlakepoolbuilder.com",
+    "reviews_count": 3,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Clear Lake Pool Builder (Houston, TX). Profile: Rank #36 on Google Maps (3 reviews, 3.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:29:36.130215+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625376-3",
+    "estimated_rank": 38,
+    "business_name": "Mango Pool & Spa",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://mangopoolspa.com",
+    "domain": "mangopoolspa.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Operated",
+      "verified_email": "info@mangopoolspa.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Operated at Mango Pool & Spa (Houston, TX). Profile: Rank #38 on Google Maps (28 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:29:36.450956+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625428-1",
+    "estimated_rank": 46,
+    "business_name": "Rival Roofing and Restoration",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://rivalroofingco.com",
+    "domain": "rivalroofingco.com",
+    "reviews_count": 26,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Alex",
+      "verified_email": "alex@rivalroofingco.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Alex at Rival Roofing and Restoration (Houston, TX). Profile: Rank #46 on Google Maps (26 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:30:28.792880+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625449-2",
+    "estimated_rank": 25,
+    "business_name": "FiveSTAR Landscape",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.houstonfivestar.com",
+    "domain": "houstonfivestar.com",
+    "reviews_count": 21,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at FiveSTAR Landscape (Houston, TX). Profile: Rank #25 on Google Maps (21 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:30:49.548271+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625509-3",
+    "estimated_rank": 43,
+    "business_name": "Houston Commercial Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.houstoncommercialpainting.net/contact-us.html",
+    "domain": "houstoncommercialpainting.net",
+    "reviews_count": 4,
+    "rating": 3.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Commercial Painting (Houston, TX). Profile: Rank #43 on Google Maps (4 reviews, 3.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:31:49.373993+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625511-4",
+    "estimated_rank": 44,
+    "business_name": "Top Tier Painters of Houston",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://toptierhouston.com/richmond",
+    "domain": "toptierhouston.com",
+    "reviews_count": 6,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Painting",
+      "verified_email": "info@toptierhouston.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Painting at Top Tier Painters of Houston (Houston, TX). Profile: Rank #44 on Google Maps (6 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:31:51.600473+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625514-5",
+    "estimated_rank": 52,
+    "business_name": "Brady Painting Contractors",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.bradypaint.com",
+    "domain": "bradypaint.com",
+    "reviews_count": 3,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Ted",
+      "verified_email": "ted@bradypaint.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Ted at Brady Painting Contractors (Houston, TX). Profile: Rank #52 on Google Maps (3 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:31:54.796537+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625525-7",
+    "estimated_rank": 59,
+    "business_name": "Houston Texas Painters of Katy",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://houstontexaspainters.com",
+    "domain": "houstontexaspainters.com",
+    "reviews_count": 24,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "support@houstontexaspainters.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Texas Painters of Katy (Houston, TX). Profile: Rank #59 on Google Maps (24 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:32:05.401773+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625529-8",
+    "estimated_rank": 60,
+    "business_name": "Grace Painting & Remodeling LLC",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://gracepaintingremodeling.com",
+    "domain": "gracepaintingremodeling.com",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "go@gracepaintingremodeling.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Grace Painting & Remodeling LLC (Houston, TX). Profile: Rank #60 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:32:09.937220+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625615-1",
+    "estimated_rank": 51,
+    "business_name": "713 Plumbers & Drain Services of Houston",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://713plumbingsolutions.com",
+    "domain": "713plumbingsolutions.com",
+    "reviews_count": 21,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at 713 Plumbers & Drain Services of Houston (Houston, TX). Profile: Rank #51 on Google Maps (21 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:33:35.991592+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625622-2",
+    "estimated_rank": 56,
+    "business_name": "Repipe Plumbing Sewer & Drain Services",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://repipeplumbingservices.com",
+    "domain": "repipeplumbingservices.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Repipe Plumbing Sewer & Drain Services (Houston, TX). Profile: Rank #56 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:33:42.631901+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625623-3",
+    "estimated_rank": 59,
+    "business_name": "Hydro Jetting and Drains Houston",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://txhydrojetting.com",
+    "domain": "txhydrojetting.com",
+    "reviews_count": 21,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Leading",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Leading at Hydro Jetting and Drains Houston (Houston, TX). Profile: Rank #59 on Google Maps (21 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:33:43.262245+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625638-2",
+    "estimated_rank": 24,
+    "business_name": "Gonzo Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.gonzofoundationrepairs.com",
+    "domain": "gonzofoundationrepairs.com",
+    "reviews_count": 20,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Generation",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Generation at Gonzo Foundation Repair (Houston, TX). Profile: Rank #24 on Google Maps (20 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:33:58.906025+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625648-9",
+    "estimated_rank": 55,
+    "business_name": "PR Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://prfoundationrepair.com",
+    "domain": "prfoundationrepair.com",
+    "reviews_count": 9,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at PR Foundation Repair (Houston, TX). Profile: Rank #55 on Google Maps (9 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:34:08.068529+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625660-1",
+    "estimated_rank": 23,
+    "business_name": "Mr Tree Man",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.mrtreeman.ca",
+    "domain": "mrtreeman.ca",
+    "reviews_count": 26,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@mrtreeman.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mr Tree Man (Toronto, ON). Profile: Rank #23 on Google Maps (26 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:34:20.753451+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625661-2",
+    "estimated_rank": 40,
+    "business_name": "All Seasons Tree Service",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://allseasonstreeservice.ca",
+    "domain": "allseasonstreeservice.ca",
+    "reviews_count": 24,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "For Tree",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: For Tree at All Seasons Tree Service (Toronto, ON). Profile: Rank #40 on Google Maps (24 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:34:21.991117+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625677-1",
+    "estimated_rank": 25,
+    "business_name": "Prestige Epoxy & Coatings Ltd.",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.prestigepaintinggta.ca/commercial-services/epoxy-floors",
+    "domain": "prestigepaintinggta.ca",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@prestigepaintinggta.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Prestige Epoxy & Coatings Ltd. (Toronto, ON). Profile: Rank #25 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:34:37.944799+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625678-2",
+    "estimated_rank": 27,
+    "business_name": "DiamondShield Epoxy Floors Markham",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://diamondshieldepoxy.site",
+    "domain": "diamondshieldepoxy.site",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@diamondshieldepoxy.site",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at DiamondShield Epoxy Floors Markham (Toronto, ON). Profile: Rank #27 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:34:38.818881+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625679-3",
+    "estimated_rank": 34,
+    "business_name": "Akaal Coatings (Epoxy&Concrete)",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.akaalcoatings.ca",
+    "domain": "akaalcoatings.ca",
+    "reviews_count": 20,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Why Property",
+      "verified_email": "info@akaalcoatings.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Why Property at Akaal Coatings (Epoxy&Concrete) (Toronto, ON). Profile: Rank #34 on Google Maps (20 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:34:39.950072+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625681-4",
+    "estimated_rank": 38,
+    "business_name": "ProLayer Coatings Inc. | Epoxy Flooring Mississauga",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://prolayercoatings.ca",
+    "domain": "prolayercoatings.ca",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at ProLayer Coatings Inc. | Epoxy Flooring Mississauga (Toronto, ON). Profile: Rank #38 on Google Maps (21 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:34:41.295025+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625683-5",
+    "estimated_rank": 39,
+    "business_name": "Eposhield Epoxy Flooring",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.eposhield.com",
+    "domain": "eposhield.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@eposhield.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Eposhield Epoxy Flooring (Toronto, ON). Profile: Rank #39 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:34:43.494096+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625684-6",
+    "estimated_rank": 40,
+    "business_name": "Monarch Epoxy Coatings",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://monarchepoxycoatings.ca",
+    "domain": "monarchepoxycoatings.ca",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Monarch Epoxy Coatings (Toronto, ON). Profile: Rank #40 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:34:44.727123+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625686-7",
+    "estimated_rank": 45,
+    "business_name": "Peel Epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://peelepoxy.com",
+    "domain": "peelepoxy.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business at Peel Epoxy (Toronto, ON). Profile: Rank #45 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:34:46.086045+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625687-8",
+    "estimated_rank": 47,
+    "business_name": "Fresh floor epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.freshfloorepoxy.com",
+    "domain": "freshfloorepoxy.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Fresh floor epoxy (Toronto, ON). Profile: Rank #47 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:34:47.217670+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625700-1",
+    "estimated_rank": 30,
+    "business_name": "Mobile Car Detailing - The Finishing Touch",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://cardetailingtoronto.site/mobile-car-detailing-the-finishing-touch",
+    "domain": "cardetailingtoronto.site",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mobile Car Detailing - The Finishing Touch (Toronto, ON). Profile: Rank #30 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:35:00.554273+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625704-2",
+    "estimated_rank": 47,
+    "business_name": "Ali Mobile Car Detailing",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://frdetailing.ca",
+    "domain": "frdetailing.ca",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@frdetailing.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ali Mobile Car Detailing (Toronto, ON). Profile: Rank #47 on Google Maps (9 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:35:04.800910+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625730-1",
+    "estimated_rank": 21,
+    "business_name": "Solar Provider Group",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://solarprovidergroup.com",
+    "domain": "solarprovidergroup.com",
+    "reviews_count": 9,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Sebastian Seyfarth",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Sebastian Seyfarth at Solar Provider Group (Toronto, ON). Profile: Rank #21 on Google Maps (9 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:35:30.050454+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625734-2",
+    "estimated_rank": 26,
+    "business_name": "Invictus Solar Corp.",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://invictussolar.ca",
+    "domain": "invictussolar.ca",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Invictus Solar Corp. (Toronto, ON). Profile: Rank #26 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:35:34.576176+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625734-3",
+    "estimated_rank": 27,
+    "business_name": "Boreal Solar Inc",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.borealsolar.com",
+    "domain": "borealsolar.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@borealsolar.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Boreal Solar Inc (Toronto, ON). Profile: Rank #27 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:35:34.894871+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625735-4",
+    "estimated_rank": 29,
+    "business_name": "Zeno Renewables - Mississauga",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.livezeno.com/locations/solar-panels-mississauga",
+    "domain": "livezeno.com",
+    "reviews_count": 15,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@livezeno.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Zeno Renewables - Mississauga (Toronto, ON). Profile: Rank #29 on Google Maps (15 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:35:35.929696+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625737-5",
+    "estimated_rank": 30,
+    "business_name": "Solar X - Oakville",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.solar-x.ca/solar-calculator",
+    "domain": "solar-x.ca",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@solar-x.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Solar X - Oakville (Toronto, ON). Profile: Rank #30 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:35:37.430188+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625739-6",
+    "estimated_rank": 31,
+    "business_name": "SkyPower",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.skypower.com",
+    "domain": "skypower.com",
+    "reviews_count": 4,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "President",
+      "verified_email": "info@skypower.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: President at SkyPower (Toronto, ON). Profile: Rank #31 on Google Maps (4 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:35:39.194167+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625742-7",
+    "estimated_rank": 36,
+    "business_name": "Green Target Solar",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://greentargetsolar.ca",
+    "domain": "greentargetsolar.ca",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@greentargetsolar.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Green Target Solar (Toronto, ON). Profile: Rank #36 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:35:42.091359+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625751-8",
+    "estimated_rank": 38,
+    "business_name": "Solar Direct Canada",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://solardirectcanada.com",
+    "domain": "solardirectcanada.com",
+    "reviews_count": 13,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@solardirectcanada.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Solar Direct Canada (Toronto, ON). Profile: Rank #38 on Google Maps (13 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:35:51.314811+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625752-9",
+    "estimated_rank": 39,
+    "business_name": "Microgreen Solar Corporation",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://microgreen.ca",
+    "domain": "microgreen.ca",
+    "reviews_count": 19,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Davy Hung",
+      "verified_email": "info@microgreen.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Davy Hung at Microgreen Solar Corporation (Toronto, ON). Profile: Rank #39 on Google Maps (19 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:35:52.466503+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625754-10",
+    "estimated_rank": 45,
+    "business_name": "ArtIn Energy - Toronto",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://artinenergy.com",
+    "domain": "artinenergy.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at ArtIn Energy - Toronto (Toronto, ON). Profile: Rank #45 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:35:54.376707+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625755-11",
+    "estimated_rank": 47,
+    "business_name": "Heliotechnik Inc. Solar",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://heliotechnik.com",
+    "domain": "heliotechnik.com",
+    "reviews_count": 16,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@heliotechnik.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Heliotechnik Inc. Solar (Toronto, ON). Profile: Rank #47 on Google Maps (16 reviews, 4.1★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:35:55.945751+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625759-12",
+    "estimated_rank": 52,
+    "business_name": "Impact Energy Services Inc.",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.impactenergy.ca",
+    "domain": "impactenergy.ca",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@impactenergy.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Impact Energy Services Inc. (Toronto, ON). Profile: Rank #52 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:35:59.878087+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625760-13",
+    "estimated_rank": 53,
+    "business_name": "Diamond Renewable Energy",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.diamondrenewable.com",
+    "domain": "diamondrenewable.com",
+    "reviews_count": 23,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Diamond Renewable Energy (Toronto, ON). Profile: Rank #53 on Google Maps (23 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:36:00.957144+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625765-14",
+    "estimated_rank": 56,
+    "business_name": "Kinetic Solar Racking and Mounting",
+    "category": "Solar Panel Installation",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.kineticsolar.com",
+    "domain": "kineticsolar.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@kineticsolar.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Kinetic Solar Racking and Mounting (Toronto, ON). Profile: Rank #56 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:36:05.110431+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625792-1",
+    "estimated_rank": 25,
+    "business_name": "GTA Restoration Corp.",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://gtarestoration.ca",
+    "domain": "gtarestoration.ca",
+    "reviews_count": 26,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business at GTA Restoration Corp. (Toronto, ON). Profile: Rank #25 on Google Maps (26 reviews, 3.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:36:32.394655+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625794-2",
+    "estimated_rank": 27,
+    "business_name": "NorthTrust Restoration",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://northtrust.ca",
+    "domain": "northtrust.ca",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@northtrust.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at NorthTrust Restoration (Toronto, ON). Profile: Rank #27 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:36:34.474829+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625796-3",
+    "estimated_rank": 31,
+    "business_name": "Water Damage Etobicoke",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://waterdamageetobicoke.ca",
+    "domain": "waterdamageetobicoke.ca",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Water Damage Etobicoke (Toronto, ON). Profile: Rank #31 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:36:36.824668+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625798-4",
+    "estimated_rank": 32,
+    "business_name": "Water Damage Richmond Hill",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://waterdamagerichmondhill.com",
+    "domain": "waterdamagerichmondhill.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Water Damage Richmond Hill (Toronto, ON). Profile: Rank #32 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:36:38.930159+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625799-5",
+    "estimated_rank": 34,
+    "business_name": "416 ​​Restoration Water Damage Toronto Mold Removal",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://416restoration.com",
+    "domain": "416restoration.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Expert Plumbers",
+      "verified_email": "support@416restoration.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Expert Plumbers at 416 ​​Restoration Water Damage Toronto Mold Removal (Toronto, ON). Profile: Rank #34 on Google Maps (15 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:36:39.414373+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625803-6",
+    "estimated_rank": 37,
+    "business_name": "Toronto Restoration",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.torontorestoration.ca",
+    "domain": "torontorestoration.ca",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Toronto Restoration (Toronto, ON). Profile: Rank #37 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:36:43.232214+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625821-7",
+    "estimated_rank": 43,
+    "business_name": "MoldCare",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.moldcare.com",
+    "domain": "moldcare.com",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Renter Property",
+      "verified_email": "info@moldcare.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Renter Property at MoldCare (Toronto, ON). Profile: Rank #43 on Google Maps (14 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:37:01.002553+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625822-8",
+    "estimated_rank": 44,
+    "business_name": "Floods 4 Less | Water Damage Restoration Toronto",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://floods4less.ca",
+    "domain": "floods4less.ca",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Floods 4 Less | Water Damage Restoration Toronto (Toronto, ON). Profile: Rank #44 on Google Maps (6 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:37:02.279662+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625832-9",
+    "estimated_rank": 45,
+    "business_name": "Mold.ca",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://mold.ca",
+    "domain": "mold.ca",
+    "reviews_count": 16,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@mold.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mold.ca (Toronto, ON). Profile: Rank #45 on Google Maps (16 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:37:12.415320+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625832-10",
+    "estimated_rank": 50,
+    "business_name": "Mold Stars by Renevate",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.moldstars.com",
+    "domain": "moldstars.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Had",
+      "verified_email": "info@moldstars.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Had at Mold Stars by Renevate (Toronto, ON). Profile: Rank #50 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:37:12.860588+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625833-11",
+    "estimated_rank": 51,
+    "business_name": "Water Damage Toronto Mold Removal Inc.",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.water-damage-restoration-toronto-mold-removal.com",
+    "domain": "water-damage-restoration-toronto-mold-removal.com",
+    "reviews_count": 3,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Water Damage Toronto Mold Removal Inc. (Toronto, ON). Profile: Rank #51 on Google Maps (3 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:37:13.823913+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625834-12",
+    "estimated_rank": 56,
+    "business_name": "Revive Pro Restoration",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.restorationrevivepro.com",
+    "domain": "restorationrevivepro.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Revive Pro",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Revive Pro at Revive Pro Restoration (Toronto, ON). Profile: Rank #56 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:37:14.377480+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625835-13",
+    "estimated_rank": 58,
+    "business_name": "MOLD REMOVAL TORONTO LTD",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.mouldexpertstoronto.com",
+    "domain": "mouldexpertstoronto.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at MOLD REMOVAL TORONTO LTD (Toronto, ON). Profile: Rank #58 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:37:15.206948+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625851-1",
+    "estimated_rank": 35,
+    "business_name": "KAR Reno Bathroom Remodeling",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://karreno.ca/bathroom-renovation-toronto",
+    "domain": "karreno.ca",
+    "reviews_count": 19,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@karreno.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at KAR Reno Bathroom Remodeling (Toronto, ON). Profile: Rank #35 on Google Maps (19 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:37:31.702236+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625860-2",
+    "estimated_rank": 39,
+    "business_name": "Bath & Build Contracting",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.renoandrepairs.ca",
+    "domain": "renoandrepairs.ca",
+    "reviews_count": 17,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Bath & Build Contracting (Toronto, ON). Profile: Rank #39 on Google Maps (17 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:37:40.003071+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625871-3",
+    "estimated_rank": 55,
+    "business_name": "Elite Renovations Group | Home Remodeling GTA",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.elitereno.ca",
+    "domain": "elitereno.ca",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@elitereno.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Elite Renovations Group | Home Remodeling GTA (Toronto, ON). Profile: Rank #55 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:37:51.620807+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625882-4",
+    "estimated_rank": 60,
+    "business_name": "Bestway Home Renovation",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.bestwayhomerenovations.com",
+    "domain": "bestwayhomerenovations.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@bestwayhomerenovations.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Bestway Home Renovation (Toronto, ON). Profile: Rank #60 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:38:02.464419+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625894-1",
+    "estimated_rank": 26,
+    "business_name": "Home Trade Standards - Condo Heat Pump Specialists",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.hometradestandards.com/installation-areas/downtown-toronto",
+    "domain": "hometradestandards.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Specialist Condo",
+      "verified_email": "service@hometradestandards.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Specialist Condo at Home Trade Standards - Condo Heat Pump Specialists (Toronto, ON). Profile: Rank #26 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:38:14.558133+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625896-2",
+    "estimated_rank": 30,
+    "business_name": "Sameday Heating & Cooling",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.samedayheatcool.com",
+    "domain": "samedayheatcool.com",
+    "reviews_count": 25,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sameday Heating & Cooling (Toronto, ON). Profile: Rank #30 on Google Maps (25 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:38:16.738537+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625903-3",
+    "estimated_rank": 35,
+    "business_name": "Cold Fuel Toronto",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://coldfuel.ca",
+    "domain": "coldfuel.ca",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@coldfuel.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Cold Fuel Toronto (Toronto, ON). Profile: Rank #35 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:38:23.756141+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625908-4",
+    "estimated_rank": 40,
+    "business_name": "Toronto HVAC solutions",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://torontohvacsolutions.ca",
+    "domain": "torontohvacsolutions.ca",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Toronto HVAC solutions (Toronto, ON). Profile: Rank #40 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:38:28.868747+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625910-5",
+    "estimated_rank": 45,
+    "business_name": "Superior HVAC Service",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://superiorhvacservice.ca/north-york",
+    "domain": "superiorhvacservice.ca",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@superiorhvacservice.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Superior HVAC Service (Toronto, ON). Profile: Rank #45 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:38:30.865129+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625925-1",
+    "estimated_rank": 33,
+    "business_name": "MNV Auto Detailing Liberty Village",
+    "category": "Paint Protection Film PPF",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://mnvautodetailing.com/car-detailing-toronto",
+    "domain": "mnvautodetailing.com",
+    "reviews_count": 14,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Operated Since",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Operated Since at MNV Auto Detailing Liberty Village (Toronto, ON). Profile: Rank #33 on Google Maps (14 reviews, 4.1★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:38:45.311300+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625926-2",
+    "estimated_rank": 39,
+    "business_name": "Pristine Car Wraps - Richmond Hill",
+    "category": "Paint Protection Film PPF",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://pristinecarwraps.site",
+    "domain": "pristinecarwraps.site",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@pristinecarwraps.site",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pristine Car Wraps - Richmond Hill (Toronto, ON). Profile: Rank #39 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:38:46.576205+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625939-1",
+    "estimated_rank": 21,
+    "business_name": "Focus Cleaning",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://focuscleaning.ca",
+    "domain": "focuscleaning.ca",
+    "reviews_count": 27,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Boston Pizza",
+      "verified_email": "sales@focuscleaning.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Boston Pizza at Focus Cleaning (Toronto, ON). Profile: Rank #21 on Google Maps (27 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:38:59.473568+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625940-2",
+    "estimated_rank": 25,
+    "business_name": "Corporate Specialty Services Inc",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.corpspec.ca",
+    "domain": "corpspec.ca",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@corpspec.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Corporate Specialty Services Inc (Toronto, ON). Profile: Rank #25 on Google Maps (24 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:39:00.179388+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625955-4",
+    "estimated_rank": 32,
+    "business_name": "AOne Cleaning Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.aonecleaningservices.ca",
+    "domain": "aonecleaningservices.ca",
+    "reviews_count": 6,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at AOne Cleaning Services (Toronto, ON). Profile: Rank #32 on Google Maps (6 reviews, 4.7★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:39:15.905260+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625958-5",
+    "estimated_rank": 35,
+    "business_name": "BrightSide Commercial Cleaning Toronto",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.torontocommercialcleaningca.com",
+    "domain": "torontocommercialcleaningca.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@torontocommercialcleaningca.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at BrightSide Commercial Cleaning Toronto (Toronto, ON). Profile: Rank #35 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:39:18.844224+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625962-6",
+    "estimated_rank": 43,
+    "business_name": "Reliable Office Cleaners Corporation",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://reliableofficecleaners.com",
+    "domain": "reliableofficecleaners.com",
+    "reviews_count": 17,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@reliableofficecleaners.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Reliable Office Cleaners Corporation (Toronto, ON). Profile: Rank #43 on Google Maps (17 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:39:22.150357+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625967-7",
+    "estimated_rank": 47,
+    "business_name": "Elite Cleaning Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://elitecleaningservices.ca",
+    "domain": "elitecleaningservices.ca",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@elitecleaningservices.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Elite Cleaning Services (Toronto, ON). Profile: Rank #47 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:39:27.319515+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625969-8",
+    "estimated_rank": 50,
+    "business_name": "Drip N Dry Janitorial",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://dripndryjanitorialservices.ca",
+    "domain": "dripndryjanitorialservices.ca",
+    "reviews_count": 10,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@dripndryjanitorialservices.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Drip N Dry Janitorial (Toronto, ON). Profile: Rank #50 on Google Maps (10 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:39:29.222286+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625971-9",
+    "estimated_rank": 51,
+    "business_name": "Marathon Cleaning Corp.",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.marathoncleaning.ca",
+    "domain": "marathoncleaning.ca",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@marathoncleaning.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Marathon Cleaning Corp. (Toronto, ON). Profile: Rank #51 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:39:31.833022+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625985-1",
+    "estimated_rank": 21,
+    "business_name": "Day Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://daycustomhomes.ca",
+    "domain": "daycustomhomes.ca",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Phone",
+      "verified_email": "info@daycustomhomes.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Phone at Day Custom Homes (Toronto, ON). Profile: Rank #21 on Google Maps (25 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:39:45.727500+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625988-2",
+    "estimated_rank": 22,
+    "business_name": "Elviano Design-Build",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.elviano.com",
+    "domain": "elviano.com",
+    "reviews_count": 26,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Projects",
+      "verified_email": "projects@elviano.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Projects at Elviano Design-Build (Toronto, ON). Profile: Rank #22 on Google Maps (26 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:39:48.486016+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625988-3",
+    "estimated_rank": 23,
+    "business_name": "Georgian Custom Homes Mississauga",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://georgiancustomhomes.ca",
+    "domain": "georgiancustomhomes.ca",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Designer",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Designer at Georgian Custom Homes Mississauga (Toronto, ON). Profile: Rank #23 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T23:39:48.880525+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792626009-4",
+    "estimated_rank": 24,
+    "business_name": "Ambassador Fine Custom Homes Inc.",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.ambassadorfinecustomhomesinc.com",
+    "domain": "ambassadorfinecustomhomesinc.com",
+    "reviews_count": 28,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ambassador Fine Custom Homes Inc. (Toronto, ON). Profile: Rank #24 on Google Maps (28 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:40:09.556818+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792626013-5",
+    "estimated_rank": 26,
+    "business_name": "SevernWoods Fine Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.severnwoods.com",
+    "domain": "severnwoods.com",
+    "reviews_count": 16,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@severnwoods.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at SevernWoods Fine Homes (Toronto, ON). Profile: Rank #26 on Google Maps (16 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T23:40:13.329378+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792626015-6",
+    "estimated_rank": 30,
+    "business_name": "Artreum Homes Inc.",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.artreum.ca",
+    "domain": "artreum.ca",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Suresh",
+      "verified_email": "suresh@artreum.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Suresh at Artreum Homes Inc. (Toronto, ON). Profile: Rank #30 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:40:15.495500+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792626017-7",
+    "estimated_rank": 33,
+    "business_name": "Lumara Homes - Custom Home Builders Toronto",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://lumarahomes.com",
+    "domain": "lumarahomes.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Rui Pedro",
+      "verified_email": "info@lumarahomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Rui Pedro at Lumara Homes - Custom Home Builders Toronto (Toronto, ON). Profile: Rank #33 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:40:17.046106+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792626018-8",
+    "estimated_rank": 37,
+    "business_name": "Tishler Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.tishlerhomes.com",
+    "domain": "tishlerhomes.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tishler Custom Homes (Toronto, ON). Profile: Rank #37 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:40:18.158925+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792626039-9",
+    "estimated_rank": 44,
+    "business_name": "Rose Gold Homes & Design",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.rosegoldhomes.net",
+    "domain": "rosegoldhomes.net",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Michael",
+      "verified_email": "michael@rosegoldhomes.net",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Michael at Rose Gold Homes & Design (Toronto, ON). Profile: Rank #44 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T23:40:39.478250+00:00"
   }
 ]
