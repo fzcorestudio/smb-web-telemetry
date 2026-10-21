@@ -1,0 +1,282 @@
+[
+  {
+    "lead_id": "FZ-US-1792611667-1",
+    "estimated_rank": 29,
+    "business_name": "Rooftop Solar",
+    "category": "Solar Panel Installation",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://rooftopsolar.us/phoenix-solar-installation",
+    "domain": "rooftopsolar.us",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Energized",
+      "verified_email": "energized@rooftopsolar.us",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Energized at Rooftop Solar (Scottsdale, AZ). Profile: Rank #29 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T19:41:07.542483+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611670-2",
+    "estimated_rank": 35,
+    "business_name": "Advanced Energy Systems",
+    "category": "Solar Panel Installation",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://www.solar-aes.com",
+    "domain": "solar-aes.com",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@solar-aes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Advanced Energy Systems (Scottsdale, AZ). Profile: Rank #35 on Google Maps (8 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T19:41:10.912916+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611674-3",
+    "estimated_rank": 36,
+    "business_name": "Phoenix Solar Panel Systems LLC",
+    "category": "Solar Panel Installation",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://www.phoenixsolarpanelsystems.com",
+    "domain": "phoenixsolarpanelsystems.com",
+    "reviews_count": 23,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Phoenix Solar Panel Systems LLC (Scottsdale, AZ). Profile: Rank #36 on Google Maps (23 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T19:41:14.995848+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611676-4",
+    "estimated_rank": 37,
+    "business_name": "Arizona Solar Energy Industries Association (AriSEIA)",
+    "category": "Solar Panel Installation",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://www.ariseia.org",
+    "domain": "ariseia.org",
+    "reviews_count": 3,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Arizona Solar Energy Industries Association (AriSEIA) (Scottsdale, AZ). Profile: Rank #37 on Google Maps (3 reviews, 3.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T19:41:16.275299+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611684-5",
+    "estimated_rank": 40,
+    "business_name": "Depcom Power's HQ.",
+    "category": "Solar Panel Installation",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://depcompower.com",
+    "domain": "depcompower.com",
+    "reviews_count": 14,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Depcom Power's HQ. (Scottsdale, AZ). Profile: Rank #40 on Google Maps (14 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T19:41:24.691553+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611688-6",
+    "estimated_rank": 47,
+    "business_name": "NewGrid Off-Grid Power Systems",
+    "category": "Solar Panel Installation",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://newgridpower.com",
+    "domain": "newgridpower.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@newgridpower.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at NewGrid Off-Grid Power Systems (Scottsdale, AZ). Profile: Rank #47 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T19:41:28.703665+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611701-1",
+    "estimated_rank": 21,
+    "business_name": "Rule29",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://rule29.com",
+    "domain": "rule29.com",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Steven Heller",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Steven Heller at Rule29 (Scottsdale, AZ). Profile: Rank #21 on Google Maps (27 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T19:41:41.063047+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611701-2",
+    "estimated_rank": 22,
+    "business_name": "Avadium Design",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://www.avadiumdesign.com",
+    "domain": "avadiumdesign.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@avadiumdesign.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Avadium Design (Scottsdale, AZ). Profile: Rank #22 on Google Maps (11 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T19:41:41.800891+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611702-3",
+    "estimated_rank": 23,
+    "business_name": "Brand Savvy Designs",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://www.brandsavvydesigns.com",
+    "domain": "brandsavvydesigns.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Laura",
+      "verified_email": "laura.barnett@brandsavvydesigns.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Laura at Brand Savvy Designs (Scottsdale, AZ). Profile: Rank #23 on Google Maps (15 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T19:41:42.538793+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792611712-4",
+    "estimated_rank": 30,
+    "business_name": "Alamari Design & Printing Services Phoenix, AZ - Graphic Designer & Influencer Marketing",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://alamarimedia.com",
+    "domain": "alamarimedia.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Became Board",
+      "verified_email": "info@alamarimedia.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Became Board at Alamari Design & Printing Services Phoenix, AZ - Graphic Designer & Influencer Marketing (Scottsdale, AZ). Profile: Rank #30 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T19:41:52.424909+00:00"
+  }
+]
