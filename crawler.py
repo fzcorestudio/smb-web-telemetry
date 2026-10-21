@@ -249,9 +249,11 @@ def crawl_regional_telemetry(category, metro, min_rank=20, max_records_per_query
 
     return records
 
-def run_telemetry_harvest(target_count=100, output_file=None):
+def run_telemetry_harvest(max_duration_seconds=960, target_count=None, output_file=None):
+    start_time = time.time()
     print("=" * 75)
-    print(f"🚀 [MARKET TELEMETRY] Initializing Regional Scan (Target: {target_count})")
+    print(f"🚀 [MAXIMUM-THROTTLE HARVESTER] Continuous Time-Window Mode Active")
+    print(f"⏱️ Maximum Cycle Runtime: {max_duration_seconds // 60}m {max_duration_seconds % 60}s (No numeric lead cap)")
     print("=" * 75)
 
     if not output_file:
@@ -269,53 +271,78 @@ def run_telemetry_harvest(target_count=100, output_file=None):
                 if isinstance(prev_data, list):
                     all_harvested = prev_data
                     existing_domains = {l.get("domain") for l in all_harvested if l.get("domain")}
+                    print(f"ℹ️ Loaded {len(all_harvested)} baseline records from existing dataset.")
         except Exception:
             pass
 
-    niches = list(TARGET_NICHES)
-    random.shuffle(niches)
-    metros = list(TARGET_METROS)
-    random.shuffle(metros)
-
     new_count = 0
-    for metro in metros:
-        for niche in niches:
-            if new_count >= target_count:
-                break
+    cycle_round = 0
 
-            found = crawl_regional_telemetry(
-                category=niche,
-                metro=metro,
-                min_rank=20,
-                max_records_per_query=30
-            )
-
-            for item in found:
-                if item["domain"] not in existing_domains:
-                    all_harvested.append(item)
-                    existing_domains.add(item["domain"])
-                    new_count += 1
-                    print(f"📊 Progress: {new_count} / {target_count} records secured.")
-
-                if new_count >= target_count:
-                    break
-
-            # Incremental auto-save
-            output_file.parent.mkdir(parents=True, exist_ok=True)
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(all_harvested, f, indent=2, ensure_ascii=False)
-
-            time.sleep(random.uniform(1.5, 3.0))
-
-        if new_count >= target_count:
+    while True:
+        cycle_round += 1
+        elapsed = time.time() - start_time
+        if elapsed >= max_duration_seconds:
+            print(f"\n⏱️ Time window complete ({int(elapsed)}s elapsed). Closing cycle...")
             break
 
+        niches = list(TARGET_NICHES)
+        random.shuffle(niches)
+        metros = list(TARGET_METROS)
+        random.shuffle(metros)
+
+        print(f"\n🔄 --- Beginning Discovery Sweep #{cycle_round} ({len(metros)} Metros × {len(niches)} Niches) ---")
+
+        for metro in metros:
+            for niche in niches:
+                elapsed = time.time() - start_time
+                if elapsed >= max_duration_seconds:
+                    break
+
+                if target_count and new_count >= target_count:
+                    break
+
+                found = crawl_regional_telemetry(
+                    category=niche,
+                    metro=metro,
+                    min_rank=20,
+                    max_records_per_query=30
+                )
+
+                for item in found:
+                    if item["domain"] not in existing_domains:
+                        all_harvested.append(item)
+                        existing_domains.add(item["domain"])
+                        new_count += 1
+                        time_left = max(0, int(max_duration_seconds - (time.time() - start_time)))
+                        print(f"📊 Progress: {new_count} new leads secured | {len(all_harvested)} total | {time_left}s remaining in cycle.")
+
+                # Real-time incremental save
+                output_file.parent.mkdir(parents=True, exist_ok=True)
+                with open(output_file, "w", encoding="utf-8") as f:
+                    json.dump(all_harvested, f, indent=2, ensure_ascii=False)
+
+                if target_count and new_count >= target_count:
+                    break
+
+                time.sleep(random.uniform(1.5, 3.0))
+
+            if (time.time() - start_time) >= max_duration_seconds:
+                break
+            if target_count and new_count >= target_count:
+                break
+
+        if target_count and new_count >= target_count:
+            break
+
+    total_time = int(time.time() - start_time)
     print("\n" + "=" * 75)
-    print(f"🎉 Complete! Dataset count: {len(all_harvested)} ({new_count} new)")
-    print(f"📁 Saved to: {output_file}")
+    print(f"🎉 Cycle Complete in {total_time}s! Total in dataset: {len(all_harvested)} ({new_count} new this run)")
+    print(f"📁 Leads Saved to: {output_file}")
     print("=" * 75)
     return all_harvested
 
 if __name__ == "__main__":
-    count = int(sys.argv[1]) if len(sys.argv) > 1 else 50
-    run_telemetry_harvest(target_count=count)
+    duration = 960
+    if len(sys.argv) > 1 and sys.argv[1].isdigit():
+        duration = int(sys.argv[1]) * 60
+    run_telemetry_harvest(max_duration_seconds=duration)

@@ -40,27 +40,32 @@ def log_event(attempt, error_str, tb_str):
         f.write(tb_str)
         f.write("\n" + "=" * 70 + "\n")
 
-def execute_supervised_harvest(target_records=50, max_attempts=10):
+def execute_supervised_harvest(duration_seconds=960, max_attempts=15):
     print("=" * 75)
-    print("🛡️ [TELEMETRY SUPERVISOR] Initializing High-Availability Scanner")
-    print(f"🎯 Target Records: {target_records} | Max Recovery Cycles: {max_attempts}")
+    print("🛡️ [TELEMETRY SUPERVISOR] Initializing Continuous Max-Throttle Scanner")
+    print(f"⏱️ Allocated Run Duration: {duration_seconds // 60}m {duration_seconds % 60}s | Zero Lead Cap")
     print("=" * 75)
 
     from crawler import run_telemetry_harvest
 
+    start_time = time.time()
     current_attempt = 0
-    backoff = 5
+    backoff = 4
 
-    while current_attempt < max_attempts:
+    while (time.time() - start_time) < duration_seconds and current_attempt < max_attempts:
         try:
             current_attempt += 1
-            print(f"\n[Supervisor Session #{current_attempt}] Running crawler...")
-            harvested = run_telemetry_harvest(target_count=target_records)
+            remaining_time = int(duration_seconds - (time.time() - start_time))
+            if remaining_time <= 30:
+                print(f"\n⏱️ Cycle time expiring ({remaining_time}s remaining). Finishing cleanly.")
+                break
+
+            print(f"\n[Supervisor Session #{current_attempt}] Running continuous crawler ({remaining_time}s remaining in window)...")
+            harvested = run_telemetry_harvest(max_duration_seconds=remaining_time)
             
-            if len(harvested) >= target_records:
-                print(f"\n✅ [Supervisor] Target of {target_records} records fulfilled.")
-                return harvested
-            else:
+            # If crawler finished normally within time, we're done with the cycle
+            if (time.time() - start_time) >= duration_seconds - 30:
+                print("\n✅ [Supervisor] Full time-window exhausted with maximum leads yield.")
                 return harvested
 
         except KeyboardInterrupt:
@@ -74,10 +79,17 @@ def execute_supervised_harvest(target_records=50, max_attempts=10):
             cleanup_zombie_processes()
             log_event(current_attempt, err, tb)
             time.sleep(backoff)
-            backoff = min(backoff * 2, 60)
+            backoff = min(backoff * 2, 30)
 
+    print("\n🏁 [Supervisor] Max-throttle execution window concluded. Ready for git push.")
     return []
 
 if __name__ == "__main__":
-    count = int(sys.argv[1]) if len(sys.argv) > 1 else 50
-    execute_supervised_harvest(target_records=count)
+    duration = 960
+    args = sys.argv[1:]
+    for idx, arg in enumerate(args):
+        if arg in ["--duration-minutes", "-d"] and idx + 1 < len(args):
+            duration = int(args[idx + 1]) * 60
+        elif arg.isdigit():
+            duration = int(arg) * 60
+    execute_supervised_harvest(duration_seconds=duration)

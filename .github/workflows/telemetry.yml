@@ -2,15 +2,14 @@ name: Regional Web Performance & DOM Telemetry Indexer
 
 on:
   schedule:
-    # Runs continuously every 30 minutes throughout the night (12 AM - 12 PM PKT / 19:00 - 07:00 UTC)
-    - cron: '*/30 19-23 * * *'
-    - cron: '*/30 0-7 * * *'
+    # Universal POSIX Cron: Runs continuously every 20 minutes 24/7 (100% Free & Unlimited on Public Repo)
+    - cron: '*/20 * * * *'
   workflow_dispatch:
     inputs:
-      target_records:
-        description: 'Target records count'
+      duration_minutes:
+        description: 'Duration of continuous crawl in minutes'
         required: false
-        default: '150'
+        default: '16'
 
 concurrency:
   group: telemetry-index-run
@@ -42,11 +41,11 @@ jobs:
           pip install playwright dnspython beautifulsoup4 requests urllib3
           python -m playwright install --with-deps chromium
 
-      - name: 🚀 Run Autonomous Telemetry Supervisor
+      - name: 🚀 Run Maximum-Throttle Autonomous Supervisor (16 Minutes Continuous)
         run: |
-          COUNT="${{ github.event.inputs.target_records || 150 }}"
-          echo "Initiating supervised crawl for $COUNT records..."
-          python supervisor.py "$COUNT"
+          DURATION="${{ github.event.inputs.duration_minutes || 16 }}"
+          echo "Initiating uncapped continuous crawl for $DURATION minutes..."
+          python supervisor.py --duration-minutes "$DURATION"
 
       - name: 💾 Commit & Push Telemetry Data
         run: |
