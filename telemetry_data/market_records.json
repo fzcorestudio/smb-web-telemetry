@@ -9546,5 +9546,3253 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Westcoast Building Maintenance (Vancouver, BC). Profile: Rank #56 on Google Maps (8 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
     "harvested_at": "2026-10-21T21:12:01.524086+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618088-1",
+    "estimated_rank": 24,
+    "business_name": "Discount Fence USA - Houston",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://discountfenceusa.com",
+    "domain": "discountfenceusa.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Marketing",
+      "verified_email": "marketing@discountfenceusa.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Marketing at Discount Fence USA - Houston (Houston, TX). Profile: Rank #24 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:28:08.595314+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618089-2",
+    "estimated_rank": 25,
+    "business_name": "Architectural Fabricators",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.architecturalfabricators.com",
+    "domain": "architecturalfabricators.com",
+    "reviews_count": 17,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Why Property",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Why Property at Architectural Fabricators (Houston, TX). Profile: Rank #25 on Google Maps (17 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:28:09.674627+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618093-3",
+    "estimated_rank": 36,
+    "business_name": "Houston Gate Repair",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.houston-gaterepair.com",
+    "domain": "houston-gaterepair.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "service@houston-gaterepair.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Gate Repair (Houston, TX). Profile: Rank #36 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:28:13.260378+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618094-4",
+    "estimated_rank": 37,
+    "business_name": "All-Texas Fence Inc",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.alltexasfence.com",
+    "domain": "alltexasfence.com",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Alejandra",
+      "verified_email": "alejandra@alltexasfence.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Alejandra at All-Texas Fence Inc (Houston, TX). Profile: Rank #37 on Google Maps (14 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:28:14.650754+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618098-5",
+    "estimated_rank": 48,
+    "business_name": "Texas Fence & Iron Co.",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.texasfenceandiron.com",
+    "domain": "texasfenceandiron.com",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Houston Property",
+      "verified_email": "jobs@texasfenceandiron.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Houston Property at Texas Fence & Iron Co. (Houston, TX). Profile: Rank #48 on Google Maps (8 reviews, 4.5★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:28:18.241342+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618099-6",
+    "estimated_rank": 49,
+    "business_name": "Texas Access Solutions",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://linqapp.com/tyler_kelley",
+    "domain": "linqapp.com",
+    "reviews_count": 28,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Texas Access Solutions (Houston, TX). Profile: Rank #49 on Google Maps (28 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:28:19.028166+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618100-7",
+    "estimated_rank": 50,
+    "business_name": "Gates in Motion, Inc.",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://gatesinmotion.com",
+    "domain": "gatesinmotion.com",
+    "reviews_count": 26,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Gates in Motion, Inc. (Houston, TX). Profile: Rank #50 on Google Maps (26 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:28:20.002216+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618101-8",
+    "estimated_rank": 52,
+    "business_name": "Slater Gate & Fence",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.slaterenterprises.com",
+    "domain": "slaterenterprises.com",
+    "reviews_count": 13,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Slater Gate & Fence (Houston, TX). Profile: Rank #52 on Google Maps (13 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:28:21.302188+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618113-1",
+    "estimated_rank": 24,
+    "business_name": "TaxSpecular Services & Advisors LLC",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.taxspecularservices.com",
+    "domain": "taxspecularservices.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at TaxSpecular Services & Advisors LLC (Houston, TX). Profile: Rank #24 on Google Maps (6 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:28:33.501404+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618114-2",
+    "estimated_rank": 29,
+    "business_name": "Tax Wellness, LLC",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.tax-wellness.com",
+    "domain": "tax-wellness.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@tax-wellness.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tax Wellness, LLC (Houston, TX). Profile: Rank #29 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:28:34.392357+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618121-3",
+    "estimated_rank": 39,
+    "business_name": "LedgerWay",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://theledgerway.com/location/houston-cpa",
+    "domain": "theledgerway.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@theledgerway.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at LedgerWay (Houston, TX). Profile: Rank #39 on Google Maps (7 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:28:41.590473+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618160-1",
+    "estimated_rank": 34,
+    "business_name": "Veritas Mobile Car Detailing of Memorial",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://veritasdetailing.site/detailing/memorial",
+    "domain": "veritasdetailing.site",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Veritas Mobile Car Detailing of Memorial (Houston, TX). Profile: Rank #34 on Google Maps (11 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:29:20.643189+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618182-1",
+    "estimated_rank": 34,
+    "business_name": "Best Water Restoration",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.bestwaterrestorations.com",
+    "domain": "bestwaterrestorations.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@bestwaterrestorations.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Best Water Restoration (Houston, TX). Profile: Rank #34 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:29:42.189980+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618185-2",
+    "estimated_rank": 43,
+    "business_name": "EcoDry Water Damage Restoration Houston",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://ecodrywaterdamagerestorationhouston.com",
+    "domain": "ecodrywaterdamagerestorationhouston.com",
+    "reviews_count": 19,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at EcoDry Water Damage Restoration Houston (Houston, TX). Profile: Rank #43 on Google Maps (19 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:29:45.314664+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618197-1",
+    "estimated_rank": 24,
+    "business_name": "Adcetera",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.adcetera.com",
+    "domain": "adcetera.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Kristy Sexton",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Kristy Sexton at Adcetera (Houston, TX). Profile: Rank #24 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:29:57.919362+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618198-2",
+    "estimated_rank": 25,
+    "business_name": "713 Branding",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.713branding.com",
+    "domain": "713branding.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Sreti",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Sreti at 713 Branding (Houston, TX). Profile: Rank #25 on Google Maps (26 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:29:58.490863+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618204-3",
+    "estimated_rank": 29,
+    "business_name": "Troy Henry Design & Marketing | Website Design, Graphic Design, Printing | Small Businesses & Churches | Houston Texas",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://troyhenry.design",
+    "domain": "troyhenry.design",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hello@troyhenry.design",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Troy Henry Design & Marketing | Website Design, Graphic Design, Printing | Small Businesses & Churches | Houston Texas (Houston, TX). Profile: Rank #29 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:30:04.737222+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618206-4",
+    "estimated_rank": 31,
+    "business_name": "Mayabytes",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.mayabytes.com",
+    "domain": "mayabytes.com",
+    "reviews_count": 22,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Agency",
+      "verified_email": "agency@mayabytes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Agency at Mayabytes (Houston, TX). Profile: Rank #31 on Google Maps (22 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:30:06.645687+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618216-5",
+    "estimated_rank": 33,
+    "business_name": "Mpire Design Group",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.mpiredesigngroup.com",
+    "domain": "mpiredesigngroup.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@mpiredesigngroup.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mpire Design Group (Houston, TX). Profile: Rank #33 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:30:16.851786+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618219-6",
+    "estimated_rank": 35,
+    "business_name": "The PR Boutique - Houston",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.theprboutique.com",
+    "domain": "theprboutique.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Karen Henry",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Karen Henry at The PR Boutique - Houston (Houston, TX). Profile: Rank #35 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:30:19.591294+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618220-7",
+    "estimated_rank": 40,
+    "business_name": "Core Design Studio",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.coredesignstudio.com",
+    "domain": "coredesignstudio.com",
+    "reviews_count": 7,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Fiona Mc",
+      "verified_email": "info@coredesignstudio.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Fiona Mc at Core Design Studio (Houston, TX). Profile: Rank #40 on Google Maps (7 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:30:20.884519+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618223-8",
+    "estimated_rank": 41,
+    "business_name": "Raven Creative, LLC",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.rvncreative.com",
+    "domain": "rvncreative.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Paige",
+      "verified_email": "hello@rvncreative.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Paige at Raven Creative, LLC (Houston, TX). Profile: Rank #41 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:30:23.131344+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618229-9",
+    "estimated_rank": 43,
+    "business_name": "WEB BONAFIDE : Web Design Company | E-Commerce Website | Logo Design | SEO & Digital Marketing in Houston",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://webbonafide.com/houston-web-design-company",
+    "domain": "webbonafide.com",
+    "reviews_count": 18,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Michael",
+      "verified_email": "info@webbonafide.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Michael at WEB BONAFIDE : Web Design Company | E-Commerce Website | Logo Design | SEO & Digital Marketing in Houston (Houston, TX). Profile: Rank #43 on Google Maps (18 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:30:29.398202+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618244-1",
+    "estimated_rank": 30,
+    "business_name": "Houston Hair Nation",
+    "category": "Hair Restoration Clinic",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.vagaro.com/googlemap/U2FsdGVkX1-zP7CH8PFamRZKlRIQf5jPHZ0uj4JArgM=/services",
+    "domain": "vagaro.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Hair Nation (Houston, TX). Profile: Rank #30 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:30:44.228511+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618261-1",
+    "estimated_rank": 28,
+    "business_name": "Frank's Painting & Remodeling",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://frankspaintingandremodeling.com",
+    "domain": "frankspaintingandremodeling.com",
+    "reviews_count": 20,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Frank's Painting & Remodeling (Houston, TX). Profile: Rank #28 on Google Maps (20 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:31:01.052951+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618266-2",
+    "estimated_rank": 44,
+    "business_name": "Houston Painters Co",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://houstonpainters.co",
+    "domain": "houstonpainters.co",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Martinez Gracida",
+      "verified_email": "hello@houstonpainters.co",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Martinez Gracida at Houston Painters Co (Houston, TX). Profile: Rank #44 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:31:06.387299+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618266-3",
+    "estimated_rank": 45,
+    "business_name": "Painting by Marcia",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.paintingbymarcia.com",
+    "domain": "paintingbymarcia.com",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Painting by Marcia (Houston, TX). Profile: Rank #45 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:31:06.832694+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618280-1",
+    "estimated_rank": 29,
+    "business_name": "Luxury Details",
+    "category": "Paint Protection Film PPF",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.luxurydetails.com",
+    "domain": "luxurydetails.com",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@luxurydetails.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Luxury Details (Houston, TX). Profile: Rank #29 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:31:20.557362+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618281-2",
+    "estimated_rank": 40,
+    "business_name": "Invisishield",
+    "category": "Paint Protection Film PPF",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.invisishield.com",
+    "domain": "invisishield.com",
+    "reviews_count": 10,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Steve",
+      "verified_email": "steve@invisishield.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Steve at Invisishield (Houston, TX). Profile: Rank #40 on Google Maps (10 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:31:21.808976+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618287-3",
+    "estimated_rank": 46,
+    "business_name": "Endless Protective Solutions",
+    "category": "Paint Protection Film PPF",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.endlessprotectivesolutions.com",
+    "domain": "endlessprotectivesolutions.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Endless Protective Solutions (Houston, TX). Profile: Rank #46 on Google Maps (22 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:31:27.308377+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618320-1",
+    "estimated_rank": 21,
+    "business_name": "Houston Solar Energy",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.houstonsolarenergy.com",
+    "domain": "houstonsolarenergy.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Solar Energy (Houston, TX). Profile: Rank #21 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:32:00.017771+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618321-2",
+    "estimated_rank": 22,
+    "business_name": "Astrawatt Solar",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.astrawatt.com",
+    "domain": "astrawatt.com",
+    "reviews_count": 21,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@astrawatt.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Astrawatt Solar (Houston, TX). Profile: Rank #22 on Google Maps (21 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:32:01.424377+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618324-3",
+    "estimated_rank": 24,
+    "business_name": "Icarus Solar",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://icarussol.com",
+    "domain": "icarussol.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Proud New",
+      "verified_email": "info@icarussol.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Proud New at Icarus Solar (Houston, TX). Profile: Rank #24 on Google Maps (12 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:04.173531+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618324-4",
+    "estimated_rank": 27,
+    "business_name": "Texon Solar",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.texonsolar.com",
+    "domain": "texonsolar.com",
+    "reviews_count": 10,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Texon Solar (Houston, TX). Profile: Rank #27 on Google Maps (10 reviews, 4.2★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:32:04.794541+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618326-5",
+    "estimated_rank": 29,
+    "business_name": "Solar Sandhu Inc",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://solarsandhu.com",
+    "domain": "solarsandhu.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Solar Sandhu Inc (Houston, TX). Profile: Rank #29 on Google Maps (15 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:32:06.274429+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618327-6",
+    "estimated_rank": 33,
+    "business_name": "Texas Solar Farms - residential and off grid solar company",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://texasolarfarm.com/off-grid-solar-installer-texas",
+    "domain": "texasolarfarm.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Texas Solar Farms - residential and off grid solar company (Houston, TX). Profile: Rank #33 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:32:07.151409+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618329-7",
+    "estimated_rank": 42,
+    "business_name": "CreatumSolar",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://creatumsolar.com",
+    "domain": "creatumsolar.com",
+    "reviews_count": 11,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@creatumsolar.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at CreatumSolar (Houston, TX). Profile: Rank #42 on Google Maps (11 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:09.731461+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618331-8",
+    "estimated_rank": 43,
+    "business_name": "Elias Solar, Inc.",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.elias.solar",
+    "domain": "elias.solar",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Elias Gonzalez",
+      "verified_email": "info@elias.solar",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Elias Gonzalez at Elias Solar, Inc. (Houston, TX). Profile: Rank #43 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:32:11.625269+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618335-9",
+    "estimated_rank": 46,
+    "business_name": "SEG Solar",
+    "category": "Solar Panel Installation",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://segsolar.com",
+    "domain": "segsolar.com",
+    "reviews_count": 28,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at SEG Solar (Houston, TX). Profile: Rank #46 on Google Maps (28 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:15.346315+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618348-1",
+    "estimated_rank": 21,
+    "business_name": "Southland Homes of Texas",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.buildsouthland.com",
+    "domain": "buildsouthland.com",
+    "reviews_count": 13,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Southland Homes of Texas (Houston, TX). Profile: Rank #21 on Google Maps (13 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:32:28.244502+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618349-2",
+    "estimated_rank": 22,
+    "business_name": "CRV Homes, LLC.",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://crvhomes.com",
+    "domain": "crvhomes.com",
+    "reviews_count": 25,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@crvhomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at CRV Homes, LLC. (Houston, TX). Profile: Rank #22 on Google Maps (25 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:29.890894+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618352-3",
+    "estimated_rank": 23,
+    "business_name": "Iraj Taghi Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.irajtaghihomes.com",
+    "domain": "irajtaghihomes.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@irajtaghihomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Iraj Taghi Custom Homes (Houston, TX). Profile: Rank #23 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:32.925832+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618353-4",
+    "estimated_rank": 24,
+    "business_name": "CRAFTED Custom Homes + Renovations",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://craftedhome.com",
+    "domain": "craftedhome.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Featured Articles",
+      "verified_email": "info@craftedhome.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Featured Articles at CRAFTED Custom Homes + Renovations (Houston, TX). Profile: Rank #24 on Google Maps (24 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:32:33.454176+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618357-5",
+    "estimated_rank": 25,
+    "business_name": "Texas Fine Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://texasfinehomes.net",
+    "domain": "texasfinehomes.net",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "David Stone",
+      "verified_email": "ds@texasfinehomes.net",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: David Stone at Texas Fine Homes (Houston, TX). Profile: Rank #25 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:37.489269+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618359-6",
+    "estimated_rank": 27,
+    "business_name": "AVANT Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://avantcustomhomes.org",
+    "domain": "avantcustomhomes.org",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at AVANT Custom Homes (Houston, TX). Profile: Rank #27 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:32:39.999774+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618361-7",
+    "estimated_rank": 29,
+    "business_name": "Wood Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.woodcustomhomes.net",
+    "domain": "woodcustomhomes.net",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Philip Wood",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Philip Wood at Wood Custom Homes (Houston, TX). Profile: Rank #29 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:32:41.368329+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618362-8",
+    "estimated_rank": 31,
+    "business_name": "Northstone Builders",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.northstonebuilders.com",
+    "domain": "northstonebuilders.com",
+    "reviews_count": 16,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Jeff",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jeff at Northstone Builders (Houston, TX). Profile: Rank #31 on Google Maps (16 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:32:42.339000+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618375-9",
+    "estimated_rank": 32,
+    "business_name": "Richard Price Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://richardpricecustomhomes.com",
+    "domain": "richardpricecustomhomes.com",
+    "reviews_count": 10,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Richard Price Custom Homes (Houston, TX). Profile: Rank #32 on Google Maps (10 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:55.021514+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618375-10",
+    "estimated_rank": 33,
+    "business_name": "White Oak Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.whiteoakhomeshouston.com",
+    "domain": "whiteoakhomeshouston.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Doug",
+      "verified_email": "doug@whiteoakhomeshouston.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Doug at White Oak Homes (Houston, TX). Profile: Rank #33 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:55.534195+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618379-11",
+    "estimated_rank": 35,
+    "business_name": "Ava Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://avacustomhomes.com",
+    "domain": "avacustomhomes.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ava Custom Homes (Houston, TX). Profile: Rank #35 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:32:59.952840+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618381-12",
+    "estimated_rank": 38,
+    "business_name": "Modern Edge Builders",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.modernedgebuild.com",
+    "domain": "modernedgebuild.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Vendor",
+      "verified_email": "vendor@modernedgebuild.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Vendor at Modern Edge Builders (Houston, TX). Profile: Rank #38 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:33:01.150670+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618381-13",
+    "estimated_rank": 44,
+    "business_name": "Ashwood Designs & Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.ashwooddesigns.com",
+    "domain": "ashwooddesigns.com",
+    "reviews_count": 18,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Ashwood Designs",
+      "verified_email": "info@ashwooddesigns.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Ashwood Designs at Ashwood Designs & Custom Homes (Houston, TX). Profile: Rank #44 on Google Maps (18 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:33:01.677060+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618383-14",
+    "estimated_rank": 45,
+    "business_name": "Corbel Custom Homes Inc",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://corbelcustomhomes.com",
+    "domain": "corbelcustomhomes.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Corbel Custom Homes Inc (Houston, TX). Profile: Rank #45 on Google Maps (8 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:33:03.617500+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618384-15",
+    "estimated_rank": 46,
+    "business_name": "Zander Homes ️",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://zanderhomes.net",
+    "domain": "zanderhomes.net",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Everyone",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Everyone at Zander Homes ️ (Houston, TX). Profile: Rank #46 on Google Maps (13 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:33:04.599582+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618385-16",
+    "estimated_rank": 47,
+    "business_name": "Jamestown Estate Homes -- Oak Forest and Houston Heights",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://jamestownestatehomes.com/garden-oaks-and-oak-forest-homebuilder",
+    "domain": "jamestownestatehomes.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Dallas",
+      "verified_email": "dallas.chamberlain@jamestownestatehomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Dallas at Jamestown Estate Homes -- Oak Forest and Houston Heights (Houston, TX). Profile: Rank #47 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:33:05.049062+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618396-1",
+    "estimated_rank": 23,
+    "business_name": "Level Up Foundation Repair & House Leveling",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://leveluphouseleveling.com",
+    "domain": "leveluphouseleveling.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Level",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Level at Level Up Foundation Repair & House Leveling (Houston, TX). Profile: Rank #23 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:33:16.941550+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618401-2",
+    "estimated_rank": 31,
+    "business_name": "Sugar Land Foundation Repair Contractors",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.sugarlandfoundationrepaircontractors.com",
+    "domain": "sugarlandfoundationrepaircontractors.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Commercial Property",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Commercial Property at Sugar Land Foundation Repair Contractors (Houston, TX). Profile: Rank #31 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:33:21.044591+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618405-3",
+    "estimated_rank": 32,
+    "business_name": "Fer Foundation Repair LLC",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://ferfoundationrepairllc.com",
+    "domain": "ferfoundationrepairllc.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Fer Foundation Repair LLC (Houston, TX). Profile: Rank #32 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:33:25.166659+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618406-4",
+    "estimated_rank": 38,
+    "business_name": "Pyramid Waterproofing Co",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.pyramidwaterproofing.com",
+    "domain": "pyramidwaterproofing.com",
+    "reviews_count": 12,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@pyramidwaterproofing.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pyramid Waterproofing Co (Houston, TX). Profile: Rank #38 on Google Maps (12 reviews, 4.5★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:33:26.200073+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618409-5",
+    "estimated_rank": 43,
+    "business_name": "Pasadena Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://pasadenafoundationrepairpros.com",
+    "domain": "pasadenafoundationrepairpros.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pasadena Foundation Repair (Houston, TX). Profile: Rank #43 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:33:29.261473+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618412-6",
+    "estimated_rank": 44,
+    "business_name": "Hercules Foundation Repair and Remodeling",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://herculesfoundations.com/locations/foundation-repair-houston-tx",
+    "domain": "herculesfoundations.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hercules Foundation Repair and Remodeling (Houston, TX). Profile: Rank #44 on Google Maps (9 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:33:32.082456+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618450-1",
+    "estimated_rank": 39,
+    "business_name": "William Tree Services LLC",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.williamtreeandfence.com",
+    "domain": "williamtreeandfence.com",
+    "reviews_count": 22,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at William Tree Services LLC (Houston, TX). Profile: Rank #39 on Google Maps (22 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:34:10.150146+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618450-2",
+    "estimated_rank": 40,
+    "business_name": "Tommy's Tree Services",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.tommystrees.com",
+    "domain": "tommystrees.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Tommy",
+      "verified_email": "tommy@tommystrees.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Tommy at Tommy's Tree Services (Houston, TX). Profile: Rank #40 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:34:10.577485+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618454-3",
+    "estimated_rank": 44,
+    "business_name": "Ability Tree Experts.",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://abilitytrees.com",
+    "domain": "abilitytrees.com",
+    "reviews_count": 16,
+    "rating": 2.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ability Tree Experts. (Houston, TX). Profile: Rank #44 on Google Maps (16 reviews, 2.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:34:14.367683+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618456-4",
+    "estimated_rank": 47,
+    "business_name": "Adam's Trees Designs and Services",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.adamstreeservice.com",
+    "domain": "adamstreeservice.com",
+    "reviews_count": 20,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@adamstreeservice.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Adam's Trees Designs and Services (Houston, TX). Profile: Rank #47 on Google Maps (20 reviews, 4.2★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:34:16.857757+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618469-1",
+    "estimated_rank": 23,
+    "business_name": "J.B. Landscape Design, Inc.",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.jb-landscapedesign.com",
+    "domain": "jb-landscapedesign.com",
+    "reviews_count": 16,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at J.B. Landscape Design, Inc. (Houston, TX). Profile: Rank #23 on Google Maps (16 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:34:29.013453+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618470-2",
+    "estimated_rank": 24,
+    "business_name": "Brick Paver Repair Houston",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://brickpaverrepairhouston.com",
+    "domain": "brickpaverrepairhouston.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Brick Paver Repair Houston (Houston, TX). Profile: Rank #24 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:34:30.153395+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618473-3",
+    "estimated_rank": 28,
+    "business_name": "Exterior Worlds Landscape & Design",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.exteriorworlds.com",
+    "domain": "exteriorworlds.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Exterior Worlds Landscape & Design (Houston, TX). Profile: Rank #28 on Google Maps (24 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:34:33.882146+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618481-4",
+    "estimated_rank": 41,
+    "business_name": "Cajodi Construction",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://cajodiconstruction.com",
+    "domain": "cajodiconstruction.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@cajodiconstruction.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Cajodi Construction (Houston, TX). Profile: Rank #41 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:34:41.200114+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618493-1",
+    "estimated_rank": 25,
+    "business_name": "Immigration Support and Consulting, Inc",
+    "category": "Immigration & Visa Consultant",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.myimmigrationsupport.com",
+    "domain": "myimmigrationsupport.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Immigration Support and Consulting, Inc (Houston, TX). Profile: Rank #25 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:34:53.909443+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618496-2",
+    "estimated_rank": 29,
+    "business_name": "Immigration Lawyer Houston Cruz Gold & Associates LLC",
+    "category": "Immigration & Visa Consultant",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://cruzgoldlaw.com/immigration-lawyer-houston",
+    "domain": "cruzgoldlaw.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Immigration Lawyer Houston Cruz Gold & Associates LLC (Houston, TX). Profile: Rank #29 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:34:56.531406+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618514-1",
+    "estimated_rank": 23,
+    "business_name": "Premier Remodeling & Construction",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.premierremodel.com",
+    "domain": "premierremodel.com",
+    "reviews_count": 17,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Premier Remodeling & Construction (Houston, TX). Profile: Rank #23 on Google Maps (17 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:35:14.343975+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618517-2",
+    "estimated_rank": 28,
+    "business_name": "Liberty Kitchens and Baths",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://libertykbm.com/contact",
+    "domain": "libertykbm.com",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Jacob Beck",
+      "verified_email": "sales@libertykbm.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jacob Beck at Liberty Kitchens and Baths (Houston, TX). Profile: Rank #28 on Google Maps (8 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:35:17.792609+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618568-1",
+    "estimated_rank": 32,
+    "business_name": "Professional Janitorial Service of Houston",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.pjsofhouston.com",
+    "domain": "pjsofhouston.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Professional Janitorial Service of Houston (Houston, TX). Profile: Rank #32 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:36:08.320738+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618569-2",
+    "estimated_rank": 34,
+    "business_name": "Beltway Commercial Cleaning",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://beltwayclean.com",
+    "domain": "beltwayclean.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Beltway Commercial Cleaning (Houston, TX). Profile: Rank #34 on Google Maps (15 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:36:09.312194+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618573-3",
+    "estimated_rank": 36,
+    "business_name": "Corporate Clean LLC",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.corporatecleanusa.com",
+    "domain": "corporatecleanusa.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Corporate Clean LLC (Houston, TX). Profile: Rank #36 on Google Maps (24 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:36:13.578917+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618576-4",
+    "estimated_rank": 39,
+    "business_name": "Zion Janitorial Houston",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.zionjanitorial.com",
+    "domain": "zionjanitorial.com",
+    "reviews_count": 4,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Services",
+      "verified_email": "services@zionjanitorial.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Services at Zion Janitorial Houston (Houston, TX). Profile: Rank #39 on Google Maps (4 reviews, 4.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:36:16.193970+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618582-5",
+    "estimated_rank": 43,
+    "business_name": "CCS Facility Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://ccsbts.com/locations/houston",
+    "domain": "ccsbts.com",
+    "reviews_count": 3,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at CCS Facility Services (Houston, TX). Profile: Rank #43 on Google Maps (3 reviews, 3.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:36:22.114166+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618583-6",
+    "estimated_rank": 46,
+    "business_name": "C & S Janitorial Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.cnsjanitorial.com",
+    "domain": "cnsjanitorial.com",
+    "reviews_count": 14,
+    "rating": 3.1,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at C & S Janitorial Services (Houston, TX). Profile: Rank #46 on Google Maps (14 reviews, 3.1★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:36:23.714005+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618608-1",
+    "estimated_rank": 23,
+    "business_name": "Houston Pools & Spas",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.houstonpools.com",
+    "domain": "houstonpools.com",
+    "reviews_count": 24,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston Pools & Spas (Houston, TX). Profile: Rank #23 on Google Maps (24 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:36:48.154499+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618609-2",
+    "estimated_rank": 34,
+    "business_name": "Tipton Spires Design|Build",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.tiptonspiresdesign.com",
+    "domain": "tiptonspiresdesign.com",
+    "reviews_count": 14,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tipton Spires Design|Build (Houston, TX). Profile: Rank #34 on Google Maps (14 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:36:49.047380+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618609-3",
+    "estimated_rank": 35,
+    "business_name": "Magnolia Custom Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.magnoliacustompools.com",
+    "domain": "magnoliacustompools.com",
+    "reviews_count": 10,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@magnoliacustompools.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Magnolia Custom Pools (Houston, TX). Profile: Rank #35 on Google Maps (10 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:36:49.977432+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618610-4",
+    "estimated_rank": 36,
+    "business_name": "Downunda Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://downundapools.com",
+    "domain": "downundapools.com",
+    "reviews_count": 26,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Financing",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Financing at Downunda Pools (Houston, TX). Profile: Rank #36 on Google Maps (26 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:36:50.410586+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618610-5",
+    "estimated_rank": 37,
+    "business_name": "Astorga Outdoor Living",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://astorgaoutdoorliving.com",
+    "domain": "astorgaoutdoorliving.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Who",
+      "verified_email": "info@astorgaoutdoorliving.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Who at Astorga Outdoor Living (Houston, TX). Profile: Rank #37 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:36:50.943130+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618616-6",
+    "estimated_rank": 42,
+    "business_name": "Millennium Custom Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.millenniumcustompools.com",
+    "domain": "millenniumcustompools.com",
+    "reviews_count": 20,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Millennium Custom Pools (Houston, TX). Profile: Rank #42 on Google Maps (20 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:36:56.544311+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618629-1",
+    "estimated_rank": 22,
+    "business_name": "Commercial HVAC of Houston",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.commercialhvacofhouston.com",
+    "domain": "commercialhvacofhouston.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Connecting Property",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Connecting Property at Commercial HVAC of Houston (Houston, TX). Profile: Rank #22 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:37:09.224040+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618630-2",
+    "estimated_rank": 39,
+    "business_name": "Houston North Airconditioning",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.houstonnorth.com",
+    "domain": "houstonnorth.com",
+    "reviews_count": 20,
+    "rating": 3.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Houston North Airconditioning (Houston, TX). Profile: Rank #39 on Google Maps (20 reviews, 3.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:37:10.464302+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618631-3",
+    "estimated_rank": 48,
+    "business_name": "Texas Central Air",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.texascentralair.com",
+    "domain": "texascentralair.com",
+    "reviews_count": 16,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Texas Central Air (Houston, TX). Profile: Rank #48 on Google Maps (16 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:37:11.345786+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618669-1",
+    "estimated_rank": 22,
+    "business_name": "Epoxy Technology Coatings",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://epoxytechhouston.com",
+    "domain": "epoxytechhouston.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Epoxy Technology Coatings (Houston, TX). Profile: Rank #22 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:37:49.045370+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618670-2",
+    "estimated_rank": 46,
+    "business_name": "JP Master Epoxy Coatings",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://jpmasterepoxycoating.com",
+    "domain": "jpmasterepoxycoating.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@jpmasterepoxycoating.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at JP Master Epoxy Coatings (Houston, TX). Profile: Rank #46 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:37:50.294946+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618720-1",
+    "estimated_rank": 26,
+    "business_name": "Haven Fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://havenfencing.com.au",
+    "domain": "havenfencing.com.au",
+    "reviews_count": 20,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Haven Fencing (Melbourne, VIC). Profile: Rank #26 on Google Maps (20 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:38:40.520126+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618727-2",
+    "estimated_rank": 29,
+    "business_name": "SF Gates & Fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://www.sffencing.com.au",
+    "domain": "sffencing.com.au",
+    "reviews_count": 3,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at SF Gates & Fencing (Melbourne, VIC). Profile: Rank #29 on Google Maps (3 reviews, 4.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:38:47.579156+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618730-3",
+    "estimated_rank": 34,
+    "business_name": "R&M FENCING (VIC)",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://www.rmfencing.com.au",
+    "domain": "rmfencing.com.au",
+    "reviews_count": 27,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@rmfencing.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at R&M FENCING (VIC) (Melbourne, VIC). Profile: Rank #34 on Google Maps (27 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:38:50.661119+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618732-4",
+    "estimated_rank": 35,
+    "business_name": "hampton fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://hamptonfencing.com.au",
+    "domain": "hamptonfencing.com.au",
+    "reviews_count": 26,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at hampton fencing (Melbourne, VIC). Profile: Rank #35 on Google Maps (26 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:38:52.289252+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618738-5",
+    "estimated_rank": 36,
+    "business_name": "Waverley Outdoor - Fence Installations | Gates | Retaining Walls | Southeast Suburbs Melbourne",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://www.waverleyoutdoor.com.au",
+    "domain": "waverleyoutdoor.com.au",
+    "reviews_count": 28,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@waverleyoutdoor.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Waverley Outdoor - Fence Installations | Gates | Retaining Walls | Southeast Suburbs Melbourne (Melbourne, VIC). Profile: Rank #36 on Google Maps (28 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:38:58.356119+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618745-6",
+    "estimated_rank": 37,
+    "business_name": "Melvic Fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://melvicfencing.com.au",
+    "domain": "melvicfencing.com.au",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@melvicfencing.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Melvic Fencing (Melbourne, VIC). Profile: Rank #37 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:39:05.492651+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618746-7",
+    "estimated_rank": 41,
+    "business_name": "Australiana Gates & Fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://www.environmdesigns.com.au",
+    "domain": "environmdesigns.com.au",
+    "reviews_count": 14,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Traditional",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Traditional at Australiana Gates & Fencing (Melbourne, VIC). Profile: Rank #41 on Google Maps (14 reviews, 4.1★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:39:06.046885+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618748-8",
+    "estimated_rank": 43,
+    "business_name": "Oz Custom Fencing & Gate Supplies",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://ozcustomfencinggatesupplies.com.au",
+    "domain": "ozcustomfencinggatesupplies.com.au",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@ozcustomfencinggatesupplies.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Oz Custom Fencing & Gate Supplies (Melbourne, VIC). Profile: Rank #43 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:39:08.730639+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618749-9",
+    "estimated_rank": 44,
+    "business_name": "Sovereign Pickets Fencing and Gates",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://www.sovereignpickets.com.au",
+    "domain": "sovereignpickets.com.au",
+    "reviews_count": 14,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sovereign Pickets Fencing and Gates (Melbourne, VIC). Profile: Rank #44 on Google Maps (14 reviews, 4.1★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:39:09.971752+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618752-10",
+    "estimated_rank": 45,
+    "business_name": "Victorian Commercial Gates and Fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://www.viccommercialgates.com.au",
+    "domain": "viccommercialgates.com.au",
+    "reviews_count": 11,
+    "rating": 3.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Victorian Commercial Gates and Fencing (Melbourne, VIC). Profile: Rank #45 on Google Maps (11 reviews, 3.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:39:12.053954+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618755-11",
+    "estimated_rank": 47,
+    "business_name": "Adonai Steel Fabrication",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://adonaisteel.com",
+    "domain": "adonaisteel.com",
+    "reviews_count": 10,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Adonai Steel Fabrication (Melbourne, VIC). Profile: Rank #47 on Google Maps (10 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:39:15.683713+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618769-1",
+    "estimated_rank": 28,
+    "business_name": "RBizz Corporate Accountants (Melbourne)",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://www.rbizz.com.au",
+    "domain": "rbizz.com.au",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "What We",
+      "verified_email": "team@rbizz.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: What We at RBizz Corporate Accountants (Melbourne) (Melbourne, VIC). Profile: Rank #28 on Google Maps (25 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:39:29.021756+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618770-2",
+    "estimated_rank": 29,
+    "business_name": "Elevated Accounting - Business Accountants Melbourne",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://www.elevatedaccounting.com.au",
+    "domain": "elevatedaccounting.com.au",
+    "reviews_count": 28,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Australian Business",
+      "verified_email": "info@elevatedaccounting.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Australian Business at Elevated Accounting - Business Accountants Melbourne (Melbourne, VIC). Profile: Rank #29 on Google Maps (28 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:39:30.548549+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618771-3",
+    "estimated_rank": 32,
+    "business_name": "Liston Newton Advisory (Head Office)",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://www.listonnewton.com.au/south-melbourne",
+    "domain": "listonnewton.com.au",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Liston Newton Advisory (Head Office) (Melbourne, VIC). Profile: Rank #32 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:39:31.277041+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618771-4",
+    "estimated_rank": 36,
+    "business_name": "42 Advisory",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://42advisory.com.au",
+    "domain": "42advisory.com.au",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Australia",
+      "verified_email": "enquiry@42advisory.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Australia at 42 Advisory (Melbourne, VIC). Profile: Rank #36 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:39:31.980546+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618779-5",
+    "estimated_rank": 45,
+    "business_name": "TaxBright Accountants - Tax Accountant Melbourne",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://www.taxbright.com.au",
+    "domain": "taxbright.com.au",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "admin@taxbright.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at TaxBright Accountants - Tax Accountant Melbourne (Melbourne, VIC). Profile: Rank #45 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:39:39.274731+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618785-6",
+    "estimated_rank": 47,
+    "business_name": "Figure It Out Melbourne",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://www.figureitout.com.au",
+    "domain": "figureitout.com.au",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Treena",
+      "verified_email": "treena@figureitout.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Treena at Figure It Out Melbourne (Melbourne, VIC). Profile: Rank #47 on Google Maps (24 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:39:45.156001+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618788-7",
+    "estimated_rank": 48,
+    "business_name": "Star taxation",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://startaxation.com.au",
+    "domain": "startaxation.com.au",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business at Star taxation (Melbourne, VIC). Profile: Rank #48 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:39:48.607251+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618886-1",
+    "estimated_rank": 23,
+    "business_name": "Studio AD & CO. | Branding & Packaging Design Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://studio-ad.co",
+    "domain": "studio-ad.co",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Traditional",
+      "verified_email": "mail@studio-ad.co",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Traditional at Studio AD & CO. | Branding & Packaging Design Agency (Melbourne, VIC). Profile: Rank #23 on Google Maps (10 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:41:26.298158+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618975-1",
+    "estimated_rank": 39,
+    "business_name": "Melbourne pro painters and decorators pty ltd.",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://melbournepropainters.com.au",
+    "domain": "melbournepropainters.com.au",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Melbourne pro painters and decorators pty ltd. (Melbourne, VIC). Profile: Rank #39 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:42:55.035580+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618978-2",
+    "estimated_rank": 43,
+    "business_name": "Bayside Painting and Decorating",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://www.baysidepainting.com.au",
+    "domain": "baysidepainting.com.au",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Decorative Finishes",
+      "verified_email": "info@baysidepainting.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Decorative Finishes at Bayside Painting and Decorating (Melbourne, VIC). Profile: Rank #43 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:42:58.037478+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618980-3",
+    "estimated_rank": 45,
+    "business_name": "Rococo Services - Premium House Painters Melbourne",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://rococoservices.com",
+    "domain": "rococoservices.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Rococo Services - Premium House Painters Melbourne (Melbourne, VIC). Profile: Rank #45 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T21:43:00.224884+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792618995-2",
+    "estimated_rank": 37,
+    "business_name": "Vantra Wraps",
+    "category": "Paint Protection Film PPF",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://vantrawraps.com.au",
+    "domain": "vantrawraps.com.au",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Vantra Wraps (Melbourne, VIC). Profile: Rank #37 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:43:15.086368+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792619016-1",
+    "estimated_rank": 60,
+    "business_name": "Eclipse Tint",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://eclipsetint.com.au",
+    "domain": "eclipsetint.com.au",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Eclipse Tint (Melbourne, VIC). Profile: Rank #60 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:43:36.009792+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792619032-1",
+    "estimated_rank": 45,
+    "business_name": "Sunsational Solar",
+    "category": "Solar Panel Installation",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "http://sunsationalsolar.com.au",
+    "domain": "sunsationalsolar.com.au",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sunsational Solar (Melbourne, VIC). Profile: Rank #45 on Google Maps (17 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-21T21:43:52.439994+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792619033-2",
+    "estimated_rank": 46,
+    "business_name": "Sunbridge Energy Victoria",
+    "category": "Solar Panel Installation",
+    "city": "Melbourne",
+    "state": "VIC",
+    "country": "AU",
+    "website": "https://sunbridgeenergy.com.au",
+    "domain": "sunbridgeenergy.com.au",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "admin@sunbridgeenergy.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sunbridge Energy Victoria (Melbourne, VIC). Profile: Rank #46 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-21T21:43:53.240342+00:00"
   }
 ]
