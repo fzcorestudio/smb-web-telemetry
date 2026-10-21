@@ -52,7 +52,7 @@ jobs:
         run: |
           git config --global user.name "Telemetry Bot"
           git config --global user.email "bot@users.noreply.github.com"
-          git add telemetry_data/*.json telemetry_data/*.log || true
+          git add telemetry_data/
           if ! git diff --cached --quiet; then
             git commit -m "chore(telemetry): automated regional benchmark sync [skip ci]"
             for i in 1 2 3; do
