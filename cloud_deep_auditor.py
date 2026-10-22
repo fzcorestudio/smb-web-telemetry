@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-FZCORE STUDIO - Autonomous Cloud Deep Auditor (100 Leads / Cycle)
+FZCORE STUDIO - Autonomous Cloud Deep Forensic Auditor (100 Leads / Cycle)
 Runs on GitHub Actions to deeply inspect live websites via Playwright Chromium.
-- Dual-Viewport Evaluation (Desktop 1280x800 + Mobile iPhone 14 390x844).
+- 12-Dimension Client Money-Loss DOM Forensics (Desktop 1280x800 + Mobile iPhone 14 390x844).
 - Auto-Recycles Browser Every 25 Leads (Zero RAM accumulation / memory leaks).
-- Probes /about and /team for Direct Owner Names & 5-Tier Decision Maker inboxes.
+- Probes /about and /team for Direct Owner Names & 5-Tier Decision Maker Inboxes.
 - Eliminates Established / Modern / Dead Sites.
-- Calculates Revenue Bleed ($3k-$75k/mo) & Crafts 4-Sentence Pitches (0 EM-DASHES).
+- Calculates Concrete Revenue Bleed ($3k-$75k/mo) with Client Financial Justification.
+- Builds Structured AI Copywriter Context Dossier (ready for dedicated email engine).
+- Decoupled from Email Writing: Does NOT generate pitches.
 - Accumulates into persistent master dossier: telemetry_data/vetted_master_dossier.json.
 """
 
@@ -22,7 +24,10 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 if sys.platform == "win32":
-    sys.stdout.reconfigure(encoding="utf-8")
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "telemetry_data"
@@ -37,7 +42,8 @@ NICHE_JOB_VALUES = {
     "Boutique Branding & Design Agency": 4500, "Epoxy Flooring & Garage Coating": 3200,
     "Custom Pool & Spa Builder": 15000, "Kitchen & Bath Remodeling": 12000,
     "Foundation Repair & Waterproofing": 6500, "Commercial Janitorial & Cleaning": 2800,
-    "Custom Fencing & Automatic Gates": 4200, "Default": 3500
+    "Custom Fencing & Automatic Gates": 4200, "Solar Panel Installation": 15000,
+    "HVAC": 5500, "Plumbing": 850, "Electrician": 950, "Default": 3500
 }
 
 OWNER_TITLE_PATTERNS = [
@@ -49,17 +55,18 @@ OWNER_TITLE_PATTERNS = [
 GENERIC_ALIASES = {'info', 'contact', 'support', 'sales', 'hello', 'admin', 'office', 'help', 'team', 'service', 'inquiries'}
 EXECUTIVE_ALIASES = {'owner', 'founder', 'president', 'principal', 'ceo'}
 
-def clean_human_text(text):
-    t = text.replace("—", ", ").replace("--", ", ")
-    return re.sub(r'\s+', ' ', t).strip()
+PHONE_REGEX = re.compile(r'(?:\+?1[-.\s]?)?\(?([2-9][0-9]{2})\)?[-.\s]?([0-9]{3})[-.\s]?([0-9]{4})')
 
 def get_job_loss_estimate(category):
     for k, v in NICHE_JOB_VALUES.items():
         if k.lower() in category.lower():
-            monthly_loss = int(v * 1.5)
-            return f"${monthly_loss:,} – ${monthly_loss*2:,}/mo", v
-    monthly_loss = int(NICHE_JOB_VALUES["Default"] * 1.5)
-    return f"${monthly_loss:,} – ${monthly_loss*2:,}/mo", NICHE_JOB_VALUES["Default"]
+            monthly_loss_min = int(v * 1.0)
+            monthly_loss_max = int(v * 2.5)
+            return f"${monthly_loss_min:,} – ${monthly_loss_max:,}/mo", v
+    default_val = NICHE_JOB_VALUES["Default"]
+    monthly_loss_min = int(default_val * 1.0)
+    monthly_loss_max = int(default_val * 2.5)
+    return f"${monthly_loss_min:,} – ${monthly_loss_max:,}/mo", default_val
 
 def load_json_file(file_path, default_val):
     if not file_path.exists():
@@ -73,15 +80,16 @@ def load_json_file(file_path, default_val):
 def save_json_file(file_path, data):
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-def audit_single_site_deep(browser, lead, timeout_ms=8000):
+def audit_single_site_deep(browser, lead, timeout_ms=12000):
     url = lead.get("website", "")
     if not url.startswith("http"):
         url = "https://" + url
 
     b_name = lead.get("business_name", "Business")
     city = lead.get("city", "")
+    state = lead.get("state", "")
     category = lead.get("category", "Contractor")
     domain = lead.get("domain", "")
     existing_dm = lead.get("decision_maker", {})
@@ -103,14 +111,15 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
     res = {
         "status": "PENDING",
         "elimination_reason": None,
-        "bleed_type": None,
-        "revenue_bleed_diagnosis": "",
-        "estimated_monthly_loss": "",
-        "recommended_vibe_service": "",
-        "calibrated_price": "",
-        "turnaround": "",
-        "decision_maker": dict(existing_dm),
-        "personalized_pitch": {}
+        "forensic_audit": {
+            "audit_status": "PENDING",
+            "primary_money_leak": "",
+            "estimated_monthly_loss": "",
+            "financial_justification": "",
+            "flaws_inventory": [],
+            "ai_copywriter_context": ""
+        },
+        "decision_maker": dict(existing_dm)
     }
 
     try:
@@ -129,12 +138,12 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
         desktop_html = desktop_page.content().lower()
         desktop_text = desktop_page.inner_text("body")
 
-        # Modern Stack Detection
+        # Technology Stack Detection
         is_modern_stack = any(sig in desktop_html for sig in ["data-wf-page", "webflow", "framer-motion", "__next", "_next/static"])
         c_matches = re.findall(r'©\s*(20\d\d)', desktop_html) or re.findall(r'copyright.*?(\d{4})', desktop_html)
         latest_c = max([int(y) for y in c_matches if 2010 <= int(y) <= 2027], default=None)
 
-        # 2. Mobile Navigation & In-Page Evaluation
+        # 2. Mobile Navigation & In-Page Forensic Evaluation
         try:
             mobile_page.goto(url, wait_until="domcontentloaded", timeout=timeout_ms)
             mobile_page.wait_for_timeout(400)
@@ -145,51 +154,112 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
             const docWidth = document.documentElement.scrollWidth;
             const winWidth = window.innerWidth;
             const hasHorizontalOverflow = docWidth > winWidth + 5;
-            const telLinks = document.querySelectorAll('a[href^="tel:"]');
-            
+            const overflowAmount = Math.max(0, docWidth - winWidth);
+
+            // 1. Phone Links
+            const telLinks = Array.from(document.querySelectorAll('a[href^="tel:"]')).map(a => ({
+                href: a.getAttribute('href'),
+                text: a.innerText.trim(),
+                isAboveFold: a.getBoundingClientRect().top < window.innerHeight
+            }));
+
+            // Plain text phones without tel link
+            const bodyText = document.body.innerText || '';
+            const phoneMatches = bodyText.match(/(?:\\+?1[-.\\s]?)?\\(?([2-9][0-9]{2})\\)?[-.\\s]?([0-9]{3})[-.\\s]?([0-9]{4})/g) || [];
+            const hasPhoneText = phoneMatches.length > 0;
+            const firstPhoneText = phoneMatches[0] || null;
+
+            // 2. Sticky Call / Bottom Bar
             let hasStickyBottomBar = false;
-            for (let el of document.querySelectorAll('div, footer, nav, aside, a')) {
+            let stickyBarSnippet = null;
+            for (let el of document.querySelectorAll('div, footer, nav, aside, a, button')) {
                 const style = window.getComputedStyle(el);
                 if (style.position === 'fixed' || style.position === 'sticky') {
                     const rect = el.getBoundingClientRect();
-                    if (rect.bottom >= window.innerHeight - 20 && rect.height > 30 && rect.width > window.innerWidth * 0.7) {
+                    if (rect.bottom >= window.innerHeight - 25 && rect.height >= 35 && rect.width >= window.innerWidth * 0.65) {
                         hasStickyBottomBar = true;
+                        stickyBarSnippet = el.tagName.toLowerCase() + '.' + (el.className || 'fixed-bar');
                         break;
                     }
                 }
             }
 
-            let formFieldsCount = 0;
+            // 3. Form Evaluation
+            let maxFormFields = 0;
+            let formSnippets = [];
             for (let f of document.querySelectorAll('form')) {
                 const inputs = f.querySelectorAll('input:not([type="hidden"]), textarea, select');
-                formFieldsCount = Math.max(formFieldsCount, inputs.length);
+                if (inputs.length > maxFormFields) {
+                    maxFormFields = inputs.length;
+                    formSnippets = Array.from(inputs).slice(0, 5).map(i => i.getAttribute('placeholder') || i.getAttribute('name') || i.tagName);
+                }
             }
 
+            // 4. Instant Quote / Estimator presence
+            const htmlLower = document.documentElement.outerHTML.toLowerCase();
+            const hasEstimator = ['estimator', 'quote calculator', 'instant price', 'ballpark estimate', 'instant quote'].some(t => htmlLower.includes(t));
+
+            // 5. Small touch targets under 44px
+            let smallButtonCount = 0;
+            for (let b of document.querySelectorAll('button, a.btn, a.button, input[type="submit"]')) {
+                const r = b.getBoundingClientRect();
+                if (r.width > 0 && r.height > 0 && (r.width < 44 || r.height < 44)) {
+                    smallButtonCount++;
+                }
+            }
+
+            // 6. Heavy / Uncompressed Hero Image
+            let hasHeavyHeroImg = false;
+            let heroImgSrc = null;
+            const heroImgs = document.querySelectorAll('header img, .hero img, banner img, img');
+            for (let img of heroImgs) {
+                const r = img.getBoundingClientRect();
+                if (r.top < 500 && r.height > 150) {
+                    const src = img.getAttribute('src') || '';
+                    if (!src.endsWith('.webp') && !src.endsWith('.svg') && !img.hasAttribute('loading')) {
+                        hasHeavyHeroImg = true;
+                        heroImgSrc = src.slice(0, 70);
+                        break;
+                    }
+                }
+            }
+
+            // 7. Table layouts
             const tableLayouts = document.querySelectorAll('table table, table td[width]');
+
             return {
                 hasHorizontalOverflow,
-                overflowAmount: docWidth - winWidth,
-                hasTelLinks: telLinks.length > 0,
+                overflowAmount,
+                telLinks,
+                hasPhoneText,
+                firstPhoneText,
                 hasStickyBottomBar,
-                formFieldsCount,
+                stickyBarSnippet,
+                maxFormFields,
+                formSnippets,
+                hasEstimator,
+                smallButtonCount,
+                hasHeavyHeroImg,
+                heroImgSrc,
                 isTableLayout: tableLayouts.length > 2
             };
         }""")
 
         # 3. Elimination Check for Modern Established Sites
-        if is_modern_stack and not mobile_eval["hasHorizontalOverflow"] and mobile_eval["hasTelLinks"] and latest_c and latest_c >= 2025:
+        # Sites with modern frameworks, zero overflow, active tel links, 2025+ copyright, and sticky bar
+        if is_modern_stack and not mobile_eval["hasHorizontalOverflow"] and len(mobile_eval["telLinks"]) > 0 and latest_c and latest_c >= 2025 and mobile_eval["hasStickyBottomBar"]:
             res["status"] = "ELIMINATED_ESTABLISHED"
-            res["elimination_reason"] = "Modern tech stack, clean responsive layout, 2025+ copyright, and active mobile call links."
+            res["elimination_reason"] = "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar."
             return res
 
-        # 4. Deep Probe /about & /team for Owner
+        # 4. Deep Probe /about & /team for Direct Owner
         discovered_owner = None
         discovered_first = None
         discovered_emails = set()
         if existing_email:
             discovered_emails.add(existing_email)
 
-        # Probe current page text first
+        # Check home page text
         for pat in OWNER_TITLE_PATTERNS:
             m = re.search(pat, desktop_text, re.I)
             if m:
@@ -200,7 +270,7 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
                     discovered_first = words[0].capitalize()
                     break
 
-        # Probe subpages
+        # Check subpages
         parsed = urllib.parse.urlparse(url)
         base = f"{parsed.scheme}://{parsed.netloc}"
         for sub in ['/about', '/about-us', '/our-team', '/team', '/contact']:
@@ -211,7 +281,6 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
                 if sub_resp and sub_resp.status < 400:
                     s_html = desktop_page.content()
                     s_text = desktop_page.inner_text("body")
-                    # Harvest emails
                     for mail in re.findall(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', s_html):
                         if domain in mail.lower() and not any(mail.lower().endswith(x) for x in ['.png', '.jpg', '.webp']):
                             discovered_emails.add(mail.lower())
@@ -228,7 +297,7 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
             except Exception:
                 continue
 
-        # 5. 5-Tier Decision Maker Email Selection
+        # 5. 5-Tier Decision Maker Selection
         all_emails = list(discovered_emails)
         best_email = existing_email or (all_emails[0] if all_emails else None)
         tier_label = "TIER_5_GENERIC"
@@ -244,7 +313,7 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
                     tier_level = 1
                     break
 
-        # TIER 2: Any other personal first name in email prefix
+        # TIER 2: Personal first name in email prefix
         if tier_level > 1:
             for e in all_emails:
                 pref = e.split('@')[0].lower().split('.')[0].split('_')[0]
@@ -257,7 +326,7 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
                     tier_level = 2
                     break
 
-        # TIER 3: Executive email
+        # TIER 3: Executive Alias
         if tier_level > 2:
             for e in all_emails:
                 pref = e.split('@')[0].lower()
@@ -267,7 +336,7 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
                     tier_level = 3
                     break
 
-        # TIER 4: Gatekeeper Bypass Generic with Owner Routing
+        # TIER 4: Gatekeeper Bypass with Owner routing
         if tier_level > 3 and discovered_owner:
             tier_label = "TIER_4_GATEKEEPER_ROUTED"
             tier_level = 4
@@ -283,187 +352,308 @@ def audit_single_site_deep(browser, lead, timeout_ms=8000):
             "mx_provider": existing_dm.get("mx_provider", "Verified MX")
         }
 
-        # 6. Qualification & Revenue Bleed Diagnosis
-        loss_text, _ = get_job_loss_estimate(category)
-        res["estimated_monthly_loss"] = loss_text
+        # 6. Detailed 12-Dimension Flaws Inventory
+        flaws_inventory = []
+        loss_text, avg_ticket = get_job_loss_estimate(category)
 
-        needs_redesign = (
-            mobile_eval["isTableLayout"] or
-            (latest_c and latest_c <= 2022) or
-            (not is_modern_stack and not mobile_eval["hasTelLinks"] and mobile_eval["hasHorizontalOverflow"])
-        )
+        # Flaw 1: Missing / Unlinked Phone Number on Mobile
+        if mobile_eval["hasPhoneText"] and len(mobile_eval["telLinks"]) == 0:
+            flaws_inventory.append({
+                "flaw_id": "NO_TAP_TO_CALL_LINK",
+                "flaw_title": "Phone Number Not 1-Tap Clickable on Mobile",
+                "severity": "CRITICAL",
+                "dom_evidence": f"Phone '{mobile_eval['firstPhoneText']}' found in plain text without an href='tel:' link.",
+                "client_money_impact": f"Mobile visitors searching on phones cannot tap to call immediately; they must memorize or copy-paste into dialer. Over 65% bounce to the next {category.lower()} on Google Maps.",
+                "recommended_fix": "Service 1: Instant Tap-to-Call Conversion Header & Sticky Thumb Bar ($120, 12-Hour Turnaround)"
+            })
+        elif not mobile_eval["hasPhoneText"] and len(mobile_eval["telLinks"]) == 0:
+            flaws_inventory.append({
+                "flaw_id": "MISSING_PHONE_ABOVE_FOLD",
+                "flaw_title": "No Direct Phone Number Accessible on Mobile Fold",
+                "severity": "CRITICAL",
+                "dom_evidence": "Zero tel: links or phone numbers detected in header or hero section.",
+                "client_money_impact": f"Immediate loss of hot inbound emergency and estimate requests from mobile phone searches.",
+                "recommended_fix": "Service 1: Instant Tap-to-Call Conversion Header ($120, 12-Hour Turnaround)"
+            })
 
-        if needs_redesign:
-            res["status"] = "QUALIFIED_REDESIGN_CANDIDATE"
-            res["bleed_type"] = "2015-Era Credibility Penalty (Full Modern Redesign Needed)"
-            c_str = f"a {latest_c} copyright" if latest_c else "an older boxed layout"
-            res["revenue_bleed_diagnosis"] = f"Website runs on {c_str} that lacks mobile hierarchy, losing an estimated {loss_text} in unsigned jobs."
-            res["recommended_vibe_service"] = "Full Modern Bento Turnkey Redesign (3-Day Turnaround)"
-            res["calibrated_price"] = "$450 – $650"
-            res["turnaround"] = "72 Hours"
+        # Flaw 2: Missing Sticky Mobile Bottom Call Bar
+        if not mobile_eval["hasStickyBottomBar"]:
+            flaws_inventory.append({
+                "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
+                "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
+                "severity": "HIGH",
+                "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
+                "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
+                "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
+            })
 
-        elif not mobile_eval["hasTelLinks"] or mobile_eval["formFieldsCount"] >= 5 or not mobile_eval["hasStickyBottomBar"]:
-            res["status"] = "QUALIFIED_CONVERSION_BLEED"
-            res["bleed_type"] = "Mobile Lead Leak (No 1-Tap Call or High Form Friction)"
-            res["revenue_bleed_diagnosis"] = f"Mobile visitors cannot tap to call directly and must navigate static forms, leaking roughly {loss_text}/mo."
-            res["recommended_vibe_service"] = "60-Second Instant Quote Funnel & Sticky Mobile Bottom Bar"
-            res["calibrated_price"] = "$250 – $350"
-            res["turnaround"] = "48 Hours"
+        # Flaw 3: Mobile Viewport Horizontal Overflow
+        if mobile_eval["hasHorizontalOverflow"]:
+            flaws_inventory.append({
+                "flaw_id": "MOBILE_VIEWPORT_OVERFLOW",
+                "flaw_title": f"Mobile Viewport Overflows Screen by {mobile_eval['overflowAmount']}px",
+                "severity": "CRITICAL",
+                "dom_evidence": f"Document scrollWidth ({mobile_eval['overflowAmount'] + 390}px) exceeds device viewport (390px).",
+                "client_money_impact": "Mobile users experience broken horizontal sideways shaking; text and buttons are clipped off-screen, giving an amateur impression.",
+                "recommended_fix": "Service 2: 12-Hour Mobile Layout Un-Breaking & Viewport Fix ($140 – $190)"
+            })
 
-        elif mobile_eval["hasHorizontalOverflow"]:
-            res["status"] = "QUALIFIED_MOBILE_UNBREAK"
-            res["bleed_type"] = "Broken Mobile Viewport (Horizontal Overflow)"
-            res["revenue_bleed_diagnosis"] = f"Mobile viewport overflows {mobile_eval['overflowAmount']}px off screen, cutting off buttons."
-            res["recommended_vibe_service"] = "12-Hour Mobile Layout Un-Breaking & Viewport Fix"
-            res["calibrated_price"] = "$140 – $190"
-            res["turnaround"] = "12 Hours"
-        else:
+        # Flaw 4: High-Friction Static Forms (Drop-Off Leak)
+        if mobile_eval["maxFormFields"] >= 5:
+            fields_sample = ", ".join(mobile_eval["formSnippets"])
+            flaws_inventory.append({
+                "flaw_id": "HIGH_FRICTION_STATIC_FORM",
+                "flaw_title": f"Excessive Form Fields ({mobile_eval['maxFormFields']} inputs) Causing High Drop-Off",
+                "severity": "HIGH",
+                "dom_evidence": f"Detected static form with {mobile_eval['maxFormFields']} fields ({fields_sample}).",
+                "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
+                "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
+            })
+
+        # Flaw 5: Missing 60-Second Instant Ballpark Estimator
+        if not mobile_eval["hasEstimator"] and avg_ticket >= 3000:
+            flaws_inventory.append({
+                "flaw_id": "MISSING_INSTANT_ESTIMATOR",
+                "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
+                "severity": "HIGH",
+                "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
+                "client_money_impact": f"High-end homeowners shopping for {category.lower()} want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
+                "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
+            })
+
+        # Flaw 6: Outdated Copyright & Legacy Visual Era
+        if latest_c and latest_c <= 2022:
+            flaws_inventory.append({
+                "flaw_id": "OUTDATED_COPYRIGHT_ERA",
+                "flaw_title": f"Stale {latest_c} Copyright & Legacy Visual Layout",
+                "severity": "HIGH",
+                "dom_evidence": f"Footer contains stale copyright '© {latest_c}'.",
+                "client_money_impact": "Subconsciously signals to clients that the company is inactive, neglected, or behind on modern standards.",
+                "recommended_fix": "Service 10: Complete Turnkey Bento Redesign Architecture ($450 – $650, 72-Hour Turnaround)"
+            })
+
+        # Flaw 7: Table Layouts / Legacy Framework
+        if mobile_eval["isTableLayout"]:
+            flaws_inventory.append({
+                "flaw_id": "LEGACY_TABLE_LAYOUT",
+                "flaw_title": "Legacy HTML Table-Based Layout",
+                "severity": "CRITICAL",
+                "dom_evidence": "Multiple nested table layouts detected in DOM structure.",
+                "client_money_impact": "Completely non-responsive rendering on modern smartphone screens.",
+                "recommended_fix": "Service 10: Modern CSS Grid/Flex Turnkey Re-Architecture ($450 – $650)"
+            })
+
+        # Flaw 8: Heavy / Uncompressed Hero Image
+        if mobile_eval["hasHeavyHeroImg"]:
+            flaws_inventory.append({
+                "flaw_id": "UNCOMPRESSED_HERO_IMAGE",
+                "flaw_title": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP",
+                "severity": "MEDIUM",
+                "dom_evidence": f"Hero image '{mobile_eval['heroImgSrc']}' is not using next-gen WebP or modern responsive srcset.",
+                "client_money_impact": "Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.",
+                "recommended_fix": "Service 4: Mobile Speed & Core Web Vitals Optimization ($120 – $180)"
+            })
+
+        # Flaw 9: Small Touch Targets (< 44px)
+        if mobile_eval["smallButtonCount"] >= 3:
+            flaws_inventory.append({
+                "flaw_id": "SMALL_TOUCH_TARGETS",
+                "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
+                "severity": "MEDIUM",
+                "dom_evidence": f"Found {mobile_eval['smallButtonCount']} interactive buttons/links under 44x44px threshold.",
+                "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
+                "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
+            })
+
+        # Qualification Gate: If 0 flaws found, eliminate as established
+        if len(flaws_inventory) == 0:
             res["status"] = "ELIMINATED_ESTABLISHED"
             res["elimination_reason"] = "No critical conversion leaks or severe visual flaws found."
             return res
 
-        # 7. 4-Sentence Pattern Interrupt Pitch (STRICTLY 0 EM-DASHES)
-        f_name = discovered_first
-        greeting = f"Hi {f_name}," if f_name else "Hi there,"
-        revs = lead.get("reviews_count", 10)
-        subj_suffix = f"for {f_name} re {domain}" if f_name else f"about {domain}"
+        # 7. Primary Money Leak Determination & Financial Justification
+        primary_flaw = flaws_inventory[0]
+        primary_money_leak = f"{primary_flaw['flaw_title']} ({primary_flaw['dom_evidence']})"
 
-        if res["status"] == "QUALIFIED_REDESIGN_CANDIDATE":
-            subject = f"quick question {subj_suffix}"
-            body = (
-                f"{greeting}\n\n"
-                f"Came across your work in {city}. Solid reputation with your {revs} reviews on Google.\n\n"
-                f"I noticed on mobile that your current site still runs on an older layout with {c_str}. "
-                f"High-end clients looking for {category.lower()} usually judge credibility within a few seconds on their phone before calling.\n\n"
-                f"I put together a clean, modern executive redesign preview for {b_name} that showcases your work much sharper on iPhone.\n\n"
-                f"Would you be opposed to me sending over the 30-second preview link? (No pitch or pressure either way).\n\n"
-                f"Best,\nFaiz Majeed\nFZCORE Studio"
-            )
-        elif "Builder" in category or "Remodeling" in category or "Pool" in category:
-            subject = f"quick note {subj_suffix}" if f_name else f"{domain} mobile quote button"
-            body = (
-                f"{greeting}\n\n"
-                f"Was looking at your custom builds in {city}, work looks really solid.\n\n"
-                f"Pulled up your site on my phone and noticed the phone number isn't 1-tap clickable, and there's no quick project estimator, "
-                f"so visitors have to fill out the contact form. Most homeowners shopping for custom projects want a quick ballpark in under a minute, "
-                f"otherwise they usually tap the next builder on Google Maps.\n\n"
-                f"I mocked up a fast, brand-matched instant quote estimator and tap-to-call bar for {b_name}. Mind if I send over a quick 20-second screen demo?\n\n"
-                f"Best,\nFaiz Majeed\nFZCORE Studio"
-            )
-        else:
-            subject = f"quick note {subj_suffix}"
-            body = (
-                f"{greeting}\n\n"
-                f"Was checking out your {category.lower()} work in {city}. Great track record with your {revs} Google reviews.\n\n"
-                f"Looked at your site on mobile and noticed there is no sticky tap-to-call button on the screen, "
-                f"so customers looking for fast estimates have to copy-paste your number. A lot of people just bounce back to Maps when that happens.\n\n"
-                f"I put together a clean mobile sticky call bar and quick estimate widget tailored for {b_name}. "
-                f"Would it be a bad idea if I sent over a short 20-second preview?\n\n"
-                f"Best,\nFaiz Majeed\nFZCORE Studio"
-            )
+        # Financial Justification Math
+        jobs_lost_per_month = 1 if avg_ticket >= 10000 else 2
+        est_leak = jobs_lost_per_month * avg_ticket
+        financial_justification = (
+            f"In the {category} sector, the average customer job value is approximately ${avg_ticket:,}. "
+            f"Due to {primary_flaw['flaw_title'].lower()}, losing just {jobs_lost_per_month} to {jobs_lost_per_month*2} qualified local customer(s) "
+            f"per month to competitors on Google Maps results in an estimated ${est_leak:,} to ${est_leak*2:,} monthly revenue bleed."
+        )
 
-        res["personalized_pitch"] = {
-            "subject": clean_human_text(subject),
-            "body": clean_human_text(body)
+        # 8. AI Copywriter Context Packet
+        dm_name = discovered_owner or "the Business Owner"
+        dm_email = best_email or "the business domain inbox"
+        flaws_summary = "; ".join([f"[{f['severity']}] {f['flaw_title']}: {f['client_money_impact']}" for f in flaws_inventory[:3]])
+        
+        ai_copywriter_context = (
+            f"TARGET: {b_name} in {city}, {state} (Website: {domain}, Category: {category}, Reviews: {lead.get('reviews_count', 'N/A')}, Rating: {lead.get('rating', 'N/A')}). "
+            f"DECISION MAKER: {dm_name} ({res['decision_maker']['title']}), Email: {dm_email} (Tier: {tier_label}). "
+            f"PRIMARY MONEY LEAK: {primary_flaw['flaw_title']}. "
+            f"REVENUE BLEED: Estimated {loss_text} based on ${avg_ticket:,} average ticket size. "
+            f"EVIDENCE & IMPACT: {flaws_summary}. "
+            f"RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing {primary_flaw['flaw_title']} with zero pitch pressure."
+        )
+
+        res["status"] = "QUALIFIED_HIGH_BLEED"
+        res["forensic_audit"] = {
+            "audit_status": "QUALIFIED_HIGH_BLEED",
+            "primary_money_leak": primary_money_leak,
+            "estimated_monthly_loss": loss_text,
+            "average_ticket_value": f"${avg_ticket:,}",
+            "financial_justification": financial_justification,
+            "flaws_inventory": flaws_inventory,
+            "total_flaws_count": len(flaws_inventory),
+            "ai_copywriter_context": ai_copywriter_context
         }
 
+        return res
+
+    except Exception as e:
+        res["status"] = "ELIMINATED_DEAD_SITE"
+        res["elimination_reason"] = f"Evaluation Crash: {str(e)[:100]}"
+        return res
     finally:
         desktop_ctx.close()
         mobile_ctx.close()
 
-    return res
-
-def run_cloud_deep_audit(batch_size=100):
+def run_cloud_deep_audit(batch_size=100, specific_url=None):
     print("=" * 75)
-    print("🚀 [CLOUD DEEP AUDITOR] Initializing 100-Lead Dual-Viewport Precision Audit")
+    print("🚀 [CLOUD DEEP FORENSIC AUDITOR] Initializing 12-Dimension Lead Audit")
     print("=" * 75)
 
-    all_records = load_json_file(MARKET_RECORDS_FILE, [])
+    if specific_url:
+        print(f"🎯 Running Single-Site Diagnostic for: {specific_url}")
+        test_lead = {
+            "lead_id": "TEST-1",
+            "business_name": "Diagnostic Prospect",
+            "category": "Solar Panel Installation",
+            "city": "Scottsdale",
+            "state": "AZ",
+            "website": specific_url,
+            "domain": urllib.parse.urlparse(specific_url).netloc,
+            "reviews_count": 25,
+            "rating": 5.0,
+            "decision_maker": {"verified_email": None}
+        }
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            res = audit_single_site_deep(browser, test_lead)
+            browser.close()
+            print(json.dumps(res, indent=2, ensure_ascii=False))
+            return [res]
+
+    market_records = load_json_file(MARKET_RECORDS_FILE, [])
     audit_ledger = set(load_json_file(AUDIT_LEDGER_FILE, []))
     vetted_master = load_json_file(VETTED_MASTER_FILE, [])
     eliminated_records = load_json_file(ELIMINATED_FILE, [])
 
-    # Filter for unaudited leads with verified direct inboxes
-    pending = [
-        l for l in all_records
-        if l.get("lead_id") not in audit_ledger
-        and l.get("decision_maker", {}).get("verified_email")
-        and "@" in l.get("decision_maker", {}).get("verified_email", "")
+    # Filter candidates: Must have domain MX verified and not yet audited
+    pending_leads = [
+        lead for lead in market_records
+        if lead.get("lead_id") not in audit_ledger
+        and (lead.get("decision_maker", {}).get("verified_email") or lead.get("website"))
     ]
 
-    print(f"📦 Total Scraped: {len(all_records):,} | Already Audited: {len(audit_ledger):,} | Pending: {len(pending):,}")
-    
-    if not pending:
-        print("✅ All leads in database are already 100% audited and vetted! Nothing pending.")
-        return 0
+    total_scraped = len(market_records)
+    already_audited = len(audit_ledger)
+    pending_count = len(pending_leads)
 
-    batch = pending[:batch_size]
-    print(f"🎯 Slicing Active Cycle Batch: {len(batch)} Leads\n")
+    print(f"📦 Total Scraped: {total_scraped:,} | Already Audited: {already_audited:,} | Pending: {pending_count:,}")
 
-    qualified_count = 0
-    eliminated_count = 0
+    if not pending_leads:
+        print("✅ Zero leads pending deep audit. Master dossier is 100% up to date.")
+        return []
+
+    active_batch = pending_leads[:batch_size]
+    print(f"🎯 Slicing Active Cycle Batch: {len(active_batch)} Leads\n")
+
+    new_vetted = 0
+    new_eliminated = 0
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
+        leads_since_browser_recycle = 0
 
-        for idx, lead in enumerate(batch, 1):
-            # Auto-Recycle Chromium every 25 leads to prevent memory leaks
-            if idx > 1 and idx % 25 == 1:
-                print(f"\n🔄 [Auto-Recycle] Cycling Chromium Browser Context at lead #{idx} (Memory Refresh)...", flush=True)
+        for idx, lead in enumerate(active_batch, 1):
+            lead_id = lead.get("lead_id")
+            b_name = lead.get("business_name", "Unknown")
+
+            # Memory Leak Prevention: Recycle Chromium every 25 sites
+            if leads_since_browser_recycle >= 25:
+                print("🔄 [Browser Recycle] Purging Chromium cache & relaunching fresh instance...")
                 browser.close()
                 browser = p.chromium.launch(headless=True)
+                leads_since_browser_recycle = 0
 
-            b_name = lead.get("business_name", "Business")
-            lead_id = lead.get("lead_id")
-            print(f"[{idx}/{len(batch)}] Auditing: {b_name}...", end=" ", flush=True)
+            print(f"[{idx}/{len(active_batch)}] Auditing: {b_name}... ", end="", flush=True)
 
-            audit_res = audit_single_site_deep(browser, lead)
+            try:
+                audit_res = audit_single_site_deep(browser, lead)
+                leads_since_browser_recycle += 1
+                status = audit_res["status"]
 
-            if audit_res["status"].startswith("QUALIFIED"):
-                qualified_count += 1
-                lead_copy = dict(lead)
-                lead_copy["decision_maker"] = audit_res["decision_maker"]
-                lead_copy["vibe_audit"] = audit_res
-                lead_copy["personalized_pitch"] = audit_res["personalized_pitch"]
-                lead_copy["vetted_at"] = datetime.now(timezone.utc).isoformat()
-                vetted_master.append(lead_copy)
+                if status == "QUALIFIED_HIGH_BLEED":
+                    dm = audit_res["decision_maker"]
+                    fa = audit_res["forensic_audit"]
+                    print(f"✅ QUALIFIED [{dm.get('tier')}]: {dm.get('name')} <{dm.get('verified_email')}>")
+                    print(f"   💸 Primary Leak: {fa['primary_money_leak'][:80]} ({fa['estimated_monthly_loss']})")
+                    print(f"   📋 Flaws Detected: {fa['total_flaws_count']}")
 
-                dm = audit_res["decision_maker"]
-                print(f"✅ {audit_res['status']} [P{dm.get('tier_level')}: {dm.get('tier')}]: {dm.get('name')} <{dm.get('verified_email')}>")
-                print(f"   💸 {audit_res['bleed_type']} ({audit_res['estimated_monthly_loss']})")
-            else:
-                eliminated_count += 1
-                eliminated_records.append({
-                    "lead_id": lead_id,
-                    "business_name": b_name,
-                    "website": lead.get("website"),
-                    "status": audit_res["status"],
-                    "reason": audit_res["elimination_reason"],
-                    "eliminated_at": datetime.now(timezone.utc).isoformat()
-                })
-                print(f"❌ {audit_res['status']}: {audit_res['elimination_reason']}")
+                    # Merge forensic audit into lead record
+                    lead_copy = dict(lead)
+                    lead_copy["decision_maker"] = dm
+                    lead_copy["forensic_audit"] = fa
+                    lead_copy["vetted_at"] = datetime.now(timezone.utc).isoformat()
 
-            # Mark processed in ledger
-            audit_ledger.add(lead_id)
+                    vetted_master.append(lead_copy)
+                    new_vetted += 1
+
+                elif "ELIMINATED" in status:
+                    reason = audit_res.get("elimination_reason", "Established/Modern")
+                    print(f"❌ {status}: {reason}")
+                    eliminated_records.append({
+                        "lead_id": lead_id,
+                        "business_name": b_name,
+                        "website": lead.get("website"),
+                        "status": status,
+                        "reason": reason,
+                        "eliminated_at": datetime.now(timezone.utc).isoformat()
+                    })
+                    new_eliminated += 1
+
+                # Record in persistent ledger
+                audit_ledger.add(lead_id)
+
+            except Exception as e:
+                print(f"⚠️ Exception on {b_name}: {e}")
+                audit_ledger.add(lead_id)
+
+            # Auto-save checkpoints every 5 leads
+            if idx % 5 == 0 or idx == len(active_batch):
+                save_json_file(AUDIT_LEDGER_FILE, list(audit_ledger))
+                save_json_file(VETTED_MASTER_FILE, vetted_master)
+                save_json_file(ELIMINATED_FILE, eliminated_records)
 
         browser.close()
 
-    # Save all files atomically
-    save_json_file(VETTED_MASTER_FILE, vetted_master)
-    save_json_file(ELIMINATED_FILE, eliminated_records)
-    save_json_file(AUDIT_LEDGER_FILE, list(audit_ledger))
-
     print("\n" + "=" * 75)
-    print(f"🏁 CYCLE COMPLETE: Processed {len(batch)} Leads")
-    print(f"✅ Qualified High-Intent Leads Added: {qualified_count}")
-    print(f"❌ Established/Dead Sites Eliminated: {eliminated_count}")
-    print(f"📁 Cumulative Vetted Master Dossier: {len(vetted_master):,} Total Leads")
-    print(f"📁 Ledger Updated: {len(audit_ledger):,} Processed Leads")
+    print(f"🏁 CYCLE COMPLETE: Processed {len(active_batch)} Leads")
+    print(f"✅ Qualified High-Intent Leads Added: {new_vetted}")
+    print(f"❌ Established/Dead Sites Eliminated: {new_eliminated}")
+    print(f"📁 Cumulative Vetted Master Dossier: {len(vetted_master)} Total Leads")
+    print(f"📁 Ledger Updated: {len(audit_ledger)} Processed Leads")
     print("=" * 75 + "\n")
-    return qualified_count
+
+    return vetted_master
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Cloud Deep Auditor (100 Leads / Cycle)")
-    parser.add_argument("--batch-size", type=int, default=100, help="Number of leads to audit in this cycle (default: 100)")
+    parser = argparse.ArgumentParser(description="Autonomous Cloud Deep Forensic Lead Auditor")
+    parser.add_argument("--batch-size", "-b", type=int, default=100, help="Number of leads to audit in this cycle")
+    parser.add_argument("--test-url", "-u", type=str, default=None, help="Run single-site diagnostic against a live URL")
     args = parser.parse_args()
-    run_cloud_deep_audit(batch_size=args.batch_size)
+
+    run_cloud_deep_audit(batch_size=args.batch_size, specific_url=args.test_url)
