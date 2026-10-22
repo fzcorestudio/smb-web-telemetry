@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FZCORE STUDIO • Outbound Follow-Up Pipeline Dashboard</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: #0b0f19; color: #f8fafc; margin: 0; padding: 24px; }
+        .card { background: #131c2e; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; margin-bottom: 24px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; }
+        .stat-box { background: #1e293b; border-radius: 8px; padding: 16px; text-align: center; border: 1px solid #334155; }
+        .stat-val { font-size: 28px; font-weight: 800; color: #38bdf8; margin-top: 4px; }
+        .stat-label { font-size: 12px; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.05em; }
+        table { width: 100%; border-collapse: collapse; font-size: 13px; text-align: left; }
+        th { background: #1e293b; padding: 12px; color: #94a3b8; font-weight: 600; text-transform: uppercase; font-size: 11px; }
+        td { background: #131c2e; }
+    </style>
+</head>
+<body>
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+        <div>
+            <h1 style="margin:0; font-size:22px; font-weight:800; color:#f8fafc;">FZCORE STUDIO • Follow-Up Command Center</h1>
+            <p style="margin:4px 0 0; color:#94a3b8; font-size:13px;">Autonomous IMAP Auto-Stop • Working Hours Gatekeeper • 50-Mailbox Round-Robin</p>
+        </div>
+        <div style="font-size:12px; color:#38bdf8; background:#0369a133; padding:6px 14px; border-radius:999px; border:1px solid #0284c7;">
+            Active Fleet: 50 Mailboxes (Cap: 25/day)
+        </div>
+    </div>
+
+    <div class="grid">
+        <div class="stat-box">
+            <div class="stat-label">Total Outreached</div>
+            <div class="stat-val" style="color:#f8fafc;">15</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-label">Active Waiting Leads</div>
+            <div class="stat-val" style="color:#38bdf8;">15</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-label">Client Replies (Halted)</div>
+            <div class="stat-val" style="color:#34d399;">0</div>
+        </div>
+        <div class="stat-box">
+            <div class="stat-label">Permanent Quarantine</div>
+            <div class="stat-val" style="color:#fbbf24;">15</div>
+        </div>
+    </div>
+
+    <div class="card">
+        <h3 style="margin-top:0; font-size:15px; color:#f8fafc;">Recent Outbound & Follow-Up State Tracking</h3>
+        <div style="overflow-x:auto;">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Business Name</th>
+                        <th>Owner</th>
+                        <th>Email</th>
+                        <th>State</th>
+                        <th>Status</th>
+                        <th>Next Step Due</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Rooftop Solar</td>
+            <td style="padding: 12px; color: #475569;">passion has</td>
+            <td style="padding: 12px; color: #0284c7;">energized@rooftopsolar.us</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:01:35+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Arizona Solar Energy Industries Association (AriSEIA)</td>
+            <td style="padding: 12px; color: #475569;">Autumn</td>
+            <td style="padding: 12px; color: #0284c7;">autumn@ariseia.org</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:02:11+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">NewGrid Off-Grid Power Systems</td>
+            <td style="padding: 12px; color: #475569;">contractors who</td>
+            <td style="padding: 12px; color: #0284c7;">info@newgridpower.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:02:40+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Avadium Design</td>
+            <td style="padding: 12px; color: #475569;">Business Owner</td>
+            <td style="padding: 12px; color: #0284c7;">info@avadiumdesign.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:03:16+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Brand Savvy Designs</td>
+            <td style="padding: 12px; color: #475569;">Laura</td>
+            <td style="padding: 12px; color: #0284c7;">laura.barnett@brandsavvydesigns.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:03:51+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Alamari Design & Printing Services Phoenix, AZ - Graphic Designer & Influencer Marketing</td>
+            <td style="padding: 12px; color: #475569;">of the</td>
+            <td style="padding: 12px; color: #0284c7;">info@alamarimedia.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:04:16+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">1-800 Water Damage of North Orlando</td>
+            <td style="padding: 12px; color: #475569;">or business</td>
+            <td style="padding: 12px; color: #0284c7;">chris.cento@1800waterdamage.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:04:47+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Pro Water Damage Restoration Orlando</td>
+            <td style="padding: 12px; color: #475569;">Business Owner</td>
+            <td style="padding: 12px; color: #0284c7;">info@prowaterdamagerestorationfl.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:05:14+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Water Damage Repair Orlando Pros</td>
+            <td style="padding: 12px; color: #475569;">in downtown</td>
+            <td style="padding: 12px; color: #0284c7;">info@waterdamagerepairorlando.pro</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:05:50+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">ACE Restoration Services, LLC</td>
+            <td style="padding: 12px; color: #475569;">Business Owner</td>
+            <td style="padding: 12px; color: #0284c7;">info@ace2restore.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:06:20+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Paint Protection of Orlando</td>
+            <td style="padding: 12px; color: #475569;">Business Owner</td>
+            <td style="padding: 12px; color: #0284c7;">info@paintprotectionoforlando.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:06:47+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">DropShadow Agency</td>
+            <td style="padding: 12px; color: #475569;">led agency</td>
+            <td style="padding: 12px; color: #0284c7;">joey@dropshadowagency.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:07:31+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Design Theory | Web Design & Digital Marketing</td>
+            <td style="padding: 12px; color: #475569;">Email</td>
+            <td style="padding: 12px; color: #0284c7;">email@jpdesigntheory.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:08:05+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Kitchen Remodeling by EatGatherLove Orlando</td>
+            <td style="padding: 12px; color: #475569;">Len Brenner</td>
+            <td style="padding: 12px; color: #0284c7;">joe.kurland@eatgatherlove.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:08:40+00:00</td>
+        </tr>
+        
+        <tr style="border-bottom: 1px solid #e2e8f0;">
+            <td style="padding: 12px; font-weight: 600; color: #0f172a;">Greentech Renewables Orlando</td>
+            <td style="padding: 12px; color: #475569;">ship and</td>
+            <td style="padding: 12px; color: #0284c7;">connect.orlando@greentechrenewables.com</td>
+            <td style="padding: 12px; color: #64748b;">US</td>
+            <td style="padding: 12px;"><span style='background:#f1f5f9;color:#475569;padding:2px 8px;border-radius:999px;'>Step 1</span></td>
+            <td style="padding: 12px; color: #64748b; font-size: 12px;">2026-10-25T16:09:13+00:00</td>
+        </tr>
+        
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

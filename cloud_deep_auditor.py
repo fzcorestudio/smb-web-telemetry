@@ -22,6 +22,10 @@ import urllib.parse
 from datetime import datetime, timezone
 from pathlib import Path
 from playwright.sync_api import sync_playwright
+try:
+    from quarantine_manager import get_quarantine_ledger
+except ImportError:
+    get_quarantine_ledger = None
 
 if sys.platform == "win32":
     try:
@@ -551,12 +555,28 @@ def run_cloud_deep_audit(batch_size=100, specific_url=None):
     vetted_master = load_json_file(VETTED_MASTER_FILE, [])
     eliminated_records = load_json_file(ELIMINATED_FILE, [])
 
-    # Filter candidates: Must have domain MX verified and not yet audited
-    pending_leads = [
-        lead for lead in market_records
-        if lead.get("lead_id") not in audit_ledger
-        and (lead.get("decision_maker", {}).get("verified_email") or lead.get("website"))
-    ]
+    ql = get_quarantine_ledger() if get_quarantine_ledger else None
+
+    # Filter candidates: Must have domain MX verified, not yet audited, and not quarantined
+    pending_leads = []
+    for lead in market_records:
+        lid = lead.get("lead_id")
+        if lid in audit_ledger:
+            continue
+        if ql:
+            dm = lead.get("decision_maker", {})
+            em = dm.get("verified_email")
+            is_q, _ = ql.is_quarantined(
+                lead_id=lid,
+                domain=lead.get("domain"),
+                email=em,
+                business_name=lead.get("business_name"),
+                city=lead.get("city")
+            )
+            if is_q:
+                continue
+        if lead.get("decision_maker", {}).get("verified_email") or lead.get("website"):
+            pending_leads.append(lead)
 
     total_scraped = len(market_records)
     already_audited = len(audit_ledger)

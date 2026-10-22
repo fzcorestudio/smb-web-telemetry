@@ -94,6 +94,13 @@ def run_supervisor_pipeline(duration_seconds=960, force_mode=None):
     print(f"📍 Active Scheduled Pipeline Stage: [{active_mode}]")
     print("=" * 75 + "\n")
 
+    # Step 0: Always scan IMAP for prospect replies & freeze sequences
+    try:
+        from cloud_reply_watcher import check_for_lead_replies
+        check_for_lead_replies()
+    except Exception as e:
+        print(f"⚠️ Reply watcher check bypassed: {e}")
+
     if active_mode == "WRITE_PITCHES":
         print("✍️ [STAGE 3] Running Autonomous Cloud Email Writer (Super-Personalized Pitches)...")
         from cloud_email_writer import run_cloud_email_writer

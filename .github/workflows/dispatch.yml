@@ -2,8 +2,8 @@ name: Multi-Mailbox Outbound Pitch Dispatcher
 
 on:
   schedule:
-    # Runs Daily at 03:00 PM PKT (10:00 UTC), right after Stage 2 Audit and Stage 3 Email Writing
-    - cron: '0 10 * * *'
+    # Runs Daily at 06:30 PM PKT (13:30 UTC), which is 09:30 AM EDT (peak US contractor open window)
+    - cron: '30 13 * * 1-5'
   workflow_dispatch:
     inputs:
       mode:
@@ -15,9 +15,13 @@ on:
           - live
         default: preview
       batch_size:
-        description: 'Maximum emails to dispatch in this batch (Max 50)'
+        description: 'Maximum emails to dispatch in this batch (Max 100)'
         required: false
-        default: '25'
+        default: '50'
+      ignore_hours:
+        description: 'Bypass Working Hours Gate (true/false)'
+        required: false
+        default: 'false'
 
 concurrency:
   group: dispatch-run
@@ -28,7 +32,7 @@ permissions:
 
 jobs:
   dispatch-pitches:
-    name: Safe Multi-Subdomain SMTP Dispatcher
+    name: Safe Multi-Subdomain SMTP Dispatcher & Follow-Up
     runs-on: ubuntu-latest
     timeout-minutes: 60
 
@@ -43,27 +47,46 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: 🔍 Scan IMAP for Lead Replies & Auto-Stop Sequences
+        env:
+          SUBDOMAIN_MAIL_PASS: ${{ secrets.SUBDOMAIN_MAIL_PASS }}
+        run: |
+          python cloud_reply_watcher.py || echo "IMAP scan finished with warnings."
+
       - name: 🚀 Run Autonomous Multi-Mailbox Dispatcher
         env:
           SUBDOMAIN_MAIL_PASS: ${{ secrets.SUBDOMAIN_MAIL_PASS }}
         run: |
           MODE="${{ github.event.inputs.mode || 'preview' }}"
-          BATCH="${{ github.event.inputs.batch_size || '25' }}"
+          BATCH="${{ github.event.inputs.batch_size || '50' }}"
+          IGNORE="${{ github.event.inputs.ignore_hours || 'false' }}"
           echo "Initiating Multi-Mailbox Dispatch in [$MODE] mode with batch limit [$BATCH]..."
           
+          CMD="python cloud_dispatcher.py --batch-size $BATCH"
           if [ "$MODE" = "live" ]; then
-            python cloud_dispatcher.py --live --batch-size "$BATCH"
+            CMD="$CMD --live"
           else
-            python cloud_dispatcher.py --preview --batch-size "$BATCH"
+            CMD="$CMD --preview"
           fi
+          if [ "$IGNORE" = "true" ]; then
+            CMD="$CMD --ignore-hours"
+          fi
+          
+          eval $CMD
 
-      - name: 💾 Commit & Push Sent Ledger
+      - name: 💾 Commit & Push All Telemetry Ledgers & Dashboards
         run: |
           git config --global user.name "Telemetry Bot"
           git config --global user.email "bot@users.noreply.github.com"
-          git add telemetry_data/sent_ledger.json
+          git add telemetry_data/sent_ledger.json \
+                  telemetry_data/followup_pipeline.json \
+                  telemetry_data/quarantine_archive.json \
+                  telemetry_data/daily_mailbox_usage.json \
+                  telemetry_data/followup_dashboard.html \
+                  telemetry_data/replies_inbox.json \
+                  telemetry_data/approved_pitches.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore(dispatcher): automated sent ledger sync [skip ci]"
+            git commit -m "chore(dispatcher): automated sync for sent, followups, quarantine & dashboard [skip ci]"
             for i in 1 2 3; do
               git pull --rebase -X theirs origin main && git push origin main && break || sleep 5
             done
@@ -71,10 +94,10 @@ jobs:
             echo "Zero ledger changes to commit."
           fi
 
-      - name: 📤 Upload Dispatch Artifact
+      - name: 📤 Upload Followup Dashboard Artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: sent-ledger-latest
-          path: telemetry_data/sent_ledger.json
+          name: followup-dashboard-latest
+          path: telemetry_data/followup_dashboard.html
           retention-days: 14

@@ -20,6 +20,10 @@ if str(BASE_DIR) not in sys.path:
     sys.path.insert(0, str(BASE_DIR))
 
 from auditor import audit_website_telemetry
+try:
+    from quarantine_manager import get_quarantine_ledger
+except ImportError:
+    get_quarantine_ledger = None
 
 TARGET_NICHES = [
     "Auto Detailing Ceramic Coating",
@@ -316,13 +320,25 @@ def run_telemetry_harvest(max_duration_seconds=960, target_count=None, output_fi
                     max_records_per_query=30
                 )
 
+                ql = get_quarantine_ledger() if get_quarantine_ledger else None
                 for item in found:
-                    if item["domain"] not in existing_domains:
-                        all_harvested.append(item)
-                        existing_domains.add(item["domain"])
-                        new_count += 1
-                        time_left = max(0, int(max_duration_seconds - (time.time() - start_time)))
-                        print(f"📊 Progress: {new_count} new leads secured | {len(all_harvested)} total | {time_left}s remaining in cycle.")
+                    d = item.get("domain", "")
+                    if d in existing_domains:
+                        continue
+                    if ql:
+                        is_q, q_reason = ql.is_quarantined(
+                            domain=d,
+                            business_name=item.get("business_name"),
+                            city=item.get("city")
+                        )
+                        if is_q:
+                            print(f"🚫 [QUARANTINE SKIP] Past Lead Ignored: {item.get('business_name')} ({q_reason})")
+                            continue
+                    all_harvested.append(item)
+                    existing_domains.add(d)
+                    new_count += 1
+                    time_left = max(0, int(max_duration_seconds - (time.time() - start_time)))
+                    print(f"📊 Progress: {new_count} new leads secured | {len(all_harvested)} total | {time_left}s remaining in cycle.")
 
                 # Real-time incremental save
                 output_file.parent.mkdir(parents=True, exist_ok=True)
