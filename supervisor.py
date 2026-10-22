@@ -1,9 +1,10 @@
 """
 Autonomous Process Supervisor & Self-Healing Watchguard
-Manages the Daily 2-Stage Recurring Pipeline:
+Manages the Daily 3-Stage Recurring Pipeline (Pakistan Standard Time / PKT):
 Stage 1: 12:00 AM - 12:00 PM PKT -> Continuous Harvester & MX Handshake
 Stage 2: 12:00 PM - 02:30 PM PKT -> 100-Lead/Cycle Cloud Deep Auditor & Owner Hunter
-Stage 3: Outside Hours           -> Incremental Deep Auditor or On-Demand Harvest
+Stage 3: 02:30 PM - 03:00 PM PKT -> Cloud Email Writing Engine & Review Dashboard
+Stage 4: Outside Hours           -> Incremental Deep Auditor or On-Demand Harvest
 """
 
 import sys
@@ -16,7 +17,10 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 if sys.platform == "win32":
-    sys.stdout.reconfigure(encoding="utf-8")
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "telemetry_data"
@@ -61,13 +65,16 @@ def run_supervisor_pipeline(duration_seconds=960, force_mode=None):
     # Determine Active Mode:
     # Mode A: Harvest Window (12:00 AM PKT to 12:00 PM PKT)
     # Mode B: Deep Audit Window (12:00 PM PKT to 2:30 PM PKT)
-    # Mode C: Outside hours -> Check if leads need auditing, otherwise harvest
+    # Mode C: Email Writing Window (02:30 PM PKT to 03:00 PM PKT)
+    # Mode D: Outside hours -> Check if leads need auditing, otherwise harvest
     if force_mode:
         active_mode = force_mode.upper()
     elif 0 <= pkt_hour < 12:
         active_mode = "HARVEST"
     elif 12 <= pkt_hour < 14 or (pkt_hour == 14 and pkt_minute <= 30):
         active_mode = "AUDIT"
+    elif pkt_hour == 14 and pkt_minute > 30:
+        active_mode = "WRITE_PITCHES"
     else:
         # Check if we have unaudited leads in market_records
         market_file = DATA_DIR / "market_records.json"
@@ -87,11 +94,23 @@ def run_supervisor_pipeline(duration_seconds=960, force_mode=None):
     print(f"📍 Active Scheduled Pipeline Stage: [{active_mode}]")
     print("=" * 75 + "\n")
 
-    if active_mode == "AUDIT":
+    if active_mode == "WRITE_PITCHES":
+        print("✍️ [STAGE 3] Running Autonomous Cloud Email Writer (Super-Personalized Pitches)...")
+        from cloud_email_writer import run_cloud_email_writer
+        try:
+            run_cloud_email_writer()
+        except Exception as e:
+            log_event(1, str(e), traceback.format_exc())
+            print(f"⚠️ Email Writer exception logged: {e}")
+
+    elif active_mode == "AUDIT":
         print("🔍 [STAGE 2] Running Autonomous Cloud Deep Auditor (100 Leads / Cycle)...")
         from cloud_deep_auditor import run_cloud_deep_audit
         try:
             run_cloud_deep_audit(batch_size=100)
+            print("\n✍️ [STAGE 3] Auto-Chaining Cloud Email Writer for Vetted Leads...")
+            from cloud_email_writer import run_cloud_email_writer
+            run_cloud_email_writer()
         except Exception as e:
             cleanup_zombie_processes()
             log_event(1, str(e), traceback.format_exc())

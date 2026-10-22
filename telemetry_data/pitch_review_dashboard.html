@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FZCORE Studio • Super-Personalized Email Review Dashboard</title>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+    
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    body {
+        font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+        background-color: #0b0f19;
+        color: #f1f5f9;
+        padding: 30px 20px;
+        line-height: 1.5;
+    }
+    .container {
+        max-width: 1040px;
+        margin: 0 auto;
+    }
+    .dashboard-header {
+        background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+        border: 1px solid #334155;
+        padding: 24px 30px;
+        border-radius: 14px;
+        margin-bottom: 28px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+    }
+    .brand-title {
+        font-size: 22px;
+        font-weight: 800;
+        letter-spacing: -0.5px;
+        color: #ffffff;
+    }
+    .brand-sub {
+        font-size: 13px;
+        color: #94a3b8;
+        margin-top: 4px;
+    }
+    .header-badges {
+        display: flex;
+        gap: 12px;
+    }
+    .stat-badge {
+        background: #0f172a;
+        border: 1px solid #38bdf8;
+        padding: 8px 16px;
+        border-radius: 8px;
+        text-align: right;
+    }
+    .stat-num {
+        font-size: 20px;
+        font-weight: 800;
+        color: #38bdf8;
+    }
+    .stat-lbl {
+        font-size: 10px;
+        color: #94a3b8;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    .rule-pill {
+        background: rgba(34, 197, 94, 0.15);
+        color: #4ade80;
+        border: 1px solid rgba(34, 197, 94, 0.3);
+        padding: 8px 14px;
+        border-radius: 8px;
+        font-size: 11px;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+    }
+    .pitch-card {
+        background: #111827;
+        border: 1px solid #1f2937;
+        border-radius: 12px;
+        padding: 24px;
+        margin-bottom: 24px;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);
+        transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .pitch-card:hover {
+        border-color: #38bdf8;
+    }
+    .card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 16px;
+        gap: 16px;
+    }
+    .header-left {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+    .idx-badge {
+        background: #1e293b;
+        color: #94a3b8;
+        font-weight: 800;
+        font-size: 12px;
+        padding: 4px 8px;
+        border-radius: 6px;
+    }
+    .biz-title {
+        font-size: 19px;
+        font-weight: 800;
+        color: #f8fafc;
+        letter-spacing: -0.3px;
+    }
+    .cat-chip {
+        background: rgba(56, 189, 248, 0.12);
+        color: #38bdf8;
+        font-size: 11px;
+        font-weight: 600;
+        padding: 3px 8px;
+        border-radius: 6px;
+    }
+    .loc-chip {
+        background: #1e293b;
+        color: #94a3b8;
+        font-size: 11px;
+        font-weight: 500;
+        padding: 3px 8px;
+        border-radius: 6px;
+    }
+    .header-right {
+        display: flex;
+        gap: 8px;
+        flex-shrink: 0;
+    }
+    .maps-pill, .site-pill {
+        text-decoration: none;
+        font-size: 11px;
+        font-weight: 600;
+        padding: 5px 10px;
+        border-radius: 6px;
+        transition: opacity 0.15s;
+    }
+    .maps-pill {
+        background: rgba(234, 179, 8, 0.12);
+        color: #facc15;
+        border: 1px solid rgba(234, 179, 8, 0.25);
+    }
+    .site-pill {
+        background: #1e293b;
+        color: #cbd5e1;
+        border: 1px solid #334155;
+    }
+    .maps-pill:hover, .site-pill:hover {
+        opacity: 0.8;
+    }
+    .email-meta-bar {
+        background: #0f172a;
+        border: 1px solid #1e293b;
+        border-radius: 8px;
+        padding: 12px 14px;
+        margin-bottom: 12px;
+        font-size: 13px;
+    }
+    .meta-item {
+        margin-bottom: 6px;
+    }
+    .meta-item:last-child {
+        margin-bottom: 0;
+    }
+    .email-to {
+        color: #38bdf8;
+        font-family: 'JetBrains Mono', monospace;
+        font-weight: 600;
+    }
+    .tier-badge {
+        background: rgba(147, 51, 234, 0.18);
+        color: #c084fc;
+        font-size: 10px;
+        font-weight: 700;
+        padding: 2px 6px;
+        border-radius: 4px;
+        margin-left: 6px;
+    }
+    .angle-badge {
+        background: rgba(59, 130, 246, 0.15);
+        color: #60a5fa;
+        font-size: 11px;
+        font-weight: 700;
+        padding: 2px 8px;
+        border-radius: 4px;
+    }
+    .email-subj {
+        color: #f1f5f9;
+        font-weight: 700;
+    }
+    .flaws-bar {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-bottom: 14px;
+    }
+    .evidence-pill {
+        background: rgba(239, 68, 68, 0.12);
+        color: #f87171;
+        border: 1px solid rgba(239, 68, 68, 0.25);
+        font-size: 11px;
+        font-weight: 600;
+        padding: 3px 8px;
+        border-radius: 5px;
+    }
+    .loss-badge {
+        background: rgba(16, 185, 129, 0.12);
+        color: #34d399;
+        border: 1px solid rgba(16, 185, 129, 0.25);
+        font-size: 11px;
+        font-weight: 700;
+        padding: 3px 8px;
+        border-radius: 5px;
+    }
+    .pitch-body-box {
+        background: #090d16;
+        border: 1px solid #1e293b;
+        border-radius: 8px;
+        padding: 16px;
+        margin-bottom: 16px;
+    }
+    pre {
+        font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+        font-size: 14px;
+        color: #e2e8f0;
+        white-space: pre-wrap;
+        line-height: 1.6;
+    }
+    .card-footer {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 12px;
+    }
+    .copy-btn {
+        background: #1e293b;
+        color: #f1f5f9;
+        border: 1px solid #334155;
+        padding: 9px 16px;
+        border-radius: 8px;
+        font-size: 12px;
+        font-weight: 700;
+        cursor: pointer;
+        transition: background 0.15s;
+    }
+    .copy-btn:hover {
+        background: #334155;
+    }
+    .send-btn {
+        background: #0284c7;
+        color: #ffffff;
+        text-decoration: none;
+        padding: 9px 18px;
+        border-radius: 8px;
+        font-size: 12px;
+        font-weight: 700;
+        display: inline-block;
+        transition: background 0.15s;
+    }
+    .send-btn:hover {
+        background: #0369a1;
+    }
+</style>
+<script>
+    function copyPitch(idx) {
+        const text = document.getElementById('body-text-' + idx).innerText;
+        navigator.clipboard.writeText(text).then(() => {
+            const btn = document.querySelector('#card-' + idx + ' .copy-btn');
+            const orig = btn.innerText;
+            btn.innerText = '✅ Copied!';
+            btn.style.borderColor = '#22c55e';
+            setTimeout(() => {
+                btn.innerText = orig;
+                btn.style.borderColor = '#334155';
+            }, 2000);
+        });
+    }
+</script>
+</head>
+<body>
+<div class="container">
+    <div class="dashboard-header">
+        <div>
+            <h1 class="brand-title">FZCORE Studio • Cloud Email Engine</h1>
+            <p class="brand-sub">Pattern-Interrupt Founder Cold Outbound • 100% Human Direct-Response</p>
+        </div>
+        <div class="header-badges">
+            <div class="rule-pill">🛡️ 0 Em-Dashes • Zero AI Slop</div>
+            <div class="stat-badge">
+                <div class="stat-num">3</div>
+                <div class="stat-lbl">Ready Pitches</div>
+            </div>
+        </div>
+    </div>
+
+    
+        <div class="pitch-card" id="card-1">
+            <div class="card-header">
+                <div class="header-left">
+                    <span class="idx-badge">#1</span>
+                    <h2 class="biz-title">Rooftop Solar</h2>
+                    <span class="cat-chip">Solar Panel Installation</span>
+                    <span class="loc-chip">📍 Scottsdale, AZ</span>
+                </div>
+                <div class="header-right">
+                    <a href="https://www.google.com/maps/search/?api=1&query=Rooftop+Solar+Scottsdale+AZ" target="_blank" class="maps-pill" title="Verify reviews on Google Maps">
+                        ★ 5.0 (26 reviews) • Rank #29 ↗
+                    </a>
+                    <a href="https://rooftopsolar.us/phoenix-solar-installation" target="_blank" class="site-pill" title="Open live website">
+                        🌐 rooftopsolar.us ↗
+                    </a>
+                </div>
+            </div>
+
+            <div class="email-meta-bar">
+                <div class="meta-item">
+                    <strong>To:</strong> 
+                    <span class="email-to">energized@rooftopsolar.us</span> 
+                    <span class="tier-badge">TIER_2_NAMED_PERSONAL</span>
+                </div>
+                <div class="meta-item">
+                    <strong>Angle:</strong> <span class="angle-badge">Modern Bento Credibility Revamp</span>
+                </div>
+                <div class="meta-item subject-row">
+                    <strong>Subject:</strong> <span class="email-subj">quick question for Passion re rooftopsolar.us</span>
+                </div>
+            </div>
+
+            <div class="flaws-bar">
+                <span class='evidence-pill'>⚠️ 2015-Era Credibility Penalty (Full Modern Redesign Needed)</span>
+                <span class="loss-badge">💸 Revenue Bleed: $5,250 – $10,500/mo</span>
+            </div>
+
+            <div class="pitch-body-box">
+                <pre id="body-text-1">Hi Passion,
+
+Came across your work in Scottsdale. Really solid track record with your 26 reviews on Google.
+
+I noticed on mobile that your site is still running on an older layout with an older copyright. High-end clients looking for solar panel installation usually judge credibility within 5 seconds on their phone before deciding whether to call.
+
+I mocked up a clean, modern executive preview for Rooftop Solar that showcases your work much sharper on iPhone. Would you be open to seeing a 20-second preview? (Zero pitch or pressure either way).
+
+Best,
+Faiz Majeed
+FZCORE Studio</pre>
+            </div>
+
+            <div class="card-footer">
+                <button class="copy-btn" onclick="copyPitch(1)">
+                    📋 Copy Email
+                </button>
+                <a href="mailto:energized@rooftopsolar.us?subject=quick+question+for+Passion+re+rooftopsolar.us&body=Hi+Passion%2C%0A%0ACame+across+your+work+in+Scottsdale.+Really+solid+track+record+with+your+26+reviews+on+Google.%0A%0AI+noticed+on+mobile+that+your+site+is+still+running+on+an+older+layout+with+an+older+copyright.+High-end+clients+looking+for+solar+panel+installation+usually+judge+credibility+within+5+seconds+on+their+phone+before+deciding+whether+to+call.%0A%0AI+mocked+up+a+clean%2C+modern+executive+preview+for+Rooftop+Solar+that+showcases+your+work+much+sharper+on+iPhone.+Would+you+be+open+to+seeing+a+20-second+preview%3F+%28Zero+pitch+or+pressure+either+way%29.%0A%0ABest%2C%0AFaiz+Majeed%0AFZCORE+Studio" class="send-btn">
+                    ✉ 1-Click Send via Mail Client
+                </a>
+            </div>
+        </div>
+        
+
+        <div class="pitch-card" id="card-2">
+            <div class="card-header">
+                <div class="header-left">
+                    <span class="idx-badge">#2</span>
+                    <h2 class="biz-title">Phoenix Solar Panel Systems LLC</h2>
+                    <span class="cat-chip">Solar Panel Installation</span>
+                    <span class="loc-chip">📍 Scottsdale, AZ</span>
+                </div>
+                <div class="header-right">
+                    <a href="https://www.google.com/maps/search/?api=1&query=Phoenix+Solar+Panel+Systems+LLC+Scottsdale+AZ" target="_blank" class="maps-pill" title="Verify reviews on Google Maps">
+                        ★ 4.5 (23 reviews) • Rank #36 ↗
+                    </a>
+                    <a href="https://www.phoenixsolarpanelsystems.com" target="_blank" class="site-pill" title="Open live website">
+                        🌐 phoenixsolarpanelsystems.com ↗
+                    </a>
+                </div>
+            </div>
+
+            <div class="email-meta-bar">
+                <div class="meta-item">
+                    <strong>To:</strong> 
+                    <span class="email-to">Domain Inbox</span> 
+                    <span class="tier-badge">TIER_4_GATEKEEPER_ROUTED</span>
+                </div>
+                <div class="meta-item">
+                    <strong>Angle:</strong> <span class="angle-badge">1-Tap Call & Sticky Bottom Bar</span>
+                </div>
+                <div class="meta-item subject-row">
+                    <strong>Subject:</strong> <span class="email-subj">phoenixsolarpanelsystems.com mobile call button</span>
+                </div>
+            </div>
+
+            <div class="flaws-bar">
+                <span class='evidence-pill' title='When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.'>🔍 Missing Sticky Mobile Bottom Call/Quote Bar</span><span class='evidence-pill' title='High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.'>🔍 Missing 60-Second Instant Project Cost Estimator</span>
+                <span class="loss-badge">💸 Revenue Bleed: $15,000 – $37,500/mo</span>
+            </div>
+
+            <div class="pitch-body-box">
+                <pre id="body-text-2">Hi there,
+
+Came across your solar panel installation work in Scottsdale. Solid reputation with your 23 reviews on Google.
+
+Pulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.
+
+I mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Phoenix Solar Panel Systems LLC on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).
+
+Best,
+Faiz Majeed
+FZCORE Studio</pre>
+            </div>
+
+            <div class="card-footer">
+                <button class="copy-btn" onclick="copyPitch(2)">
+                    📋 Copy Email
+                </button>
+                <a href="mailto:Domain Inbox?subject=phoenixsolarpanelsystems.com+mobile+call+button&body=Hi+there%2C%0A%0ACame+across+your+solar+panel+installation+work+in+Scottsdale.+Solid+reputation+with+your+23+reviews+on+Google.%0A%0APulled+up+your+site+on+my+iPhone+this+morning+and+noticed+the+phone+number+isn%27t+1-tap+clickable%2C+and+when+you+scroll+down+to+check+your+past+projects%2C+the+contact+option+disappears+off+the+screen.+Most+homeowners+shopping+on+mobile+want+to+call+with+one+tap%3B+when+they+have+to+memorize+or+copy-paste+digits%2C+a+lot+of+them+just+tap+back+to+the+next+contractor+on+Google+Maps.%0A%0AI+mocked+up+a+fast%2C+brand-matched+tap-to-call+bar+and+sticky+quote+button+for+Phoenix+Solar+Panel+Systems+LLC+on+mobile.+Would+you+be+opposed+to+me+sending+over+a+short+20-second+screen+demo%3F+%28No+pitch+or+pressure+either+way%29.%0A%0ABest%2C%0AFaiz+Majeed%0AFZCORE+Studio" class="send-btn">
+                    ✉ 1-Click Send via Mail Client
+                </a>
+            </div>
+        </div>
+        
+
+        <div class="pitch-card" id="card-3">
+            <div class="card-header">
+                <div class="header-left">
+                    <span class="idx-badge">#3</span>
+                    <h2 class="biz-title">Arizona Solar Energy Industries Association (AriSEIA)</h2>
+                    <span class="cat-chip">Solar Panel Installation</span>
+                    <span class="loc-chip">📍 Scottsdale, AZ</span>
+                </div>
+                <div class="header-right">
+                    <a href="https://www.google.com/maps/search/?api=1&query=Arizona+Solar+Energy+Industries+Association+%28AriSEIA%29+Scottsdale+AZ" target="_blank" class="maps-pill" title="Verify reviews on Google Maps">
+                        ★ 3.7 (3 reviews) • Rank #37 ↗
+                    </a>
+                    <a href="https://www.ariseia.org" target="_blank" class="site-pill" title="Open live website">
+                        🌐 ariseia.org ↗
+                    </a>
+                </div>
+            </div>
+
+            <div class="email-meta-bar">
+                <div class="meta-item">
+                    <strong>To:</strong> 
+                    <span class="email-to">autumn@ariseia.org</span> 
+                    <span class="tier-badge">TIER_2_NAMED_PERSONAL</span>
+                </div>
+                <div class="meta-item">
+                    <strong>Angle:</strong> <span class="angle-badge">1-Tap Call & Sticky Bottom Bar</span>
+                </div>
+                <div class="meta-item subject-row">
+                    <strong>Subject:</strong> <span class="email-subj">quick question for Autumn re ariseia.org</span>
+                </div>
+            </div>
+
+            <div class="flaws-bar">
+                <span class='evidence-pill' title='Immediate loss of hot inbound emergency and estimate requests from mobile phone searches.'>🔍 No Direct Phone Number Accessible on Mobile Fold</span><span class='evidence-pill' title='When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.'>🔍 Missing Sticky Mobile Bottom Call/Quote Bar</span>
+                <span class="loss-badge">💸 Revenue Bleed: $15,000 – $37,500/mo</span>
+            </div>
+
+            <div class="pitch-body-box">
+                <pre id="body-text-3">Hi Autumn,
+
+Came across your solar panel installation work in Scottsdale. Solid reputation with your 3 reviews on Google.
+
+Pulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.
+
+I mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Arizona Solar Energy Industries Association (AriSEIA) on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).
+
+Best,
+Faiz Majeed
+FZCORE Studio</pre>
+            </div>
+
+            <div class="card-footer">
+                <button class="copy-btn" onclick="copyPitch(3)">
+                    📋 Copy Email
+                </button>
+                <a href="mailto:autumn@ariseia.org?subject=quick+question+for+Autumn+re+ariseia.org&body=Hi+Autumn%2C%0A%0ACame+across+your+solar+panel+installation+work+in+Scottsdale.+Solid+reputation+with+your+3+reviews+on+Google.%0A%0APulled+up+your+site+on+my+iPhone+this+morning+and+noticed+the+phone+number+isn%27t+1-tap+clickable%2C+and+when+you+scroll+down+to+check+your+past+projects%2C+the+contact+option+disappears+off+the+screen.+Most+homeowners+shopping+on+mobile+want+to+call+with+one+tap%3B+when+they+have+to+memorize+or+copy-paste+digits%2C+a+lot+of+them+just+tap+back+to+the+next+contractor+on+Google+Maps.%0A%0AI+mocked+up+a+fast%2C+brand-matched+tap-to-call+bar+and+sticky+quote+button+for+Arizona+Solar+Energy+Industries+Association+%28AriSEIA%29+on+mobile.+Would+you+be+opposed+to+me+sending+over+a+short+20-second+screen+demo%3F+%28No+pitch+or+pressure+either+way%29.%0A%0ABest%2C%0AFaiz+Majeed%0AFZCORE+Studio" class="send-btn">
+                    ✉ 1-Click Send via Mail Client
+                </a>
+            </div>
+        </div>
+        
+</div>
+</body>
+</html>

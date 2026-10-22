@@ -61,10 +61,14 @@ jobs:
             echo "Zero changes to commit."
           fi
 
-      - name: 📤 Upload Telemetry Artifact
+      - name: 📤 Upload Telemetry & Pitch Artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: market-telemetry-latest
-          path: telemetry_data/market_records.json
+          path: |
+            telemetry_data/market_records.json
+            telemetry_data/vetted_master_dossier.json
+            telemetry_data/approved_pitches.json
+            telemetry_data/pitch_review_dashboard.html
           retention-days: 14
