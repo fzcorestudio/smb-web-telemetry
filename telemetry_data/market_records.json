@@ -73866,5 +73866,293 @@
     },
     "gemini_context_snippet": "Target: saw how at Aria (Orange County, CA). Profile: Rank #58 on Google Maps (5 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-22T14:33:46.436552+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696096-5",
+    "estimated_rank": 49,
+    "business_name": "Allred Tree Service",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.allredtree.com",
+    "domain": "allredtree.com",
+    "reviews_count": 10,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Allred Tree Service (Houston, TX). Profile: Rank #49 on Google Maps (10 reviews, 4.4★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T19:08:16.471656+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696103-6",
+    "estimated_rank": 50,
+    "business_name": "Embark Tree Services",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.embarkservices.com",
+    "domain": "embarkservices.com",
+    "reviews_count": 28,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@embarkservices.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Embark Tree Services (Houston, TX). Profile: Rank #50 on Google Maps (28 reviews, 4.4★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T19:08:23.004208+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696161-1",
+    "estimated_rank": 31,
+    "business_name": "Cesar pressure washing",
+    "category": "Commercial Pressure Washing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://cesarpressurewashing.com",
+    "domain": "cesarpressurewashing.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "tools",
+      "first_name": "Miguel",
+      "title": "Decision Maker",
+      "verified_email": "miguel@cesarpressurewashing.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: tools at Cesar pressure washing (Houston, TX). Profile: Rank #31 on Google Maps (20 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T19:09:21.283231+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696266-8",
+    "estimated_rank": 60,
+    "business_name": "Foundation Specialists, Inc.",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.foundationexperts.com",
+    "domain": "foundationexperts.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@foundationexperts.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Foundation Specialists, Inc. (Houston, TX). Profile: Rank #60 on Google Maps (7 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T19:11:06.194101+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696305-4",
+    "estimated_rank": 52,
+    "business_name": "Unicrete Polished Concrete & Epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://unicreteflooring.com/south-houston",
+    "domain": "unicreteflooring.com",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@unicreteflooring.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Unicrete Polished Concrete & Epoxy (Houston, TX). Profile: Rank #52 on Google Maps (14 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T19:11:45.698528+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696475-7",
+    "estimated_rank": 53,
+    "business_name": "Painting Professionals Inc.",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.paintingprofessionals.com",
+    "domain": "paintingprofessionals.com",
+    "reviews_count": 13,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Letstalk",
+      "first_name": "Letstalk",
+      "title": "Decision Maker",
+      "verified_email": "letstalk@paintingprofessionals.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Letstalk at Painting Professionals Inc. (Houston, TX). Profile: Rank #53 on Google Maps (13 reviews, 4.7★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T19:14:35.795785+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696477-8",
+    "estimated_rank": 55,
+    "business_name": "B & B Painting Contractors",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.b-b-paintingcontractors.com",
+    "domain": "b-b-paintingcontractors.com",
+    "reviews_count": 14,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "and business",
+      "first_name": "Kclacher",
+      "title": "Decision Maker",
+      "verified_email": "kclacher@comcast.net",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: and business at B & B Painting Contractors (Houston, TX). Profile: Rank #55 on Google Maps (14 reviews, 4.1★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T19:14:37.630310+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696721-1",
+    "estimated_rank": 23,
+    "business_name": "Riviera Custom Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://rivieracustompoolshouston.com",
+    "domain": "rivieracustompoolshouston.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Riviera Custom Pools (Houston, TX). Profile: Rank #23 on Google Maps (8 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T19:18:41.554841+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792696755-6",
+    "estimated_rank": 49,
+    "business_name": "Pool n Spa Artistry",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.poolnspaartistry.com",
+    "domain": "poolnspaartistry.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Robert Salinas",
+      "first_name": "Tony",
+      "title": "Decision Maker",
+      "verified_email": "tony@doublecoastcreative.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Robert Salinas at Pool n Spa Artistry (Houston, TX). Profile: Rank #49 on Google Maps (16 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T19:19:15.199667+00:00"
   }
 ]
