@@ -60086,5 +60086,677 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Australian Concrete Pty Ltd (Sydney, NSW). Profile: Rank #57 on Google Maps (22 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-22T06:52:03.341310+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654034-1",
+    "estimated_rank": 55,
+    "business_name": "Simple Auto Detailing",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.simpleautodetailing.com",
+    "domain": "simpleautodetailing.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Simple Auto Detailing (Tampa, FL). Profile: Rank #55 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:27:14.922535+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654066-7",
+    "estimated_rank": 53,
+    "business_name": "Good Neighbor Fence Company",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://fence4u.biz",
+    "domain": "fence4u.biz",
+    "reviews_count": 6,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@fence4u.biz",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Good Neighbor Fence Company (Tampa, FL). Profile: Rank #53 on Google Maps (6 reviews, 4.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:27:46.190540+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654192-2",
+    "estimated_rank": 32,
+    "business_name": "Arts and Graphics Beyond",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.artandgraphicsbeyond.com",
+    "domain": "artandgraphicsbeyond.com",
+    "reviews_count": 26,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Arts and Graphics Beyond (Tampa, FL). Profile: Rank #32 on Google Maps (26 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:29:52.154971+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654194-4",
+    "estimated_rank": 34,
+    "business_name": "ChappellRoberts",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://chappellroberts.com",
+    "domain": "chappellroberts.com",
+    "reviews_count": 3,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Careers",
+      "verified_email": "careers@chappellroberts.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Careers at ChappellRoberts (Tampa, FL). Profile: Rank #34 on Google Maps (3 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T07:29:54.453914+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654230-19",
+    "estimated_rank": 57,
+    "business_name": "The BCPR Group",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://thebcprgroup.com",
+    "domain": "thebcprgroup.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Small Business",
+      "verified_email": "cristy@thebcprgroup.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Small Business at The BCPR Group (Tampa, FL). Profile: Rank #57 on Google Maps (22 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:30:30.117770+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654232-20",
+    "estimated_rank": 59,
+    "business_name": "Starr Enterprises",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://starrenterprises.com",
+    "domain": "starrenterprises.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@starrenterprises.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Starr Enterprises (Tampa, FL). Profile: Rank #59 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:30:32.068895+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654234-21",
+    "estimated_rank": 60,
+    "business_name": "BrandHouse Promotions",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.brandhousepromotions.com",
+    "domain": "brandhousepromotions.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at BrandHouse Promotions (Tampa, FL). Profile: Rank #60 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:30:34.231724+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654276-6",
+    "estimated_rank": 46,
+    "business_name": "GEG Surfaces",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://gegsurfaces.com",
+    "domain": "gegsurfaces.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at GEG Surfaces (Tampa, FL). Profile: Rank #46 on Google Maps (24 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:31:16.110399+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654293-8",
+    "estimated_rank": 55,
+    "business_name": "Majestic Coatings",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://majesticcoatingsflorida.com",
+    "domain": "majesticcoatingsflorida.com",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Posted",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Posted at Majestic Coatings (Tampa, FL). Profile: Rank #55 on Google Maps (25 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:31:33.867619+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654540-2",
+    "estimated_rank": 41,
+    "business_name": "C&C Painting Contractors Inc",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.ccpainting.com",
+    "domain": "ccpainting.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@ccpainting.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at C&C Painting Contractors Inc (Tampa, FL). Profile: Rank #41 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:35:40.669827+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654688-9",
+    "estimated_rank": 53,
+    "business_name": "LANDMARK POOLS",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.landmarkpools.com",
+    "domain": "landmarkpools.com",
+    "reviews_count": 11,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@landmarkpools.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at LANDMARK POOLS (Tampa, FL). Profile: Rank #53 on Google Maps (11 reviews, 4.1★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T07:38:08.702611+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654707-5",
+    "estimated_rank": 59,
+    "business_name": "Caballero & Fernandez de Avila, P. A. Abogados de Inmigración en Florida",
+    "category": "Immigration & Visa Consultant",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.caballerolg.com",
+    "domain": "caballerolg.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Caballero & Fernandez de Avila, P. A. Abogados de Inmigración en Florida (Tampa, FL). Profile: Rank #59 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:38:27.186222+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654767-7",
+    "estimated_rank": 50,
+    "business_name": "The Fence Lady & Co",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.thefenceladyco.com",
+    "domain": "thefenceladyco.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Melissa",
+      "verified_email": "melissa@thefenceladyco.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Melissa at The Fence Lady & Co (Denver, CO). Profile: Rank #50 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:39:27.034298+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654770-10",
+    "estimated_rank": 55,
+    "business_name": "CE Fence Company LLC",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.cefencecompany.com",
+    "domain": "cefencecompany.com",
+    "reviews_count": 9,
+    "rating": 3.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at CE Fence Company LLC (Denver, CO). Profile: Rank #55 on Google Maps (9 reviews, 3.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:39:30.252692+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654802-3",
+    "estimated_rank": 37,
+    "business_name": "Golden Solar",
+    "category": "Solar Panel Installation",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://goldensolar.net",
+    "domain": "goldensolar.net",
+    "reviews_count": 18,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Gosolar",
+      "verified_email": "gosolar@goldensolar.net",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Gosolar at Golden Solar (Denver, CO). Profile: Rank #37 on Google Maps (18 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:40:02.250595+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654808-6",
+    "estimated_rank": 48,
+    "business_name": "Rogue Energy Solutions",
+    "category": "Solar Panel Installation",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://rogue.homes",
+    "domain": "rogue.homes",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Master Electrician",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Master Electrician at Rogue Energy Solutions (Denver, CO). Profile: Rank #48 on Google Maps (19 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:40:08.817519+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654810-7",
+    "estimated_rank": 50,
+    "business_name": "Eclipse Solar LLC",
+    "category": "Solar Panel Installation",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://eclipsesolarllc.com",
+    "domain": "eclipsesolarllc.com",
+    "reviews_count": 14,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "service@eclipsesolarllc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Eclipse Solar LLC (Denver, CO). Profile: Rank #50 on Google Maps (14 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:40:10.582686+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654812-8",
+    "estimated_rank": 60,
+    "business_name": "Renewable Energy Advisors",
+    "category": "Solar Panel Installation",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.renewable-advisors.com",
+    "domain": "renewable-advisors.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Marketing",
+      "verified_email": "marketing@renewable-advisors.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Marketing at Renewable Energy Advisors (Denver, CO). Profile: Rank #60 on Google Maps (22 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:40:12.955211+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654826-1",
+    "estimated_rank": 37,
+    "business_name": "UCHealth Plastic and Reconstructive Surgery Clinic - Cherry Creek",
+    "category": "Plastic Surgery Center",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.uchealth.org/locations/uchealth-plastic-and-reconstructive-surgery-clinic-cherry-creek",
+    "domain": "uchealth.org",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at UCHealth Plastic and Reconstructive Surgery Clinic - Cherry Creek (Denver, CO). Profile: Rank #37 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:40:26.228026+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654884-4",
+    "estimated_rank": 46,
+    "business_name": "1st HVAC Repair Denver",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://1sthvacrepairdenver.com",
+    "domain": "1sthvacrepairdenver.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at 1st HVAC Repair Denver (Denver, CO). Profile: Rank #46 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:41:24.047697+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654911-9",
+    "estimated_rank": 44,
+    "business_name": "Strada Made",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.stradamade.com",
+    "domain": "stradamade.com",
+    "reviews_count": 4,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hello@stradamade.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Strada Made (Denver, CO). Profile: Rank #44 on Google Maps (4 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:41:51.457357+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654925-19",
+    "estimated_rank": 58,
+    "business_name": "Make West",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://makewest.com",
+    "domain": "makewest.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@makewest.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Make West (Denver, CO). Profile: Rank #58 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:42:05.109204+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654925-20",
+    "estimated_rank": 59,
+    "business_name": "Odegard & Company",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.odegardco.io",
+    "domain": "odegardco.io",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Odegard & Company (Denver, CO). Profile: Rank #59 on Google Maps (25 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T07:42:05.908924+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792654930-21",
+    "estimated_rank": 60,
+    "business_name": "Tamarind Design + Marketing",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.tamarinddesign.com",
+    "domain": "tamarinddesign.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Audiology",
+      "verified_email": "hello@tamarinddesign.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Audiology at Tamarind Design + Marketing (Denver, CO). Profile: Rank #60 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T07:42:10.051160+00:00"
   }
 ]
