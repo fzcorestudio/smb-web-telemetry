@@ -126,5 +126,45 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
     "eliminated_at": "2026-10-22T16:23:19.588410+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792617101-13",
+    "business_name": "Mrs. Clean Company",
+    "website": "https://mrscleancompany.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T17:00:42.086419+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618244-1",
+    "business_name": "Houston Hair Nation",
+    "website": "https://www.vagaro.com/googlemap/U2FsdGVkX1-zP7CH8PFamRZKlRIQf5jPHZ0uj4JArgM=/services",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-22T17:04:22.857953+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618266-3",
+    "business_name": "Painting by Marcia",
+    "website": "https://www.paintingbymarcia.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-22T17:05:03.391833+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618331-8",
+    "business_name": "Elias Solar, Inc.",
+    "website": "https://www.elias.solar",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T17:06:41.125435+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618375-10",
+    "business_name": "White Oak Homes",
+    "website": "http://www.whiteoakhomeshouston.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T17:08:40.331725+00:00"
   }
 ]
