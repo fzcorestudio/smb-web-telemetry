@@ -65070,5 +65070,1769 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Tough Floors - Northern Brisbane (Brisbane, QLD). Profile: Rank #60 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
     "harvested_at": "2026-10-22T10:50:05.602418+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792667594-6",
+    "estimated_rank": 56,
+    "business_name": "Agencia del pueblo",
+    "category": "Immigration & Visa Consultant",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://agenciadelpueblo.com/contacto",
+    "domain": "agenciadelpueblo.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Jessica",
+      "verified_email": "jessica@agenciadelpueblo.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jessica at Agencia del pueblo (Tampa, FL). Profile: Rank #56 on Google Maps (13 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:13:14.234730+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792667630-12",
+    "estimated_rank": 53,
+    "business_name": "LRE Foundation Repair Of Brandon",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://lrefoundationrepairofbrandon.com",
+    "domain": "lrefoundationrepairofbrandon.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at LRE Foundation Repair Of Brandon (Tampa, FL). Profile: Rank #53 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:13:50.517714+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792667840-16",
+    "estimated_rank": 50,
+    "business_name": "Windstar Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://windstarhomes.com",
+    "domain": "windstarhomes.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@windstarhomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Windstar Homes (Tampa, FL). Profile: Rank #50 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:17:20.050448+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792667841-18",
+    "estimated_rank": 53,
+    "business_name": "Bartlett Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.bartlettcustomhomes.com",
+    "domain": "bartlettcustomhomes.com",
+    "reviews_count": 10,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Jack Bartlett",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jack Bartlett at Bartlett Custom Homes (Tampa, FL). Profile: Rank #53 on Google Maps (10 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:17:21.746372+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792667843-19",
+    "estimated_rank": 55,
+    "business_name": "Sabal Homes of Florida",
+    "category": "Luxury Custom Home Builder",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://sabalhomesfl.com",
+    "domain": "sabalhomesfl.com",
+    "reviews_count": 16,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sabal Homes of Florida (Tampa, FL). Profile: Rank #55 on Google Maps (16 reviews, 3.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:17:23.769049+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792667853-20",
+    "estimated_rank": 57,
+    "business_name": "Classic Builders",
+    "category": "Luxury Custom Home Builder",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://classicbuilders.com",
+    "domain": "classicbuilders.com",
+    "reviews_count": 9,
+    "rating": 3.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@classicbuilders.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Classic Builders (Tampa, FL). Profile: Rank #57 on Google Maps (9 reviews, 3.2★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:17:33.701480+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792667856-21",
+    "estimated_rank": 62,
+    "business_name": "Sunset Properties of Tampa",
+    "category": "Luxury Custom Home Builder",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.sunsetoftampa.com",
+    "domain": "sunsetoftampa.com",
+    "reviews_count": 10,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Mark",
+      "verified_email": "mark@sunsetoftampa.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Mark at Sunset Properties of Tampa (Tampa, FL). Profile: Rank #62 on Google Maps (10 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:17:36.057898+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792667950-12",
+    "estimated_rank": 57,
+    "business_name": "My Florida Bath",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.myfloridabath.com",
+    "domain": "myfloridabath.com",
+    "reviews_count": 16,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at My Florida Bath (Tampa, FL). Profile: Rank #57 on Google Maps (16 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:19:10.765224+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668056-2",
+    "estimated_rank": 50,
+    "business_name": "RoofSmith of Tampa Bay, Inc.",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.myroofsmith.com",
+    "domain": "myroofsmith.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at RoofSmith of Tampa Bay, Inc. (Tampa, FL). Profile: Rank #50 on Google Maps (24 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:20:56.918409+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668082-9",
+    "estimated_rank": 54,
+    "business_name": "Tampa Bay Cleaners Supply",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.getdrycleansupplies.com",
+    "domain": "getdrycleansupplies.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@getdrycleansupplies.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tampa Bay Cleaners Supply (Tampa, FL). Profile: Rank #54 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:21:22.551394+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668084-10",
+    "estimated_rank": 55,
+    "business_name": "360clean",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://360clean.com/locations/florida/commercial-cleaning-services-in-tampa-fl",
+    "domain": "360clean.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "You",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: You at 360clean (Tampa, FL). Profile: Rank #55 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:21:24.212208+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668275-1",
+    "estimated_rank": 45,
+    "business_name": "Suburban Heating & Air Conditioning",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.suburbanheatandair.com",
+    "domain": "suburbanheatandair.com",
+    "reviews_count": 25,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Charles",
+      "verified_email": "charles@suburbanheatandair.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Charles at Suburban Heating & Air Conditioning (Dallas, TX). Profile: Rank #45 on Google Maps (25 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:24:35.816887+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668291-1",
+    "estimated_rank": 34,
+    "business_name": "Colvex Plumbing",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.colvexplumbing.com",
+    "domain": "colvexplumbing.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Colvex Plumbing (Dallas, TX). Profile: Rank #34 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:24:51.632464+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668292-2",
+    "estimated_rank": 46,
+    "business_name": "Plumbing Services",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.24hrplumber.org",
+    "domain": "24hrplumber.org",
+    "reviews_count": 13,
+    "rating": 3.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Plumbing Services (Dallas, TX). Profile: Rank #46 on Google Maps (13 reviews, 3.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:24:52.652878+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668306-1",
+    "estimated_rank": 40,
+    "business_name": "Immigration Waiver Law Firm PC.",
+    "category": "Immigration & Visa Consultant",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.immigrationwaiverlaw.com",
+    "domain": "immigrationwaiverlaw.com",
+    "reviews_count": 14,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Immigration Waiver Law Firm PC. (Dallas, TX). Profile: Rank #40 on Google Maps (14 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:25:06.332197+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668306-2",
+    "estimated_rank": 47,
+    "business_name": "Bay Immigration Law",
+    "category": "Immigration & Visa Consultant",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.bayimmigrationlaw.com",
+    "domain": "bayimmigrationlaw.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Executive Vice",
+      "verified_email": "info@bayimmigrationlaw.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Executive Vice at Bay Immigration Law (Dallas, TX). Profile: Rank #47 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:25:06.810531+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668319-1",
+    "estimated_rank": 30,
+    "business_name": "Security Home Foundation Repair LLC",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.securityfoundationrepair.net",
+    "domain": "securityfoundationrepair.net",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Security Home Foundation Repair LLC (Dallas, TX). Profile: Rank #30 on Google Maps (6 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:25:19.474461+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668319-2",
+    "estimated_rank": 32,
+    "business_name": "Ace Foundation Repair Inc",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.acefoundation.com",
+    "domain": "acefoundation.com",
+    "reviews_count": 11,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ace Foundation Repair Inc (Dallas, TX). Profile: Rank #32 on Google Maps (11 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:25:19.952166+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668322-4",
+    "estimated_rank": 42,
+    "business_name": "All Star Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.allstarfoundationrepair.com",
+    "domain": "allstarfoundationrepair.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Property",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Property at All Star Foundation Repair (Dallas, TX). Profile: Rank #42 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:25:22.005846+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668322-5",
+    "estimated_rank": 49,
+    "business_name": "Expert Foundation Repair LLC",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.expertfoundationrepairdfw.com",
+    "domain": "expertfoundationrepairdfw.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Expert Foundation Repair LLC (Dallas, TX). Profile: Rank #49 on Google Maps (13 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:25:22.897993+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668324-6",
+    "estimated_rank": 56,
+    "business_name": "Dallas Fort Worth Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.dallasfortworthfoundationrepair.com",
+    "domain": "dallasfortworthfoundationrepair.com",
+    "reviews_count": 20,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@dallasfortworthfoundationrepair.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dallas Fort Worth Foundation Repair (Dallas, TX). Profile: Rank #56 on Google Maps (20 reviews, 4.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:25:24.836522+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668325-7",
+    "estimated_rank": 58,
+    "business_name": "Sunbelt Waterproofing & Restoration, LLC.",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.sunbeltllc.com",
+    "domain": "sunbeltllc.com",
+    "reviews_count": 18,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Sbinfo",
+      "verified_email": "sbinfo@sunbeltllc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Sbinfo at Sunbelt Waterproofing & Restoration, LLC. (Dallas, TX). Profile: Rank #58 on Google Maps (18 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:25:25.679417+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668326-8",
+    "estimated_rank": 60,
+    "business_name": "Guaranteed Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.guaranteedfoundationrepair.com",
+    "domain": "guaranteedfoundationrepair.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Guaranteed Foundation Repair (Dallas, TX). Profile: Rank #60 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:25:26.991699+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668340-2",
+    "estimated_rank": 51,
+    "business_name": "Rainbow Restoration of Far North Dallas",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://rainbowrestores.com/far-north-dallas",
+    "domain": "rainbowrestores.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Why Property",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Why Property at Rainbow Restoration of Far North Dallas (Dallas, TX). Profile: Rank #51 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:25:40.417995+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668342-3",
+    "estimated_rank": 57,
+    "business_name": "Dallas Mold Consultants",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.dallasmoldconsultants.com",
+    "domain": "dallasmoldconsultants.com",
+    "reviews_count": 26,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business",
+      "verified_email": "office@dallasmoldconsultants.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business at Dallas Mold Consultants (Dallas, TX). Profile: Rank #57 on Google Maps (26 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:25:42.874081+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668368-1",
+    "estimated_rank": 24,
+    "business_name": "The Shop",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://theshopagency.com",
+    "domain": "theshopagency.com",
+    "reviews_count": 4,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Tiff",
+      "verified_email": "jobs@theshopagency.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Tiff at The Shop (Dallas, TX). Profile: Rank #24 on Google Maps (4 reviews, 4.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:08.794082+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668369-2",
+    "estimated_rank": 27,
+    "business_name": "Big D Creative",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.bigdcreative.com",
+    "domain": "bigdcreative.com",
+    "reviews_count": 23,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Max",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Max at Big D Creative (Dallas, TX). Profile: Rank #27 on Google Maps (23 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:09.879282+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668371-3",
+    "estimated_rank": 31,
+    "business_name": "Cool Brand Media",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://coolbrandmedia.com",
+    "domain": "coolbrandmedia.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Julia",
+      "verified_email": "julia@coolbrandmedia.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Julia at Cool Brand Media (Dallas, TX). Profile: Rank #31 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:11.109615+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668372-4",
+    "estimated_rank": 33,
+    "business_name": "Atomic Design and Consulting",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.atomicdc.com",
+    "domain": "atomicdc.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Atomic Design and Consulting (Dallas, TX). Profile: Rank #33 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:26:12.438511+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668374-5",
+    "estimated_rank": 39,
+    "business_name": "D Media",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.dmediaweb.com",
+    "domain": "dmediaweb.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at D Media (Dallas, TX). Profile: Rank #39 on Google Maps (28 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:26:14.104141+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668375-6",
+    "estimated_rank": 43,
+    "business_name": "Trendi Marketing Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://trendimarketing.com",
+    "domain": "trendimarketing.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Trendi Marketing",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Trendi Marketing at Trendi Marketing Agency (Dallas, TX). Profile: Rank #43 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:15.187645+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668376-7",
+    "estimated_rank": 46,
+    "business_name": "Nativz",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://nativz.io",
+    "domain": "nativz.io",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Pyek Group",
+      "verified_email": "info@nativz.io",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Pyek Group at Nativz (Dallas, TX). Profile: Rank #46 on Google Maps (26 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:16.366245+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668378-8",
+    "estimated_rank": 49,
+    "business_name": "Simply Design Group",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://simplydg.com",
+    "domain": "simplydg.com",
+    "reviews_count": 8,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Simply Design Group (Dallas, TX). Profile: Rank #49 on Google Maps (8 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:18.489611+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668385-9",
+    "estimated_rank": 50,
+    "business_name": "Lotiva - Graphic Design, Marketing, and Media Experts",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://lotiva.com",
+    "domain": "lotiva.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Lotiva - Graphic Design, Marketing, and Media Experts (Dallas, TX). Profile: Rank #50 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:25.681951+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668401-1",
+    "estimated_rank": 22,
+    "business_name": "Dallas Elegant Concrete Staining and Metallic Epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.dallaselegantconcretestainingandepoxy.com",
+    "domain": "dallaselegantconcretestainingandepoxy.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dallas Elegant Concrete Staining and Metallic Epoxy (Dallas, TX). Profile: Rank #22 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:26:41.413967+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668411-2",
+    "estimated_rank": 36,
+    "business_name": "Top Dog Epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.topdogepoxy.com",
+    "domain": "topdogepoxy.com",
+    "reviews_count": 10,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Top Dog Epoxy (Dallas, TX). Profile: Rank #36 on Google Maps (10 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:26:51.430634+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668413-3",
+    "estimated_rank": 51,
+    "business_name": "Signature Epoxy Floors",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://signatureepoxyfloors.com",
+    "domain": "signatureepoxyfloors.com",
+    "reviews_count": 12,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Signature Epoxy Floors (Dallas, TX). Profile: Rank #51 on Google Maps (12 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:53.936051+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668414-4",
+    "estimated_rank": 52,
+    "business_name": "Ace Garage Pros",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://acegaragepros.com",
+    "domain": "acegaragepros.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Led Floor",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Led Floor at Ace Garage Pros (Dallas, TX). Profile: Rank #52 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:26:54.762372+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668416-5",
+    "estimated_rank": 56,
+    "business_name": "Rock Hard Concrete Coatings",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.rhconcretecoatings.com",
+    "domain": "rhconcretecoatings.com",
+    "reviews_count": 18,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Rock Hard Concrete Coatings (Dallas, TX). Profile: Rank #56 on Google Maps (18 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:26:56.032678+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668429-1",
+    "estimated_rank": 22,
+    "business_name": "Desco Fine Homes, LLC",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.descohomes.com",
+    "domain": "descohomes.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "David Goettsche",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: David Goettsche at Desco Fine Homes, LLC (Dallas, TX). Profile: Rank #22 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:27:09.624059+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668430-2",
+    "estimated_rank": 25,
+    "business_name": "Crescent Estates Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://crescentestates.com",
+    "domain": "crescentestates.com",
+    "reviews_count": 4,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Nlangley",
+      "verified_email": "nlangley@crescentestates.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Nlangley at Crescent Estates Custom Homes (Dallas, TX). Profile: Rank #25 on Google Maps (4 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:27:10.171901+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668431-3",
+    "estimated_rank": 26,
+    "business_name": "Bauhaus Modern Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://bauhaus.co",
+    "domain": "bauhaus.co",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Bauhaus Modern Homes (Dallas, TX). Profile: Rank #26 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:27:11.358358+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668433-4",
+    "estimated_rank": 27,
+    "business_name": "Arwen Builders",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.arwenbuilders.net",
+    "domain": "arwenbuilders.net",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@arwenbuilders.net",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Arwen Builders (Dallas, TX). Profile: Rank #27 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:27:13.701659+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668434-5",
+    "estimated_rank": 28,
+    "business_name": "Tanner Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.tannerhomesdfw.com",
+    "domain": "tannerhomesdfw.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Tanner",
+      "verified_email": "tanner@tannerhomesdfw.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Tanner at Tanner Homes (Dallas, TX). Profile: Rank #28 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:27:14.235321+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668435-6",
+    "estimated_rank": 30,
+    "business_name": "Texan Modern Group LLC",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://texanmodern.com",
+    "domain": "texanmodern.com",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Alnoria",
+      "verified_email": "alnoria@texanmodern.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Before/After Visual Image Comparison Slider",
+      "concrete_observation": "Project transformations are buried in static photo grids instead of an engaging, high-conversion swipe comparison slider.",
+      "matched_fzcore_service": "Service 6: Interactive Before/After Visual Showcase Slider",
+      "recommended_entry_price": "$120",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Alnoria at Texan Modern Group LLC (Dallas, TX). Profile: Rank #30 on Google Maps (8 reviews, 4.5★). Audit Flaw: Project transformations are buried in static photo grids instead of an engaging, high-conversion swipe comparison slider. Pitch Offer: Service 6: Interactive Before/After Visual Showcase Slider for $120 (24 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:27:15.870552+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668437-7",
+    "estimated_rank": 31,
+    "business_name": "Olio Builders",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://oliobuilders.com",
+    "domain": "oliobuilders.com",
+    "reviews_count": 14,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "admin@oliobuilders.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Olio Builders (Dallas, TX). Profile: Rank #31 on Google Maps (14 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:27:17.095043+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668439-8",
+    "estimated_rank": 33,
+    "business_name": "Hill Country Tiny Home Builders Dallas",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.hillcountrytinyhomes.com/dallas",
+    "domain": "hillcountrytinyhomes.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hill Country Tiny Home Builders Dallas (Dallas, TX). Profile: Rank #33 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:27:19.566509+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668440-9",
+    "estimated_rank": 35,
+    "business_name": "Divino Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.divinohomes.com",
+    "domain": "divinohomes.com",
+    "reviews_count": 21,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Divino Homes (Dallas, TX). Profile: Rank #35 on Google Maps (21 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:27:20.554715+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668440-10",
+    "estimated_rank": 36,
+    "business_name": "Simon Joseph Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://simonjosephcustom.com",
+    "domain": "simonjosephcustom.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Marius",
+      "verified_email": "marius@simonjosephcustom.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Marius at Simon Joseph Custom Homes (Dallas, TX). Profile: Rank #36 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:27:20.934278+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668442-11",
+    "estimated_rank": 38,
+    "business_name": "LRO Residential",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://lroresidential.com",
+    "domain": "lroresidential.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Les",
+      "verified_email": "les@lroresidential.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Les at LRO Residential (Dallas, TX). Profile: Rank #38 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:27:22.407841+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668448-12",
+    "estimated_rank": 39,
+    "business_name": "LMC Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://lmccustomhomes.com",
+    "domain": "lmccustomhomes.com",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Lauren",
+      "verified_email": "lauren.cupp@lmccustomhomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Lauren at LMC Custom Homes (Dallas, TX). Profile: Rank #39 on Google Maps (14 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:27:28.441701+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668450-13",
+    "estimated_rank": 47,
+    "business_name": "Ikon Residential",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.ikonres.com",
+    "domain": "ikonres.com",
+    "reviews_count": 28,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Steven",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Steven at Ikon Residential (Dallas, TX). Profile: Rank #47 on Google Maps (28 reviews, 4.5★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:27:30.696857+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668452-14",
+    "estimated_rank": 48,
+    "business_name": "Spruill Homes - Dallas Custom Home Builder",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.spruillhomes.com",
+    "domain": "spruillhomes.com",
+    "reviews_count": 15,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Spruill Homes - Dallas Custom Home Builder (Dallas, TX). Profile: Rank #48 on Google Maps (15 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:27:32.167640+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668466-15",
+    "estimated_rank": 54,
+    "business_name": "Hoffmann Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.hoffmannhomes.com",
+    "domain": "hoffmannhomes.com",
+    "reviews_count": 7,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hoffmann Homes (Dallas, TX). Profile: Rank #54 on Google Maps (7 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:27:46.235741+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668467-16",
+    "estimated_rank": 57,
+    "business_name": "Bella Vista Company",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://bellavistacompany.com",
+    "domain": "bellavistacompany.com",
+    "reviews_count": 27,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@bellavistacompany.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Bella Vista Company (Dallas, TX). Profile: Rank #57 on Google Maps (27 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:27:47.188843+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668468-17",
+    "estimated_rank": 59,
+    "business_name": "Gutman Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://gutmancustomhomes.com",
+    "domain": "gutmancustomhomes.com",
+    "reviews_count": 14,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Feedback Why",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Feedback Why at Gutman Custom Homes (Dallas, TX). Profile: Rank #59 on Google Maps (14 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:27:48.022131+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668468-18",
+    "estimated_rank": 61,
+    "business_name": "Classic Urban Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.classicurbanhomes.com",
+    "domain": "classicurbanhomes.com",
+    "reviews_count": 14,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Michael Turner",
+      "verified_email": "michael@classicurbanhomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Michael Turner at Classic Urban Homes (Dallas, TX). Profile: Rank #61 on Google Maps (14 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:27:48.368674+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668497-1",
+    "estimated_rank": 27,
+    "business_name": "Sierra Pavers LLC",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://dallaspavingllc.com",
+    "domain": "dallaspavingllc.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sierra Pavers LLC (Dallas, TX). Profile: Rank #27 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:28:17.627796+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668499-2",
+    "estimated_rank": 32,
+    "business_name": "StarTex Landscaping & Nursery",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://startexlandscaping.com",
+    "domain": "startexlandscaping.com",
+    "reviews_count": 26,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at StarTex Landscaping & Nursery (Dallas, TX). Profile: Rank #32 on Google Maps (26 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:28:19.589402+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668502-3",
+    "estimated_rank": 38,
+    "business_name": "DFW Dallas Patios Pavers",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://bestlittleyard.net/dallas",
+    "domain": "bestlittleyard.net",
+    "reviews_count": 4,
+    "rating": 3.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at DFW Dallas Patios Pavers (Dallas, TX). Profile: Rank #38 on Google Maps (4 reviews, 3.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:28:22.275928+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668506-4",
+    "estimated_rank": 39,
+    "business_name": "Summit Hardscape",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.summithardscape.com",
+    "domain": "summithardscape.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@summithardscape.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Summit Hardscape (Dallas, TX). Profile: Rank #39 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:28:26.638486+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668507-5",
+    "estimated_rank": 40,
+    "business_name": "Earth Green Lands",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://earthgreenlands.com",
+    "domain": "earthgreenlands.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Rafael",
+      "verified_email": "rafael@earthgreenlands.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Rafael at Earth Green Lands (Dallas, TX). Profile: Rank #40 on Google Maps (24 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:28:27.105201+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668515-6",
+    "estimated_rank": 48,
+    "business_name": "PavePro",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://marshalrenee.com/services/pavepro",
+    "domain": "marshalrenee.com",
+    "reviews_count": 17,
+    "rating": 3.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@marshalrenee.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at PavePro (Dallas, TX). Profile: Rank #48 on Google Maps (17 reviews, 3.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:28:35.019541+00:00"
   }
 ]
