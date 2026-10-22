@@ -32,6 +32,14 @@ if sys.platform == "win32":
     except Exception:
         pass
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+    if not os.getenv("SUBDOMAIN_MAIL_PASS"):
+        load_dotenv(Path(__file__).resolve().parent.parent / "fzcore_web" / ".env")
+except Exception:
+    pass
+
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "telemetry_data"
 
@@ -186,8 +194,10 @@ def dispatch_pitches(live_mode=False, max_sends=20, test_recipient=None):
         lead_id = item.get("lead_id")
         recipient_email = item.get("recipient_email") or item.get("lead", {}).get("decision_maker", {}).get("verified_email")
         recipient_name = item.get("recipient_name") or "Business Owner"
+        recipient_name = re.sub(r'[\r\n]+', ' ', str(recipient_name)).strip()
         business_name = item.get("business_name", "Business")
         subject = item.get("subject", f"quick question about {business_name}")
+        subject = re.sub(r'[\r\n]+', ' ', str(subject)).strip()
         body_text = item.get("body", "")
 
         if not recipient_email or "@" not in recipient_email:
