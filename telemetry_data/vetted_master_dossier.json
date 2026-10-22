@@ -1,0 +1,63 @@
+[
+  {
+    "lead_id": "FZ-US-1792611667-1",
+    "estimated_rank": 29,
+    "business_name": "Rooftop Solar",
+    "category": "Solar Panel Installation",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://rooftopsolar.us/phoenix-solar-installation",
+    "domain": "rooftopsolar.us",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "passion has",
+      "first_name": "Passion",
+      "title": "Decision Maker",
+      "verified_email": "energized@rooftopsolar.us",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Energized at Rooftop Solar (Scottsdale, AZ). Profile: Rank #29 on Google Maps (26 reviews, 5.0\u2605). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-21T19:41:07.542483+00:00",
+    "vibe_audit": {
+      "status": "QUALIFIED_REDESIGN_CANDIDATE",
+      "elimination_reason": null,
+      "bleed_type": "2015-Era Credibility Penalty (Full Modern Redesign Needed)",
+      "revenue_bleed_diagnosis": "Website runs on a 2020 copyright that lacks mobile hierarchy, losing an estimated $5,250 \u2013 $10,500/mo in unsigned jobs.",
+      "estimated_monthly_loss": "$5,250 \u2013 $10,500/mo",
+      "recommended_vibe_service": "Full Modern Bento Turnkey Redesign (3-Day Turnaround)",
+      "calibrated_price": "$450 \u2013 $650",
+      "turnaround": "72 Hours",
+      "decision_maker": {
+        "name": "passion has",
+        "first_name": "Passion",
+        "title": "Decision Maker",
+        "verified_email": "energized@rooftopsolar.us",
+        "tier": "TIER_2_NAMED_PERSONAL",
+        "tier_level": 2,
+        "email_status": "MX_DELIVERABLE_0_BOUNCE",
+        "mx_provider": "Google Workspace"
+      },
+      "personalized_pitch": {
+        "subject": "quick question for Passion re rooftopsolar.us",
+        "body": "Hi Passion, Came across your work in Scottsdale. Solid reputation with your 26 reviews on Google. I noticed on mobile that your current site still runs on an older layout with a 2020 copyright. High-end clients looking for solar panel installation usually judge credibility within a few seconds on their phone before calling. I put together a clean, modern executive redesign preview for Rooftop Solar that showcases your work much sharper on iPhone. Would you be opposed to me sending over the 30-second preview link? (No pitch or pressure either way). Best, Faiz Majeed FZCORE Studio"
+      }
+    },
+    "personalized_pitch": {
+      "subject": "quick question for Passion re rooftopsolar.us",
+      "body": "Hi Passion, Came across your work in Scottsdale. Solid reputation with your 26 reviews on Google. I noticed on mobile that your current site still runs on an older layout with a 2020 copyright. High-end clients looking for solar panel installation usually judge credibility within a few seconds on their phone before calling. I put together a clean, modern executive redesign preview for Rooftop Solar that showcases your work much sharper on iPhone. Would you be opposed to me sending over the 30-second preview link? (No pitch or pressure either way). Best, Faiz Majeed FZCORE Studio"
+    },
+    "vetted_at": "2026-10-22T14:30:28.255970+00:00"
+  }
+]

@@ -1,14 +1,18 @@
 """
 Autonomous Process Supervisor & Self-Healing Watchguard
-Ensures high-availability telemetry crawling with process cleanup.
+Manages the Daily 2-Stage Recurring Pipeline:
+Stage 1: 12:00 AM - 12:00 PM PKT -> Continuous Harvester & MX Handshake
+Stage 2: 12:00 PM - 02:30 PM PKT -> 100-Lead/Cycle Cloud Deep Auditor & Owner Hunter
+Stage 3: Outside Hours           -> Incremental Deep Auditor or On-Demand Harvest
 """
 
 import sys
 import os
+import json
 import time
 import subprocess
 import traceback
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 if sys.platform == "win32":
@@ -40,56 +44,79 @@ def log_event(attempt, error_str, tb_str):
         f.write(tb_str)
         f.write("\n" + "=" * 70 + "\n")
 
-def execute_supervised_harvest(duration_seconds=960, max_attempts=15):
+def get_current_pkt_time():
+    utc_now = datetime.now(timezone.utc)
+    return utc_now + timedelta(hours=5)
+
+def run_supervisor_pipeline(duration_seconds=960, force_mode=None):
+    pkt_now = get_current_pkt_time()
+    pkt_time_str = pkt_now.strftime("%I:%M %p PKT")
+    pkt_hour = pkt_now.hour
+    pkt_minute = pkt_now.minute
+
     print("=" * 75)
-    print("🛡️ [TELEMETRY SUPERVISOR] Initializing Continuous Max-Throttle Scanner")
-    print(f"⏱️ Allocated Run Duration: {duration_seconds // 60}m {duration_seconds % 60}s | Zero Lead Cap")
+    print(f"🛡️ [SUPERVISOR] Pakistan Standard Time: {pkt_time_str} (UTC+5)")
     print("=" * 75)
 
-    from crawler import run_telemetry_harvest
+    # Determine Active Mode:
+    # Mode A: Harvest Window (12:00 AM PKT to 12:00 PM PKT)
+    # Mode B: Deep Audit Window (12:00 PM PKT to 2:30 PM PKT)
+    # Mode C: Outside hours -> Check if leads need auditing, otherwise harvest
+    if force_mode:
+        active_mode = force_mode.upper()
+    elif 0 <= pkt_hour < 12:
+        active_mode = "HARVEST"
+    elif 12 <= pkt_hour < 14 or (pkt_hour == 14 and pkt_minute <= 30):
+        active_mode = "AUDIT"
+    else:
+        # Check if we have unaudited leads in market_records
+        market_file = DATA_DIR / "market_records.json"
+        ledger_file = DATA_DIR / "audit_ledger.json"
+        has_unaudited = False
+        if market_file.exists():
+            try:
+                records = json.load(open(market_file, encoding='utf-8'))
+                ledger = set(json.load(open(ledger_file, encoding='utf-8'))) if ledger_file.exists() else set()
+                pending = [r for r in records if r.get('lead_id') not in ledger and r.get('decision_maker', {}).get('verified_email')]
+                if len(pending) > 0:
+                    has_unaudited = True
+            except Exception:
+                pass
+        active_mode = "AUDIT" if has_unaudited else "HARVEST"
 
-    start_time = time.time()
-    current_attempt = 0
-    backoff = 4
+    print(f"📍 Active Scheduled Pipeline Stage: [{active_mode}]")
+    print("=" * 75 + "\n")
 
-    while (time.time() - start_time) < duration_seconds and current_attempt < max_attempts:
+    if active_mode == "AUDIT":
+        print("🔍 [STAGE 2] Running Autonomous Cloud Deep Auditor (100 Leads / Cycle)...")
+        from cloud_deep_auditor import run_cloud_deep_audit
         try:
-            current_attempt += 1
-            remaining_time = int(duration_seconds - (time.time() - start_time))
-            if remaining_time <= 30:
-                print(f"\n⏱️ Cycle time expiring ({remaining_time}s remaining). Finishing cleanly.")
-                break
-
-            print(f"\n[Supervisor Session #{current_attempt}] Running continuous crawler ({remaining_time}s remaining in window)...")
-            harvested = run_telemetry_harvest(max_duration_seconds=remaining_time)
-            
-            # If crawler finished normally within time, we're done with the cycle
-            if (time.time() - start_time) >= duration_seconds - 30:
-                print("\n✅ [Supervisor] Full time-window exhausted with maximum leads yield.")
-                return harvested
-
-        except KeyboardInterrupt:
-            print("\n🛑 Manual interrupt received. Stopping cleanly.")
-            sys.exit(0)
-
+            run_cloud_deep_audit(batch_size=100)
         except Exception as e:
-            err = str(e)
-            tb = traceback.format_exc()
-            print(f"\n⚠️ [Supervisor Recovery] Exception on attempt #{current_attempt}: {err}")
             cleanup_zombie_processes()
-            log_event(current_attempt, err, tb)
-            time.sleep(backoff)
-            backoff = min(backoff * 2, 30)
+            log_event(1, str(e), traceback.format_exc())
+            print(f"⚠️ Audit exception logged: {e}")
+    else:
+        print("🌙 [STAGE 1] Running Overnight Continuous Harvester (Google Maps Rank #25 to #200+)...")
+        from crawler import run_telemetry_harvest
+        try:
+            run_telemetry_harvest(max_duration_seconds=duration_seconds)
+        except Exception as e:
+            cleanup_zombie_processes()
+            log_event(1, str(e), traceback.format_exc())
+            print(f"⚠️ Harvest exception logged: {e}")
 
-    print("\n🏁 [Supervisor] Max-throttle execution window concluded. Ready for git push.")
-    return []
+    print("\n🏁 [Supervisor] Cycle concluded cleanly. Ready for Git Auto-Commit.")
 
 if __name__ == "__main__":
-    duration = 960
+    force_mode = None
+    duration = 960  # Default 16 minutes
     args = sys.argv[1:]
-    for idx, arg in enumerate(args):
-        if arg in ["--duration-minutes", "-d"] and idx + 1 < len(args):
-            duration = int(args[idx + 1]) * 60
-        elif arg.isdigit():
-            duration = int(arg) * 60
-    execute_supervised_harvest(duration_seconds=duration)
+    for i, a in enumerate(args):
+        if a in ["--mode", "-m"] and i + 1 < len(args):
+            force_mode = args[i + 1]
+        elif a in ["--duration-minutes", "-d"] and i + 1 < len(args):
+            duration = int(args[i + 1]) * 60
+        elif a.isdigit():
+            duration = int(a) * 60
+    run_supervisor_pipeline(duration_seconds=duration, force_mode=force_mode)
