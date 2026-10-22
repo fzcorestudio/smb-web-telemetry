@@ -77002,5 +77002,293 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Fred's Fencing Inc. (San Diego, CA). Profile: Rank #25 on Google Maps (22 reviews, 4.8★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-22T20:50:50.075648+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792703574-3",
+    "estimated_rank": 38,
+    "business_name": "Tropical Cowboy Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.tropicalcowboypools.com",
+    "domain": "tropicalcowboypools.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Ryan",
+      "first_name": "Ryan",
+      "title": "Decision Maker",
+      "verified_email": "ryan@tropicalcowboypools.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Ryan at Tropical Cowboy Pools (Denver, CO). Profile: Rank #38 on Google Maps (8 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T21:12:54.381089+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792703602-8",
+    "estimated_rank": 48,
+    "business_name": "Denver Colorado Spa Covers",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://denvercoloradospacovers.com",
+    "domain": "denvercoloradospacovers.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Parkerspas",
+      "first_name": "Parkerspas",
+      "title": "Decision Maker",
+      "verified_email": "parkerspas@yahoo.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Parkerspas at Denver Colorado Spa Covers (Denver, CO). Profile: Rank #48 on Google Maps (3 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T21:13:22.188883+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792703679-6",
+    "estimated_rank": 52,
+    "business_name": "Residential Concrete Works",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://residentialconcretework.com/concrete-contractors-denver",
+    "domain": "residentialconcretework.com",
+    "reviews_count": 14,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Residential Concrete Works (Denver, CO). Profile: Rank #52 on Google Maps (14 reviews, 4.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T21:14:39.447754+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792703731-3",
+    "estimated_rank": 40,
+    "business_name": "Bakke, CPA",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.bakkecpa.com",
+    "domain": "bakkecpa.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Jake",
+      "first_name": "Jake",
+      "title": "Decision Maker",
+      "verified_email": "jake@bakkecpa.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jake at Bakke, CPA (Denver, CO). Profile: Rank #40 on Google Maps (12 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T21:15:31.792706+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792703735-4",
+    "estimated_rank": 45,
+    "business_name": "Christopher Tone CPA",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://tonecpa.com",
+    "domain": "tonecpa.com",
+    "reviews_count": 11,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Christopher Tone CPA (Denver, CO). Profile: Rank #45 on Google Maps (11 reviews, 4.6★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T21:15:35.405033+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792703736-5",
+    "estimated_rank": 46,
+    "business_name": "Unique Accounting - CPA Firm",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://unique-accounting.com",
+    "domain": "unique-accounting.com",
+    "reviews_count": 23,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@uniqueaccounting.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Unique Accounting - CPA Firm (Denver, CO). Profile: Rank #46 on Google Maps (23 reviews, 4.9★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T21:15:36.759639+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792703853-5",
+    "estimated_rank": 52,
+    "business_name": "Sticky Feet Floor Finishing",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.stickyfeetfloors.com",
+    "domain": "stickyfeetfloors.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@stickyfeetfloors.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sticky Feet Floor Finishing (Denver, CO). Profile: Rank #52 on Google Maps (18 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T21:17:33.615184+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792703983-3",
+    "estimated_rank": 56,
+    "business_name": "American Window Films",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://americanwindowfilms.com",
+    "domain": "americanwindowfilms.com",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Awfdenver",
+      "first_name": "Awfdenver",
+      "title": "Decision Maker",
+      "verified_email": "awfdenver@gmail.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Awfdenver at American Window Films (Denver, CO). Profile: Rank #56 on Google Maps (17 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T21:19:43.001628+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792704320-7",
+    "estimated_rank": 54,
+    "business_name": "Poncho Welding",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://ponchowelding.com/en",
+    "domain": "ponchowelding.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Poncho Welding (Denver, CO). Profile: Rank #54 on Google Maps (6 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T21:25:20.528136+00:00"
   }
 ]
