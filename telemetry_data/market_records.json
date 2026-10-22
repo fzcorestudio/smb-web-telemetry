@@ -51602,5 +51602,1265 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Decorative Concrete Floors (Brisbane, QLD). Profile: Rank #60 on Google Maps (11 reviews, 4.2★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
     "harvested_at": "2026-10-22T04:48:23.356948+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646091-1",
+    "estimated_rank": 31,
+    "business_name": "Your Immigration Attorney",
+    "category": "Immigration & Visa Consultant",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://yourimmigrationattorney.com",
+    "domain": "yourimmigrationattorney.com",
+    "reviews_count": 13,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Andy Karcher",
+      "verified_email": "contact@yourimmigrationattorney.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Andy Karcher at Your Immigration Attorney (Orlando, FL). Profile: Rank #31 on Google Maps (13 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:14:51.297077+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646092-2",
+    "estimated_rank": 35,
+    "business_name": "The AM Lawyer Immigration P.A.: Asylum & Immigration Law",
+    "category": "Immigration & Visa Consultant",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.theamlawyerimmigration.com",
+    "domain": "theamlawyerimmigration.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The AM Lawyer Immigration P.A.: Asylum & Immigration Law (Orlando, FL). Profile: Rank #35 on Google Maps (9 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:14:52.588645+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646114-1",
+    "estimated_rank": 48,
+    "business_name": "Brehm Roofing & Restoration - Windermere",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://brehmroofing.com/windermere-florida",
+    "domain": "brehmroofing.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Lindsey Brehm",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Lindsey Brehm at Brehm Roofing & Restoration - Windermere (Orlando, FL). Profile: Rank #48 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:15:14.572168+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646137-3",
+    "estimated_rank": 23,
+    "business_name": "MULTYCERV Commercial Cleaning Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.multycerv.com",
+    "domain": "multycerv.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at MULTYCERV Commercial Cleaning Services (Orlando, FL). Profile: Rank #23 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:15:37.435375+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646139-4",
+    "estimated_rank": 25,
+    "business_name": "Integrity Clean Solutions – Residential & Commercial Cleaning in Orlando, FL",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://integritycleansolutions.com",
+    "domain": "integritycleansolutions.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Integrity Clean Solutions – Residential & Commercial Cleaning in Orlando, FL (Orlando, FL). Profile: Rank #25 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:15:39.241965+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646145-8",
+    "estimated_rank": 30,
+    "business_name": "Cleanup My Shhh...",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.cleanupmyshhh.com",
+    "domain": "cleanupmyshhh.com",
+    "reviews_count": 25,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Clean",
+      "verified_email": "letschat@cleanupmyshhh.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Clean at Cleanup My Shhh... (Orlando, FL). Profile: Rank #30 on Google Maps (25 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:15:45.496629+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646152-12",
+    "estimated_rank": 45,
+    "business_name": "E2E Cleaning Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.e2ecleaning.com/t/orlando",
+    "domain": "e2ecleaning.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at E2E Cleaning Services (Orlando, FL). Profile: Rank #45 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:15:52.696696+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646155-14",
+    "estimated_rank": 52,
+    "business_name": "iClean Building Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.icleanbuildingservices.com",
+    "domain": "icleanbuildingservices.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@icleanbuildingservices.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at iClean Building Services (Orlando, FL). Profile: Rank #52 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:15:55.377884+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646156-15",
+    "estimated_rank": 53,
+    "business_name": "EnviroClean | Restaurant & Commercial Hood Cleaning",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://useenviroclean.com",
+    "domain": "useenviroclean.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at EnviroClean | Restaurant & Commercial Hood Cleaning (Orlando, FL). Profile: Rank #53 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:15:56.023559+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646158-17",
+    "estimated_rank": 56,
+    "business_name": "RCL Maintenance LLC",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.rclmaintenance.com",
+    "domain": "rclmaintenance.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@rclmaintenance.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at RCL Maintenance LLC (Orlando, FL). Profile: Rank #56 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:15:58.730810+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646212-5",
+    "estimated_rank": 52,
+    "business_name": "The Homestyles Group",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.thehomestylesgroup.com",
+    "domain": "thehomestylesgroup.com",
+    "reviews_count": 22,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The Homestyles Group (Orlando, FL). Profile: Rank #52 on Google Maps (22 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:16:52.303503+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646213-6",
+    "estimated_rank": 54,
+    "business_name": "Jensen Interiors Inc",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://jenseninteriors.net",
+    "domain": "jenseninteriors.net",
+    "reviews_count": 24,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Mjensen",
+      "verified_email": "mjensen@jenseninteriors.net",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Mjensen at Jensen Interiors Inc (Orlando, FL). Profile: Rank #54 on Google Maps (24 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:16:53.210339+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646235-1",
+    "estimated_rank": 38,
+    "business_name": "BW Tax Partners - Tax Attorneys, Tax Debt Resolution & IRS Defense",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://businesswealthtaxpartners.com",
+    "domain": "businesswealthtaxpartners.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@businesswealthtaxpartners.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at BW Tax Partners - Tax Attorneys, Tax Debt Resolution & IRS Defense (Orlando, FL). Profile: Rank #38 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:17:15.638502+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646237-2",
+    "estimated_rank": 39,
+    "business_name": "TAXES",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.taxacenter.com",
+    "domain": "taxacenter.com",
+    "reviews_count": 16,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at TAXES (Orlando, FL). Profile: Rank #39 on Google Maps (16 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:17:17.319994+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646237-3",
+    "estimated_rank": 40,
+    "business_name": "US Tax Consulting",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.ustaxconsulting.net",
+    "domain": "ustaxconsulting.net",
+    "reviews_count": 17,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "support@ustaxconsulting.net",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at US Tax Consulting (Orlando, FL). Profile: Rank #40 on Google Maps (17 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:17:17.828746+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646238-4",
+    "estimated_rank": 47,
+    "business_name": "CPA Solutions",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.mycpasolutions.com",
+    "domain": "mycpasolutions.com",
+    "reviews_count": 24,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@mycpasolutions.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at CPA Solutions (Orlando, FL). Profile: Rank #47 on Google Maps (24 reviews, 4.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:17:18.333117+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646277-3",
+    "estimated_rank": 41,
+    "business_name": "Total Brick Pavers",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.totalbrickpavers.com",
+    "domain": "totalbrickpavers.com",
+    "reviews_count": 26,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Total Brick Pavers (Orlando, FL). Profile: Rank #41 on Google Maps (26 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:17:57.239160+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646279-5",
+    "estimated_rank": 50,
+    "business_name": "Horizon Brick Paver",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.horizonbrickpaver.com",
+    "domain": "horizonbrickpaver.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Yael Marrero",
+      "verified_email": "info@horizonbrickpaver.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Yael Marrero at Horizon Brick Paver (Orlando, FL). Profile: Rank #50 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:17:59.564519+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646291-2",
+    "estimated_rank": 29,
+    "business_name": "Central Florida Urban Forestry",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://cfuftrees.com",
+    "domain": "cfuftrees.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Central Florida Urban Forestry (Orlando, FL). Profile: Rank #29 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:18:11.157296+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646295-3",
+    "estimated_rank": 31,
+    "business_name": "G & L Tree Service, LLC",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://gltreeservicellc.net",
+    "domain": "gltreeservicellc.net",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at G & L Tree Service, LLC (Orlando, FL). Profile: Rank #31 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:18:15.401175+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646360-3",
+    "estimated_rank": 48,
+    "business_name": "Ironcoat Painting Co",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.ironcoatpainting.com",
+    "domain": "ironcoatpainting.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Direct",
+      "verified_email": "dsuarez@ironcoatpainting.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Direct at Ironcoat Painting Co (Orlando, FL). Profile: Rank #48 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:19:20.101373+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646364-5",
+    "estimated_rank": 52,
+    "business_name": "SprayTeckXpert LLC",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://sprayteckxpert.com",
+    "domain": "sprayteckxpert.com",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@sprayteckxpert.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at SprayTeckXpert LLC (Orlando, FL). Profile: Rank #52 on Google Maps (25 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:19:24.691358+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646411-4",
+    "estimated_rank": 56,
+    "business_name": "On Site Orlando Plumbing",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://onsiteorlandoplumbing.com",
+    "domain": "onsiteorlandoplumbing.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "service@onsiteorlandoplumbing.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at On Site Orlando Plumbing (Orlando, FL). Profile: Rank #56 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:20:11.983547+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646471-1",
+    "estimated_rank": 29,
+    "business_name": "Pacific Pools of Orlando",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.pacificpoolsorlando.com",
+    "domain": "pacificpoolsorlando.com",
+    "reviews_count": 23,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pacific Pools of Orlando (Orlando, FL). Profile: Rank #29 on Google Maps (23 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:21:11.819627+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646474-2",
+    "estimated_rank": 40,
+    "business_name": "Payne Pools Orlando LLC",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://paynepoolprofessionals.com/orlando",
+    "domain": "paynepoolprofessionals.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Payne Pools Orlando LLC (Orlando, FL). Profile: Rank #40 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:21:14.787824+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646475-4",
+    "estimated_rank": 48,
+    "business_name": "Image Pools Florida",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://imagepoolsflorida.com",
+    "domain": "imagepoolsflorida.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Image Pools Florida (Orlando, FL). Profile: Rank #48 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:21:15.816736+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646477-5",
+    "estimated_rank": 52,
+    "business_name": "Blue Dream Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.bluedreampools.com",
+    "domain": "bluedreampools.com",
+    "reviews_count": 25,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Dan Lewis",
+      "verified_email": "info@bluedreampools.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Dan Lewis at Blue Dream Pools (Orlando, FL). Profile: Rank #52 on Google Maps (25 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:21:17.990364+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646478-6",
+    "estimated_rank": 54,
+    "business_name": "Professional Pool Services of Central Florida",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://heypoolman.com",
+    "domain": "heypoolman.com",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Scott",
+      "verified_email": "scott@heypoolman.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Scott at Professional Pool Services of Central Florida (Orlando, FL). Profile: Rank #54 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:21:18.205485+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646515-6",
+    "estimated_rank": 41,
+    "business_name": "Orlando Fencing Sports Center",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.orlandofencingsports.com",
+    "domain": "orlandofencingsports.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@orlandofencingsports.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Orlando Fencing Sports Center (Orlando, FL). Profile: Rank #41 on Google Maps (16 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:21:55.153314+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646533-1",
+    "estimated_rank": 25,
+    "business_name": "JK Creative LLC",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://jkcreative.design",
+    "domain": "jkcreative.design",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hello@jkcreative.design",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at JK Creative LLC (Orlando, FL). Profile: Rank #25 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:22:13.541235+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646569-13",
+    "estimated_rank": 43,
+    "business_name": "Devoe Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.devoecustomhomes.com/contact",
+    "domain": "devoecustomhomes.com",
+    "reviews_count": 3,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@devoecustomhomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Devoe Custom Homes (Orlando, FL). Profile: Rank #43 on Google Maps (3 reviews, 3.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:22:49.678721+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646573-14",
+    "estimated_rank": 45,
+    "business_name": "Connex Custom Builds",
+    "category": "Luxury Custom Home Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://connexcustombuilds.com",
+    "domain": "connexcustombuilds.com",
+    "reviews_count": 19,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Connex Custom Builds (Orlando, FL). Profile: Rank #45 on Google Maps (19 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:22:53.280082+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646573-15",
+    "estimated_rank": 49,
+    "business_name": "Groninger Custom Homes, Inc.",
+    "category": "Luxury Custom Home Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.groningerhomes.com",
+    "domain": "groningerhomes.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Risk",
+      "verified_email": "office@groningerhomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Risk at Groninger Custom Homes, Inc. (Orlando, FL). Profile: Rank #49 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:22:53.817950+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646575-16",
+    "estimated_rank": 51,
+    "business_name": "Kustom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.kustomhomesfl.com",
+    "domain": "kustomhomesfl.com",
+    "reviews_count": 10,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@kustomhomesfl.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Kustom Homes (Orlando, FL). Profile: Rank #51 on Google Maps (10 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:22:55.699411+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646578-18",
+    "estimated_rank": 56,
+    "business_name": "J & J Building",
+    "category": "Luxury Custom Home Builder",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.jjbuilding.com",
+    "domain": "jjbuilding.com",
+    "reviews_count": 18,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Kelly Miller",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Kelly Miller at J & J Building (Orlando, FL). Profile: Rank #56 on Google Maps (18 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:22:58.912617+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646591-1",
+    "estimated_rank": 25,
+    "business_name": "IBEX Flooring and Painting",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://orlandoepoxyflooring.com",
+    "domain": "orlandoepoxyflooring.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at IBEX Flooring and Painting (Orlando, FL). Profile: Rank #25 on Google Maps (22 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:23:11.838412+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646595-3",
+    "estimated_rank": 28,
+    "business_name": "Rocket Resins",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.rocketresins.com",
+    "domain": "rocketresins.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Getfloored",
+      "verified_email": "getfloored@rocketresins.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Getfloored at Rocket Resins (Orlando, FL). Profile: Rank #28 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:23:15.878921+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646638-1",
+    "estimated_rank": 25,
+    "business_name": "NXTArmor",
+    "category": "Paint Protection Film PPF",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://nxtarmor.com",
+    "domain": "nxtarmor.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Kevinm",
+      "verified_email": "kevinm@nxtarmor.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Kevinm at NXTArmor (Orlando, FL). Profile: Rank #25 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:23:58.543514+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646669-3",
+    "estimated_rank": 46,
+    "business_name": "Orlando ADU Construction by Mint Builders",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://mintbuildersllc.com/orlando-construction-company",
+    "domain": "mintbuildersllc.com",
+    "reviews_count": 18,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "office@mintbuildersllc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Orlando ADU Construction by Mint Builders (Orlando, FL). Profile: Rank #46 on Google Maps (18 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:24:29.795746+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646678-7",
+    "estimated_rank": 56,
+    "business_name": "Doctor Phillips Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "website": "https://doctorphillipsfoundationrepair.com",
+    "domain": "doctorphillipsfoundationrepair.com",
+    "reviews_count": 6,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Doctor Phillips Foundation Repair (Orlando, FL). Profile: Rank #56 on Google Maps (6 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:24:38.858852+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646853-8",
+    "estimated_rank": 53,
+    "business_name": "Dryden Tax Resolution, LLC",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.drydentaxres.com",
+    "domain": "drydentaxres.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Danielle",
+      "verified_email": "danielle@drydentaxres.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Danielle at Dryden Tax Resolution, LLC (Tampa, FL). Profile: Rank #53 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:27:33.112118+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646872-5",
+    "estimated_rank": 55,
+    "business_name": "Flagstone Pools and Pavers",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://www.flagstonepools.com",
+    "domain": "flagstonepools.com",
+    "reviews_count": 26,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@flagstonepools.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Flagstone Pools and Pavers (Tampa, FL). Profile: Rank #55 on Google Maps (26 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:27:52.870393+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646939-2",
+    "estimated_rank": 36,
+    "business_name": "Paint EZ of North Tampa",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://paintez.com/north-tampa",
+    "domain": "paintez.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Northtampa",
+      "verified_email": "northtampa@paintez.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Northtampa at Paint EZ of North Tampa (Tampa, FL). Profile: Rank #36 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:28:59.553228+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646944-5",
+    "estimated_rank": 48,
+    "business_name": "Shepard Contractors Inc",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://shepardcontractors.com",
+    "domain": "shepardcontractors.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@shepardcontractors.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Shepard Contractors Inc (Tampa, FL). Profile: Rank #48 on Google Maps (8 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:29:04.465769+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792647017-8",
+    "estimated_rank": 47,
+    "business_name": "WhiteWater Pools and Spas Inc.",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "http://whitewaterpools.us",
+    "domain": "whitewaterpools.us",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Bids",
+      "verified_email": "bids@whitewaterpools.us",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Bids at WhiteWater Pools and Spas Inc. (Tampa, FL). Profile: Rank #47 on Google Maps (14 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:30:17.738706+00:00"
   }
 ]
