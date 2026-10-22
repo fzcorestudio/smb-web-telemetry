@@ -195,13 +195,17 @@ def crawl_regional_telemetry(category, metro, min_rank=20, max_records_per_query
 
                     if audit.get("is_online") and audit.get("mx_valid"):
                         owner = audit.get("owner_name", "Business Owner")
+                        first_name = audit.get("first_name")
                         email = audit.get("verified_email")
                         flaw = audit.get("primary_flaw")
                         price = audit.get("entry_price")
+                        tier_label = audit.get("tier_label", "TIER_5_GENERIC")
+                        tier_level = audit.get("tier_level", 5)
 
                         snippet = (
                             f"Target: {owner} at {title} ({city}, {state}). "
                             f"Profile: Rank #{current_rank} on Google Maps ({review_count} reviews, {rating}★). "
+                            f"Decision Maker: {tier_label} (Priority {tier_level}). "
                             f"Audit Flaw: {audit['concrete_flaw_details']} "
                             f"Pitch Offer: {audit['matched_service']} for {price} ({audit['turnaround']} turnaround). "
                             f"Deliverability: MX verified via {audit['mx_provider']}."
@@ -221,7 +225,11 @@ def crawl_regional_telemetry(category, metro, min_rank=20, max_records_per_query
                             "rating": rating,
                             "decision_maker": {
                                 "name": owner,
+                                "first_name": first_name,
+                                "title": "Owner / Founder" if tier_level in [1, 4] else "Decision Maker",
                                 "verified_email": email,
+                                "tier": tier_label,
+                                "tier_level": tier_level,
                                 "email_status": "MX_DELIVERABLE_0_BOUNCE" if email else "DOMAIN_MX_VERIFIED",
                                 "mx_provider": audit["mx_provider"]
                             },
@@ -237,7 +245,7 @@ def crawl_regional_telemetry(category, metro, min_rank=20, max_records_per_query
                         }
 
                         records.append(record)
-                        print(f"   ✅ QUALIFIED: {owner} | {flaw} | {price} | MX: {audit['mx_provider']}")
+                        print(f"   ✅ QUALIFIED [P{tier_level}: {tier_label}]: {owner} <{email}> | {flaw} | {price}")
 
                 except Exception:
                     pass

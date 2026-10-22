@@ -25,7 +25,14 @@ HEADERS = {
 }
 
 EMAIL_REGEX = re.compile(r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}')
-GENERIC_PREFIXES = {'info', 'contact', 'support', 'sales', 'hello', 'admin', 'office', 'help', 'team', 'service', 'inquiries'}
+GENERIC_PREFIXES = {'info', 'contact', 'support', 'sales', 'hello', 'admin', 'office', 'help', 'team', 'service', 'inquiries', 'billing', 'careers', 'jobs', 'frontdesk', 'reception', 'mail', 'general'}
+EXECUTIVE_PREFIXES = {'owner', 'founder', 'president', 'principal', 'ceo', 'partner'}
+
+OWNER_TITLE_PATTERNS = [
+    r'(?:founder|owner|co-founder|president|principal|ceo|managing partner|master builder|general contractor)\s*[:–-]?\s*([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+    r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*,\s*(?:founder|owner|co-founder|president|principal|ceo|managing partner|master builder|general contractor)',
+    r'(?:founded by|started by|owned by|led by)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)'
+]
 
 # High-Availability Resilient DNS Resolver (Google + Cloudflare upstream)
 DNS_RESOLVER = dns.resolver.Resolver()
@@ -48,47 +55,75 @@ def verify_mx_record(domain):
         pass
     return False, None, None
 
-def extract_owner_and_emails(soup, domain, text_content):
-    emails = set(EMAIL_REGEX.findall(text_content))
-    valid_emails = []
-    direct_owner_email = None
-
-    for email in emails:
-        email = email.lower()
-        if any(email.endswith(ext) for ext in ['.png', '.jpg', '.jpeg', '.svg', '.webp']):
+def extract_clean_emails(html_or_text, domain):
+    raw_emails = set(EMAIL_REGEX.findall(html_or_text))
+    valid = []
+    for e in raw_emails:
+        e_lower = e.lower()
+        if any(e_lower.endswith(ext) for ext in ['.png', '.jpg', '.jpeg', '.svg', '.webp', '.gif', '.css', '.js']):
             continue
-        prefix = email.split('@')[0]
-        if domain in email:
-            if prefix not in GENERIC_PREFIXES and len(prefix) > 2:
-                direct_owner_email = email
-                valid_emails.append(email)
-            else:
-                valid_emails.append(email)
+        if domain in e_lower or not valid:
+            valid.append(e_lower)
+    return valid
 
-    owner_name = None
-    owner_patterns = [
-        r"(?:Owner|Founder|Co-Founder|President|Principal|Lead Specialist)[,:\s\-]+([A-Z][a-z]+(?:\s[A-Z][a-z]+)?)",
-        r"([A-Z][a-z]+(?:\s[A-Z][a-z]+)?)[,:\s\-]+(?:Owner|Founder|Co-Founder|President)",
-        r"(?:Hi|Hello|Welcome)[,!]\s+I'm\s+([A-Z][a-z]+)",
-        r"Meet\s+([A-Z][a-z]+(?:\s[A-Z][a-z]+)?)"
-    ]
-
-    for pat in owner_patterns:
-        match = re.search(pat, text_content)
+def extract_owner_name_from_text(text):
+    for pat in OWNER_TITLE_PATTERNS:
+        match = re.search(pat, text, re.I)
         if match:
             candidate = match.group(1).strip()
-            if len(candidate) > 2 and not any(w in candidate.lower() for w in ['our', 'the', 'about', 'services', 'contact', 'home']):
-                owner_name = candidate
-                break
+            words = candidate.split()
+            if 1 <= len(words) <= 2 and all(len(w) >= 3 and w.isalpha() for w in words):
+                lower_words = [w.lower() for w in words]
+                banned = ['the', 'our', 'your', 'about', 'team', 'contact', 'home', 'services', 'florida', 'texas', 'tampa', 'austin', 'epoxy', 'construction', 'homes', 'builder', 'roofing']
+                if not any(b in lower_words for b in banned):
+                    return candidate, words[0].capitalize()
+    return None, None
 
-    if not owner_name and direct_owner_email:
-        prefix = direct_owner_email.split('@')[0]
-        if '.' in prefix:
-            owner_name = prefix.split('.')[0].capitalize()
-        elif len(prefix) >= 3 and prefix.isalpha():
-            owner_name = prefix.capitalize()
+def classify_5_tier_decision_maker(domain, all_emails, discovered_owner_name, discovered_first_name):
+    """
+    Strict 5-Tier Decision Maker Priority Architecture:
+    Tier 1 (Priority 1): Owner/Founder Name & Matching Owner Named Email
+    Tier 2 (Priority 2): Discovered Team Member Personal Named Email
+    Tier 3 (Priority 3): Direct Executive Inboxes (owner@, president@)
+    Tier 4 (Priority 4): Gatekeeper Bypass Generic Routed to Discovered Owner
+    Tier 5 (Priority 5): Standard Fallback Generic Alias
+    """
+    domain_emails = [e for e in all_emails if domain in e]
+    pool = domain_emails if domain_emails else all_emails
 
-    return owner_name or "Business Owner", direct_owner_email or (valid_emails[0] if valid_emails else None)
+    # TIER 1: Owner Name Matches Email Prefix
+    if discovered_first_name and pool:
+        first_lower = discovered_first_name.lower()
+        for e in pool:
+            prefix = e.split('@')[0].lower()
+            if first_lower in prefix:
+                return e, discovered_owner_name, discovered_first_name, "TIER_1_NAMED_OWNER", 1
+
+    # TIER 2: Personal First Name in Email Prefix (not generic, not executive)
+    for e in pool:
+        prefix = e.split('@')[0].lower().split('.')[0].split('_')[0]
+        if prefix not in GENERIC_PREFIXES and prefix not in EXECUTIVE_PREFIXES and len(prefix) >= 3 and prefix.isalpha():
+            p_first = prefix.capitalize()
+            p_full = discovered_owner_name if discovered_owner_name else p_first
+            return e, p_full, p_first, "TIER_2_NAMED_PERSONAL", 2
+
+    # TIER 3: Direct Executive Inboxes (owner@, president@, founder@)
+    for e in pool:
+        prefix = e.split('@')[0].lower()
+        if prefix in EXECUTIVE_PREFIXES or any(x in prefix for x in ['owner', 'president', 'founder']):
+            p_full = discovered_owner_name or "Business Owner"
+            p_first = discovered_first_name or None
+            return e, p_full, p_first, "TIER_3_EXECUTIVE", 3
+
+    # TIER 4: Gatekeeper Bypass Generic with Known Owner Name
+    if discovered_owner_name and pool:
+        return pool[0], discovered_owner_name, discovered_first_name, "TIER_4_GATEKEEPER_ROUTED", 4
+
+    # TIER 5: Fallback Generic Alias
+    if pool:
+        return pool[0], "Business Owner", None, "TIER_5_GENERIC", 5
+
+    return None, "Business Owner", None, "TIER_5_GENERIC", 5
 
 def audit_website_telemetry(url):
     if not url.startswith("http"):
@@ -138,30 +173,40 @@ def audit_website_telemetry(url):
         except Exception:
             return report
 
-    # Step 3: Extract Owner & Email
-    owner, email = extract_owner_and_emails(soup, domain, text_content)
+    # Step 3: Deep Probe /about, /team, /our-story, /contact & Multi-Page Email Aggregation
+    all_discovered_emails = set(extract_clean_emails(html, domain))
+    discovered_owner, discovered_first = extract_owner_name_from_text(text_content)
 
-    # Subpage scan for /about or /contact if generic (strict 3.5s timeout)
-    if owner == "Business Owner":
-        for sub in ['/about', '/contact']:
-            try:
-                sub_url = urljoin(url, sub)
-                sub_res = session.get(sub_url, headers=HEADERS, timeout=3.5, verify=False)
-                if sub_res.status_code == 200:
-                    sub_soup = BeautifulSoup(sub_res.text, "html.parser")
-                    sub_text = sub_soup.get_text(separator=" ")
-                    sub_owner, sub_email = extract_owner_and_emails(sub_soup, domain, sub_text)
-                    if sub_owner != "Business Owner":
-                        owner = sub_owner
-                    if sub_email and not email:
-                        email = sub_email
-                    if owner != "Business Owner":
-                        break
-            except Exception:
-                pass
+    subpages = ['/about', '/about-us', '/our-team', '/team', '/meet-the-team', '/our-story', '/leadership', '/contact']
+    for sub in subpages:
+        try:
+            sub_url = urljoin(url, sub)
+            sub_res = session.get(sub_url, headers=HEADERS, timeout=2.5, verify=False)
+            if sub_res.status_code == 200:
+                sub_soup = BeautifulSoup(sub_res.text, "html.parser")
+                sub_text = sub_soup.get_text(separator=" ")
+                # Harvest emails from subpage
+                for e in extract_clean_emails(sub_res.text, domain):
+                    all_discovered_emails.add(e)
+                # Harvest owner name if not yet found
+                if not discovered_owner:
+                    n, f = extract_owner_name_from_text(sub_text)
+                    if n:
+                        discovered_owner = n
+                        discovered_first = f
+        except Exception:
+            pass
 
-    report["owner_name"] = owner
-    report["verified_email"] = email
+    # Step 4: Strict 5-Tier Decision Maker Classification
+    best_email, owner_name, first_name, tier_label, tier_level = classify_5_tier_decision_maker(
+        domain, list(all_discovered_emails), discovered_owner, discovered_first
+    )
+
+    report["owner_name"] = owner_name
+    report["first_name"] = first_name
+    report["verified_email"] = best_email
+    report["tier_label"] = tier_label
+    report["tier_level"] = tier_level
 
     # Step 4: 20-Point Metric Auditing
     has_calculator = bool(soup.find(attrs={"class": re.compile(r"calc|quote|estimate|pricing-tool", re.I)}) or
