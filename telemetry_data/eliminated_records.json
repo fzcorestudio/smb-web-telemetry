@@ -230,5 +230,93 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-22T17:49:45.648778+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621326-6",
+    "business_name": "Olympus Tax Resolution LLC",
+    "website": "https://olympustaxresolution.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-22T18:08:07.697947+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621367-5",
+    "business_name": "COVER DREAM",
+    "website": "https://cover-dream.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T18:09:03.349588+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621386-3",
+    "business_name": "Elevate Commercial Cleaning",
+    "website": "https://elevatecleaningfl.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-22T18:09:19.199725+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621470-8",
+    "business_name": "ELITE EPOXY MIAMI",
+    "website": "https://www.eliteepoxymiami.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T18:10:46.856134+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621492-3",
+    "business_name": "Electric Gate Repair Services LLC",
+    "website": "https://electricgaterepairservices.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T18:11:14.807509+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621492-4",
+    "business_name": "Palm's Fence Miami",
+    "website": "https://www.miamifenceco.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-22T18:11:17.355230+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621501-7",
+    "business_name": "Mega Fence Company Repair & Installation",
+    "website": "https://megafencecompany.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T18:11:34.973227+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621547-2",
+    "business_name": "Sol Army Home",
+    "website": "https://solarmyhome.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-22T18:11:48.514086+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623249-13",
+    "business_name": "SF Custom Homes, LLC",
+    "website": "https://www.sfcustomhomes.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-22T18:11:56.304126+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623678-1",
+    "business_name": "Paragon Pools",
+    "website": "http://www.paragonpool.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T18:21:04.316287+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623918-5",
+    "business_name": "Brand Poets",
+    "website": "https://brandpoets.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-22T18:24:10.382291+00:00"
   }
 ]
