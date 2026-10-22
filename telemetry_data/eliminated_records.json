@@ -70,5 +70,61 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
     "eliminated_at": "2026-10-22T15:36:26.271967+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792616446-1",
+    "business_name": "Greenberg Cosmetic Surgery And Dermatology - Plastic Surgery Tampa",
+    "website": "https://www.greenbergcosmeticsurgery.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-22T16:14:11.731137+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792616480-8",
+    "business_name": "Charter Bay Home Builders",
+    "website": "http://www.charterbayhomes.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-22T16:14:55.584914+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792616495-15",
+    "business_name": "Modesta Homes",
+    "website": "http://www.modestahomes.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T16:15:41.688786+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792616694-1",
+    "business_name": "Solarized USA - Solar Design & Installation",
+    "website": "https://solarizedusa.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-22T16:19:55.418374+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792616758-5",
+    "business_name": "The Concrete King",
+    "website": "https://theconcreteking.ca",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-22T16:21:23.209120+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792616812-6",
+    "business_name": "bp tree services",
+    "website": "https://bptreecanada.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T16:22:04.148156+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792616935-1",
+    "business_name": "Nova Luxe Painting & Renovation Vancouver",
+    "website": "https://novaluxepaintingandrenovation.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T16:23:19.588410+00:00"
   }
 ]
