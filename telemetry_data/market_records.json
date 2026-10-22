@@ -52862,5 +52862,3421 @@
     },
     "gemini_context_snippet": "Target: Bids at WhiteWater Pools and Spas Inc. (Tampa, FL). Profile: Rank #47 on Google Maps (14 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-22T05:30:17.738706+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648373-1",
+    "estimated_rank": 25,
+    "business_name": "Distinctive Design + Build + Remodel",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.distinctivedesignbuild.com",
+    "domain": "distinctivedesignbuild.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Distinctive Design + Build + Remodel (Charlotte, NC). Profile: Rank #25 on Google Maps (12 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:52:53.643926+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648374-2",
+    "estimated_rank": 29,
+    "business_name": "Meraki Interior Remodel",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.merakiremodel.com",
+    "domain": "merakiremodel.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Meraki Interior Remodel (Charlotte, NC). Profile: Rank #29 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:52:54.078804+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648375-3",
+    "estimated_rank": 31,
+    "business_name": "3 Day Kitchen & Bath - Charlotte",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://3daykitchen.com/charlotte-north-carolina",
+    "domain": "3daykitchen.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "After",
+      "verified_email": "jackpaton@3daykitchen.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: After at 3 Day Kitchen & Bath - Charlotte (Charlotte, NC). Profile: Rank #31 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:52:55.773443+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648375-4",
+    "estimated_rank": 32,
+    "business_name": "Dream Home Builders and Remodelers",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://dreamhomebuildersandremodelers.com",
+    "domain": "dreamhomebuildersandremodelers.com",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Otto",
+      "verified_email": "otto@dreamhomebuildersandremodelers.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Otto at Dream Home Builders and Remodelers (Charlotte, NC). Profile: Rank #32 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:52:55.935112+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648391-5",
+    "estimated_rank": 41,
+    "business_name": "Queen City Home Renovation",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://qchomerenovation.com",
+    "domain": "qchomerenovation.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Queen City Home Renovation (Charlotte, NC). Profile: Rank #41 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:53:11.797325+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648397-6",
+    "estimated_rank": 44,
+    "business_name": "Premium Kitchen Cabinets",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://charlottekitchencabinets.com",
+    "domain": "charlottekitchencabinets.com",
+    "reviews_count": 17,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Jim",
+      "verified_email": "jim@charlottekitchencabinets.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jim at Premium Kitchen Cabinets (Charlotte, NC). Profile: Rank #44 on Google Maps (17 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:53:17.920406+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648405-7",
+    "estimated_rank": 47,
+    "business_name": "Detailed Interiors NC Inc.",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.detailedinteriors.com",
+    "domain": "detailedinteriors.com",
+    "reviews_count": 27,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Steve Matela",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Steve Matela at Detailed Interiors NC Inc. (Charlotte, NC). Profile: Rank #47 on Google Maps (27 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:53:25.656634+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648413-8",
+    "estimated_rank": 48,
+    "business_name": "Shower Remodel Experts Charlotte",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://showerremodeler-charlotte.com",
+    "domain": "showerremodeler-charlotte.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Shower Remodel Experts Charlotte (Charlotte, NC). Profile: Rank #48 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:53:33.166565+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648413-9",
+    "estimated_rank": 50,
+    "business_name": "Hopedale Builders, Inc.",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://hopedalebuilders.com",
+    "domain": "hopedalebuilders.com",
+    "reviews_count": 28,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hopedale Builders, Inc. (Charlotte, NC). Profile: Rank #50 on Google Maps (28 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:53:33.991106+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648414-10",
+    "estimated_rank": 52,
+    "business_name": "IMPACT Fine Design",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.impactfinedesign.com",
+    "domain": "impactfinedesign.com",
+    "reviews_count": 10,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Kristie Knorr",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Kristie Knorr at IMPACT Fine Design (Charlotte, NC). Profile: Rank #52 on Google Maps (10 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:53:34.666285+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648427-1",
+    "estimated_rank": 22,
+    "business_name": "KPM PRESSURE WASH",
+    "category": "Commercial Pressure Washing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.kpmpressurewash.com",
+    "domain": "kpmpressurewash.com",
+    "reviews_count": 19,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at KPM PRESSURE WASH (Charlotte, NC). Profile: Rank #22 on Google Maps (19 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:53:47.169281+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648428-2",
+    "estimated_rank": 30,
+    "business_name": "Diamond Pressure Washing LLC",
+    "category": "Commercial Pressure Washing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://diamondpressurewashingnc.com",
+    "domain": "diamondpressurewashingnc.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Diamond Pressure Washing LLC (Charlotte, NC). Profile: Rank #30 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:53:48.138652+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648429-3",
+    "estimated_rank": 35,
+    "business_name": "ProTeam Power Washing",
+    "category": "Commercial Pressure Washing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://proteampowerwashing.com",
+    "domain": "proteampowerwashing.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at ProTeam Power Washing (Charlotte, NC). Profile: Rank #35 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:53:49.500925+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648430-4",
+    "estimated_rank": 45,
+    "business_name": "BrightCore Building Services | Commercial Cleaning Company in Charlotte, NC",
+    "category": "Commercial Pressure Washing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://brightcorebuildingservices.com",
+    "domain": "brightcorebuildingservices.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@brightcorebuildingservices.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at BrightCore Building Services | Commercial Cleaning Company in Charlotte, NC (Charlotte, NC). Profile: Rank #45 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:53:50.006880+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648444-1",
+    "estimated_rank": 38,
+    "business_name": "Huntersville Hardscapes",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.huntersvillehardscapes.com",
+    "domain": "huntersvillehardscapes.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hello@huntersvillehardscapes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Huntersville Hardscapes (Charlotte, NC). Profile: Rank #38 on Google Maps (26 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:54:04.500111+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648447-2",
+    "estimated_rank": 43,
+    "business_name": "Javier's Landscape LLC",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://javierslandscapellc.com",
+    "domain": "javierslandscapellc.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Javier's Landscape LLC (Charlotte, NC). Profile: Rank #43 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:54:07.926445+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648449-3",
+    "estimated_rank": 46,
+    "business_name": "E & H Hardscape LLC",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.ehhardscape.com/rock-hill-sc-outdoor-living.html",
+    "domain": "ehhardscape.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at E & H Hardscape LLC (Charlotte, NC). Profile: Rank #46 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:54:09.136684+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648484-1",
+    "estimated_rank": 26,
+    "business_name": "Visual Branding Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.visualbrandingagency.com",
+    "domain": "visualbrandingagency.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@visualbrandingagency.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Visual Branding Agency (Charlotte, NC). Profile: Rank #26 on Google Maps (12 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:54:44.934246+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648485-2",
+    "estimated_rank": 27,
+    "business_name": "Giftshare Graphics",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.giftsharegraphics.com",
+    "domain": "giftsharegraphics.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Giftshare Graphics (Charlotte, NC). Profile: Rank #27 on Google Maps (10 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:54:45.294527+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648486-3",
+    "estimated_rank": 28,
+    "business_name": "Panache Consulting",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://panacheconsultingllc.com",
+    "domain": "panacheconsultingllc.com",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Facebook",
+      "verified_email": "ask@panacheconsultingllc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Facebook at Panache Consulting (Charlotte, NC). Profile: Rank #28 on Google Maps (25 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:54:46.521291+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648488-4",
+    "estimated_rank": 29,
+    "business_name": "Hibiscus",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.hibiscusclt.com",
+    "domain": "hibiscusclt.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Small Business",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Small Business at Hibiscus (Charlotte, NC). Profile: Rank #29 on Google Maps (26 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:54:48.419588+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648490-5",
+    "estimated_rank": 32,
+    "business_name": "Arthur Elliott",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://arthurelliott.com",
+    "domain": "arthurelliott.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Partner",
+      "verified_email": "info@arthurelliott.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Partner at Arthur Elliott (Charlotte, NC). Profile: Rank #32 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:54:50.180795+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648491-6",
+    "estimated_rank": 33,
+    "business_name": "Brand Target",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.brandtarget.com",
+    "domain": "brandtarget.com",
+    "reviews_count": 3,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Brand Target (Charlotte, NC). Profile: Rank #33 on Google Maps (3 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:54:51.010566+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648493-7",
+    "estimated_rank": 36,
+    "business_name": "The Creative Stack",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.thecreativestack.com",
+    "domain": "thecreativestack.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@thecreativestack.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The Creative Stack (Charlotte, NC). Profile: Rank #36 on Google Maps (16 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:54:53.590007+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648494-8",
+    "estimated_rank": 40,
+    "business_name": "Crimson Park Digital",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://crimsonparkdigital.com",
+    "domain": "crimsonparkdigital.com",
+    "reviews_count": 22,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Alexa Parker",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Alexa Parker at Crimson Park Digital (Charlotte, NC). Profile: Rank #40 on Google Maps (22 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:54:54.389376+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648496-9",
+    "estimated_rank": 44,
+    "business_name": "Brand RPM",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.brandrpm.com",
+    "domain": "brandrpm.com",
+    "reviews_count": 26,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@brandrpm.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Brand RPM (Charlotte, NC). Profile: Rank #44 on Google Maps (26 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:54:56.075637+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648497-10",
+    "estimated_rank": 45,
+    "business_name": "Good Brand Company",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.goodbrandcompany.com",
+    "domain": "goodbrandcompany.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Spectrum",
+      "verified_email": "info@goodbrandcompany.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Spectrum at Good Brand Company (Charlotte, NC). Profile: Rank #45 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:54:57.690306+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648502-11",
+    "estimated_rank": 48,
+    "business_name": "ABZ Creative Partners",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://abzcreativepartners.com",
+    "domain": "abzcreativepartners.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at ABZ Creative Partners (Charlotte, NC). Profile: Rank #48 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:55:02.735228+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648518-1",
+    "estimated_rank": 21,
+    "business_name": "Specialty Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://specialtyfoundationrepair.com",
+    "domain": "specialtyfoundationrepair.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Michael Masserang",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Michael Masserang at Specialty Foundation Repair (Charlotte, NC). Profile: Rank #21 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:55:18.587540+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648522-2",
+    "estimated_rank": 25,
+    "business_name": "Piedmont Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://piedmontfoundationrepair.com",
+    "domain": "piedmontfoundationrepair.com",
+    "reviews_count": 17,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Piedmont Foundation Repair (Charlotte, NC). Profile: Rank #25 on Google Maps (17 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:55:22.469563+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648522-3",
+    "estimated_rank": 28,
+    "business_name": "Carolina Foundation Solutions",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.carolinafoundationsolutions.com",
+    "domain": "carolinafoundationsolutions.com",
+    "reviews_count": 11,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Authorization Needed",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Authorization Needed at Carolina Foundation Solutions (Charlotte, NC). Profile: Rank #28 on Google Maps (11 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:55:22.825598+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648525-5",
+    "estimated_rank": 43,
+    "business_name": "Strickland Waterproofing Company, Inc.",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.stricklandwaterproofing.com",
+    "domain": "stricklandwaterproofing.com",
+    "reviews_count": 18,
+    "rating": 3.9,
+    "decision_maker": {
+      "name": "Randy",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Randy at Strickland Waterproofing Company, Inc. (Charlotte, NC). Profile: Rank #43 on Google Maps (18 reviews, 3.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:55:25.389401+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648525-6",
+    "estimated_rank": 45,
+    "business_name": "Aquatech Waterproofing",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://aquatechus.com",
+    "domain": "aquatechus.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Jim",
+      "verified_email": "jim@aquatechus.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jim at Aquatech Waterproofing (Charlotte, NC). Profile: Rank #45 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:55:25.989702+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648526-7",
+    "estimated_rank": 48,
+    "business_name": "CNT Foundations",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://yourfoundationexperts.com/foundation-repair",
+    "domain": "yourfoundationexperts.com",
+    "reviews_count": 8,
+    "rating": 3.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at CNT Foundations (Charlotte, NC). Profile: Rank #48 on Google Maps (8 reviews, 3.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:55:26.842591+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648539-1",
+    "estimated_rank": 24,
+    "business_name": "The Pool Builder of The Carolinas",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://poolbuilderofthecarolinas.com",
+    "domain": "poolbuilderofthecarolinas.com",
+    "reviews_count": 27,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The Pool Builder of The Carolinas (Charlotte, NC). Profile: Rank #24 on Google Maps (27 reviews, 4.5★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:55:39.336888+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648540-2",
+    "estimated_rank": 26,
+    "business_name": "Phoenix Pools of the Carolinas",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.phoenixpoolsncsc.com",
+    "domain": "phoenixpoolsncsc.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Phoenix Pools of the Carolinas (Charlotte, NC). Profile: Rank #26 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:55:40.428355+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648540-3",
+    "estimated_rank": 27,
+    "business_name": "Aqua Pools & Outdoor Living",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://aquapoolsandoutdoorliving.com",
+    "domain": "aquapoolsandoutdoorliving.com",
+    "reviews_count": 23,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Run",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Run at Aqua Pools & Outdoor Living (Charlotte, NC). Profile: Rank #27 on Google Maps (23 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:55:40.998350+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648541-4",
+    "estimated_rank": 30,
+    "business_name": "Honeybee Pools & Spas",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.honeybeepools.com",
+    "domain": "honeybeepools.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Honeybee Pools & Spas (Charlotte, NC). Profile: Rank #30 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:55:41.532126+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648542-5",
+    "estimated_rank": 36,
+    "business_name": "Tideline Pools & Patio",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.tidelinepools.com",
+    "domain": "tidelinepools.com",
+    "reviews_count": 19,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tideline Pools & Patio (Charlotte, NC). Profile: Rank #36 on Google Maps (19 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:55:42.310898+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648549-6",
+    "estimated_rank": 39,
+    "business_name": "Celtic Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://celticpoolslkn.com",
+    "domain": "celticpoolslkn.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Celtic Pools (Charlotte, NC). Profile: Rank #39 on Google Maps (4 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:55:49.671340+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648550-7",
+    "estimated_rank": 43,
+    "business_name": "Englewood Outdoor",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.englewoodoutdoor.com",
+    "domain": "englewoodoutdoor.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Englewood Outdoor (Charlotte, NC). Profile: Rank #43 on Google Maps (8 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:55:50.264021+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648552-8",
+    "estimated_rank": 44,
+    "business_name": "Ozone Pools & Outdoor Living",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.ozonepoolsandoutdoorliving.com",
+    "domain": "ozonepoolsandoutdoorliving.com",
+    "reviews_count": 24,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ozone Pools & Outdoor Living (Charlotte, NC). Profile: Rank #44 on Google Maps (24 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:55:52.769168+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648553-9",
+    "estimated_rank": 45,
+    "business_name": "Carolina Pool Management",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.charlotte-pmg.com",
+    "domain": "charlotte-pmg.com",
+    "reviews_count": 14,
+    "rating": 3.8,
+    "decision_maker": {
+      "name": "Aquatic Safety",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Aquatic Safety at Carolina Pool Management (Charlotte, NC). Profile: Rank #45 on Google Maps (14 reviews, 3.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:55:53.015777+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648557-10",
+    "estimated_rank": 54,
+    "business_name": "Artisan Pools and Spas",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.artisanpoolsandspas.com",
+    "domain": "artisanpoolsandspas.com",
+    "reviews_count": 4,
+    "rating": 3.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Artisan Pools and Spas (Charlotte, NC). Profile: Rank #54 on Google Maps (4 reviews, 3.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:55:57.044087+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648558-11",
+    "estimated_rank": 56,
+    "business_name": "Springdale Custom Builders",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.springdalecharlotte.com",
+    "domain": "springdalecharlotte.com",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Designer As",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Designer As at Springdale Custom Builders (Charlotte, NC). Profile: Rank #56 on Google Maps (25 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:55:58.189258+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648572-1",
+    "estimated_rank": 43,
+    "business_name": "South Charlotte Mobile Detailing",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.southcharlottemobiledetailing.com",
+    "domain": "southcharlottemobiledetailing.com",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Johnathan Murphy",
+      "verified_email": "info@southcharlottemobiledetailing.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Johnathan Murphy at South Charlotte Mobile Detailing (Charlotte, NC). Profile: Rank #43 on Google Maps (17 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:56:12.527567+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648586-1",
+    "estimated_rank": 25,
+    "business_name": "Pro Coatings LLC",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://agprocoatings.com",
+    "domain": "agprocoatings.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pro Coatings LLC (Charlotte, NC). Profile: Rank #25 on Google Maps (10 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:56:26.445205+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648589-2",
+    "estimated_rank": 48,
+    "business_name": "VIP Mobile Detailing of Charlotte",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.vipdetailingofcharlotte.com",
+    "domain": "vipdetailingofcharlotte.com",
+    "reviews_count": 13,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at VIP Mobile Detailing of Charlotte (Charlotte, NC). Profile: Rank #48 on Google Maps (13 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:56:29.519203+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648602-1",
+    "estimated_rank": 44,
+    "business_name": "LIME Painting of Charlotte",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://limepainting.com/charlotte-nc",
+    "domain": "limepainting.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Nick Lopez",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Nick Lopez at LIME Painting of Charlotte (Charlotte, NC). Profile: Rank #44 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:56:42.765801+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648603-2",
+    "estimated_rank": 46,
+    "business_name": "Ambiance PaintWorks",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.ambiancepaint.com",
+    "domain": "ambiancepaint.com",
+    "reviews_count": 28,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@ambiancepaint.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ambiance PaintWorks (Charlotte, NC). Profile: Rank #46 on Google Maps (28 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:56:43.013034+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648630-1",
+    "estimated_rank": 21,
+    "business_name": "Alenky Signature Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://alenkysignaturehomes.com",
+    "domain": "alenkysignaturehomes.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Bryan Alenky",
+      "verified_email": "info@alenkysignaturehomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Bryan Alenky at Alenky Signature Homes (Charlotte, NC). Profile: Rank #21 on Google Maps (18 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:10.556827+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648631-2",
+    "estimated_rank": 22,
+    "business_name": "Forma Home Builder",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://formahomebuilder.com",
+    "domain": "formahomebuilder.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@formahomebuilder.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Forma Home Builder (Charlotte, NC). Profile: Rank #22 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:11.130725+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648632-3",
+    "estimated_rank": 23,
+    "business_name": "Canelli Construction",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://canelliconstruction.com",
+    "domain": "canelliconstruction.com",
+    "reviews_count": 25,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@canelliconstruction.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Canelli Construction (Charlotte, NC). Profile: Rank #23 on Google Maps (25 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:12.231462+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648635-4",
+    "estimated_rank": 24,
+    "business_name": "Marcello Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.marcello.homes",
+    "domain": "marcello.homes",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@marcello.homes",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Marcello Homes (Charlotte, NC). Profile: Rank #24 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:15.455634+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648636-5",
+    "estimated_rank": 26,
+    "business_name": "Carolina Craftsman Builders",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.carolinacraftsmanbuilders.com",
+    "domain": "carolinacraftsmanbuilders.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@carolinacraftsmanbuilders.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Carolina Craftsman Builders (Charlotte, NC). Profile: Rank #26 on Google Maps (18 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:16.065161+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648640-6",
+    "estimated_rank": 32,
+    "business_name": "All Elite Construction",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.alleliteconstructionllc.com",
+    "domain": "alleliteconstructionllc.com",
+    "reviews_count": 26,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at All Elite Construction (Charlotte, NC). Profile: Rank #32 on Google Maps (26 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:57:20.427550+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648640-7",
+    "estimated_rank": 33,
+    "business_name": "Greybrook Homes LLC",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.greybrookhomes.com",
+    "domain": "greybrookhomes.com",
+    "reviews_count": 26,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Greybrook Homes LLC (Charlotte, NC). Profile: Rank #33 on Google Maps (26 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:57:20.853562+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648641-8",
+    "estimated_rank": 36,
+    "business_name": "Kinger Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://kingerhomes.com",
+    "domain": "kingerhomes.com",
+    "reviews_count": 21,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Invoices",
+      "verified_email": "invoices@kingerhomes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Invoices at Kinger Homes (Charlotte, NC). Profile: Rank #36 on Google Maps (21 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:21.673709+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648642-9",
+    "estimated_rank": 38,
+    "business_name": "Grand Living Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.grandlivinghomes.com",
+    "domain": "grandlivinghomes.com",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Grand Living Homes (Charlotte, NC). Profile: Rank #38 on Google Maps (8 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:22.250139+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648642-10",
+    "estimated_rank": 39,
+    "business_name": "Build On Your Lot by True Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.truehomes.com/build-on-your-lot",
+    "domain": "truehomes.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Build On Your Lot by True Homes (Charlotte, NC). Profile: Rank #39 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:57:22.568178+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648644-11",
+    "estimated_rank": 40,
+    "business_name": "Chelsea Design | Build",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://chelseadesignbuild.com",
+    "domain": "chelseadesignbuild.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Chelsea Design | Build (Charlotte, NC). Profile: Rank #40 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:57:24.983829+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648645-12",
+    "estimated_rank": 42,
+    "business_name": "Zar Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://zarcustomhomes.com",
+    "domain": "zarcustomhomes.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Russell Zavatsky",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Russell Zavatsky at Zar Custom Homes (Charlotte, NC). Profile: Rank #42 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:57:25.664537+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648646-13",
+    "estimated_rank": 43,
+    "business_name": "Chiott Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.chiott.com",
+    "domain": "chiott.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Jonathan Chiott",
+      "verified_email": "office@chiott.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jonathan Chiott at Chiott Custom Homes (Charlotte, NC). Profile: Rank #43 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:26.145950+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648646-14",
+    "estimated_rank": 45,
+    "business_name": "THR Design Build",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.thrdesignbuild.com/contact",
+    "domain": "thrdesignbuild.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Drew Taylor",
+      "verified_email": "info@thrdesignbuild.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Drew Taylor at THR Design Build (Charlotte, NC). Profile: Rank #45 on Google Maps (16 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:26.782621+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648647-15",
+    "estimated_rank": 52,
+    "business_name": "McSpadden Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://mcspaddenhomes.com",
+    "domain": "mcspaddenhomes.com",
+    "reviews_count": 24,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Provided Plans",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Provided Plans at McSpadden Homes (Charlotte, NC). Profile: Rank #52 on Google Maps (24 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:57:27.062257+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648652-16",
+    "estimated_rank": 53,
+    "business_name": "Linnane Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.linnanehomes.com",
+    "domain": "linnanehomes.com",
+    "reviews_count": 11,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Linnane Homes (Charlotte, NC). Profile: Rank #53 on Google Maps (11 reviews, 4.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:57:32.878714+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648653-17",
+    "estimated_rank": 55,
+    "business_name": "Impresa Modular Charlotte",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://impresamodularclt.com",
+    "domain": "impresamodularclt.com",
+    "reviews_count": 25,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Impresa Modular Charlotte (Charlotte, NC). Profile: Rank #55 on Google Maps (25 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:57:33.627640+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648653-18",
+    "estimated_rank": 57,
+    "business_name": "Classica Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.classicahomes.com",
+    "domain": "classicahomes.com",
+    "reviews_count": 17,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Bryan",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Bryan at Classica Homes (Charlotte, NC). Profile: Rank #57 on Google Maps (17 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:57:33.895318+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648654-19",
+    "estimated_rank": 60,
+    "business_name": "Ram Construction Inc / Ram Design-Build",
+    "category": "Luxury Custom Home Builder",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.ramconstructioninc.com",
+    "domain": "ramconstructioninc.com",
+    "reviews_count": 25,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@ramconstructioninc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ram Construction Inc / Ram Design-Build (Charlotte, NC). Profile: Rank #60 on Google Maps (25 reviews, 4.2★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:57:34.736024+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648667-1",
+    "estimated_rank": 25,
+    "business_name": "Blue Restoration Services",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://brestorations.com",
+    "domain": "brestorations.com",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Intake",
+      "verified_email": "intake@brestorations.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Intake at Blue Restoration Services (Charlotte, NC). Profile: Rank #25 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:47.428464+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648668-2",
+    "estimated_rank": 42,
+    "business_name": "1-800-Packouts of Charlotte",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.1800packouts.com/charlotte",
+    "domain": "1800packouts.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Ron",
+      "verified_email": "ron.tamol@1800packouts.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Ron at 1-800-Packouts of Charlotte (Charlotte, NC). Profile: Rank #42 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:57:48.814496+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648670-3",
+    "estimated_rank": 43,
+    "business_name": "National Insurance Claim Specialist (NICS) of Charlotte",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://nicsrestoration.com",
+    "domain": "nicsrestoration.com",
+    "reviews_count": 12,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at National Insurance Claim Specialist (NICS) of Charlotte (Charlotte, NC). Profile: Rank #43 on Google Maps (12 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:57:50.783863+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648686-1",
+    "estimated_rank": 26,
+    "business_name": "Carrier Commercial Service",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.carrier.com/commercial/en/us/service/nc/charlotte",
+    "domain": "carrier.com",
+    "reviews_count": 9,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Carrier Commercial Service (Charlotte, NC). Profile: Rank #26 on Google Maps (9 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:58:06.644755+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648689-2",
+    "estimated_rank": 45,
+    "business_name": "Allied Aire Inc",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.alliedaireinc.com",
+    "domain": "alliedaireinc.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Carrier",
+      "verified_email": "info@alliedaireinc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Carrier at Allied Aire Inc (Charlotte, NC). Profile: Rank #45 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:58:09.321925+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648725-1",
+    "estimated_rank": 31,
+    "business_name": "TaxPro Consult and Bookkeeping Services LLC",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.taxpro-nc.com",
+    "domain": "taxpro-nc.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Should Know",
+      "verified_email": "taxservice@taxpro-nc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Should Know at TaxPro Consult and Bookkeeping Services LLC (Charlotte, NC). Profile: Rank #31 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:58:45.994513+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648730-2",
+    "estimated_rank": 42,
+    "business_name": "Todd Greene, CPA, PLLC Accountants",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://toddgreenecpa.com",
+    "domain": "toddgreenecpa.com",
+    "reviews_count": 27,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@toddgreenecpa.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Todd Greene, CPA, PLLC Accountants (Charlotte, NC). Profile: Rank #42 on Google Maps (27 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:58:50.728118+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648732-3",
+    "estimated_rank": 46,
+    "business_name": "MSLCPA PLLC",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.mslcpapllc.com",
+    "domain": "mslcpapllc.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at MSLCPA PLLC (Charlotte, NC). Profile: Rank #46 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:58:52.716462+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648733-4",
+    "estimated_rank": 47,
+    "business_name": "DRC Tax & Accounting - A Member of Aline Accounting Partners Group",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.danielratliff.com",
+    "domain": "danielratliff.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at DRC Tax & Accounting - A Member of Aline Accounting Partners Group (Charlotte, NC). Profile: Rank #47 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:58:53.249179+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648736-5",
+    "estimated_rank": 49,
+    "business_name": "Allied Tax & Accounting Consultants, LLC",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.alliedtaxaccounting.com",
+    "domain": "alliedtaxaccounting.com",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "help@alliedtaxaccounting.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Allied Tax & Accounting Consultants, LLC (Charlotte, NC). Profile: Rank #49 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:58:56.414483+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648736-6",
+    "estimated_rank": 52,
+    "business_name": "CT Tax Services, Inc",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://ct-accountingservice.com",
+    "domain": "ct-accountingservice.com",
+    "reviews_count": 16,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at CT Tax Services, Inc (Charlotte, NC). Profile: Rank #52 on Google Maps (16 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:58:56.703753+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648749-1",
+    "estimated_rank": 37,
+    "business_name": "Down under plumbing & drains",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.downunderplumber.com",
+    "domain": "downunderplumber.com",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@downunderplumber.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Down under plumbing & drains (Charlotte, NC). Profile: Rank #37 on Google Maps (14 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:59:09.244908+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648749-2",
+    "estimated_rank": 48,
+    "business_name": "Carolina Clean Drains",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://carolinacleandrains.com",
+    "domain": "carolinacleandrains.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Carolina Clean Drains (Charlotte, NC). Profile: Rank #48 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:59:09.978640+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648766-1",
+    "estimated_rank": 28,
+    "business_name": "Eclipse Window Tinting South Charlotte",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://eclipsetintingllc.com",
+    "domain": "eclipsetintingllc.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Eclipse Window Tinting South Charlotte (Charlotte, NC). Profile: Rank #28 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T05:59:26.806489+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648767-2",
+    "estimated_rank": 40,
+    "business_name": "Lettuce Tint",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://lettucetint.com",
+    "domain": "lettucetint.com",
+    "reviews_count": 16,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Lettuce Tint (Charlotte, NC). Profile: Rank #40 on Google Maps (16 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:59:27.185081+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648767-3",
+    "estimated_rank": 48,
+    "business_name": "Automotive Addictions",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.automotiveaddictions.com",
+    "domain": "automotiveaddictions.com",
+    "reviews_count": 27,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Brian",
+      "verified_email": "brian@automotiveaddictions.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Brian at Automotive Addictions (Charlotte, NC). Profile: Rank #48 on Google Maps (27 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:59:27.602802+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648791-1",
+    "estimated_rank": 27,
+    "business_name": "EUROfloors Inc. - Stained Concrete & Epoxy Specialists",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.eurofloors.us",
+    "domain": "eurofloors.us",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@eurofloors.us",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at EUROfloors Inc. - Stained Concrete & Epoxy Specialists (Charlotte, NC). Profile: Rank #27 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T05:59:51.491232+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648799-2",
+    "estimated_rank": 37,
+    "business_name": "Majestic Concrete Coatings",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.majesticconcretecoatings.com",
+    "domain": "majesticconcretecoatings.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Kyle",
+      "verified_email": "kyle.miller@majesticconcretecoatings.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Kyle at Majestic Concrete Coatings (Charlotte, NC). Profile: Rank #37 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T05:59:59.265208+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648800-3",
+    "estimated_rank": 45,
+    "business_name": "ArdentSurface Floor Coating Systems",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.ardentsurface.com",
+    "domain": "ardentsurface.com",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at ArdentSurface Floor Coating Systems (Charlotte, NC). Profile: Rank #45 on Google Maps (8 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:00:00.826398+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648813-1",
+    "estimated_rank": 21,
+    "business_name": "Rose Energy LLC",
+    "category": "Solar Panel Installation",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.rose-energy.com",
+    "domain": "rose-energy.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Rose Energy LLC (Charlotte, NC). Profile: Rank #21 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:00:13.058206+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648818-2",
+    "estimated_rank": 32,
+    "business_name": "LGCY Power",
+    "category": "Solar Panel Installation",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.lgcypower.com/state/nc/charlotte-south",
+    "domain": "lgcypower.com",
+    "reviews_count": 9,
+    "rating": 1.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at LGCY Power (Charlotte, NC). Profile: Rank #32 on Google Maps (9 reviews, 1.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:00:18.306712+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648820-3",
+    "estimated_rank": 38,
+    "business_name": "Schletter North America, Inc",
+    "category": "Solar Panel Installation",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.schletter-group.com/en-US",
+    "domain": "schletter-group.com",
+    "reviews_count": 5,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Schletter North America, Inc (Charlotte, NC). Profile: Rank #38 on Google Maps (5 reviews, 4.2★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:00:20.621142+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648823-4",
+    "estimated_rank": 48,
+    "business_name": "Spot On Roofing and Solar",
+    "category": "Solar Panel Installation",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.spotonroofingandsolar.com",
+    "domain": "spotonroofingandsolar.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Spot On Roofing and Solar (Charlotte, NC). Profile: Rank #48 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:00:23.104980+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648835-1",
+    "estimated_rank": 48,
+    "business_name": "Badger Gutters - Charlotte Gutter Installation",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://badgergutters.com",
+    "domain": "badgergutters.com",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Local",
+      "verified_email": "support@badgergutters.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Local at Badger Gutters - Charlotte Gutter Installation (Charlotte, NC). Profile: Rank #48 on Google Maps (21 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:00:35.784073+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648850-1",
+    "estimated_rank": 26,
+    "business_name": "Sesmas Tree Service",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://sesmastreeservice.com/tree-removal-services-charlotte-nc.html",
+    "domain": "sesmastreeservice.com",
+    "reviews_count": 20,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@sesmastreeservice.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sesmas Tree Service (Charlotte, NC). Profile: Rank #26 on Google Maps (20 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:00:50.223639+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648877-1",
+    "estimated_rank": 23,
+    "business_name": "Interstate Contract Cleaning Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://interstateccs.com",
+    "domain": "interstateccs.com",
+    "reviews_count": 26,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Facilities Management",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Facilities Management at Interstate Contract Cleaning Services (Charlotte, NC). Profile: Rank #23 on Google Maps (26 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:01:17.963050+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648878-2",
+    "estimated_rank": 26,
+    "business_name": "Charlotte Commercial Cleaning Services LLC",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://cltcommercialcleaning.com",
+    "domain": "cltcommercialcleaning.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Charlotte Commercial Cleaning Services LLC (Charlotte, NC). Profile: Rank #26 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:01:18.317591+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648881-3",
+    "estimated_rank": 27,
+    "business_name": "Clean Method",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://cleanmethod.com/near-me/north-carolina/charlotte",
+    "domain": "cleanmethod.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@cleanmethod.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Clean Method (Charlotte, NC). Profile: Rank #27 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:01:21.629878+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648882-4",
+    "estimated_rank": 32,
+    "business_name": "Luxify Cleaning & Disinfecting Solutions in Charlotte",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.luxifysolutions.com",
+    "domain": "luxifysolutions.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@luxifysolutions.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Luxify Cleaning & Disinfecting Solutions in Charlotte (Charlotte, NC). Profile: Rank #32 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:01:22.394423+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648887-6",
+    "estimated_rank": 38,
+    "business_name": "Antonio Tillman Commercial Cleaning",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.antoniocc.com",
+    "domain": "antoniocc.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Antonio",
+      "verified_email": "antonio@antoniocc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Antonio at Antonio Tillman Commercial Cleaning (Charlotte, NC). Profile: Rank #38 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:01:27.341841+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648889-7",
+    "estimated_rank": 45,
+    "business_name": "Jac Janitorial Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.jacjanitorial.com/appointment",
+    "domain": "jacjanitorial.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Ecastro",
+      "verified_email": "ecastro@jacjanitorial.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Ecastro at Jac Janitorial Services (Charlotte, NC). Profile: Rank #45 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:01:29.657854+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648890-8",
+    "estimated_rank": 51,
+    "business_name": "Royale Cleaning Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.royalecleaningservice.com",
+    "domain": "royalecleaningservice.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Contactsales",
+      "verified_email": "contactsales@royalecleaningservice.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Contactsales at Royale Cleaning Services (Charlotte, NC). Profile: Rank #51 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:01:30.228269+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648891-9",
+    "estimated_rank": 52,
+    "business_name": "GCS Cleaning Services LLC",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://gcscleaningservicesllc.com",
+    "domain": "gcscleaningservicesllc.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at GCS Cleaning Services LLC (Charlotte, NC). Profile: Rank #52 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:01:31.351658+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648892-10",
+    "estimated_rank": 54,
+    "business_name": "United Maintenance Corporation",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://umcclean.com",
+    "domain": "umcclean.com",
+    "reviews_count": 7,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Certified Minority",
+      "verified_email": "info@umcclean.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Certified Minority at United Maintenance Corporation (Charlotte, NC). Profile: Rank #54 on Google Maps (7 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:01:32.002202+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648895-12",
+    "estimated_rank": 60,
+    "business_name": "Extreme Property Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.extremepropertyservices.com",
+    "domain": "extremepropertyservices.com",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@extremepropertyservices.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Extreme Property Services (Charlotte, NC). Profile: Rank #60 on Google Maps (24 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:01:35.604804+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648910-2",
+    "estimated_rank": 28,
+    "business_name": "Charlotte Fence Builders Inc.",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.charlottefencebuilders.com",
+    "domain": "charlottefencebuilders.com",
+    "reviews_count": 21,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Charlotte Fence Builders Inc. (Charlotte, NC). Profile: Rank #28 on Google Maps (21 reviews, 3.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:01:50.391146+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648911-3",
+    "estimated_rank": 29,
+    "business_name": "The Charlotte Fence Company",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://thecharlottefencecompany.com",
+    "domain": "thecharlottefencecompany.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The Charlotte Fence Company (Charlotte, NC). Profile: Rank #29 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:01:51.015226+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648925-4",
+    "estimated_rank": 30,
+    "business_name": "Hartsell Brothers Fence Co Inc",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.hartsell-fence.com",
+    "domain": "hartsell-fence.com",
+    "reviews_count": 11,
+    "rating": 3.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hartsell Brothers Fence Co Inc (Charlotte, NC). Profile: Rank #30 on Google Maps (11 reviews, 3.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:02:05.220615+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648929-6",
+    "estimated_rank": 41,
+    "business_name": "Trinity Fence and Gate Inc.",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.trinityfenceandgate.com",
+    "domain": "trinityfenceandgate.com",
+    "reviews_count": 16,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Trinity Fence and Gate Inc. (Charlotte, NC). Profile: Rank #41 on Google Maps (16 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:02:09.397851+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648930-7",
+    "estimated_rank": 44,
+    "business_name": "Ornamental Fence Solutions, LLC",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.ofs-nc.com",
+    "domain": "ofs-nc.com",
+    "reviews_count": 10,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ornamental Fence Solutions, LLC (Charlotte, NC). Profile: Rank #44 on Google Maps (10 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:02:10.777846+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648931-8",
+    "estimated_rank": 45,
+    "business_name": "Pinpoint Fence",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://pinpointfence.com",
+    "domain": "pinpointfence.com",
+    "reviews_count": 25,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@pinpointfence.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pinpoint Fence (Charlotte, NC). Profile: Rank #45 on Google Maps (25 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:02:11.310527+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648932-9",
+    "estimated_rank": 46,
+    "business_name": "Total Fence LLC",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://totalfencecarolinas.com",
+    "domain": "totalfencecarolinas.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Total Fence LLC (Charlotte, NC). Profile: Rank #46 on Google Maps (20 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:02:12.429924+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648941-10",
+    "estimated_rank": 50,
+    "business_name": "Capitol Wholesale",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.capitolwholesale.com",
+    "domain": "capitolwholesale.com",
+    "reviews_count": 28,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Capitol Wholesale (Charlotte, NC). Profile: Rank #50 on Google Maps (28 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:02:21.514137+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648942-11",
+    "estimated_rank": 54,
+    "business_name": "WamBam Fence",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.wambamfence.com",
+    "domain": "wambamfence.com",
+    "reviews_count": 18,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at WamBam Fence (Charlotte, NC). Profile: Rank #54 on Google Maps (18 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T06:02:22.168762+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648956-1",
+    "estimated_rank": 21,
+    "business_name": "The Immigration Law Firm",
+    "category": "Immigration & Visa Consultant",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.immfirm.com",
+    "domain": "immfirm.com",
+    "reviews_count": 14,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The Immigration Law Firm (Charlotte, NC). Profile: Rank #21 on Google Maps (14 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:02:36.876248+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648959-2",
+    "estimated_rank": 39,
+    "business_name": "InterlinkLaw LLP",
+    "category": "Immigration & Visa Consultant",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "http://www.interlinklaw.com",
+    "domain": "interlinklaw.com",
+    "reviews_count": 22,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at InterlinkLaw LLP (Charlotte, NC). Profile: Rank #39 on Google Maps (22 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:02:39.024891+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648960-3",
+    "estimated_rank": 55,
+    "business_name": "Matoro Consulting LLC",
+    "category": "Immigration & Visa Consultant",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "website": "https://www.matoroconsulting.com",
+    "domain": "matoroconsulting.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Matoro Consulting LLC (Charlotte, NC). Profile: Rank #55 on Google Maps (15 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:02:40.717281+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792649050-1",
+    "estimated_rank": 27,
+    "business_name": "Digital Design Agency LLC",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://digitaldesigningagency.com",
+    "domain": "digitaldesigningagency.com",
+    "reviews_count": 16,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Domain",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Domain at Digital Design Agency LLC (Houston, TX). Profile: Rank #27 on Google Maps (16 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:04:10.924564+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792649077-7",
+    "estimated_rank": 48,
+    "business_name": "Culture Pilot",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.culturepilot.com",
+    "domain": "culturepilot.com",
+    "reviews_count": 10,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Partners We",
+      "verified_email": "connect@culturepilot.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Partners We at Culture Pilot (Houston, TX). Profile: Rank #48 on Google Maps (10 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:04:37.732234+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792649109-9",
+    "estimated_rank": 56,
+    "business_name": "Done Right Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://donerightfoundationrepair.com",
+    "domain": "donerightfoundationrepair.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Done Right Foundation Repair (Houston, TX). Profile: Rank #56 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:05:09.829430+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792649172-1",
+    "estimated_rank": 26,
+    "business_name": "Douglas Painting and Remodeling of Houston, TX",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.douglaspaintingcompany.com",
+    "domain": "douglaspaintingcompany.com",
+    "reviews_count": 18,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Douglas Painting and Remodeling of Houston, TX (Houston, TX). Profile: Rank #26 on Google Maps (18 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T06:06:12.783860+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792649260-20",
+    "estimated_rank": 54,
+    "business_name": "Morning Star Builders, llc",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.homesbymorningstar.com",
+    "domain": "homesbymorningstar.com",
+    "reviews_count": 19,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Morning Star Builders, llc (Houston, TX). Profile: Rank #54 on Google Maps (19 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:07:40.899480+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792649294-1",
+    "estimated_rank": 48,
+    "business_name": "Comflow Mechanical Services",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.comflowco.com",
+    "domain": "comflowco.com",
+    "reviews_count": 24,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Comflow Mechanical Services (Houston, TX). Profile: Rank #48 on Google Maps (24 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T06:08:14.165478+00:00"
   }
 ]
