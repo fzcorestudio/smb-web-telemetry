@@ -62578,5 +62578,1405 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Miami Center for Plastic Surgery (Miami, FL). Profile: Rank #21 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
     "harvested_at": "2026-10-22T09:16:01.881561+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663097-9",
+    "estimated_rank": 54,
+    "business_name": "ATMOSERRA Heating & Cooling",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.atmoserra.ca",
+    "domain": "atmoserra.ca",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@atmoserra.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at ATMOSERRA Heating & Cooling (Vancouver, BC). Profile: Rank #54 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T09:58:17.776346+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663098-10",
+    "estimated_rank": 58,
+    "business_name": "Mayne Mechanical Systems",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.maynemechanical.ca",
+    "domain": "maynemechanical.ca",
+    "reviews_count": 24,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "service@maynemechanical.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mayne Mechanical Systems (Vancouver, BC). Profile: Rank #58 on Google Maps (24 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T09:58:18.326924+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663100-11",
+    "estimated_rank": 60,
+    "business_name": "Angels Heating Cooling, Plumbing",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://angelsheating.com",
+    "domain": "angelsheating.com",
+    "reviews_count": 10,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@angelsheating.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Angels Heating Cooling, Plumbing (Vancouver, BC). Profile: Rank #60 on Google Maps (10 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T09:58:20.489963+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663122-4",
+    "estimated_rank": 52,
+    "business_name": "Timeless roofing",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://timelessroofingbc.ca",
+    "domain": "timelessroofingbc.ca",
+    "reviews_count": 21,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@timelessroofingbc.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Timeless roofing (Vancouver, BC). Profile: Rank #52 on Google Maps (21 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T09:58:42.984122+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663147-1",
+    "estimated_rank": 33,
+    "business_name": "Mr. Splash Plumbing of Vancouver",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://mrsplash.ca",
+    "domain": "mrsplash.ca",
+    "reviews_count": 9,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@mrsplash.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mr. Splash Plumbing of Vancouver (Vancouver, BC). Profile: Rank #33 on Google Maps (9 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T09:59:07.795820+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663172-3",
+    "estimated_rank": 30,
+    "business_name": "PC Tax Solutions",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://www.pctaxsolutions.ca",
+    "domain": "pctaxsolutions.ca",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Small Business",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Small Business at PC Tax Solutions (Vancouver, BC). Profile: Rank #30 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T09:59:32.382528+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663186-9",
+    "estimated_rank": 57,
+    "business_name": "Dale Fan & Associates",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://www.dalefancpa.ca",
+    "domain": "dalefancpa.ca",
+    "reviews_count": 25,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Maui Escapists",
+      "verified_email": "hello@dalefancpa.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Maui Escapists at Dale Fan & Associates (Vancouver, BC). Profile: Rank #57 on Google Maps (25 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T09:59:46.852100+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663190-10",
+    "estimated_rank": 59,
+    "business_name": "Trusted Accountants Inc.",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://trustedaccountants.ca",
+    "domain": "trustedaccountants.ca",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Trusted Accountants Inc. (Vancouver, BC). Profile: Rank #59 on Google Maps (14 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T09:59:50.272806+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663209-6",
+    "estimated_rank": 39,
+    "business_name": "RTT Restoration",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://waterdamagenorthvancouver.com",
+    "domain": "waterdamagenorthvancouver.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at RTT Restoration (Vancouver, BC). Profile: Rank #39 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:00:09.845709+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663229-1",
+    "estimated_rank": 25,
+    "business_name": "Western Wood Luxury Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://westernwoodhomes.ca",
+    "domain": "westernwoodhomes.ca",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@westernwoodhomes.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Western Wood Luxury Homes (Vancouver, BC). Profile: Rank #25 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:00:29.839356+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663332-7",
+    "estimated_rank": 49,
+    "business_name": "AAG Renovation Services Vancouver | Construction Company Vancouver",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://aagservicesconstruction.ca",
+    "domain": "aagservicesconstruction.ca",
+    "reviews_count": 27,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at AAG Renovation Services Vancouver | Construction Company Vancouver (Vancouver, BC). Profile: Rank #49 on Google Maps (27 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:02:12.872036+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663418-2",
+    "estimated_rank": 30,
+    "business_name": "Bluestone Landscape Ltd",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://www.bluestonelandscape.ca",
+    "domain": "bluestonelandscape.ca",
+    "reviews_count": 17,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Kevin",
+      "verified_email": "kevin@bluestonelandscape.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Kevin at Bluestone Landscape Ltd (Vancouver, BC). Profile: Rank #30 on Google Maps (17 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:03:38.855737+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663419-3",
+    "estimated_rank": 32,
+    "business_name": "Jose's Green Stone Landscaping Ltd",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://josegreenstone.ca",
+    "domain": "josegreenstone.ca",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@josegreenstone.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Jose's Green Stone Landscaping Ltd (Vancouver, BC). Profile: Rank #32 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:03:39.357233+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663420-4",
+    "estimated_rank": 36,
+    "business_name": "Vancouver Wolfpack Landscaping LTD",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://www.vancouverwolfpacklandscaping.com",
+    "domain": "vancouverwolfpacklandscaping.com",
+    "reviews_count": 23,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Vancouver Wolfpack Landscaping LTD (Vancouver, BC). Profile: Rank #36 on Google Maps (23 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:03:40.772245+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663421-5",
+    "estimated_rank": 38,
+    "business_name": "Thaysen Landscapes Inc",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.thaysenlandscapes.com",
+    "domain": "thaysenlandscapes.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Get",
+      "verified_email": "info@thaysenlandscapes.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Get at Thaysen Landscapes Inc (Vancouver, BC). Profile: Rank #38 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:03:41.506932+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663424-6",
+    "estimated_rank": 47,
+    "business_name": "Vancouver Landscaping Inc",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.vlandscaping.ca",
+    "domain": "vlandscaping.ca",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@vlandscaping.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Vancouver Landscaping Inc (Vancouver, BC). Profile: Rank #47 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:03:44.725483+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663431-7",
+    "estimated_rank": 48,
+    "business_name": "MGP Land Services",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.mgplandservices.ca",
+    "domain": "mgplandservices.ca",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@mgplandservices.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at MGP Land Services (Vancouver, BC). Profile: Rank #48 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:03:51.877399+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663433-8",
+    "estimated_rank": 53,
+    "business_name": "Square Yards Landscaping",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://squareyardslandscaping.ca",
+    "domain": "squareyardslandscaping.ca",
+    "reviews_count": 27,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "fo@squareyardslandscaping.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Square Yards Landscaping (Vancouver, BC). Profile: Rank #53 on Google Maps (27 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:03:53.450547+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663433-9",
+    "estimated_rank": 56,
+    "business_name": "Janstone Masonry & Landscape contracting",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.janstone.ca",
+    "domain": "janstone.ca",
+    "reviews_count": 12,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@janstone.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Janstone Masonry & Landscape contracting (Vancouver, BC). Profile: Rank #56 on Google Maps (12 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:03:53.937954+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663542-9",
+    "estimated_rank": 46,
+    "business_name": "Strait Gate Fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://straitgatefencing.com",
+    "domain": "straitgatefencing.com",
+    "reviews_count": 8,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Strait Gate Fencing (Vancouver, BC). Profile: Rank #46 on Google Maps (8 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:05:42.558467+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663546-10",
+    "estimated_rank": 50,
+    "business_name": "TechnoGate",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://technogate.ca",
+    "domain": "technogate.ca",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@technogate.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at TechnoGate (Vancouver, BC). Profile: Rank #50 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:05:46.249322+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663557-12",
+    "estimated_rank": 61,
+    "business_name": "Rite-Way Fencing Nanaimo",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.ritewayfencing.com/nanaimo",
+    "domain": "ritewayfencing.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Rite-Way Fencing Nanaimo (Vancouver, BC). Profile: Rank #61 on Google Maps (9 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:05:57.296313+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663569-1",
+    "estimated_rank": 24,
+    "business_name": "Painting & Renovation Solutions",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.paintingandrenovations.ca",
+    "domain": "paintingandrenovations.ca",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@paintingandrenovations.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Painting & Renovation Solutions (Vancouver, BC). Profile: Rank #24 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:06:09.809888+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663585-6",
+    "estimated_rank": 55,
+    "business_name": "Beyond The Brush Painters",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://btbpainters.com",
+    "domain": "btbpainters.com",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Beyond The Brush Painters (Vancouver, BC). Profile: Rank #55 on Google Maps (21 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:06:25.582741+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663642-1",
+    "estimated_rank": 22,
+    "business_name": "Emerald Property Services",
+    "category": "Commercial Pressure Washing",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.emeraldservicesbc.ca",
+    "domain": "emeraldservicesbc.ca",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "admin@emeraldservicesbc.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Emerald Property Services (Vancouver, BC). Profile: Rank #22 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:07:22.043410+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663646-4",
+    "estimated_rank": 33,
+    "business_name": "PristinePowerClean Pressure Washing Burnaby",
+    "category": "Commercial Pressure Washing",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://pristinepowerclean.ca",
+    "domain": "pristinepowerclean.ca",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at PristinePowerClean Pressure Washing Burnaby (Vancouver, BC). Profile: Rank #33 on Google Maps (21 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:07:26.001086+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663652-6",
+    "estimated_rank": 51,
+    "business_name": "Grade X Commercial Solutions",
+    "category": "Commercial Pressure Washing",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://gradexgroup.com",
+    "domain": "gradexgroup.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Grade X Commercial Solutions (Vancouver, BC). Profile: Rank #51 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:07:32.213384+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663653-7",
+    "estimated_rank": 56,
+    "business_name": "Always Clean Maintenance",
+    "category": "Commercial Pressure Washing",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://www.alwayscleanmaintenance.com/contact",
+    "domain": "alwayscleanmaintenance.com",
+    "reviews_count": 10,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Call Now",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Call Now at Always Clean Maintenance (Vancouver, BC). Profile: Rank #56 on Google Maps (10 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:07:33.516505+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663757-2",
+    "estimated_rank": 27,
+    "business_name": "Shaughnessy Mobile Auto Detailing",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://shaughnessydetail.site",
+    "domain": "shaughnessydetail.site",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Shaughnessy Mobile Auto Detailing (Vancouver, BC). Profile: Rank #27 on Google Maps (14 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:09:17.702820+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663758-3",
+    "estimated_rank": 37,
+    "business_name": "LuxLooks Mobile Car Detailing Vancouver",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "https://luxlooksmobiledetailing.ca",
+    "domain": "luxlooksmobiledetailing.ca",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at LuxLooks Mobile Car Detailing Vancouver (Vancouver, BC). Profile: Rank #37 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:09:18.760707+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663849-10",
+    "estimated_rank": 49,
+    "business_name": "Dermatologic Surgery Centre",
+    "category": "Plastic Surgery Center",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://www.skincarecentre.ca",
+    "domain": "skincarecentre.ca",
+    "reviews_count": 9,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dermatologic Surgery Centre (Vancouver, BC). Profile: Rank #49 on Google Maps (9 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:10:49.291565+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663853-11",
+    "estimated_rank": 52,
+    "business_name": "Dr Anthony Papp Inc",
+    "category": "Plastic Surgery Center",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://www.dranthonypapp.com",
+    "domain": "dranthonypapp.com",
+    "reviews_count": 15,
+    "rating": 3.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@dranthonypapp.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dr Anthony Papp Inc (Vancouver, BC). Profile: Rank #52 on Google Maps (15 reviews, 3.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:10:53.614914+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663868-1",
+    "estimated_rank": 21,
+    "business_name": "Red Rocket Creative",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://www.redrocketcreative.com",
+    "domain": "redrocketcreative.com",
+    "reviews_count": 17,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Red Rocket Creative (Vancouver, BC). Profile: Rank #21 on Google Maps (17 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:11:08.629097+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792663895-12",
+    "estimated_rank": 60,
+    "business_name": "Redshift Collective",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "website": "http://redshiftcollective.com",
+    "domain": "redshiftcollective.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hello@redshiftcollective.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Redshift Collective (Vancouver, BC). Profile: Rank #60 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:11:35.747486+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663913-1",
+    "estimated_rank": 24,
+    "business_name": "Jacksons Auto Tint",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://jacksonswash.com/tint",
+    "domain": "jacksonswash.com",
+    "reviews_count": 21,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Jacksons Auto Tint (Scottsdale, AZ). Profile: Rank #24 on Google Maps (21 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:11:53.116017+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663914-3",
+    "estimated_rank": 31,
+    "business_name": "Rogue Films Home & Office",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://roguefilmsaz.com/residential-and-commercial-tinting",
+    "domain": "roguefilmsaz.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Matt Stecker",
+      "verified_email": "sales@roguefilmsaz.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Matt Stecker at Rogue Films Home & Office (Scottsdale, AZ). Profile: Rank #31 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:11:54.427253+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663919-4",
+    "estimated_rank": 56,
+    "business_name": "Total Protection Films - Commercial & Home Window Tinting",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://totalprotectionfilms.com",
+    "domain": "totalprotectionfilms.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Total Protection Films - Commercial & Home Window Tinting (Scottsdale, AZ). Profile: Rank #56 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:11:59.371904+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663933-1",
+    "estimated_rank": 35,
+    "business_name": "Taylor Made Refrigeration Inc.",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://www.taylormaderefrigeration.com",
+    "domain": "taylormaderefrigeration.com",
+    "reviews_count": 5,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Taylor Made Refrigeration Inc. (Scottsdale, AZ). Profile: Rank #35 on Google Maps (5 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:12:13.908656+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663935-2",
+    "estimated_rank": 36,
+    "business_name": "AC Repair Near Me Of Scottsdale",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://acrepairnearme.services/service-areas/scottsdale-arizona-ac-repair",
+    "domain": "acrepairnearme.services",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at AC Repair Near Me Of Scottsdale (Scottsdale, AZ). Profile: Rank #36 on Google Maps (9 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:12:15.993860+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663937-3",
+    "estimated_rank": 42,
+    "business_name": "HVAC Near Me Repair and Installation of Scottsdale",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://hvacnearme.today/service-areas/scottsdale-arizona-hvac-services",
+    "domain": "hvacnearme.today",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "service@hvacnearme.today",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at HVAC Near Me Repair and Installation of Scottsdale (Scottsdale, AZ). Profile: Rank #42 on Google Maps (4 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:12:17.589201+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663939-4",
+    "estimated_rank": 51,
+    "business_name": "Nash & Son Refrigeration Inc",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://www.nashandson.com",
+    "domain": "nashandson.com",
+    "reviews_count": 10,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Nash & Son Refrigeration Inc (Scottsdale, AZ). Profile: Rank #51 on Google Maps (10 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:12:19.322948+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663940-5",
+    "estimated_rank": 57,
+    "business_name": "Daikin Comfort Technologies",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://daikincomfort.com",
+    "domain": "daikincomfort.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Support Center",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Support Center at Daikin Comfort Technologies (Scottsdale, AZ). Profile: Rank #57 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:12:20.075964+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663953-1",
+    "estimated_rank": 21,
+    "business_name": "Ultimate Roofing Scottsdale",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://essentialroofingguys.com/scottsdale-az",
+    "domain": "essentialroofingguys.com",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@essentialroofingguys.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ultimate Roofing Scottsdale (Scottsdale, AZ). Profile: Rank #21 on Google Maps (17 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:12:33.517203+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663961-2",
+    "estimated_rank": 22,
+    "business_name": "The Arizona Roof Co",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://thearizonaroofco.com",
+    "domain": "thearizonaroofco.com",
+    "reviews_count": 23,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "support@thearizonaroofco.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The Arizona Roof Co (Scottsdale, AZ). Profile: Rank #22 on Google Maps (23 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:12:41.281367+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663963-3",
+    "estimated_rank": 29,
+    "business_name": "CANYON SUNRISE ROOFING CO.",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://canyonsunriseroofing.com",
+    "domain": "canyonsunriseroofing.com",
+    "reviews_count": 12,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "David Mack",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: David Mack at CANYON SUNRISE ROOFING CO. (Scottsdale, AZ). Profile: Rank #29 on Google Maps (12 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:12:43.588660+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663971-4",
+    "estimated_rank": 37,
+    "business_name": "Stephens Roofing & General Contracting inc.",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://www.stephensroofing.com",
+    "domain": "stephensroofing.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Bryan Stephens",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Bryan Stephens at Stephens Roofing & General Contracting inc. (Scottsdale, AZ). Profile: Rank #37 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:12:51.518631+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663971-5",
+    "estimated_rank": 38,
+    "business_name": "Glendale Roofing Company",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://roofing-scottsdale.pro",
+    "domain": "roofing-scottsdale.pro",
+    "reviews_count": 12,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Scottsdale Property",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Scottsdale Property at Glendale Roofing Company (Scottsdale, AZ). Profile: Rank #38 on Google Maps (12 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:12:51.978887+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663972-6",
+    "estimated_rank": 45,
+    "business_name": "Arizona Native Roofing",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://arizonanativeroofing.com/scottsdale-roofer",
+    "domain": "arizonanativeroofing.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Jason",
+      "verified_email": "jason@arizonanativeroofing.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jason at Arizona Native Roofing (Scottsdale, AZ). Profile: Rank #45 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:12:52.835958+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792663999-1",
+    "estimated_rank": 25,
+    "business_name": "AZ Home Services Group AC Repair & Plumbing Services of Scottsdale",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://azhomeservices.group/service-areas/scottsdale-arizona-air-conditioner-plumbing-services",
+    "domain": "azhomeservices.group",
+    "reviews_count": 28,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@azhomeservices.group",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at AZ Home Services Group AC Repair & Plumbing Services of Scottsdale (Scottsdale, AZ). Profile: Rank #25 on Google Maps (28 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:13:19.383143+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792664004-2",
+    "estimated_rank": 38,
+    "business_name": "Phoenix Water Softeners",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://bestphoenixplumberrepair.com/scottsdale-plumbing-draining-water-heater-repair",
+    "domain": "bestphoenixplumberrepair.com",
+    "reviews_count": 11,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Phoenix Water Softeners (Scottsdale, AZ). Profile: Rank #38 on Google Maps (11 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:13:24.767566+00:00"
   }
 ]
