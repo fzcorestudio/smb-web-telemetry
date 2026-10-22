@@ -35222,5 +35222,3645 @@
     },
     "gemini_context_snippet": "Target: Business Owner at UnderCover UnderCoaters Nashville (Nashville, TN). Profile: Rank #47 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
     "harvested_at": "2026-10-22T02:10:25.131841+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636141-1",
+    "estimated_rank": 29,
+    "business_name": "GTA House Painters",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://housepaintersgta.ca",
+    "domain": "housepaintersgta.ca",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@housepaintersgta.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at GTA House Painters (Toronto, ON). Profile: Rank #29 on Google Maps (17 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:29:01.654270+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636148-2",
+    "estimated_rank": 39,
+    "business_name": "Painting Perfect & Renovations",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://paintingperfectandrenos.com",
+    "domain": "paintingperfectandrenos.com",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Painting Perfect & Renovations (Toronto, ON). Profile: Rank #39 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:29:08.207164+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636149-3",
+    "estimated_rank": 44,
+    "business_name": "Paint & Drywall Guys Toronto",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://paintingdrywalltoronto.ca",
+    "domain": "paintingdrywalltoronto.ca",
+    "reviews_count": 7,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Paint & Drywall Guys Toronto (Toronto, ON). Profile: Rank #44 on Google Maps (7 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:29:09.518722+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636151-4",
+    "estimated_rank": 45,
+    "business_name": "Essential Painting | Interior Painting | Exterior Painting | Commercial Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://essentialpaintingpro.ca",
+    "domain": "essentialpaintingpro.ca",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Niko",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Niko at Essential Painting | Interior Painting | Exterior Painting | Commercial Painting (Toronto, ON). Profile: Rank #45 on Google Maps (21 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:29:11.463362+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636152-5",
+    "estimated_rank": 48,
+    "business_name": "Obsidian Painting Toronto",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://obsidianpainting.site",
+    "domain": "obsidianpainting.site",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Obsidian Painting Toronto (Toronto, ON). Profile: Rank #48 on Google Maps (21 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:29:12.341988+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636155-6",
+    "estimated_rank": 49,
+    "business_name": "High Quality Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://highqualitypainting.ca",
+    "domain": "highqualitypainting.ca",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Victor",
+      "verified_email": "victor@highqualitypainting.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Victor at High Quality Painting (Toronto, ON). Profile: Rank #49 on Google Maps (17 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:29:15.474636+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636156-7",
+    "estimated_rank": 51,
+    "business_name": "Great North Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://greatnorthpainting.com",
+    "domain": "greatnorthpainting.com",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@greatnorthpainting.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Great North Painting (Toronto, ON). Profile: Rank #51 on Google Maps (21 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:29:16.241845+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636158-8",
+    "estimated_rank": 52,
+    "business_name": "Sisters pro painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://sisterspropainting.com",
+    "domain": "sisterspropainting.com",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sisters pro painting (Toronto, ON). Profile: Rank #52 on Google Maps (21 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:29:18.998808+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636159-9",
+    "estimated_rank": 54,
+    "business_name": "Brightest In The Room Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://brightestintheroom.com",
+    "domain": "brightestintheroom.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@brightestintheroom.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Brightest In The Room Painting (Toronto, ON). Profile: Rank #54 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:29:19.839564+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636161-10",
+    "estimated_rank": 56,
+    "business_name": "Trending Painters",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://tpainters.ca",
+    "domain": "tpainters.ca",
+    "reviews_count": 27,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@tpainters.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Trending Painters (Toronto, ON). Profile: Rank #56 on Google Maps (27 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:29:21.692467+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636212-1",
+    "estimated_rank": 21,
+    "business_name": "Aluminum Fence Toronto",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://aluminumfencetoronto.ca",
+    "domain": "aluminumfencetoronto.ca",
+    "reviews_count": 16,
+    "rating": 3.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@aluminumfencetoronto.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Aluminum Fence Toronto (Toronto, ON). Profile: Rank #21 on Google Maps (16 reviews, 3.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:12.063562+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636213-2",
+    "estimated_rank": 22,
+    "business_name": "Mion Wrought Iron Fences Gates & Artistic Ironwork",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://mionwroughtironfences.ca",
+    "domain": "mionwroughtironfences.ca",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mion Wrought Iron Fences Gates & Artistic Ironwork (Toronto, ON). Profile: Rank #22 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:13.670889+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636219-3",
+    "estimated_rank": 27,
+    "business_name": "Toronto Fence Repair",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://torontofencerepair.com",
+    "domain": "torontofencerepair.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Toronto Fence Repair (Toronto, ON). Profile: Rank #27 on Google Maps (4 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:19.056162+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636219-4",
+    "estimated_rank": 29,
+    "business_name": "North Shields Fence",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.northshieldsfence.com",
+    "domain": "northshieldsfence.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Quote",
+      "verified_email": "quote@northshieldsfence.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Quote at North Shields Fence (Toronto, ON). Profile: Rank #29 on Google Maps (15 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:19.877736+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636222-5",
+    "estimated_rank": 37,
+    "business_name": "Vinyl Fence Toronto",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://vinylfencetoronto.ca",
+    "domain": "vinylfencetoronto.ca",
+    "reviews_count": 11,
+    "rating": 3.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Vinyl Fence Toronto (Toronto, ON). Profile: Rank #37 on Google Maps (11 reviews, 3.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:30:22.105645+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636225-6",
+    "estimated_rank": 39,
+    "business_name": "Element Fence",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.elementfence.ca",
+    "domain": "elementfence.ca",
+    "reviews_count": 17,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@elementfence.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Element Fence (Toronto, ON). Profile: Rank #39 on Google Maps (17 reviews, 4.1★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:25.428031+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636230-7",
+    "estimated_rank": 40,
+    "business_name": "Wholesale Fence",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://wholesalefence.ca",
+    "domain": "wholesalefence.ca",
+    "reviews_count": 7,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@wholesalefence.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Wholesale Fence (Toronto, ON). Profile: Rank #40 on Google Maps (7 reviews, 4.4★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:30.511897+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636233-8",
+    "estimated_rank": 45,
+    "business_name": "7s Fencing LLC",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://7sfencing.com",
+    "domain": "7sfencing.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Billypearson",
+      "verified_email": "billypearson@7sfencing.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Billypearson at 7s Fencing LLC (Toronto, ON). Profile: Rank #45 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:30:33.257747+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636237-9",
+    "estimated_rank": 50,
+    "business_name": "Allen Fence Company",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.allenfencecompany.ca",
+    "domain": "allenfencecompany.ca",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Allen Fence Company (Toronto, ON). Profile: Rank #50 on Google Maps (14 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:37.640580+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636238-10",
+    "estimated_rank": 51,
+    "business_name": "Integra Renovation - General Contractor North York",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://integrarenovation.com",
+    "domain": "integrarenovation.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Fazl",
+      "verified_email": "fazl@integrarenovation.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Fazl at Integra Renovation - General Contractor North York (Toronto, ON). Profile: Rank #51 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:38.041974+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636238-11",
+    "estimated_rank": 52,
+    "business_name": "City Fence Inc.",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.cityfence.ca",
+    "domain": "cityfence.ca",
+    "reviews_count": 4,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Leads",
+      "verified_email": "leads@cityfence.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Leads at City Fence Inc. (Toronto, ON). Profile: Rank #52 on Google Maps (4 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:30:38.559484+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636240-12",
+    "estimated_rank": 54,
+    "business_name": "Chain Link Fence Toronto",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://chainlinkfencetoronto.ca",
+    "domain": "chainlinkfencetoronto.ca",
+    "reviews_count": 6,
+    "rating": 2.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@chainlinkfencetoronto.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Chain Link Fence Toronto (Toronto, ON). Profile: Rank #54 on Google Maps (6 reviews, 2.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:40.214485+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636241-13",
+    "estimated_rank": 55,
+    "business_name": "Richmond Hill Fence",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.richmondhillfence.ca",
+    "domain": "richmondhillfence.ca",
+    "reviews_count": 8,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Richmond Hill Fence (Toronto, ON). Profile: Rank #55 on Google Maps (8 reviews, 4.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:41.007739+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636241-14",
+    "estimated_rank": 56,
+    "business_name": "RenoPro Toronto",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.renoprotoronto.ca",
+    "domain": "renoprotoronto.ca",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at RenoPro Toronto (Toronto, ON). Profile: Rank #56 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:30:41.828073+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636253-1",
+    "estimated_rank": 22,
+    "business_name": "Seaway Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.seawaypools.com",
+    "domain": "seawaypools.com",
+    "reviews_count": 24,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Seaway Pools (Toronto, ON). Profile: Rank #22 on Google Maps (24 reviews, 4.5★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:30:53.852885+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636255-2",
+    "estimated_rank": 28,
+    "business_name": "Elite Pool Design",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.elitepooldesign.com",
+    "domain": "elitepooldesign.com",
+    "reviews_count": 22,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Swim",
+      "verified_email": "swim@elitepooldesign.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Swim at Elite Pool Design (Toronto, ON). Profile: Rank #28 on Google Maps (22 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:30:55.812436+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636260-3",
+    "estimated_rank": 42,
+    "business_name": "Seaside Pools & Landscaping Inc.",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://seasidepools.ca",
+    "domain": "seasidepools.ca",
+    "reviews_count": 11,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@seasidepools.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Seaside Pools & Landscaping Inc. (Toronto, ON). Profile: Rank #42 on Google Maps (11 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:31:00.898848+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636266-4",
+    "estimated_rank": 44,
+    "business_name": "Artisian Corp.",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.artisian.ca",
+    "domain": "artisian.ca",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@artisian.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Artisian Corp. (Toronto, ON). Profile: Rank #44 on Google Maps (8 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:31:06.433201+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636268-5",
+    "estimated_rank": 47,
+    "business_name": "Holiday Pool Service Ltd.",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.holidaypoolservice.ca",
+    "domain": "holidaypoolservice.ca",
+    "reviews_count": 12,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@holidaypoolservice.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Holiday Pool Service Ltd. (Toronto, ON). Profile: Rank #47 on Google Maps (12 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:31:08.102533+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636275-6",
+    "estimated_rank": 48,
+    "business_name": "Yorkstone Pools",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://yorkstonepools.ca",
+    "domain": "yorkstonepools.ca",
+    "reviews_count": 18,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@yorkstonepools.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Yorkstone Pools (Toronto, ON). Profile: Rank #48 on Google Maps (18 reviews, 4.2★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:31:15.198853+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636289-1",
+    "estimated_rank": 23,
+    "business_name": "MDPA Construction Toronto",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.mdpaconstruction.ca",
+    "domain": "mdpaconstruction.ca",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@mdpaconstruction.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at MDPA Construction Toronto (Toronto, ON). Profile: Rank #23 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:31:29.943355+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636291-2",
+    "estimated_rank": 35,
+    "business_name": "Allweather Landscape Co Ltd",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.allweatherlandscape.com",
+    "domain": "allweatherlandscape.com",
+    "reviews_count": 22,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Trade Organization",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Trade Organization at Allweather Landscape Co Ltd (Toronto, ON). Profile: Rank #35 on Google Maps (22 reviews, 4.3★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:31:31.453277+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636292-3",
+    "estimated_rank": 40,
+    "business_name": "Stone Pros Canada",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.stoneproscanada.ca",
+    "domain": "stoneproscanada.ca",
+    "reviews_count": 22,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Stone Pros Canada (Toronto, ON). Profile: Rank #40 on Google Maps (22 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:31:32.367197+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636294-4",
+    "estimated_rank": 47,
+    "business_name": "Interlocking Driveway Toronto & Landscape Design By EGE",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.egeinterlock.com",
+    "domain": "egeinterlock.com",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Interlocking Driveway Toronto & Landscape Design By EGE (Toronto, ON). Profile: Rank #47 on Google Maps (17 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:31:34.119576+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636295-5",
+    "estimated_rank": 48,
+    "business_name": "Vertical Landscape Architects",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.vertla.com",
+    "domain": "vertla.com",
+    "reviews_count": 27,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Vertical Landscape Architects (Toronto, ON). Profile: Rank #48 on Google Maps (27 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:31:35.251776+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636296-6",
+    "estimated_rank": 51,
+    "business_name": "Panda Landscaping and Construction Inc.",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.pandalandscaping.ca",
+    "domain": "pandalandscaping.ca",
+    "reviews_count": 22,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@pandalandscaping.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Panda Landscaping and Construction Inc. (Toronto, ON). Profile: Rank #51 on Google Maps (22 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:31:36.097064+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636299-7",
+    "estimated_rank": 58,
+    "business_name": "Reliable Hardscapes",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://reliablehardscapes.ca",
+    "domain": "reliablehardscapes.ca",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Reliable Hardscapes",
+      "verified_email": "info@reliablehardscapes.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Reliable Hardscapes at Reliable Hardscapes (Toronto, ON). Profile: Rank #58 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:31:39.742675+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636330-3",
+    "estimated_rank": 50,
+    "business_name": "Tree and Ravine Inc.",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.treeandravine.com",
+    "domain": "treeandravine.com",
+    "reviews_count": 7,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@treeandravine.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tree and Ravine Inc. (Toronto, ON). Profile: Rank #50 on Google Maps (7 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:32:10.384997+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636332-4",
+    "estimated_rank": 54,
+    "business_name": "Ontree (formerly Ontario Tree Experts Inc.)",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.ontree.ca",
+    "domain": "ontree.ca",
+    "reviews_count": 16,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Carson Arthur",
+      "verified_email": "info@ontree.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Carson Arthur at Ontree (formerly Ontario Tree Experts Inc.) (Toronto, ON). Profile: Rank #54 on Google Maps (16 reviews, 4.1★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:32:12.280311+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636349-3",
+    "estimated_rank": 56,
+    "business_name": "Jak Mobile Car Detailing",
+    "category": "Mobile Car Wash & Detailing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://autoreflectionsmobilecardetailing.shop/jakmobile",
+    "domain": "autoreflectionsmobilecardetailing.shop",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Jak Mobile Car Detailing (Toronto, ON). Profile: Rank #56 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:32:29.793360+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636375-5",
+    "estimated_rank": 49,
+    "business_name": "Jarico Air",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.jaricoair.ca",
+    "domain": "jaricoair.ca",
+    "reviews_count": 28,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Jack Simon",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Before/After Visual Image Comparison Slider",
+      "concrete_observation": "Project transformations are buried in static photo grids instead of an engaging, high-conversion swipe comparison slider.",
+      "matched_fzcore_service": "Service 6: Interactive Before/After Visual Showcase Slider",
+      "recommended_entry_price": "$120",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Jack Simon at Jarico Air (Toronto, ON). Profile: Rank #49 on Google Maps (28 reviews, 4.8★). Audit Flaw: Project transformations are buried in static photo grids instead of an engaging, high-conversion swipe comparison slider. Pitch Offer: Service 6: Interactive Before/After Visual Showcase Slider for $120 (24 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:32:55.130831+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636375-6",
+    "estimated_rank": 52,
+    "business_name": "Comfort Air & Refrigeration ltd",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://comfortrefrigeration.ca",
+    "domain": "comfortrefrigeration.ca",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Comfort Air & Refrigeration ltd (Toronto, ON). Profile: Rank #52 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:32:55.769538+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636378-8",
+    "estimated_rank": 56,
+    "business_name": "Bay tech heating and cooling",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.baytechheatingandcooling.ca",
+    "domain": "baytechheatingandcooling.ca",
+    "reviews_count": 4,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@baytechheatingandcooling.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Bay tech heating and cooling (Toronto, ON). Profile: Rank #56 on Google Maps (4 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:32:58.949932+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636396-1",
+    "estimated_rank": 58,
+    "business_name": "Water Pro Drain Waterproofing",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://waterproofingdrain.com",
+    "domain": "waterproofingdrain.com",
+    "reviews_count": 26,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@waterproofingdrain.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Water Pro Drain Waterproofing (Toronto, ON). Profile: Rank #58 on Google Maps (26 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:33:16.203159+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636410-1",
+    "estimated_rank": 22,
+    "business_name": "DesignAgency - Toronto",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.designagency.co",
+    "domain": "designagency.co",
+    "reviews_count": 18,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Washington",
+      "verified_email": "info@designagency.co",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Washington at DesignAgency - Toronto (Toronto, ON). Profile: Rank #22 on Google Maps (18 reviews, 4.5★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:33:30.756211+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636411-2",
+    "estimated_rank": 23,
+    "business_name": "Andyedge Branding & Experience Design",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.andyedge.com",
+    "domain": "andyedge.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Andyedge Branding & Experience Design (Toronto, ON). Profile: Rank #23 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:33:31.069992+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636415-3",
+    "estimated_rank": 25,
+    "business_name": "BrandBuilderStudios",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://brandbuilderstudios.com",
+    "domain": "brandbuilderstudios.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hello@brandbuilderstudios.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at BrandBuilderStudios (Toronto, ON). Profile: Rank #25 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:33:35.412921+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636419-4",
+    "estimated_rank": 28,
+    "business_name": "The Mint Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://themintagency.com",
+    "domain": "themintagency.com",
+    "reviews_count": 12,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Careers",
+      "verified_email": "careers@themintagency.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Careers at The Mint Agency (Toronto, ON). Profile: Rank #28 on Google Maps (12 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:33:39.461733+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636420-5",
+    "estimated_rank": 32,
+    "business_name": "Neglia Design",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://negliadesign.com",
+    "domain": "negliadesign.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Neglia",
+      "verified_email": "neglia@negliadesign.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Neglia at Neglia Design (Toronto, ON). Profile: Rank #32 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:33:40.230153+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636422-6",
+    "estimated_rank": 34,
+    "business_name": "C ( G R O U P - Design Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://cgroupdesign.com",
+    "domain": "cgroupdesign.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at C ( G R O U P - Design Agency (Toronto, ON). Profile: Rank #34 on Google Maps (8 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:33:42.398711+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636424-7",
+    "estimated_rank": 36,
+    "business_name": "Websites Design Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://websitesdesignagency.ca",
+    "domain": "websitesdesignagency.ca",
+    "reviews_count": 25,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Websites Design Agency (Toronto, ON). Profile: Rank #36 on Google Maps (25 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:33:44.008526+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636432-8",
+    "estimated_rank": 43,
+    "business_name": "OMAI Creative",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.omaicreative.com",
+    "domain": "omaicreative.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hello@omaicreative.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at OMAI Creative (Toronto, ON). Profile: Rank #43 on Google Maps (28 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:33:52.838826+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636433-9",
+    "estimated_rank": 45,
+    "business_name": "Stinson Design",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.stinsondesign.com",
+    "domain": "stinsondesign.com",
+    "reviews_count": 17,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Achieving More",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Achieving More at Stinson Design (Toronto, ON). Profile: Rank #45 on Google Maps (17 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:33:53.309738+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636439-10",
+    "estimated_rank": 46,
+    "business_name": "Brand Glow Up",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.brandglowup.com",
+    "domain": "brandglowup.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hi@brandglowup.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Brand Glow Up (Toronto, ON). Profile: Rank #46 on Google Maps (24 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:33:59.368798+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636441-11",
+    "estimated_rank": 48,
+    "business_name": "Speakeasy Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.gospeakeasy.com",
+    "domain": "gospeakeasy.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@gospeakeasy.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Speakeasy Agency (Toronto, ON). Profile: Rank #48 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:34:01.240924+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636442-12",
+    "estimated_rank": 49,
+    "business_name": "Halfsquare Designs",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.halfsquaredesigns.ca",
+    "domain": "halfsquaredesigns.ca",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Halfsquare Designs (Toronto, ON). Profile: Rank #49 on Google Maps (19 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:34:02.650255+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636443-13",
+    "estimated_rank": 50,
+    "business_name": "Gazizoff",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://gazizoff.com",
+    "domain": "gazizoff.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Gazizoff",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Gazizoff at Gazizoff (Toronto, ON). Profile: Rank #50 on Google Maps (11 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:34:03.821670+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636450-14",
+    "estimated_rank": 51,
+    "business_name": "Jackson Wynne Brand Consultants Inc.",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.jacksonwynne.com",
+    "domain": "jacksonwynne.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Jackson Wynne Brand Consultants Inc. (Toronto, ON). Profile: Rank #51 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:34:10.094194+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636452-15",
+    "estimated_rank": 54,
+    "business_name": "Pivot Design Group",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://pivot.design",
+    "domain": "pivot.design",
+    "reviews_count": 6,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Ian Chalmers",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Ian Chalmers at Pivot Design Group (Toronto, ON). Profile: Rank #54 on Google Maps (6 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:34:12.372305+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636460-16",
+    "estimated_rank": 55,
+    "business_name": "Agent Brand",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://agentbrand.ca",
+    "domain": "agentbrand.ca",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@agentbrand.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Agent Brand (Toronto, ON). Profile: Rank #55 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:34:20.411034+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636486-7",
+    "estimated_rank": 43,
+    "business_name": "GTA Mold Removal Toronto",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.gtamoldremoval.com",
+    "domain": "gtamoldremoval.com",
+    "reviews_count": 5,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@gtamoldremoval.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at GTA Mold Removal Toronto (Toronto, ON). Profile: Rank #43 on Google Maps (5 reviews, 4.2★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:34:46.510514+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636566-1",
+    "estimated_rank": 23,
+    "business_name": "Heritage Roofing & Refurbishments",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://heritageroofingandrefurbishments.ca",
+    "domain": "heritageroofingandrefurbishments.ca",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Heritage Roofing & Refurbishments (Toronto, ON). Profile: Rank #23 on Google Maps (22 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:36:06.547262+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636567-2",
+    "estimated_rank": 30,
+    "business_name": "Gutter Gang",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://guttergang.ca",
+    "domain": "guttergang.ca",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@guttergang.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Gutter Gang (Toronto, ON). Profile: Rank #30 on Google Maps (14 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:36:07.845227+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636568-3",
+    "estimated_rank": 33,
+    "business_name": "Toronto Premier Roofing Inc",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://torontopremierroofing.com",
+    "domain": "torontopremierroofing.com",
+    "reviews_count": 15,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Nick",
+      "verified_email": "nick@torontopremierroofing.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Nick at Toronto Premier Roofing Inc (Toronto, ON). Profile: Rank #33 on Google Maps (15 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:36:08.793836+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636572-4",
+    "estimated_rank": 38,
+    "business_name": "Toronto Roofer",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://toronto-roofer.com",
+    "domain": "toronto-roofer.com",
+    "reviews_count": 28,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@toronto-roofer.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Toronto Roofer (Toronto, ON). Profile: Rank #38 on Google Maps (28 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:36:12.190193+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636576-5",
+    "estimated_rank": 45,
+    "business_name": "Toronto Roofers Ltd",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.torontoroofers43.com",
+    "domain": "torontoroofers43.com",
+    "reviews_count": 19,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Company",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Company at Toronto Roofers Ltd (Toronto, ON). Profile: Rank #45 on Google Maps (19 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:36:16.272750+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636605-2",
+    "estimated_rank": 25,
+    "business_name": "Toronto Commercial Clean",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://torontocommercialclean.com",
+    "domain": "torontocommercialclean.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Toronto Commercial Clean (Toronto, ON). Profile: Rank #25 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:36:45.119935+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636612-3",
+    "estimated_rank": 28,
+    "business_name": "Green Clean Mobile Truck Wash Inc",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://greencleanmobilewash.com",
+    "domain": "greencleanmobilewash.com",
+    "reviews_count": 17,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Green Clean Mobile Truck Wash Inc (Toronto, ON). Profile: Rank #28 on Google Maps (17 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:36:52.603289+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636615-4",
+    "estimated_rank": 38,
+    "business_name": "Pure Blast Solutions",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.pureblastsolutions.ca",
+    "domain": "pureblastsolutions.ca",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@pureblastsolutions.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pure Blast Solutions (Toronto, ON). Profile: Rank #38 on Google Maps (14 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:36:55.617183+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636616-5",
+    "estimated_rank": 40,
+    "business_name": "Northern Touch Mobile Wash",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://ntmobilewash.com",
+    "domain": "ntmobilewash.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Dylan",
+      "verified_email": "dylan.keller@ntmobilewash.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Dylan at Northern Touch Mobile Wash (Toronto, ON). Profile: Rank #40 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:36:56.700389+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636620-6",
+    "estimated_rank": 41,
+    "business_name": "Pro-Clean Mobile Wash",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://procleanmobilewash.ca",
+    "domain": "procleanmobilewash.ca",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@procleanmobilewash.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pro-Clean Mobile Wash (Toronto, ON). Profile: Rank #41 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:37:00.203425+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636620-7",
+    "estimated_rank": 48,
+    "business_name": "Crystal Clean Mobile Wash",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.crystalcleanmobile.com",
+    "domain": "crystalcleanmobile.com",
+    "reviews_count": 7,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Crystal Clean Mobile Wash (Toronto, ON). Profile: Rank #48 on Google Maps (7 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:37:00.647373+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636624-8",
+    "estimated_rank": 54,
+    "business_name": "AS1 CLEANER INC.",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://janitorialserviceetobicoke.com",
+    "domain": "janitorialserviceetobicoke.com",
+    "reviews_count": 22,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at AS1 CLEANER INC. (Toronto, ON). Profile: Rank #54 on Google Maps (22 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:37:04.070571+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636624-9",
+    "estimated_rank": 56,
+    "business_name": "Cruz's Maintenance Services Inc.",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.cruzsmaintenance.com",
+    "domain": "cruzsmaintenance.com",
+    "reviews_count": 11,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@cruzsmaintenance.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Cruz's Maintenance Services Inc. (Toronto, ON). Profile: Rank #56 on Google Maps (11 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:37:04.807601+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636640-1",
+    "estimated_rank": 47,
+    "business_name": "Ev1studio - PPF - wraps - ceramic coating & car detailing studio",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.ev1studio.ca",
+    "domain": "ev1studio.ca",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@ev1studio.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ev1studio - PPF - wraps - ceramic coating & car detailing studio (Toronto, ON). Profile: Rank #47 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:37:20.479608+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636641-2",
+    "estimated_rank": 48,
+    "business_name": "Revival Autocare | Mobile Car Detailing GTA | Interior & Exterior Detailing | Ceramic Coating",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://revivalautocare.ca",
+    "domain": "revivalautocare.ca",
+    "reviews_count": 25,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Revival Autocare | Mobile Car Detailing GTA | Interior & Exterior Detailing | Ceramic Coating (Toronto, ON). Profile: Rank #48 on Google Maps (25 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:37:21.681187+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636655-1",
+    "estimated_rank": 21,
+    "business_name": "Arcadia Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.thearcadiagroup.ca",
+    "domain": "thearcadiagroup.ca",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Arcadia Homes (Toronto, ON). Profile: Rank #21 on Google Maps (12 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:37:35.657090+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636680-7",
+    "estimated_rank": 47,
+    "business_name": "Galle Construction",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://galleconstructioninc.com",
+    "domain": "galleconstructioninc.com",
+    "reviews_count": 13,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Cesare",
+      "verified_email": "info@galleconstructioninc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Cesare at Galle Construction (Toronto, ON). Profile: Rank #47 on Google Maps (13 reviews, 4.1★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:38:00.342145+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636694-1",
+    "estimated_rank": 28,
+    "business_name": "Waterproofing my job",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://waterproofingmyjob.com",
+    "domain": "waterproofingmyjob.com",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Waterproofing my job (Toronto, ON). Profile: Rank #28 on Google Maps (21 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:38:14.697366+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636698-2",
+    "estimated_rank": 31,
+    "business_name": "Strong Basements Inc. - Underpinning & Waterproofing Contractor",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://strongbasements.com",
+    "domain": "strongbasements.com",
+    "reviews_count": 28,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@strongbasements.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Strong Basements Inc. - Underpinning & Waterproofing Contractor (Toronto, ON). Profile: Rank #31 on Google Maps (28 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:38:18.836792+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636715-3",
+    "estimated_rank": 52,
+    "business_name": "Concrete Crack Repair Pros",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.concretecrackrepair.ca",
+    "domain": "concretecrackrepair.ca",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@concretecrackrepair.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Concrete Crack Repair Pros (Toronto, ON). Profile: Rank #52 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:38:35.558763+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636727-1",
+    "estimated_rank": 22,
+    "business_name": "amiGo Tax Canadian Accounting Services",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.amigotaxcanada.ca",
+    "domain": "amigotaxcanada.ca",
+    "reviews_count": 28,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at amiGo Tax Canadian Accounting Services (Toronto, ON). Profile: Rank #22 on Google Maps (28 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:38:47.879038+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636728-2",
+    "estimated_rank": 28,
+    "business_name": "RVL Tax Solutions",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.rvltaxsolutions.ca",
+    "domain": "rvltaxsolutions.ca",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Small Business",
+      "verified_email": "info@rvltaxsolutions.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Small Business at RVL Tax Solutions (Toronto, ON). Profile: Rank #28 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:38:48.822481+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636729-3",
+    "estimated_rank": 45,
+    "business_name": "Metro Tax Solutions",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://metrotaxsolutions.ca",
+    "domain": "metrotaxsolutions.ca",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Babar Muhammad",
+      "verified_email": "info@metrotaxsolutions.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Babar Muhammad at Metro Tax Solutions (Toronto, ON). Profile: Rank #45 on Google Maps (8 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:38:49.399809+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636730-4",
+    "estimated_rank": 51,
+    "business_name": "TA Tax & Accounting Professional Corporation",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://tataxacc.com",
+    "domain": "tataxacc.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@tataxacc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at TA Tax & Accounting Professional Corporation (Toronto, ON). Profile: Rank #51 on Google Maps (13 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:38:50.727519+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636744-2",
+    "estimated_rank": 23,
+    "business_name": "GLI Epoxy Flooring",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://gliepoxyflooring.com",
+    "domain": "gliepoxyflooring.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Access",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Access at GLI Epoxy Flooring (Toronto, ON). Profile: Rank #23 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:39:04.556392+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636748-3",
+    "estimated_rank": 28,
+    "business_name": "Armour Guard Epoxy Coatings",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.armourguard.ca",
+    "domain": "armourguard.ca",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@armourguard.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Armour Guard Epoxy Coatings (Toronto, ON). Profile: Rank #28 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:39:08.064353+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636760-4",
+    "estimated_rank": 29,
+    "business_name": "Prime Epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.primeepoxy.ca",
+    "domain": "primeepoxy.ca",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@primeepoxy.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Prime Epoxy (Toronto, ON). Profile: Rank #29 on Google Maps (6 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:39:20.824397+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636763-5",
+    "estimated_rank": 30,
+    "business_name": "DuraCoatz",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.duracoatz.com",
+    "domain": "duracoatz.com",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@duracoatz.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at DuraCoatz (Toronto, ON). Profile: Rank #30 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:39:23.312523+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636767-8",
+    "estimated_rank": 38,
+    "business_name": "North King Epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://northkingepoxy.com",
+    "domain": "northkingepoxy.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at North King Epoxy (Toronto, ON). Profile: Rank #38 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:39:27.779887+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636770-9",
+    "estimated_rank": 39,
+    "business_name": "Caldas Contracting Epoxy Flooring Experts",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://caldascontracting.com",
+    "domain": "caldascontracting.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Victor Caldas",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Victor Caldas at Caldas Contracting Epoxy Flooring Experts (Toronto, ON). Profile: Rank #39 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:39:30.242373+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636777-10",
+    "estimated_rank": 41,
+    "business_name": "GTA Pro Epoxy Inc.",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://gtaproepoxy.com",
+    "domain": "gtaproepoxy.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@gtaproepoxy.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at GTA Pro Epoxy Inc. (Toronto, ON). Profile: Rank #41 on Google Maps (9 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:39:37.770499+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636782-14",
+    "estimated_rank": 57,
+    "business_name": "Surface Coating Experts",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://surfacecoatingexperts.com",
+    "domain": "surfacecoatingexperts.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Christopher",
+      "verified_email": "christopher@surfacecoatingexperts.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Christopher at Surface Coating Experts (Toronto, ON). Profile: Rank #57 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:39:42.436665+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636784-15",
+    "estimated_rank": 58,
+    "business_name": "ACE Epoxy Flooring Inc",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://aceepoxyflooring.ca",
+    "domain": "aceepoxyflooring.ca",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at ACE Epoxy Flooring Inc (Toronto, ON). Profile: Rank #58 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:39:44.300443+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636797-1",
+    "estimated_rank": 58,
+    "business_name": "Decorative Window Film - Window Film and Tinting Experts",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://decorativewindowfilm.ca",
+    "domain": "decorativewindowfilm.ca",
+    "reviews_count": 25,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@decorativewindowfilm.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Decorative Window Film - Window Film and Tinting Experts (Toronto, ON). Profile: Rank #58 on Google Maps (25 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:39:57.815188+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636849-7",
+    "estimated_rank": 46,
+    "business_name": "Evergreen Office Cleaning",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://evergreencleaningservice.ca",
+    "domain": "evergreencleaningservice.ca",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Highly Recommend",
+      "verified_email": "info@evergreencleaningservice.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Highly Recommend at Evergreen Office Cleaning (Toronto, ON). Profile: Rank #46 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:40:49.736550+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636853-9",
+    "estimated_rank": 49,
+    "business_name": "Cleaning Services for Toronto",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.cleaningservicesfortoronto.com",
+    "domain": "cleaningservicesfortoronto.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@cleaningservicesfortoronto.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Cleaning Services for Toronto (Toronto, ON). Profile: Rank #49 on Google Maps (9 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:40:53.311712+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636857-10",
+    "estimated_rank": 50,
+    "business_name": "Bristol building services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://bristolbuildingservices.com",
+    "domain": "bristolbuildingservices.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Bristol building services (Toronto, ON). Profile: Rank #50 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:40:57.161583+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636858-11",
+    "estimated_rank": 52,
+    "business_name": "M.C. Janitorial Systems",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.mcjanitorialsystems.com",
+    "domain": "mcjanitorialsystems.com",
+    "reviews_count": 12,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "admin@mcjanitorialsystems.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at M.C. Janitorial Systems (Toronto, ON). Profile: Rank #52 on Google Maps (12 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:40:58.552783+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636859-12",
+    "estimated_rank": 53,
+    "business_name": "OfficeMaid",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.officemaid.ca",
+    "domain": "officemaid.ca",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at OfficeMaid (Toronto, ON). Profile: Rank #53 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:40:59.049814+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636860-14",
+    "estimated_rank": 58,
+    "business_name": "Top Spot Janitorial Services Inc",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.topspotjanitorial.ca",
+    "domain": "topspotjanitorial.ca",
+    "reviews_count": 21,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@topspotjanitorial.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Top Spot Janitorial Services Inc (Toronto, ON). Profile: Rank #58 on Google Maps (21 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:41:00.286748+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636874-1",
+    "estimated_rank": 36,
+    "business_name": "A&K Immigration Consultants",
+    "category": "Immigration & Visa Consultant",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.ak-immigration.ca",
+    "domain": "ak-immigration.ca",
+    "reviews_count": 20,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Consultant",
+      "verified_email": "info@ak-immigration.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Consultant at A&K Immigration Consultants (Toronto, ON). Profile: Rank #36 on Google Maps (20 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:41:14.356370+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636903-4",
+    "estimated_rank": 58,
+    "business_name": "Luxury Vehicle Protection Services",
+    "category": "Paint Protection Film PPF",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.lvps.ca",
+    "domain": "lvps.ca",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Luxury Vehicle Protection Services (Toronto, ON). Profile: Rank #58 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:41:43.424177+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636919-1",
+    "estimated_rank": 31,
+    "business_name": "Sydney Pacific Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://sydneypacificpainting.com.au",
+    "domain": "sydneypacificpainting.com.au",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney Pacific Painting (Sydney, NSW). Profile: Rank #31 on Google Maps (21 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:41:59.101234+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636926-2",
+    "estimated_rank": 38,
+    "business_name": "All in One Renovation & Design-Sydney Painter",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.allinonereno.com.au",
+    "domain": "allinonereno.com.au",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Estimate",
+      "verified_email": "estimate@allinonereno.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Estimate at All in One Renovation & Design-Sydney Painter (Sydney, NSW). Profile: Rank #38 on Google Maps (19 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:42:06.084395+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636931-3",
+    "estimated_rank": 41,
+    "business_name": "PAINTACON.",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://paintacon.com.au",
+    "domain": "paintacon.com.au",
+    "reviews_count": 23,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@paintacon.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at PAINTACON. (Sydney, NSW). Profile: Rank #41 on Google Maps (23 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:42:11.030150+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636935-4",
+    "estimated_rank": 48,
+    "business_name": "JP PAINTING SYDNEY",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://jppaintingsydney.com.au",
+    "domain": "jppaintingsydney.com.au",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Joseph Pfiffner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Joseph Pfiffner at JP PAINTING SYDNEY (Sydney, NSW). Profile: Rank #48 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:42:15.059652+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636938-5",
+    "estimated_rank": 56,
+    "business_name": "Orbit Painting & Decorating",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.orbitpaint.com.au",
+    "domain": "orbitpaint.com.au",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "support@orbitpaint.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Orbit Painting & Decorating (Sydney, NSW). Profile: Rank #56 on Google Maps (28 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:42:18.192825+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636954-1",
+    "estimated_rank": 23,
+    "business_name": "Kennys Renovation",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://kennysrenovation.com.au",
+    "domain": "kennysrenovation.com.au",
+    "reviews_count": 27,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Kennys Renovation (Sydney, NSW). Profile: Rank #23 on Google Maps (27 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:42:34.242030+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636970-2",
+    "estimated_rank": 31,
+    "business_name": "Dezina Kitchen and Bathroom",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.dezina.com.au",
+    "domain": "dezina.com.au",
+    "reviews_count": 25,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@dezina.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dezina Kitchen and Bathroom (Sydney, NSW). Profile: Rank #31 on Google Maps (25 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:42:50.126304+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636971-3",
+    "estimated_rank": 32,
+    "business_name": "Noble Bathrooms | Renovations Sydney",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://noblebathrooms.com.au",
+    "domain": "noblebathrooms.com.au",
+    "reviews_count": 16,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@noblebathrooms.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Noble Bathrooms | Renovations Sydney (Sydney, NSW). Profile: Rank #32 on Google Maps (16 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:42:51.559447+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636972-4",
+    "estimated_rank": 34,
+    "business_name": "Build Craft Sydney",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.buildcraftsydney.com.au",
+    "domain": "buildcraftsydney.com.au",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Build Craft Sydney (Sydney, NSW). Profile: Rank #34 on Google Maps (14 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:42:52.740360+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636975-5",
+    "estimated_rank": 37,
+    "business_name": "Bathroom Renovation Team Sydney",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.bathroomrenovationteam.com.au",
+    "domain": "bathroomrenovationteam.com.au",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Bathroom Renovation Team Sydney (Sydney, NSW). Profile: Rank #37 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:42:55.577709+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636982-6",
+    "estimated_rank": 40,
+    "business_name": "Barr Built Bathroom Renovations Sydney",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://barrbuilt.com.au",
+    "domain": "barrbuilt.com.au",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "service@barrbuilt.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Barr Built Bathroom Renovations Sydney (Sydney, NSW). Profile: Rank #40 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:43:02.902370+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636994-7",
+    "estimated_rank": 43,
+    "business_name": "🥇 Sydney Homes And Renovations | Parklea",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://sydneyhomesandrenovations.com.au",
+    "domain": "sydneyhomesandrenovations.com.au",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@sydneyhomesandrenovations.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at 🥇 Sydney Homes And Renovations | Parklea (Sydney, NSW). Profile: Rank #43 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:43:14.846872+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637002-8",
+    "estimated_rank": 44,
+    "business_name": "Kay Build | Complete Home Renovation, Kitchen & Bathroom Renovations, Extensions, Custom Builds, and Granny Flats | Sydney",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.kaybuild.com.au",
+    "domain": "kaybuild.com.au",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Kay Build | Complete Home Renovation, Kitchen & Bathroom Renovations, Extensions, Custom Builds, and Granny Flats | Sydney (Sydney, NSW). Profile: Rank #44 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:43:22.139166+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637032-1",
+    "estimated_rank": 24,
+    "business_name": "Gate Automation NSW",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.gateautomationnsw.com.au",
+    "domain": "gateautomationnsw.com.au",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@gateautomationnsw.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Gate Automation NSW (Sydney, NSW). Profile: Rank #24 on Google Maps (25 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:43:52.653687+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637037-2",
+    "estimated_rank": 26,
+    "business_name": "Samson Fencing and Metal Fabrication",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.samsonfencing.com.au",
+    "domain": "samsonfencing.com.au",
+    "reviews_count": 13,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Samson Fencing and Metal Fabrication (Sydney, NSW). Profile: Rank #26 on Google Maps (13 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:43:57.520727+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637046-3",
+    "estimated_rank": 27,
+    "business_name": "Craft in Wood",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.craftinwood.com.au",
+    "domain": "craftinwood.com.au",
+    "reviews_count": 21,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Craft in Wood (Sydney, NSW). Profile: Rank #27 on Google Maps (21 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:44:06.160483+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637047-4",
+    "estimated_rank": 29,
+    "business_name": "Leisurewood Gates",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.leisurewoodgates.com.au",
+    "domain": "leisurewoodgates.com.au",
+    "reviews_count": 22,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Leisurewood Gates (Sydney, NSW). Profile: Rank #29 on Google Maps (22 reviews, 4.5★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:44:07.378697+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637053-5",
+    "estimated_rank": 31,
+    "business_name": "Impact Fencing Australia",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://impactfencing.com.au",
+    "domain": "impactfencing.com.au",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Danny",
+      "verified_email": "danny@impactfencing.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Danny at Impact Fencing Australia (Sydney, NSW). Profile: Rank #31 on Google Maps (20 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:44:13.076726+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637054-6",
+    "estimated_rank": 32,
+    "business_name": "Beraal Group Fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.beraalgroup.com.au",
+    "domain": "beraalgroup.com.au",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@beraalgroup.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Beraal Group Fencing (Sydney, NSW). Profile: Rank #32 on Google Maps (28 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:44:14.369165+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637061-7",
+    "estimated_rank": 41,
+    "business_name": "Automatic Sliding Gates",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://automaticslidinggates.com.au",
+    "domain": "automaticslidinggates.com.au",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Automatic Sliding Gates (Sydney, NSW). Profile: Rank #41 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:44:21.850859+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637063-8",
+    "estimated_rank": 43,
+    "business_name": "C & C Wrought Iron",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.ccwi.com.au",
+    "domain": "ccwi.com.au",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@ccwi.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at C & C Wrought Iron (Sydney, NSW). Profile: Rank #43 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:44:23.490646+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637077-9",
+    "estimated_rank": 48,
+    "business_name": "Sterling Fencing & Gates Pty Ltd",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.sterlingfencing.com.au",
+    "domain": "sterlingfencing.com.au",
+    "reviews_count": 19,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@sterlingfencing.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sterling Fencing & Gates Pty Ltd (Sydney, NSW). Profile: Rank #48 on Google Maps (19 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T02:44:37.904404+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637089-10",
+    "estimated_rank": 49,
+    "business_name": "Gem Fencing Pty Ltd",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.gemfencing.com.au",
+    "domain": "gemfencing.com.au",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@gemfencing.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Gem Fencing Pty Ltd (Sydney, NSW). Profile: Rank #49 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:44:49.954890+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637101-11",
+    "estimated_rank": 50,
+    "business_name": "Aluminium Fencing Sydney",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.aluminiumfencingsydney.com.au",
+    "domain": "aluminiumfencingsydney.com.au",
+    "reviews_count": 19,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Aluminium Fencing Sydney (Sydney, NSW). Profile: Rank #50 on Google Maps (19 reviews, 4.8★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:45:01.580209+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637113-12",
+    "estimated_rank": 51,
+    "business_name": "Moey fencing pty ltd",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://moeyfencing.com.au",
+    "domain": "moeyfencing.com.au",
+    "reviews_count": 14,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Moey fencing pty ltd (Sydney, NSW). Profile: Rank #51 on Google Maps (14 reviews, 4.7★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:45:13.805960+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637114-13",
+    "estimated_rank": 52,
+    "business_name": "Central Coast Fencing & Gates",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.centralcoastfencinggates.com.au",
+    "domain": "centralcoastfencinggates.com.au",
+    "reviews_count": 7,
+    "rating": 3.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@centralcoastfencinggates.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Central Coast Fencing & Gates (Sydney, NSW). Profile: Rank #52 on Google Maps (7 reviews, 3.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T02:45:14.990323+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792637117-14",
+    "estimated_rank": 54,
+    "business_name": "Camalot Fencing - Timber, Colorbond Fencing",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://camalotfencing.com.au",
+    "domain": "camalotfencing.com.au",
+    "reviews_count": 25,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Camalot Fencing - Timber, Colorbond Fencing (Sydney, NSW). Profile: Rank #54 on Google Maps (25 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T02:45:17.454220+00:00"
   }
 ]
