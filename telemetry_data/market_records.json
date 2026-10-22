@@ -63978,5 +63978,1097 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Phoenix Water Softeners (Scottsdale, AZ). Profile: Rank #38 on Google Maps (11 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
     "harvested_at": "2026-10-22T10:13:24.767566+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665250-4",
+    "estimated_rank": 43,
+    "business_name": "Long Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://longpaintingsd.com",
+    "domain": "longpaintingsd.com",
+    "reviews_count": 21,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Long Painting (San Diego, CA). Profile: Rank #43 on Google Maps (21 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:34:10.310858+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665258-8",
+    "estimated_rank": 54,
+    "business_name": "Supreme Painters Inc",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "http://www.supremepainterssd.com",
+    "domain": "supremepainterssd.com",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@supremepainterssd.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Supreme Painters Inc (San Diego, CA). Profile: Rank #54 on Google Maps (9 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:34:18.646964+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665263-11",
+    "estimated_rank": 58,
+    "business_name": "Modern Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://www.modpainting.com",
+    "domain": "modpainting.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Modern Painting (San Diego, CA). Profile: Rank #58 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:34:23.550807+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665335-15",
+    "estimated_rank": 60,
+    "business_name": "Allied Coatings",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://alliedcoatings.com",
+    "domain": "alliedcoatings.com",
+    "reviews_count": 10,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@alliedcoatings.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Allied Coatings (San Diego, CA). Profile: Rank #60 on Google Maps (10 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:35:35.327727+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665347-1",
+    "estimated_rank": 21,
+    "business_name": "So Cal Cleaning Services",
+    "category": "Commercial Pressure Washing",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://socalcleaningservices.com",
+    "domain": "socalcleaningservices.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at So Cal Cleaning Services (San Diego, CA). Profile: Rank #21 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:35:47.251026+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665355-2",
+    "estimated_rank": 24,
+    "business_name": "pacific edge power wash",
+    "category": "Commercial Pressure Washing",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://pacificedgepowerwash.com",
+    "domain": "pacificedgepowerwash.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@pacificedgepowerwash.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at pacific edge power wash (San Diego, CA). Profile: Rank #24 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:35:55.703048+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665357-3",
+    "estimated_rank": 26,
+    "business_name": "San Diego Property Specialists LLC",
+    "category": "Commercial Pressure Washing",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "http://www.sdpropertyspecialists.com",
+    "domain": "sdpropertyspecialists.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at San Diego Property Specialists LLC (San Diego, CA). Profile: Rank #26 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:35:57.760906+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665366-7",
+    "estimated_rank": 47,
+    "business_name": "J & S Power Cleaning Services",
+    "category": "Commercial Pressure Washing",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://www.jspowercleaning.com",
+    "domain": "jspowercleaning.com",
+    "reviews_count": 3,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at J & S Power Cleaning Services (San Diego, CA). Profile: Rank #47 on Google Maps (3 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:36:06.263776+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665419-15",
+    "estimated_rank": 60,
+    "business_name": "LCS Janitorial Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://lcsjanitorialservices.com",
+    "domain": "lcsjanitorialservices.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at LCS Janitorial Services (San Diego, CA). Profile: Rank #60 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:36:59.806532+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665518-3",
+    "estimated_rank": 26,
+    "business_name": "Stardust Designer",
+    "category": "Boutique Branding & Design Agency",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://stardustdesigner.com",
+    "domain": "stardustdesigner.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Ravit Solomon",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Ravit Solomon at Stardust Designer (San Diego, CA). Profile: Rank #26 on Google Maps (23 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:38:38.429867+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665526-6",
+    "estimated_rank": 31,
+    "business_name": "Digital Marketing Agency for Small Businesses in San Diego। AppsWebDev",
+    "category": "Boutique Branding & Design Agency",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://appswebdev.com",
+    "domain": "appswebdev.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Digital Marketing Agency for Small Businesses in San Diego। AppsWebDev (San Diego, CA). Profile: Rank #31 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:38:46.093095+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665637-1",
+    "estimated_rank": 55,
+    "business_name": "American Auto Coatings",
+    "category": "Paint Protection Film PPF",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://www.americanautocoatings.com",
+    "domain": "americanautocoatings.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at American Auto Coatings (San Diego, CA). Profile: Rank #55 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:40:37.050734+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665637-2",
+    "estimated_rank": 58,
+    "business_name": "C2 Auto Design",
+    "category": "Paint Protection Film PPF",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://www.c2autodesign.com",
+    "domain": "c2autodesign.com",
+    "reviews_count": 10,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at C2 Auto Design (San Diego, CA). Profile: Rank #58 on Google Maps (10 reviews, 4.6★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:40:37.880696+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665638-3",
+    "estimated_rank": 59,
+    "business_name": "San Diego Car Wrap & Window Tinting",
+    "category": "Paint Protection Film PPF",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://sandiegocarwrapandtint.com",
+    "domain": "sandiegocarwrapandtint.com",
+    "reviews_count": 25,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at San Diego Car Wrap & Window Tinting (San Diego, CA). Profile: Rank #59 on Google Maps (25 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:40:38.409678+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665709-9",
+    "estimated_rank": 59,
+    "business_name": "C And R Pavers",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://www.candrpavers.com",
+    "domain": "candrpavers.com",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Regina",
+      "verified_email": "regina@candrpavers.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Regina at C And R Pavers (San Diego, CA). Profile: Rank #59 on Google Maps (11 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:41:49.111325+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665789-4",
+    "estimated_rank": 35,
+    "business_name": "San Diego CPA",
+    "category": "Tax Resolution & CPA Services",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://sandiegocpa.com",
+    "domain": "sandiegocpa.com",
+    "reviews_count": 12,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@sandiegocpa.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at San Diego CPA (San Diego, CA). Profile: Rank #35 on Google Maps (12 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:43:09.580368+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665813-11",
+    "estimated_rank": 53,
+    "business_name": "Montoya CPA EA APC",
+    "category": "Tax Resolution & CPA Services",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://montoyacpa.com",
+    "domain": "montoyacpa.com",
+    "reviews_count": 27,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@jmmontoyacpa.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Montoya CPA EA APC (San Diego, CA). Profile: Rank #53 on Google Maps (27 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:43:33.700590+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665838-1",
+    "estimated_rank": 23,
+    "business_name": "Mulholland Brand",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://mulhollandbrand.com",
+    "domain": "mulhollandbrand.com",
+    "reviews_count": 19,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Myka",
+      "verified_email": "info@mulhollandbrand.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Myka at Mulholland Brand (San Diego, CA). Profile: Rank #23 on Google Maps (19 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:43:58.422605+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665925-3",
+    "estimated_rank": 34,
+    "business_name": "Hometown Builders And Remodeling",
+    "category": "Luxury Custom Home Builder",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "https://hometownremodelingca.com",
+    "domain": "hometownremodelingca.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hometown Builders And Remodeling (San Diego, CA). Profile: Rank #34 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:45:25.434522+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792666008-7",
+    "estimated_rank": 60,
+    "business_name": "California Tree Service",
+    "category": "Tree Removal & Arborist Services",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "website": "http://caltreeservice.com",
+    "domain": "caltreeservice.com",
+    "reviews_count": 17,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "office@caltreeservice.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at California Tree Service (San Diego, CA). Profile: Rank #60 on Google Maps (17 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:46:48.365218+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666023-1",
+    "estimated_rank": 34,
+    "business_name": "Ceramic Coatings Logan",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://a1autostyling.com.au",
+    "domain": "a1autostyling.com.au",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@a1autostyling.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Ceramic Coatings Logan (Brisbane, QLD). Profile: Rank #34 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:47:03.582107+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666027-2",
+    "estimated_rank": 54,
+    "business_name": "DetailPro Mobile Car Detailing Brisbane | Expert Car Detailing & Paint Correction",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://brisbanecardetailing.site",
+    "domain": "brisbanecardetailing.site",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at DetailPro Mobile Car Detailing Brisbane | Expert Car Detailing & Paint Correction (Brisbane, QLD). Profile: Rank #54 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:47:07.139443+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666032-3",
+    "estimated_rank": 58,
+    "business_name": "Car Detailing Brisbane - Ceramic Coating & Paint Protection",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://detailingbrisbane.com.au",
+    "domain": "detailingbrisbane.com.au",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Car Detailing Brisbane - Ceramic Coating & Paint Protection (Brisbane, QLD). Profile: Rank #58 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:47:12.672114+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666064-1",
+    "estimated_rank": 27,
+    "business_name": "Signature Painters",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://signaturepainters.net.au",
+    "domain": "signaturepainters.net.au",
+    "reviews_count": 21,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Signature Painters (Brisbane, QLD). Profile: Rank #27 on Google Maps (21 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:47:44.153823+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666068-2",
+    "estimated_rank": 42,
+    "business_name": "S2F Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://s2fpainting.com.au",
+    "domain": "s2fpainting.com.au",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Apostoli Holevas",
+      "verified_email": "hello@s2fpainting.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Apostoli Holevas at S2F Painting (Brisbane, QLD). Profile: Rank #42 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:47:48.697869+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666072-3",
+    "estimated_rank": 52,
+    "business_name": "Brush Masters Brisbane",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://brushmastersbrisbane.com.au",
+    "domain": "brushmastersbrisbane.com.au",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Pete",
+      "verified_email": "pete@brushmastersbrisbane.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Pete at Brush Masters Brisbane (Brisbane, QLD). Profile: Rank #52 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:47:52.835473+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666090-1",
+    "estimated_rank": 22,
+    "business_name": "Dr Andrew Hadj | Plastic Surgeon Brisbane",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://www.andrewhadj.com",
+    "domain": "andrewhadj.com",
+    "reviews_count": 14,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Reception",
+      "verified_email": "reception@andrewhadj.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Reception at Dr Andrew Hadj | Plastic Surgeon Brisbane (Brisbane, QLD). Profile: Rank #22 on Google Maps (14 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:48:10.171300+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666092-2",
+    "estimated_rank": 24,
+    "business_name": "Pacific Day Surgery Centre",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "http://pacificdaysurgery.com.au",
+    "domain": "pacificdaysurgery.com.au",
+    "reviews_count": 20,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pacific Day Surgery Centre (Brisbane, QLD). Profile: Rank #24 on Google Maps (20 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:48:12.338270+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666095-3",
+    "estimated_rank": 37,
+    "business_name": "Advanced Plastic Surgery Centre",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "http://www.davidchin.com.au",
+    "domain": "davidchin.com.au",
+    "reviews_count": 18,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Advanced Plastic Surgery Centre (Brisbane, QLD). Profile: Rank #37 on Google Maps (18 reviews, 4.1★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:48:15.617211+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666101-4",
+    "estimated_rank": 41,
+    "business_name": "Cosmetic Medicine Centre",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://cosmeticmedicinecentre.com.au",
+    "domain": "cosmeticmedicinecentre.com.au",
+    "reviews_count": 26,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Enquiries",
+      "verified_email": "enquiries@cosmeticmedicinecentre.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Enquiries at Cosmetic Medicine Centre (Brisbane, QLD). Profile: Rank #41 on Google Maps (26 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:48:21.433521+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666102-5",
+    "estimated_rank": 43,
+    "business_name": "Dr Diana Kennedy",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "http://www.drdianakennedy.com",
+    "domain": "drdianakennedy.com",
+    "reviews_count": 26,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dr Diana Kennedy (Brisbane, QLD). Profile: Rank #43 on Google Maps (26 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:48:22.304812+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666104-6",
+    "estimated_rank": 44,
+    "business_name": "The Ivy Clinic",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "http://theivyclinic.com.au",
+    "domain": "theivyclinic.com.au",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Drwendy",
+      "verified_email": "drwendy@theivyclinic.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Drwendy at The Ivy Clinic (Brisbane, QLD). Profile: Rank #44 on Google Maps (22 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:48:24.994807+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666122-7",
+    "estimated_rank": 51,
+    "business_name": "Dan Kennedy: Plastic Surgeon",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "http://www.plasticsurgeon.com.au",
+    "domain": "plasticsurgeon.com.au",
+    "reviews_count": 19,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Consultation",
+      "verified_email": "consultation@plasticsurgeon.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Consultation at Dan Kennedy: Plastic Surgeon (Brisbane, QLD). Profile: Rank #51 on Google Maps (19 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:48:42.767487+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666123-8",
+    "estimated_rank": 55,
+    "business_name": "Dr Ian Chinsee",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://www.drchinsee.com.au",
+    "domain": "drchinsee.com.au",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Traditional",
+      "verified_email": "info@drchinsee.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Traditional at Dr Ian Chinsee (Brisbane, QLD). Profile: Rank #55 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:48:43.566119+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666131-9",
+    "estimated_rank": 56,
+    "business_name": "Brisbane City Skin Clinic",
+    "category": "Plastic Surgery Center",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "http://brisbanecityskinclinic.com.au",
+    "domain": "brisbanecityskinclinic.com.au",
+    "reviews_count": 26,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "admin@brisbanecityskinclinic.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Brisbane City Skin Clinic (Brisbane, QLD). Profile: Rank #56 on Google Maps (26 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:48:51.528640+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666163-3",
+    "estimated_rank": 35,
+    "business_name": "Seal Team Six Epoxy",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://sealteamsixepoxy.com.au",
+    "domain": "sealteamsixepoxy.com.au",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@sealteamsixepoxy.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Seal Team Six Epoxy (Brisbane, QLD). Profile: Rank #35 on Google Maps (5 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:49:23.372098+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666184-11",
+    "estimated_rank": 50,
+    "business_name": "Epoxy Crete",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://www.epoxycrete.com.au",
+    "domain": "epoxycrete.com.au",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Epoxy Crete (Brisbane, QLD). Profile: Rank #50 on Google Maps (7 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T10:49:44.650886+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666188-13",
+    "estimated_rank": 53,
+    "business_name": "Flaked Floor Coatings | Epoxy Flooring",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://www.flakedfloorcoatings.com.au",
+    "domain": "flakedfloorcoatings.com.au",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@flakedfloorcoatings.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Flaked Floor Coatings | Epoxy Flooring (Brisbane, QLD). Profile: Rank #53 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T10:49:48.691546+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792666205-15",
+    "estimated_rank": 60,
+    "business_name": "Tough Floors - Northern Brisbane",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Brisbane",
+    "state": "QLD",
+    "country": "AU",
+    "website": "https://toughfloors.com.au",
+    "domain": "toughfloors.com.au",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@toughfloors.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tough Floors - Northern Brisbane (Brisbane, QLD). Profile: Rank #60 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T10:50:05.602418+00:00"
   }
 ]
