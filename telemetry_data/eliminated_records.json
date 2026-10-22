@@ -62,5 +62,13 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-22T15:07:54.254456+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792615483-3",
+    "business_name": "Tax Resolution Attorney Gwin, PLLC",
+    "website": "https://www.taxresolutionatty.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
+    "eliminated_at": "2026-10-22T15:36:26.271967+00:00"
   }
 ]
