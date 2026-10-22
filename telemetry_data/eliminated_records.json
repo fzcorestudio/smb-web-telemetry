@@ -166,5 +166,69 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-22T17:08:40.331725+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618583-6",
+    "business_name": "C & S Janitorial Services",
+    "website": "http://www.cnsjanitorial.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-22T17:41:34.609835+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618616-6",
+    "business_name": "Millennium Custom Pools",
+    "website": "http://www.millenniumcustompools.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at http://www.millenni",
+    "eliminated_at": "2026-10-22T17:41:51.216867+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618629-1",
+    "business_name": "Commercial HVAC of Houston",
+    "website": "https://www.commercialhvacofhouston.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-22T17:41:52.552593+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618631-3",
+    "business_name": "Texas Central Air",
+    "website": "http://www.texascentralair.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-22T17:41:55.348357+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618669-1",
+    "business_name": "Epoxy Technology Coatings",
+    "website": "http://epoxytechhouston.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T17:41:58.149763+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792620766-5",
+    "business_name": "Budget Janitorial Supply",
+    "website": "http://www.budgetjanitorial.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-22T17:46:13.979144+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621132-11",
+    "business_name": "Right Hand Investing",
+    "website": "https://www.righthandinvesting.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T17:49:25.456443+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792621147-1",
+    "business_name": "Express Painting of Tampa Bay, LLC",
+    "website": "http://expresspaintoftampabay.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T17:49:45.648778+00:00"
   }
 ]
