@@ -1,0 +1,80 @@
+name: Multi-Mailbox Outbound Pitch Dispatcher
+
+on:
+  schedule:
+    # Runs Daily at 03:00 PM PKT (10:00 UTC), right after Stage 2 Audit and Stage 3 Email Writing
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Dispatch Mode (live sends real emails; preview simulates)'
+        required: true
+        type: choice
+        options:
+          - preview
+          - live
+        default: preview
+      batch_size:
+        description: 'Maximum emails to dispatch in this batch (Max 50)'
+        required: false
+        default: '25'
+
+concurrency:
+  group: dispatch-run
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  dispatch-pitches:
+    name: Safe Multi-Subdomain SMTP Dispatcher
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: 🚚 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 🚀 Run Autonomous Multi-Mailbox Dispatcher
+        env:
+          SUBDOMAIN_MAIL_PASS: ${{ secrets.SUBDOMAIN_MAIL_PASS }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'preview' }}"
+          BATCH="${{ github.event.inputs.batch_size || '25' }}"
+          echo "Initiating Multi-Mailbox Dispatch in [$MODE] mode with batch limit [$BATCH]..."
+          
+          if [ "$MODE" = "live" ]; then
+            python cloud_dispatcher.py --live --batch-size "$BATCH"
+          else
+            python cloud_dispatcher.py --preview --batch-size "$BATCH"
+          fi
+
+      - name: 💾 Commit & Push Sent Ledger
+        run: |
+          git config --global user.name "Telemetry Bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add telemetry_data/sent_ledger.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(dispatcher): automated sent ledger sync [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase -X theirs origin main && git push origin main && break || sleep 5
+            done
+          else
+            echo "Zero ledger changes to commit."
+          fi
+
+      - name: 📤 Upload Dispatch Artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sent-ledger-latest
+          path: telemetry_data/sent_ledger.json
+          retention-days: 14
