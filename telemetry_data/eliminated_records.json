@@ -6,5 +6,61 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "No critical conversion leaks or severe visual flaws found.",
     "eliminated_at": "2026-10-22T14:30:49.412339+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792614977-1",
+    "business_name": "USA4ALL Immigration Law - Orlando",
+    "website": "https://www.usa4all.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T15:00:30.412547+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792615040-4",
+    "business_name": "Exterior House Painting of Orlando",
+    "website": "https://exteriorhousepaintingorlando.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-22T15:01:48.506545+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792615203-10",
+    "business_name": "Filthy Clean Cleaning Services",
+    "website": "https://filthy-clean.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://filthy-clea",
+    "eliminated_at": "2026-10-22T15:03:43.659628+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792615237-4",
+    "business_name": "Magic Poly Solutions",
+    "website": "http://magicpolysolutions.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T15:04:18.315618+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792615284-17",
+    "business_name": "Talbot Custom Homes, LLC",
+    "website": "https://www.talbotcustomhomes.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-22T15:06:21.362008+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792615400-2",
+    "business_name": "Veridian Vantage Solutions LLC - Epoxy Flooring & Garage Coating",
+    "website": "https://veridiansflooring.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-22T15:07:42.184943+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792615401-3",
+    "business_name": "Pcsi Epoxy Floor",
+    "website": "https://pcsiepoxyfloors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-22T15:07:54.254456+00:00"
   }
 ]
