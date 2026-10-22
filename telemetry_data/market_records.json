@@ -66834,5 +66834,1265 @@
     },
     "gemini_context_snippet": "Target: Business Owner at PavePro (Dallas, TX). Profile: Rank #48 on Google Maps (17 reviews, 3.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
     "harvested_at": "2026-10-22T11:28:35.019541+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670181-2",
+    "estimated_rank": 22,
+    "business_name": "CG Commercial Cleaning Rydalmere",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://commercialcleaningrydalmere.com.au",
+    "domain": "commercialcleaningrydalmere.com.au",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at CG Commercial Cleaning Rydalmere (Sydney, NSW). Profile: Rank #22 on Google Maps (27 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:56:21.695925+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670242-11",
+    "estimated_rank": 53,
+    "business_name": "Clean Australia Service Lidcombe - Commercial & Office Cleaning Service",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.cleanaustraliaservice.com.au/clean-australia-service-headquarter",
+    "domain": "cleanaustraliaservice.com.au",
+    "reviews_count": 17,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "support@cleanaustraliaservice.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Clean Australia Service Lidcombe - Commercial & Office Cleaning Service (Sydney, NSW). Profile: Rank #53 on Google Maps (17 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:57:22.451090+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670246-12",
+    "estimated_rank": 58,
+    "business_name": "Wheatley & Sons Commercial Cleaning Sydney",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.wheatleyandsons.com.au",
+    "domain": "wheatleyandsons.com.au",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Fynn",
+      "verified_email": "fynn@wheatleyandsons.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Fynn at Wheatley & Sons Commercial Cleaning Sydney (Sydney, NSW). Profile: Rank #58 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:57:26.300413+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670274-2",
+    "estimated_rank": 45,
+    "business_name": "SolarGraph Glass Tinting",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.solargraphglasstinting.com.au",
+    "domain": "solargraphglasstinting.com.au",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "sales@solargraphglasstinting.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at SolarGraph Glass Tinting (Sydney, NSW). Profile: Rank #45 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:57:54.054435+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670282-3",
+    "estimated_rank": 54,
+    "business_name": "Adtint",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://adtint.com.au",
+    "domain": "adtint.com.au",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Adtint (Sydney, NSW). Profile: Rank #54 on Google Maps (24 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T11:58:02.252875+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670295-1",
+    "estimated_rank": 23,
+    "business_name": "Sunrise Tax",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://sunriseaus.com",
+    "domain": "sunriseaus.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sunrise Tax (Sydney, NSW). Profile: Rank #23 on Google Maps (3 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:58:15.494786+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670297-2",
+    "estimated_rank": 24,
+    "business_name": "Australian Tax Specialists",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.australiantaxspecialists.com.au",
+    "domain": "australiantaxspecialists.com.au",
+    "reviews_count": 17,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Asset",
+      "verified_email": "info@australiantaxspecialists.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Asset at Australian Tax Specialists (Sydney, NSW). Profile: Rank #24 on Google Maps (17 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:58:17.081169+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670326-5",
+    "estimated_rank": 50,
+    "business_name": "Growth-Prof",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://growthprof.com.au",
+    "domain": "growthprof.com.au",
+    "reviews_count": 14,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Growth-Prof (Sydney, NSW). Profile: Rank #50 on Google Maps (14 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:58:46.462306+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670329-6",
+    "estimated_rank": 53,
+    "business_name": "Economos",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://economos.com.au",
+    "domain": "economos.com.au",
+    "reviews_count": 14,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Calfas",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Calfas at Economos (Sydney, NSW). Profile: Rank #53 on Google Maps (14 reviews, 4.9★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T11:58:49.321415+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670369-1",
+    "estimated_rank": 21,
+    "business_name": "The Waterproofer",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.thewaterproofer.com.au",
+    "domain": "thewaterproofer.com.au",
+    "reviews_count": 9,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@thewaterproofer.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at The Waterproofer (Sydney, NSW). Profile: Rank #21 on Google Maps (9 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T11:59:29.086439+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670442-18",
+    "estimated_rank": 59,
+    "business_name": "TR Building Solutions",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.trbs.com.au",
+    "domain": "trbs.com.au",
+    "reviews_count": 26,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "office@trbs.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at TR Building Solutions (Sydney, NSW). Profile: Rank #59 on Google Maps (26 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:00:42.869303+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670446-19",
+    "estimated_rank": 60,
+    "business_name": "RemTech Constructions",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.remtechconstructions.com.au",
+    "domain": "remtechconstructions.com.au",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@remtechconstructions.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at RemTech Constructions (Sydney, NSW). Profile: Rank #60 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:00:46.758652+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670464-2",
+    "estimated_rank": 39,
+    "business_name": "Mk master Pty Ltd",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.mkmaster.au",
+    "domain": "mkmaster.au",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@mkmaster.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Mk master Pty Ltd (Sydney, NSW). Profile: Rank #39 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:01:04.080729+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670519-4",
+    "estimated_rank": 52,
+    "business_name": "Macquarie St Day Surgery",
+    "category": "Plastic Surgery Center",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.sydneyderm.com.au",
+    "domain": "sydneyderm.com.au",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Macquarie St Day Surgery (Sydney, NSW). Profile: Rank #52 on Google Maps (8 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:01:59.132701+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670566-6",
+    "estimated_rank": 35,
+    "business_name": "My Automatic Gate",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://myautomaticgate.com.au",
+    "domain": "myautomaticgate.com.au",
+    "reviews_count": 27,
+    "rating": 3.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@myautomaticgate.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at My Automatic Gate (Sydney, NSW). Profile: Rank #35 on Google Maps (27 reviews, 3.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:02:46.559741+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670602-11",
+    "estimated_rank": 51,
+    "business_name": "Western Sydney Fencing and Gates - Colorbond Fencing Blue Mountains",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.westernsydneyfencingandgates.com.au",
+    "domain": "westernsydneyfencingandgates.com.au",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Chris",
+      "verified_email": "chris@westernsydneyfencingandgates.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Chris at Western Sydney Fencing and Gates - Colorbond Fencing Blue Mountains (Sydney, NSW). Profile: Rank #51 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:03:22.398547+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670643-1",
+    "estimated_rank": 22,
+    "business_name": "Sydney Pressure Washing Service",
+    "category": "Commercial Pressure Washing",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.sydneypressure.com.au",
+    "domain": "sydneypressure.com.au",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney Pressure Washing Service (Sydney, NSW). Profile: Rank #22 on Google Maps (27 reviews, 5.0★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:04:03.582401+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670681-1",
+    "estimated_rank": 22,
+    "business_name": "Made Somewhere",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://madesomewhere.com.au",
+    "domain": "madesomewhere.com.au",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Studio",
+      "verified_email": "studio@madesomewhere.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Studio at Made Somewhere (Sydney, NSW). Profile: Rank #22 on Google Maps (10 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:04:41.478669+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670687-2",
+    "estimated_rank": 23,
+    "business_name": "ET Collective",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://etcollective.com.au",
+    "domain": "etcollective.com.au",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Studio",
+      "verified_email": "studio@etcollective.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Studio at ET Collective (Sydney, NSW). Profile: Rank #23 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:04:47.598423+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670689-3",
+    "estimated_rank": 26,
+    "business_name": "Societal",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.societal.com.au",
+    "domain": "societal.com.au",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Societal (Sydney, NSW). Profile: Rank #26 on Google Maps (23 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:04:49.412817+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670690-4",
+    "estimated_rank": 28,
+    "business_name": "Design by Ching",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.designbyching.com",
+    "domain": "designbyching.com",
+    "reviews_count": 27,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Mike Ching",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Mike Ching at Design by Ching (Sydney, NSW). Profile: Rank #28 on Google Maps (27 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:04:50.692484+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670697-5",
+    "estimated_rank": 30,
+    "business_name": "Hopping Mad Designs P/L",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.hoppingmad.com.au",
+    "domain": "hoppingmad.com.au",
+    "reviews_count": 27,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Hopping Mad Designs P/L (Sydney, NSW). Profile: Rank #30 on Google Maps (27 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:04:57.594484+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670699-6",
+    "estimated_rank": 33,
+    "business_name": "MY BUSINESS DNA",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://mybusinessdna.com.au",
+    "domain": "mybusinessdna.com.au",
+    "reviews_count": 14,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Dear Business",
+      "verified_email": "info@mybusinessdna.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Dear Business at MY BUSINESS DNA (Sydney, NSW). Profile: Rank #33 on Google Maps (14 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:04:59.816989+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670704-7",
+    "estimated_rank": 36,
+    "business_name": "Brand & Co Design",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://brandandco.com.au",
+    "domain": "brandandco.com.au",
+    "reviews_count": 3,
+    "rating": 2.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Brand & Co Design (Sydney, NSW). Profile: Rank #36 on Google Maps (3 reviews, 2.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:05:04.360283+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670710-8",
+    "estimated_rank": 38,
+    "business_name": "Branded By Alicia Digital Marketing Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://brandedbyalicia.com.au",
+    "domain": "brandedbyalicia.com.au",
+    "reviews_count": 21,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Alicia",
+      "verified_email": "alicia@brandedbyalicia.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Alicia at Branded By Alicia Digital Marketing Agency (Sydney, NSW). Profile: Rank #38 on Google Maps (21 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:05:10.189617+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670711-9",
+    "estimated_rank": 39,
+    "business_name": "James Agency - Property Marketing Agency Sydney",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://james.agency",
+    "domain": "james.agency",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Jobs",
+      "verified_email": "jobs@james.agency",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jobs at James Agency - Property Marketing Agency Sydney (Sydney, NSW). Profile: Rank #39 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:05:11.438027+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670713-10",
+    "estimated_rank": 40,
+    "business_name": "Aquila Creative Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.aquilacreativeagency.com.au",
+    "domain": "aquilacreativeagency.com.au",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Aquila Creative Agency (Sydney, NSW). Profile: Rank #40 on Google Maps (11 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:05:13.167880+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670714-11",
+    "estimated_rank": 44,
+    "business_name": "Handsome Creative",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.hellohandsome.com.au",
+    "domain": "hellohandsome.com.au",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Mel Barstow",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Mel Barstow at Handsome Creative (Sydney, NSW). Profile: Rank #44 on Google Maps (16 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:05:14.701449+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670715-12",
+    "estimated_rank": 45,
+    "business_name": "Sonnet",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://wearesonnet.com/#utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20Page",
+    "domain": "wearesonnet.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "hello@wearesonnet.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sonnet (Sydney, NSW). Profile: Rank #45 on Google Maps (8 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:05:15.748140+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670719-13",
+    "estimated_rank": 47,
+    "business_name": "Elevate Brand Communications",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.elevatebrandcomms.com",
+    "domain": "elevatebrandcomms.com",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "admin@elevatebrandcomms.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Elevate Brand Communications (Sydney, NSW). Profile: Rank #47 on Google Maps (21 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:05:19.074598+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670720-14",
+    "estimated_rank": 48,
+    "business_name": "Creatik Design & Branding Studio",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.creatik.com.au",
+    "domain": "creatik.com.au",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "With",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: With at Creatik Design & Branding Studio (Sydney, NSW). Profile: Rank #48 on Google Maps (4 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:05:20.487182+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670751-3",
+    "estimated_rank": 43,
+    "business_name": "Sydney Tree Firm",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://sydneytreefirm.com.au",
+    "domain": "sydneytreefirm.com.au",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney Tree Firm (Sydney, NSW). Profile: Rank #43 on Google Maps (25 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:05:51.583795+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670752-4",
+    "estimated_rank": 44,
+    "business_name": "Sydney City Mulch & Tree Service",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://scmts.com.au",
+    "domain": "scmts.com.au",
+    "reviews_count": 12,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney City Mulch & Tree Service (Sydney, NSW). Profile: Rank #44 on Google Maps (12 reviews, 4.3★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:05:52.844835+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670773-5",
+    "estimated_rank": 57,
+    "business_name": "All Sydney Tree Services",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.allsydneytree.com.au",
+    "domain": "allsydneytree.com.au",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@allsydneytree.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at All Sydney Tree Services (Sydney, NSW). Profile: Rank #57 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:06:13.266485+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670806-4",
+    "estimated_rank": 27,
+    "business_name": "Sydney Pools Steel",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://sydneypoolssteel.com.au",
+    "domain": "sydneypoolssteel.com.au",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "contact@sydneypoolssteel.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney Pools Steel (Sydney, NSW). Profile: Rank #27 on Google Maps (10 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:06:46.064260+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670867-14",
+    "estimated_rank": 52,
+    "business_name": "Wright Pools (NSW)",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://wrightpools.com.au",
+    "domain": "wrightpools.com.au",
+    "reviews_count": 22,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@wrightpools.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Wright Pools (NSW) (Sydney, NSW). Profile: Rank #52 on Google Maps (22 reviews, 4.3★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:07:47.572339+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670870-15",
+    "estimated_rank": 53,
+    "business_name": "Sydney Pool Renovations",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.sydneypoolrenovations.com.au",
+    "domain": "sydneypoolrenovations.com.au",
+    "reviews_count": 26,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@sydneypoolrenovations.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney Pool Renovations (Sydney, NSW). Profile: Rank #53 on Google Maps (26 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:07:50.676260+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670876-16",
+    "estimated_rank": 54,
+    "business_name": "Hills Pool Renovation | Pool Coping | Pool Resurfacing | Pool Painting",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://hillspoolrenovation.com.au",
+    "domain": "hillspoolrenovation.com.au",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Luke Wagner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Luke Wagner at Hills Pool Renovation | Pool Coping | Pool Resurfacing | Pool Painting (Sydney, NSW). Profile: Rank #54 on Google Maps (18 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:07:56.225804+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670904-2",
+    "estimated_rank": 27,
+    "business_name": "Sydney Discount Roof Repair",
+    "category": "Roofing & Gutter Restoration",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://sydneydiscountroofrepair.com.au/blacktown",
+    "domain": "sydneydiscountroofrepair.com.au",
+    "reviews_count": 10,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@sydneydiscountroofrepair.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney Discount Roof Repair (Sydney, NSW). Profile: Rank #27 on Google Maps (10 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:08:24.222273+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670970-4",
+    "estimated_rank": 29,
+    "business_name": "Sydney Wollongong & Hunter restoration Pty Ltd",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://swhr.com.au",
+    "domain": "swhr.com.au",
+    "reviews_count": 4,
+    "rating": 4.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney Wollongong & Hunter restoration Pty Ltd (Sydney, NSW). Profile: Rank #29 on Google Maps (4 reviews, 4.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:09:30.195662+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670995-13",
+    "estimated_rank": 48,
+    "business_name": "Apex Restore",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.apexrestore.com.au",
+    "domain": "apexrestore.com.au",
+    "reviews_count": 24,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Apex Restore (Sydney, NSW). Profile: Rank #48 on Google Maps (24 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:09:55.038317+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792671016-1",
+    "estimated_rank": 27,
+    "business_name": "Sydney Pacific Air Conditioning Pty Ltd",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://sydneypacificair.com.au",
+    "domain": "sydneypacificair.com.au",
+    "reviews_count": 11,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sydney Pacific Air Conditioning Pty Ltd (Sydney, NSW). Profile: Rank #27 on Google Maps (11 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:10:16.415446+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792671033-3",
+    "estimated_rank": 42,
+    "business_name": "Active Refrigeration & Air Conditioning",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.activerac.com.au",
+    "domain": "activerac.com.au",
+    "reviews_count": 13,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "service@activerac.com.au",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Active Refrigeration & Air Conditioning (Sydney, NSW). Profile: Rank #42 on Google Maps (13 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T12:10:33.217268+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792671036-5",
+    "estimated_rank": 45,
+    "business_name": "Meridian Air Conditioning",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.meridianairconditioning.com",
+    "domain": "meridianairconditioning.com",
+    "reviews_count": 24,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@meridianairconditioning.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Meridian Air Conditioning (Sydney, NSW). Profile: Rank #45 on Google Maps (24 reviews, 4.9★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T12:10:36.271303+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792671038-6",
+    "estimated_rank": 51,
+    "business_name": "Air Cross Solutions",
+    "category": "Commercial HVAC Air Conditioning",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://aircrosssolutions.com.au",
+    "domain": "aircrosssolutions.com.au",
+    "reviews_count": 12,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Air Cross Solutions (Sydney, NSW). Profile: Rank #51 on Google Maps (12 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T12:10:38.187845+00:00"
   }
 ]
