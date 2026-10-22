@@ -72126,5 +72126,593 @@
     },
     "gemini_context_snippet": "Target: Business Owner at C & D Schroeder Tree Services (Melbourne, VIC). Profile: Rank #56 on Google Maps (28 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-22T12:59:34.545336+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676320-2",
+    "estimated_rank": 25,
+    "business_name": "Good Water Damage Restoration Denver",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://goodwaterdamagedenver.com",
+    "domain": "goodwaterdamagedenver.com",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Good Water Damage Restoration Denver (Denver, CO). Profile: Rank #25 on Google Maps (16 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:38:40.656904+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676369-1",
+    "estimated_rank": 21,
+    "business_name": "Jan-Stars Janitorial Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://jan-stars.com",
+    "domain": "jan-stars.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Jan-Stars Janitorial Services (Denver, CO). Profile: Rank #21 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:39:29.066207+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676369-2",
+    "estimated_rank": 25,
+    "business_name": "Neat Concept Facility Solutions",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.neatconceptfs.com",
+    "domain": "neatconceptfs.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Neat Concept Facility Solutions (Denver, CO). Profile: Rank #25 on Google Maps (13 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:39:29.852642+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676389-11",
+    "estimated_rank": 42,
+    "business_name": "K.O. Commercial Cleaning",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://kocommercialcleaning.com",
+    "domain": "kocommercialcleaning.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at K.O. Commercial Cleaning (Denver, CO). Profile: Rank #42 on Google Maps (15 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T13:39:49.901824+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676392-12",
+    "estimated_rank": 43,
+    "business_name": "Vanguard Cleaning Systems of Colorado",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.vanguardcleaning.com/cleaning/colorado",
+    "domain": "vanguardcleaning.com",
+    "reviews_count": 19,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Vanguard Cleaning Systems of Colorado (Denver, CO). Profile: Rank #43 on Google Maps (19 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:39:52.130313+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676396-13",
+    "estimated_rank": 48,
+    "business_name": "Colorado Fresh Cleaning Services LLC",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://coloradofreshcleaningservicesllc.com",
+    "domain": "coloradofreshcleaningservicesllc.com",
+    "reviews_count": 28,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@coloradofreshcleaningservicesllc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Colorado Fresh Cleaning Services LLC (Denver, CO). Profile: Rank #48 on Google Maps (28 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T13:39:56.910931+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676464-2",
+    "estimated_rank": 26,
+    "business_name": "Connect Immigration Denver",
+    "category": "Immigration & Visa Consultant",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.connectchurchcolorado.com/privacy-policy",
+    "domain": "connectchurchcolorado.com",
+    "reviews_count": 5,
+    "rating": 3.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Connect Immigration Denver (Denver, CO). Profile: Rank #26 on Google Maps (5 reviews, 3.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T13:41:04.010568+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676484-1",
+    "estimated_rank": 21,
+    "business_name": "Gunlock Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.gunlockhomesdenver.com",
+    "domain": "gunlockhomesdenver.com",
+    "reviews_count": 7,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Emily",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Emily at Gunlock Homes (Denver, CO). Profile: Rank #21 on Google Maps (7 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T13:41:24.874414+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676497-7",
+    "estimated_rank": 28,
+    "business_name": "JS Luxury Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.jsluxuryhomes.com",
+    "domain": "jsluxuryhomes.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Meet Jeff",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Meet Jeff at JS Luxury Homes (Denver, CO). Profile: Rank #28 on Google Maps (26 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:41:37.364689+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676514-15",
+    "estimated_rank": 48,
+    "business_name": "Stone Cloud Design + Build",
+    "category": "Luxury Custom Home Builder",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.stonecloudco.com/contact",
+    "domain": "stonecloudco.com",
+    "reviews_count": 8,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Bryan Bozeman",
+      "verified_email": "info@stonecloudco.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Bryan Bozeman at Stone Cloud Design + Build (Denver, CO). Profile: Rank #48 on Google Maps (8 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T13:41:54.719314+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676556-3",
+    "estimated_rank": 41,
+    "business_name": "PR Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.prpaintingdenver.com",
+    "domain": "prpaintingdenver.com",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@prpaintingdenver.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at PR Painting (Denver, CO). Profile: Rank #41 on Google Maps (25 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T13:42:36.777171+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676689-4",
+    "estimated_rank": 42,
+    "business_name": "Absolute Caulking & Waterproofing, Inc.",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.absolute-caulking.com",
+    "domain": "absolute-caulking.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Absolute Caulking & Waterproofing, Inc. (Denver, CO). Profile: Rank #42 on Google Maps (8 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:44:49.292601+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676709-1",
+    "estimated_rank": 21,
+    "business_name": "Colorado Window Tinting",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://www.denwindowtint.com",
+    "domain": "denwindowtint.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Colorado Window Tinting (Denver, CO). Profile: Rank #21 on Google Maps (3 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:45:09.650305+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676741-3",
+    "estimated_rank": 33,
+    "business_name": "American Window Tinting",
+    "category": "Window Tinting Commercial & Auto",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.awtint.com",
+    "domain": "awtint.com",
+    "reviews_count": 10,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at American Window Tinting (Denver, CO). Profile: Rank #33 on Google Maps (10 reviews, 4.9★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:45:41.579368+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676761-2",
+    "estimated_rank": 28,
+    "business_name": "Denver Custom Saunas",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://denvercustomsaunas.com",
+    "domain": "denvercustomsaunas.com",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Denver Custom Saunas (Denver, CO). Profile: Rank #28 on Google Maps (4 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:46:01.046648+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676810-1",
+    "estimated_rank": 22,
+    "business_name": "Northwest Services",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.northwestservicesdenver.com",
+    "domain": "northwestservicesdenver.com",
+    "reviews_count": 28,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Northwest Services (Denver, CO). Profile: Rank #22 on Google Maps (28 reviews, 4.8★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T13:46:50.356051+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676892-5",
+    "estimated_rank": 34,
+    "business_name": "Eagle Tax Res Inc",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.eagletaxres.com",
+    "domain": "eagletaxres.com",
+    "reviews_count": 17,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Eagle Tax Res Inc (Denver, CO). Profile: Rank #34 on Google Maps (17 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T13:48:12.891874+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676896-7",
+    "estimated_rank": 39,
+    "business_name": "Taxpayer Advocacy Services, Inc.",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.johnrdundon.com",
+    "domain": "johnrdundon.com",
+    "reviews_count": 13,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Colorado Society",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Colorado Society at Taxpayer Advocacy Services, Inc. (Denver, CO). Profile: Rank #39 on Google Maps (13 reviews, 4.4★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T13:48:16.713125+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676956-3",
+    "estimated_rank": 35,
+    "business_name": "Romo's Kitchen & Bath Remodeling LLC",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://romoskitchenandbathremodeling.com",
+    "domain": "romoskitchenandbathremodeling.com",
+    "reviews_count": 24,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Romo's Kitchen & Bath Remodeling LLC (Denver, CO). Profile: Rank #35 on Google Maps (24 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T13:49:16.929753+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792676964-6",
+    "estimated_rank": 43,
+    "business_name": "Empirical Construction",
+    "category": "Kitchen & Bath Remodeling",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://empiricalcc.com",
+    "domain": "empiricalcc.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Josh",
+      "verified_email": "josh@empiricalcc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Josh at Empirical Construction (Denver, CO). Profile: Rank #43 on Google Maps (20 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T13:49:24.791223+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792677206-16",
+    "estimated_rank": 49,
+    "business_name": "AR Homes®️ Tampa - Lyons Heritage Tampa, LLC",
+    "category": "Luxury Custom Home Builder",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.arhomes.com/builder/lyons-heritage-tampa-llc",
+    "domain": "arhomes.com",
+    "reviews_count": 15,
+    "rating": 4.1,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at AR Homes®️ Tampa - Lyons Heritage Tampa, LLC (Tampa, FL). Profile: Rank #49 on Google Maps (15 reviews, 4.1★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T13:53:26.159874+00:00"
   }
 ]
