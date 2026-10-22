@@ -60758,5 +60758,761 @@
     },
     "gemini_context_snippet": "Target: Audiology at Tamarind Design + Marketing (Denver, CO). Profile: Rank #60 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-22T07:42:10.051160+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657385-3",
+    "estimated_rank": 34,
+    "business_name": "Bats Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://batsfoundationrepair.com/foundation-repair-austin-tx",
+    "domain": "batsfoundationrepair.com",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@batsfoundationrepair.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Bats Foundation Repair (Austin, TX). Profile: Rank #34 on Google Maps (28 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:23:05.012898+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657390-4",
+    "estimated_rank": 47,
+    "business_name": "Pflugerville Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://pflugervillefoundationrepair.com",
+    "domain": "pflugervillefoundationrepair.com",
+    "reviews_count": 19,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pflugerville Foundation Repair (Austin, TX). Profile: Rank #47 on Google Maps (19 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:23:10.665304+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657397-5",
+    "estimated_rank": 56,
+    "business_name": "Skygrade Concrete",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://skygradeconcrete.com",
+    "domain": "skygradeconcrete.com",
+    "reviews_count": 12,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@skygradeconcrete.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Skygrade Concrete (Austin, TX). Profile: Rank #56 on Google Maps (12 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:23:17.268562+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657432-1",
+    "estimated_rank": 28,
+    "business_name": "Kredo Commercial Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.kredoservices.com",
+    "domain": "kredoservices.com",
+    "reviews_count": 3,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Kredo Commercial Services (Austin, TX). Profile: Rank #28 on Google Maps (3 reviews, 4.7★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:23:52.221284+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657458-13",
+    "estimated_rank": 53,
+    "business_name": "OMEX of Austin",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.omexcorp.com/austin",
+    "domain": "omexcorp.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Support",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Support at OMEX of Austin (Austin, TX). Profile: Rank #53 on Google Maps (5 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:24:18.876202+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657561-3",
+    "estimated_rank": 26,
+    "business_name": "COR Tax & Bookkeeping",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://mycorbookkeeping.com",
+    "domain": "mycorbookkeeping.com",
+    "reviews_count": 24,
+    "rating": 3.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
+      "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
+      "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
+      "recommended_entry_price": "$180",
+      "turnaround": "24 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at COR Tax & Bookkeeping (Austin, TX). Profile: Rank #26 on Google Maps (24 reviews, 3.9★). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T08:26:01.267736+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657575-14",
+    "estimated_rank": 46,
+    "business_name": "Timothy R. Rossmiller, CPA, PC",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.rossmillercpa.com",
+    "domain": "rossmillercpa.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Timothy R. Rossmiller, CPA, PC (Austin, TX). Profile: Rank #46 on Google Maps (8 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:26:15.307254+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657579-17",
+    "estimated_rank": 51,
+    "business_name": "Shared Economy Tax",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "http://sharedeconomycpa.com",
+    "domain": "sharedeconomycpa.com",
+    "reviews_count": 24,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Color",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Color at Shared Economy Tax (Austin, TX). Profile: Rank #51 on Google Maps (24 reviews, 4.5★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:26:19.846657+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657737-1",
+    "estimated_rank": 21,
+    "business_name": "Austin TX Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://www.austintxpainting.com",
+    "domain": "austintxpainting.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Austin TX Painting (Austin, TX). Profile: Rank #21 on Google Maps (12 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:28:57.734671+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657897-1",
+    "estimated_rank": 34,
+    "business_name": "OXD Auto Detailing & Ceramic Coating",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://detailersite.com/oxd",
+    "domain": "detailersite.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at OXD Auto Detailing & Ceramic Coating (Austin, TX). Profile: Rank #34 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:31:37.574675+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657913-2",
+    "estimated_rank": 25,
+    "business_name": "American Water Damage of Austin",
+    "category": "Water Damage Restoration & Mold",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://americanwaterdamage.com/austin",
+    "domain": "americanwaterdamage.com",
+    "reviews_count": 21,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "David Lopez",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: David Lopez at American Water Damage of Austin (Austin, TX). Profile: Rank #25 on Google Maps (21 reviews, 4.6★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:31:53.579837+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657968-7",
+    "estimated_rank": 33,
+    "business_name": "Blank Box Digital Marketing",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "https://blankboxdigital.com",
+    "domain": "blankboxdigital.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Small Business",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Small Business at Blank Box Digital Marketing (Austin, TX). Profile: Rank #33 on Google Maps (12 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:32:48.680538+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792657985-16",
+    "estimated_rank": 54,
+    "business_name": "Neato Creative",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "website": "http://neatocreative.com",
+    "domain": "neatocreative.com",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Texas",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Texas at Neato Creative (Austin, TX). Profile: Rank #54 on Google Maps (20 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:33:05.042690+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658041-1",
+    "estimated_rank": 32,
+    "business_name": "Visa Trends Immigration Consultancy",
+    "category": "Immigration & Visa Consultant",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.visatrends.com",
+    "domain": "visatrends.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Visa Trends Immigration Consultancy (Toronto, ON). Profile: Rank #32 on Google Maps (18 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T08:34:01.913338+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658044-2",
+    "estimated_rank": 37,
+    "business_name": "Dove Immigration Consultancy",
+    "category": "Immigration & Visa Consultant",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.doveimmigration.com",
+    "domain": "doveimmigration.com",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@doveimmigration.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dove Immigration Consultancy (Toronto, ON). Profile: Rank #37 on Google Maps (23 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:34:04.838578+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658046-3",
+    "estimated_rank": 41,
+    "business_name": "Canadian Society of Immigration Consultants",
+    "category": "Immigration & Visa Consultant",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://integriti.ca",
+    "domain": "integriti.ca",
+    "reviews_count": 3,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@integriti.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Canadian Society of Immigration Consultants (Toronto, ON). Profile: Rank #41 on Google Maps (3 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:34:06.262689+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658046-4",
+    "estimated_rank": 48,
+    "business_name": "Visa Time Immigration",
+    "category": "Immigration & Visa Consultant",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://www.visatimeimmigration.ca",
+    "domain": "visatimeimmigration.ca",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Visa Time Immigration (Toronto, ON). Profile: Rank #48 on Google Maps (26 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T08:34:06.695451+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658059-1",
+    "estimated_rank": 22,
+    "business_name": "Basement Foundation Repair",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://bfr.ca",
+    "domain": "bfr.ca",
+    "reviews_count": 20,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@bfr.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Basement Foundation Repair (Toronto, ON). Profile: Rank #22 on Google Maps (20 reviews, 4.8★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:34:19.821629+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658076-4",
+    "estimated_rank": 46,
+    "business_name": "KOME WATERPROOFING AND UNDERPINNING TORONTO",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.komewaterproofing.com",
+    "domain": "komewaterproofing.com",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at KOME WATERPROOFING AND UNDERPINNING TORONTO (Toronto, ON). Profile: Rank #46 on Google Maps (25 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:34:36.977545+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658110-2",
+    "estimated_rank": 31,
+    "business_name": "Clean Way Janitorial Services",
+    "category": "Commercial Janitorial & Cleaning",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.clean-way.ca",
+    "domain": "clean-way.ca",
+    "reviews_count": 3,
+    "rating": 1.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@clean-way.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Clean Way Janitorial Services (Toronto, ON). Profile: Rank #31 on Google Maps (3 reviews, 1.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:35:10.967206+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658148-1",
+    "estimated_rank": 21,
+    "business_name": "Kleen Flow Washer",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://kleenflowwasher.com",
+    "domain": "kleenflowwasher.com",
+    "reviews_count": 6,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "service@kleenflowwasher.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Kleen Flow Washer (Toronto, ON). Profile: Rank #21 on Google Maps (6 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-22T08:35:48.604738+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658174-8",
+    "estimated_rank": 50,
+    "business_name": "Toronto Kitchen Exhaust Hood Cleaning",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://torontokitchenexhausthoodcleaning.ca",
+    "domain": "torontokitchenexhausthoodcleaning.ca",
+    "reviews_count": 15,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Toronto Kitchen Exhaust Hood Cleaning (Toronto, ON). Profile: Rank #50 on Google Maps (15 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:36:14.665566+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658179-10",
+    "estimated_rank": 52,
+    "business_name": "TowerCrest Property Services Inc.",
+    "category": "Commercial Pressure Washing",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://towercrest.ca",
+    "domain": "towercrest.ca",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@towercrest.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at TowerCrest Property Services Inc. (Toronto, ON). Profile: Rank #52 on Google Maps (13 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:36:19.949910+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658209-2",
+    "estimated_rank": 23,
+    "business_name": "Fortune Luxury Homes Inc.",
+    "category": "Luxury Custom Home Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.fortuneluxuryhomes.com",
+    "domain": "fortuneluxuryhomes.com",
+    "reviews_count": 12,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Fortune Luxury Homes Inc. (Toronto, ON). Profile: Rank #23 on Google Maps (12 reviews, 5.0★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T08:36:49.092563+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658254-1",
+    "estimated_rank": 34,
+    "business_name": "Transfer Pricing Report Services",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "https://lqconsultants.com",
+    "domain": "lqconsultants.com",
+    "reviews_count": 19,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Franchise",
+      "verified_email": null,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Franchise at Transfer Pricing Report Services (Toronto, ON). Profile: Rank #34 on Google Maps (19 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:37:34.981974+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658285-2",
+    "estimated_rank": 24,
+    "business_name": "GTA Pool Builders",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.gtapoolbuilders.ca",
+    "domain": "gtapoolbuilders.ca",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@gtapoolbuilders.ca",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at GTA Pool Builders (Toronto, ON). Profile: Rank #24 on Google Maps (18 reviews, 5.0★). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:38:05.225865+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792658309-8",
+    "estimated_rank": 53,
+    "business_name": "Pool Boys Inc.",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "website": "http://www.poolboysinc.com",
+    "domain": "poolboysinc.com",
+    "reviews_count": 12,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "verified_email": "info@poolboysinc.com",
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Pool Boys Inc. (Toronto, ON). Profile: Rank #53 on Google Maps (12 reviews, 4.7★). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-22T08:38:29.238042+00:00"
   }
 ]
