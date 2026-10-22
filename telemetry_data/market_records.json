@@ -79690,5 +79690,101 @@
     },
     "gemini_context_snippet": "Target: operator Residential at Bua's Roof, Gutter and Solar Maintenance (Brisbane, QLD). Profile: Rank #44 on Google Maps (25 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-22T22:09:52.250256+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792708294-6",
+    "estimated_rank": 53,
+    "business_name": "Clearwater Epoxy Flooring, Concrete Pool Deck Coatings & Resurfacing",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.palmharborepoxyflooring.com/clearwater.html",
+    "domain": "palmharborepoxyflooring.com",
+    "reviews_count": 23,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "no-reply@apps.farm",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Clearwater Epoxy Flooring, Concrete Pool Deck Coatings & Resurfacing (Tampa, FL). Profile: Rank #53 on Google Maps (23 reviews, 4.8★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T22:31:34.833258+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792708598-3",
+    "estimated_rank": 51,
+    "business_name": "TM Painting",
+    "category": "Painting Contractor Interior Exterior",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://tmpaintingservices.com/contact-us",
+    "domain": "tmpaintingservices.com",
+    "reviews_count": 22,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Ethan",
+      "first_name": "Webname",
+      "title": "Decision Maker",
+      "verified_email": "webname@example.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Ethan at TM Painting (Tampa, FL). Profile: Rank #51 on Google Maps (22 reviews, 4.7★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T22:36:38.704084+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792708971-4",
+    "estimated_rank": 55,
+    "business_name": "Value Pavers & Turf",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "website": "https://www.valuepaversandturf.com",
+    "domain": "valuepaversandturf.com",
+    "reviews_count": 8,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Value Pavers & Turf (Tampa, FL). Profile: Rank #55 on Google Maps (8 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-22T22:42:51.799764+00:00"
   }
 ]
