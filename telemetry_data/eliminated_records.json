@@ -750,5 +750,77 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
     "eliminated_at": "2026-10-23T12:54:39.914733+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792638899-4",
+    "business_name": "DFX Foundation & Waterproofing Experts",
+    "website": "https://dfxrepair.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T13:22:29.868316+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792638908-9",
+    "business_name": "Foundation Solutions Group",
+    "website": "https://www.foundationsolutionsgroup.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T13:22:40.312906+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792638909-11",
+    "business_name": "N & S Waterproofing",
+    "website": "http://nswaterproofing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T13:22:43.247378+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792639147-3",
+    "business_name": "Atomic Design",
+    "website": "https://www.atomicdesign.net/nashville-web-design",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T13:25:11.571251+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792639193-1",
+    "business_name": "RISE IMMIGRATION SERVICES AND SUPPORT",
+    "website": "https://www.legalimigrationgroup.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
+    "eliminated_at": "2026-10-23T13:27:06.714975+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792639195-3",
+    "business_name": "Garcia Immigration Law PLLC",
+    "website": "http://www.dawngarcialaw.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T13:27:24.582902+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792639345-2",
+    "business_name": "Unrivaled Detailing LLC : Ceramic Coating",
+    "website": "https://unrivaleddetailing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T13:30:23.564040+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792639512-10",
+    "business_name": "Bay South Cleaning",
+    "website": "https://baysouthcleaning.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T13:31:28.917826+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792639513-11",
+    "business_name": "DBS Building Solutions of Tampa",
+    "website": "https://dbsbuildingsolutions.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T13:31:35.148536+00:00"
   }
 ]
