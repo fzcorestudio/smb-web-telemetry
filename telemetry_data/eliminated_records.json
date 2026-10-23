@@ -686,5 +686,69 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 403",
     "eliminated_at": "2026-10-23T12:04:28.111407+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636605-2",
+    "business_name": "Toronto Commercial Clean",
+    "website": "https://torontocommercialclean.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T12:47:47.846363+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636624-8",
+    "business_name": "AS1 CLEANER INC.",
+    "website": "https://janitorialserviceetobicoke.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T12:47:59.940415+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636860-14",
+    "business_name": "Top Spot Janitorial Services Inc",
+    "website": "http://www.topspotjanitorial.ca",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T12:50:50.033356+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636926-2",
+    "business_name": "All in One Renovation & Design-Sydney Painter",
+    "website": "http://www.allinonereno.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T12:51:22.218696+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636970-2",
+    "business_name": "Dezina Kitchen and Bathroom",
+    "website": "https://www.dezina.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T12:51:46.672391+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636972-4",
+    "business_name": "Build Craft Sydney",
+    "website": "https://www.buildcraftsydney.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.buildcr",
+    "eliminated_at": "2026-10-23T12:51:50.671658+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792636975-5",
+    "business_name": "Bathroom Renovation Team Sydney",
+    "website": "https://www.bathroomrenovationteam.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.bathroo",
+    "eliminated_at": "2026-10-23T12:51:51.260576+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792638693-11",
+    "business_name": "Drennan & Associates PLLC",
+    "website": "http://www.drennancpa.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-23T12:54:39.914733+00:00"
   }
 ]
