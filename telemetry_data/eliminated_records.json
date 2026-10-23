@@ -1174,5 +1174,77 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-10-23T16:24:17.137382+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648646-13",
+    "business_name": "Chiott Custom Homes",
+    "website": "http://www.chiott.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T17:02:03.600182+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648725-1",
+    "business_name": "TaxPro Consult and Bookkeeping Services LLC",
+    "website": "https://www.taxpro-nc.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T17:03:26.627206+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648732-3",
+    "business_name": "MSLCPA PLLC",
+    "website": "http://www.mslcpapllc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T17:03:48.704699+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648736-6",
+    "business_name": "CT Tax Services, Inc",
+    "website": "https://ct-accountingservice.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T17:04:12.920099+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648749-2",
+    "business_name": "Carolina Clean Drains",
+    "website": "https://carolinacleandrains.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T17:04:18.660594+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648791-1",
+    "business_name": "EUROfloors Inc. - Stained Concrete & Epoxy Specialists",
+    "website": "http://www.eurofloors.us",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T17:04:46.693367+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648929-6",
+    "business_name": "Trinity Fence and Gate Inc.",
+    "website": "http://www.trinityfenceandgate.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T17:06:49.908663+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648931-8",
+    "business_name": "Pinpoint Fence",
+    "website": "https://pinpointfence.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T17:06:54.606293+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648941-10",
+    "business_name": "Capitol Wholesale",
+    "website": "http://www.capitolwholesale.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T17:07:05.467196+00:00"
   }
 ]
