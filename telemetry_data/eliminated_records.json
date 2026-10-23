@@ -438,5 +438,53 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-23T08:10:43.175277+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792627743-5",
+    "business_name": "Koala Solar",
+    "website": "https://koalasolar.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-23T08:37:55.662532+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792627854-6",
+    "business_name": "Art Village LLC | Custom Home Builder",
+    "website": "http://artvillagedvlp.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T08:40:11.145375+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792627856-7",
+    "business_name": "Transformations Custom Build",
+    "website": "http://www.transremo.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T08:40:16.081622+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792628145-8",
+    "business_name": "MONORT - Professional Commercial Cleaning San Diego",
+    "website": "http://monortcleaningsd.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T08:45:05.376891+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792628146-11",
+    "business_name": "Forte of San Diego",
+    "website": "http://www.forte-sandiego.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T08:45:22.801424+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792628186-3",
+    "business_name": "A Access Automation & Gate",
+    "website": "http://www.aaagate.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T08:45:43.168749+00:00"
   }
 ]
