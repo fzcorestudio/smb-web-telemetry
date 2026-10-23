@@ -894,5 +894,69 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-10-23T14:15:04.823371+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792641904-1",
+    "business_name": "UCI Plastic Surgery",
+    "website": "https://www.uciplasticsurgery.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T15:06:58.378929+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792641969-1",
+    "business_name": "Joe's Anaheim Painters",
+    "website": "http://joesanaheimpainters.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-23T15:08:25.686007+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792641971-3",
+    "business_name": "Wilson Painting & Finishing",
+    "website": "https://wilson-painting.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T15:08:32.118274+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792642094-2",
+    "business_name": "Pacific Coast Pavers",
+    "website": "https://pcpavers.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://pcpa",
+    "eliminated_at": "2026-10-23T15:09:59.080131+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792642176-7",
+    "business_name": "PiersPro",
+    "website": "https://pierspro.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T15:11:45.421341+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792642244-3",
+    "business_name": "Decorative Concrete Concepts- Epoxy and Polishing Finishes",
+    "website": "http://decorativeconcreteconcepts.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-23T15:12:59.115926+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792642277-2",
+    "business_name": "California roofing & repair construction",
+    "website": "https://californiaroofingrepairconstruction.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://cali",
+    "eliminated_at": "2026-10-23T15:13:53.402418+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792642391-6",
+    "business_name": "Vaakawi Commercial Cleaning",
+    "website": "https://www.vaakawi.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T15:17:20.395163+00:00"
   }
 ]
