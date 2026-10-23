@@ -486,5 +486,45 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-23T08:45:43.168749+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792628255-1",
+    "business_name": "San Diego Immigration Lawyer",
+    "website": "https://sandiegoimmigrationlawyer.us",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://sandiegoimm",
+    "eliminated_at": "2026-10-23T09:16:15.721288+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792628317-9",
+    "business_name": "Staples Landscaping",
+    "website": "https://stapleslandscaping.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T09:17:56.693818+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792631340-1",
+    "business_name": "Dr. Adelyn Ho, MD MPH FRCSC",
+    "website": "http://www.dradelynho.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T09:23:54.574006+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792631361-7",
+    "business_name": "Brendon Bitoiu, M.D, FRCSC",
+    "website": "https://www.drbrendonbitoiu.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T09:24:52.941663+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792631500-1",
+    "business_name": "Northwoods Plumbing & Heating Ltd.",
+    "website": "https://www.northwoodsplumbing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T09:26:51.106888+00:00"
   }
 ]
