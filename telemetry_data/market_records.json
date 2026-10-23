@@ -90122,5 +90122,293 @@
     },
     "gemini_context_snippet": "Target: Business Owner at DB Landscapes (Brisbane, QLD). Profile: Rank #48 on Google Maps (17 reviews, 4.4★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-23T19:18:22.705381+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785011-2",
+    "estimated_rank": 22,
+    "business_name": "Tiny Hunter",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://tinyhunter.com.au",
+    "domain": "tinyhunter.com.au",
+    "reviews_count": 20,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Tiny Hunter (Sydney, NSW). Profile: Rank #22 on Google Maps (20 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T19:50:11.529639+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785077-13",
+    "estimated_rank": 50,
+    "business_name": "Jaja studio - Design with purpose. Brand, digital experiences, system.",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.jaja.studio",
+    "domain": "jaja.studio",
+    "reviews_count": 9,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Julien",
+      "first_name": "Julien",
+      "title": "Decision Maker",
+      "verified_email": "julien@jaja.studio",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Julien at Jaja studio - Design with purpose. Brand, digital experiences, system. (Sydney, NSW). Profile: Rank #50 on Google Maps (9 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T19:51:17.899773+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785180-1",
+    "estimated_rank": 22,
+    "business_name": "DRYWAY",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.dryway.com.au",
+    "domain": "dryway.com.au",
+    "reviews_count": 16,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Tunnels and",
+      "first_name": "Tunnels",
+      "title": "Owner / Founder",
+      "verified_email": "contact@dryway.com.au",
+      "tier": "TIER_4_GATEKEEPER_ROUTED",
+      "tier_level": 4,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Tunnels and at DRYWAY (Sydney, NSW). Profile: Rank #22 on Google Maps (16 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-23T19:53:00.948140+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785509-2",
+    "estimated_rank": 26,
+    "business_name": "Love Landscapes Sydney",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.lovelandscapes.com.au",
+    "domain": "lovelandscapes.com.au",
+    "reviews_count": 11,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@lovelandscapes.com.au",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Love Landscapes Sydney (Sydney, NSW). Profile: Rank #26 on Google Maps (11 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T19:58:29.841006+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785512-4",
+    "estimated_rank": 30,
+    "business_name": "Charlie's Paving",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.charliespavingau.com",
+    "domain": "charliespavingau.com",
+    "reviews_count": 21,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@charliespavingau.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Charlie's Paving (Sydney, NSW). Profile: Rank #30 on Google Maps (21 reviews, 4.7★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T19:58:32.172580+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785589-1",
+    "estimated_rank": 21,
+    "business_name": "MarkQ Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.markq.com.au",
+    "domain": "markq.com.au",
+    "reviews_count": 18,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Suman and",
+      "first_name": "Suman",
+      "title": "Owner / Founder",
+      "verified_email": "info@markq.com.au",
+      "tier": "TIER_4_GATEKEEPER_ROUTED",
+      "tier_level": 4,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Suman and at MarkQ Homes (Sydney, NSW). Profile: Rank #21 on Google Maps (18 reviews, 4.8★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T19:59:49.637879+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785623-4",
+    "estimated_rank": 25,
+    "business_name": "Sarelle Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.sarellehomes.com.au",
+    "domain": "sarellehomes.com.au",
+    "reviews_count": 28,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Sarelle Homes (Sydney, NSW). Profile: Rank #25 on Google Maps (28 reviews, 4.9★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-23T20:00:23.755000+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785911-1",
+    "estimated_rank": 22,
+    "business_name": "Eastern Suburbs Pressure Cleaning",
+    "category": "Commercial Pressure Washing",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "https://www.easternsuburbspressurecleaning.com",
+    "domain": "easternsuburbspressurecleaning.com",
+    "reviews_count": 18,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Sean",
+      "first_name": "Sean",
+      "title": "Decision Maker",
+      "verified_email": "sean@easternsuburbspressurecleaning.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Sean at Eastern Suburbs Pressure Cleaning (Sydney, NSW). Profile: Rank #22 on Google Maps (18 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T20:05:11.699520+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792785919-2",
+    "estimated_rank": 23,
+    "business_name": "Clean Machine Sydney",
+    "category": "Commercial Pressure Washing",
+    "city": "Sydney",
+    "state": "NSW",
+    "country": "AU",
+    "website": "http://www.cleanmachinesydney.com.au",
+    "domain": "cleanmachinesydney.com.au",
+    "reviews_count": 28,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Enquiries",
+      "first_name": "Enquiries",
+      "title": "Decision Maker",
+      "verified_email": "enquiries@cleanmachinesydney.com.au",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Enquiries at Clean Machine Sydney (Sydney, NSW). Profile: Rank #23 on Google Maps (28 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-23T20:05:19.822118+00:00"
   }
 ]
