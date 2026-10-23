@@ -29,7 +29,7 @@ if sys.platform == "win32":
 try:
     from dotenv import load_dotenv
     load_dotenv()
-    if not os.getenv("SUBDOMAIN_MAIL_PASS"):
+    if not os.getenv("SUBDOMAIN_MAIL_PASS") or not os.getenv("PASS_CONTACT"):
         load_dotenv(Path(__file__).resolve().parent.parent / "fzcore_web" / ".env")
 except Exception:
     pass
@@ -89,7 +89,7 @@ def get_body_snippet(msg):
     except Exception:
         pass
     clean = re.sub(r'\s+', ' ', snippet).strip()
-    return clean[:300]
+    return clean[:3000]
 
 def check_for_lead_replies():
     password = os.getenv("SUBDOMAIN_MAIL_PASS")
@@ -175,6 +175,7 @@ def check_for_lead_replies():
 
     ql = get_quarantine_ledger() if get_quarantine_ledger else None
     new_replies_found = 0
+    new_bounces_found = 0
 
     for sender_user in sorted(sender_inboxes):
         try:
@@ -205,7 +206,31 @@ def check_for_lead_replies():
                 subject = clean_header_text(parsed_msg.get("Subject"))
                 in_reply_to = clean_header_text(parsed_msg.get("In-Reply-To"))
 
-                # Check match against active prospects
+                # 1. Check for automated delivery failure / bounce
+                is_bounce = any(w in sender_header.lower() or w in subject.lower() for w in ['mailer-daemon', 'postmaster', 'failure notice', 'undelivered', 'delivery status', 'undeliverable'])
+                if is_bounce:
+                    b_status, full_data = client.fetch(mid, "(RFC822)")
+                    full_parsed = email.message_from_bytes(full_data[0][1]) if b_status == "OK" else parsed_msg
+                    body_text = (get_body_snippet(full_parsed) + " " + str(full_parsed)).lower()
+                    for rec_cand, b_lid in list(prospect_map.items()):
+                        if rec_cand in body_text or rec_cand in subject.lower():
+                            print(f"\n❌ [BOUNCE DETECTED] Failed: {rec_cand} (Lead: {b_lid}) in {sender_user}")
+                            if b_lid in pipeline:
+                                pipeline[b_lid]["status"] = "BOUNCED"
+                                pipeline[b_lid]["next_followup_due"] = None
+                                pipeline[b_lid]["bounced_at"] = datetime.now(timezone.utc).isoformat()
+                            if ql:
+                                ql.quarantine_lead(
+                                    lead={"lead_id": b_lid, "recipient_email": rec_cand},
+                                    action="HARD_BOUNCE",
+                                    details={"bounce_subject": subject, "inbox": sender_user}
+                                )
+                            del prospect_map[rec_cand]
+                            new_bounces_found += 1
+                            break
+                    continue
+
+                # 2. Check match against active prospects
                 matched_lid = prospect_map.get(sender_email)
                 if matched_lid:
                     # Fetch full body snippet
@@ -264,8 +289,46 @@ def check_for_lead_replies():
             # Individual mailbox timeout/auth error handled gracefully
             continue
 
+
+    # Scan contact@fzcorestudio.com for any direct replies
+    contact_pass = os.getenv("PASS_CONTACT")
+    if contact_pass and prospect_map:
+        try:
+            client = imaplib.IMAP4_SSL(IMAP_HOST, IMAP_PORT, timeout=12)
+            client.login("contact@fzcorestudio.com", contact_pass)
+            client.select("INBOX", readonly=True)
+            status, data = client.search(None, "ALL")
+            if status == "OK" and data and data[0]:
+                msg_ids = data[0].split()
+                recent_ids = msg_ids[-30:] if len(msg_ids) > 30 else msg_ids
+                for mid in reversed(recent_ids):
+                    r_status, msg_data = client.fetch(mid, "(RFC822.HEADER)")
+                    if r_status != "OK" or not msg_data:
+                        continue
+                    parsed_msg = email.message_from_bytes(msg_data[0][1])
+                    sender_header = clean_header_text(parsed_msg.get("From"))
+                    sender_email = extract_email_address(sender_header)
+                    matched_lid = prospect_map.get(sender_email)
+                    if matched_lid:
+                        b_status, full_data = client.fetch(mid, "(RFC822)")
+                        full_parsed = email.message_from_bytes(full_data[0][1]) if b_status == "OK" else parsed_msg
+                        snippet = get_body_snippet(full_parsed)
+                        print(f"\n🚨 [CLIENT REPLY TO CONTACT] From: {sender_header} <{sender_email}>")
+                        if matched_lid in pipeline:
+                            pipeline[matched_lid]["status"] = "REPLIED"
+                            pipeline[matched_lid]["replied_at"] = datetime.now(timezone.utc).isoformat()
+                            pipeline[matched_lid]["reply_snippet"] = snippet
+                            pipeline[matched_lid]["next_followup_due"] = None
+                        if ql:
+                            ql.quarantine_lead(lead={"lead_id": matched_lid, "recipient_email": sender_email}, action="CLIENT_REPLIED")
+                        del prospect_map[sender_email]
+                        new_replies_found += 1
+            client.logout()
+        except Exception:
+            pass
+
     # Save updated pipeline and replies archive
-    if new_replies_found > 0:
+    if new_replies_found > 0 or new_bounces_found > 0:
         DATA_DIR.mkdir(parents=True, exist_ok=True)
         with open(FOLLOWUP_FILE, "w", encoding="utf-8") as f:
             json.dump(pipeline, f, indent=2, ensure_ascii=False)

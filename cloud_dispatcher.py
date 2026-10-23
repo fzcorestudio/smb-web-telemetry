@@ -66,6 +66,21 @@ SMTP_HOST = "smtp.hostinger.com"
 SMTP_PORT = 465
 MAX_DAILY_PER_MAILBOX = 25
 
+DUMMY_DOMAINS = {'mystore.com', 'example.com', 'myshopify.com', 'domain.com', 'email.com', 'test.com'}
+
+def sanitize_email_address(raw_email):
+    if not raw_email:
+        return ""
+    cleaned = str(raw_email).strip().lower()
+    cleaned = re.sub(r"^(?:u002f|/|[\\s\"'\\\\])+", "", cleaned)
+    cleaned = re.sub(r"[\\s\"'\\\\;]+$", "", cleaned)
+    if "@" not in cleaned:
+        return ""
+    domain = cleaned.split("@")[1].strip()
+    if domain in DUMMY_DOMAINS:
+        return ""
+    return cleaned
+
 def load_json(path, default):
     if not path.exists():
         return default
@@ -100,7 +115,7 @@ def build_ultralight_hybrid_email(sender_name, sender_email, sender_title, recip
     msg = MIMEMultipart("alternative")
     msg["From"] = f"{sender_name} <{sender_email}>"
     msg["To"] = f"{recipient_name} <{recipient_email}>"
-    msg["Reply-To"] = "Faiz Majeed <faiz@fzcorestudio.com>"
+    msg["Reply-To"] = "Faiz Majeed <contact@fzcorestudio.com>"
     msg["Subject"] = subject
     msg["Date"] = formatdate(localtime=True)
     msg["Message-ID"] = make_msgid(domain=subdomain)
@@ -427,6 +442,7 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
         rec_name = item.get("recipient_name") or "Business Owner"
         rec_name = re.sub(r'[\r\n]+', ' ', str(rec_name)).strip()
         rec_email = item.get("recipient_email") or lead_data.get("decision_maker", {}).get("verified_email")
+        rec_email = sanitize_email_address(rec_email)
         subject = item.get("subject", f"quick question about {b_name}")
         subject = re.sub(r'[\r\n]+', ' ', str(subject)).strip()
         body_text = item.get("body", "")

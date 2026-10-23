@@ -2,8 +2,15 @@ name: Multi-Mailbox Outbound Pitch Dispatcher
 
 on:
   schedule:
-    # Runs Daily at 06:30 PM PKT (13:30 UTC), which is 09:30 AM EDT (peak US contractor open window)
+    # 4 Prime US Contractor Business Windows (Monday through Friday):
+    # Pulse 1: 06:30 PM PKT (13:30 UTC = 09:30 AM EDT - Morning Estimating Peak)
     - cron: '30 13 * * 1-5'
+    # Pulse 2: 08:30 PM PKT (15:30 UTC = 11:30 AM EDT / 08:30 AM PDT - Midday & West Coast Start)
+    - cron: '30 15 * * 1-5'
+    # Pulse 3: 10:30 PM PKT (17:30 UTC = 01:30 PM EDT - Lunchtime Check)
+    - cron: '30 17 * * 1-5'
+    # Pulse 4: 12:30 AM PKT (19:30 UTC = 03:30 PM EDT - Afternoon Admin / Invoicing Peak)
+    - cron: '30 19 * * 1-5'
   workflow_dispatch:
     inputs:
       mode:
@@ -11,13 +18,13 @@ on:
         required: true
         type: choice
         options:
-          - preview
           - live
-        default: preview
+          - preview
+        default: live
       batch_size:
-        description: 'Maximum emails to dispatch in this batch (Max 100)'
+        description: 'Maximum emails to dispatch in this batch (Max 250)'
         required: false
-        default: '50'
+        default: '100'
       ignore_hours:
         description: 'Bypass Working Hours Gate (true/false)'
         required: false
@@ -47,9 +54,10 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 🔍 Scan IMAP for Lead Replies & Auto-Stop Sequences
+      - name: 🔍 Scan IMAP for Replies & Auto-Quarantine Bounces
         env:
           SUBDOMAIN_MAIL_PASS: ${{ secrets.SUBDOMAIN_MAIL_PASS }}
+          PASS_CONTACT: ${{ secrets.PASS_CONTACT }}
         run: |
           python cloud_reply_watcher.py || echo "IMAP scan finished with warnings."
 
@@ -57,8 +65,8 @@ jobs:
         env:
           SUBDOMAIN_MAIL_PASS: ${{ secrets.SUBDOMAIN_MAIL_PASS }}
         run: |
-          MODE="${{ github.event.inputs.mode || 'preview' }}"
-          BATCH="${{ github.event.inputs.batch_size || '50' }}"
+          MODE="${{ github.event.inputs.mode || 'live' }}"
+          BATCH="${{ github.event.inputs.batch_size || '100' }}"
           IGNORE="${{ github.event.inputs.ignore_hours || 'false' }}"
           echo "Initiating Multi-Mailbox Dispatch in [$MODE] mode with batch limit [$BATCH]..."
           

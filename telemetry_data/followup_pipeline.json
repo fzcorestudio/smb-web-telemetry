@@ -193,7 +193,7 @@
     "domain": "",
     "flaw_summary": "mobile tap-to-call conversion friction",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -202,9 +202,10 @@
         "subject": "waterdamagerepairorlando.pro quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-10-25T16:05:50+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-10-23T13:32:07.086978+00:00"
   },
   "FZ-US-1792614815-6": {
     "lead_id": "FZ-US-1792614815-6",
