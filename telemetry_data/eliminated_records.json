@@ -382,5 +382,61 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.bestway",
     "eliminated_at": "2026-10-23T07:27:12.774054+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625940-2",
+    "business_name": "Corporate Specialty Services Inc",
+    "website": "http://www.corpspec.ca",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T08:00:06.709707+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792626015-6",
+    "business_name": "Artreum Homes Inc.",
+    "website": "http://www.artreum.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T08:01:36.645175+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792627403-7",
+    "business_name": "Servicecorp Cleaning Systems of Austin",
+    "website": "http://servicecorpcleaning.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T08:02:58.656612+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792627408-8",
+    "business_name": "Buildingstars of Austin Texas",
+    "website": "https://www.buildingstars.com/locations/austin",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T08:03:08.005666+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792627469-5",
+    "business_name": "Ronald Arthur Stearns — Texas Tax Attorney",
+    "website": "https://www.irsdefenseattorney.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T08:04:21.902139+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792627589-11",
+    "business_name": "Palm Pool Builders Austin",
+    "website": "https://palmpoolbuilders.com/austin-pool-builders",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T08:07:55.273838+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792627669-1",
+    "business_name": "Premier Motorsports - Xpel PPF & Tint",
+    "website": "http://txpremiermotorsports.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T08:10:43.175277+00:00"
   }
 ]
