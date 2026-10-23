@@ -344,5 +344,1155 @@
     "next_followup_due": "2026-10-25T16:09:13+00:00",
     "replied_at": null,
     "reply_snippet": null
+  },
+  "FZ-US-1792614878-2": {
+    "lead_id": "FZ-US-1792614878-2",
+    "business_name": "Orlando Air Conditioning",
+    "owner_name": "la VIEW",
+    "recipient_email": "office@orlandoairconditioning.com",
+    "sender_email": "faiz@mail.fzcorestudio.com",
+    "state": "FL",
+    "domain": "orlandoairconditioning.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:36:40.828980+00:00",
+        "sender": "faiz@mail.fzcorestudio.com",
+        "subject": "quick question for La re orlandoairconditioning.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615036-1": {
+    "lead_id": "FZ-US-1792615036-1",
+    "business_name": "Groovy Hues Painting of Orlando",
+    "owner_name": "Business Owner",
+    "recipient_email": "help@groovyhues.com",
+    "sender_email": "marcus@mail.fzcorestudio.com",
+    "state": "FL",
+    "domain": "groovyhues.com",
+    "flaw_summary": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP (Hero image 'https://www.groovyhues.com/orlando-fl/wp-content/uploads/sites/24/2026' is not using next-gen WebP or modern responsive srcset.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:36:59.010980+00:00",
+        "sender": "marcus@mail.fzcorestudio.com",
+        "subject": "quick note about groovyhues.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615038-3": {
+    "lead_id": "FZ-US-1792615038-3",
+    "business_name": "US Painting Service, LLC",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@uspaintingservice.com",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "state": "FL",
+    "domain": "uspaintingservice.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '407-500-1020' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:37:22.747169+00:00",
+        "sender": "elena@mail.fzcorestudio.com",
+        "subject": "uspaintingservice.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615070-1": {
+    "lead_id": "FZ-US-1792615070-1",
+    "business_name": "Big Jerry's Fencing",
+    "owner_name": "the City",
+    "recipient_email": "info@bigjerrysfencing.com",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "state": "FL",
+    "domain": "bigjerrysfencing.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:37:52.775177+00:00",
+        "sender": "adrian@mail.fzcorestudio.com",
+        "subject": "quick question for City re bigjerrysfencing.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615072-3": {
+    "lead_id": "FZ-US-1792615072-3",
+    "business_name": "A Friend In Fence LLC. Automated Gate Sales & Service.",
+    "owner_name": "Dave",
+    "recipient_email": "dave@afriendinfence.com",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "state": "FL",
+    "domain": "afriendinfence.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(407) 529-6154' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:38:09.080465+00:00",
+        "sender": "julian@mail.fzcorestudio.com",
+        "subject": "quick question for Dave re afriendinfence.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615073-4": {
+    "lead_id": "FZ-US-1792615073-4",
+    "business_name": "Florida Fence and Gate Co.",
+    "owner_name": "Dan",
+    "recipient_email": "dan@floridafenceandgate.com",
+    "sender_email": "lucas@team.fzcorestudio.com",
+    "state": "FL",
+    "domain": "floridafenceandgate.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:38:32.420878+00:00",
+        "sender": "lucas@team.fzcorestudio.com",
+        "subject": "quick question for Dan re floridafenceandgate.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615099-2": {
+    "lead_id": "FZ-US-1792615099-2",
+    "business_name": "Prime Pools and Spa",
+    "owner_name": "la County",
+    "recipient_email": "upport@primepoolsandspa.com",
+    "sender_email": "clara@team.fzcorestudio.com",
+    "state": "FL",
+    "domain": "primepoolsandspa.com",
+    "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (service, service, service, service, service).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:38:52.549907+00:00",
+        "sender": "clara@team.fzcorestudio.com",
+        "subject": "primepoolsandspa.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615114-3": {
+    "lead_id": "FZ-US-1792615114-3",
+    "business_name": "JS CUSTOM POOLS",
+    "owner_name": "Jamie",
+    "recipient_email": "jamie@jscustompools.com",
+    "sender_email": "liam@team.fzcorestudio.com",
+    "state": "FL",
+    "domain": "jscustompools.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(407) 701-8923' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:39:24.806401+00:00",
+        "sender": "liam@team.fzcorestudio.com",
+        "subject": "quick question for Jamie re jscustompools.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615140-1": {
+    "lead_id": "FZ-US-1792615140-1",
+    "business_name": "Collectors Car Spa",
+    "owner_name": "Jason",
+    "recipient_email": "jason@collectorscarspa.com",
+    "sender_email": "maya@team.fzcorestudio.com",
+    "state": "FL",
+    "domain": "collectorscarspa.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:39:44.760104+00:00",
+        "sender": "maya@team.fzcorestudio.com",
+        "subject": "quick question for Jason re collectorscarspa.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615167-3": {
+    "lead_id": "FZ-US-1792615167-3",
+    "business_name": "Soto Mobile Detailing Orlando",
+    "owner_name": "hands over",
+    "recipient_email": "info@sotomobiledetailingorlando.com",
+    "sender_email": "julian@team.fzcorestudio.com",
+    "state": "FL",
+    "domain": "sotomobiledetailingorlando.com",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (service, service, service, service, size).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:40:01.025952+00:00",
+        "sender": "julian@team.fzcorestudio.com",
+        "subject": "sotomobiledetailingorlando.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615180-1": {
+    "lead_id": "FZ-US-1792615180-1",
+    "business_name": "Dc1 Cleaning Services Of Florida LLC",
+    "owner_name": "Inf",
+    "recipient_email": "inf@dc1floorcare.com",
+    "sender_email": "hannah@get.fzcorestudio.com",
+    "state": "FL",
+    "domain": "dc1floorcare.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:40:23.825149+00:00",
+        "sender": "hannah@get.fzcorestudio.com",
+        "subject": "quick question for Inf re dc1floorcare.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615181-2": {
+    "lead_id": "FZ-US-1792615181-2",
+    "business_name": "Valeo Cleaning Company",
+    "owner_name": "Business Owner",
+    "recipient_email": "office@valeocleaningco.com",
+    "sender_email": "owen@get.fzcorestudio.com",
+    "state": "FL",
+    "domain": "valeocleaningco.com",
+    "flaw_summary": "Stale 2020 Copyright & Legacy Visual Layout (Footer contains stale copyright '© 2020'.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:40:40.207291+00:00",
+        "sender": "owen@get.fzcorestudio.com",
+        "subject": "quick question about valeocleaningco.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615191-4": {
+    "lead_id": "FZ-US-1792615191-4",
+    "business_name": "CFBS Group",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@cfbsgroup.com",
+    "sender_email": "chloe@get.fzcorestudio.com",
+    "state": "FL",
+    "domain": "cfbsgroup.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:40:57.260109+00:00",
+        "sender": "chloe@get.fzcorestudio.com",
+        "subject": "cfbsgroup.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615192-5": {
+    "lead_id": "FZ-US-1792615192-5",
+    "business_name": "Covenant Cleaning Services",
+    "owner_name": "Shelly",
+    "recipient_email": "info@covenantcleaningorlando.com",
+    "sender_email": "mason@get.fzcorestudio.com",
+    "state": "FL",
+    "domain": "covenantcleaningorlando.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:41:15.871707+00:00",
+        "sender": "mason@get.fzcorestudio.com",
+        "subject": "quick question for Shelly re covenantcleaningorlando.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615193-6": {
+    "lead_id": "FZ-US-1792615193-6",
+    "business_name": "IP Cleaning Solutions LLC",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@vipcleaningsolutionsllc.com",
+    "sender_email": "zoe@get.fzcorestudio.com",
+    "state": "FL",
+    "domain": "vipcleaningsolutionsllc.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:41:32.520299+00:00",
+        "sender": "zoe@get.fzcorestudio.com",
+        "subject": "vipcleaningsolutionsllc.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615196-7": {
+    "lead_id": "FZ-US-1792615196-7",
+    "business_name": "First Choice Commercial Cleaning Inc",
+    "owner_name": "Brandon Morris",
+    "recipient_email": "info@firstchoicecommercialcleaning.com",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "state": "FL",
+    "domain": "firstchoicecommercialcleaning.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(844) 966-5563' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:41:49.480638+00:00",
+        "sender": "faiz@direct.fzcorestudio.com",
+        "subject": "quick question for Brandon re firstchoicecommercialcleaning.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615202-9": {
+    "lead_id": "FZ-US-1792615202-9",
+    "business_name": "Blueblack Cleaning Services LLC",
+    "owner_name": "Helpline",
+    "recipient_email": "helpline@blueblackcs.com",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "state": "FL",
+    "domain": "blueblackcs.com",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (Name, Phone, Email, Address, Message).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:42:05.652518+00:00",
+        "sender": "ethan@direct.fzcorestudio.com",
+        "subject": "blueblackcs.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615228-1": {
+    "lead_id": "FZ-US-1792615228-1",
+    "business_name": "Central Florida Waterproofing",
+    "owner_name": "Estimating",
+    "recipient_email": "estimating@cfw-fl.com",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "state": "FL",
+    "domain": "cfw-fl.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:42:29.701850+00:00",
+        "sender": "olivia@direct.fzcorestudio.com",
+        "subject": "quick question for Estimating re cfw-fl.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615236-3": {
+    "lead_id": "FZ-US-1792615236-3",
+    "business_name": "National Waterproofing Supply",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@nationalwaterproofingsupply.com",
+    "sender_email": "noah@direct.fzcorestudio.com",
+    "state": "FL",
+    "domain": "nationalwaterproofingsupply.com",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Name, Subject, Email, Message, alt_s).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:42:52.929997+00:00",
+        "sender": "noah@direct.fzcorestudio.com",
+        "subject": "nationalwaterproofingsupply.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615262-3": {
+    "lead_id": "FZ-US-1792615262-3",
+    "business_name": "McNally Construction Group",
+    "owner_name": "Debby",
+    "recipient_email": "debby@mcnallybuilds.com",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "state": "FL",
+    "domain": "mcnallybuilds.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '17953818009' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:43:17.990370+00:00",
+        "sender": "ava@direct.fzcorestudio.com",
+        "subject": "quick question for Debby re mcnallybuilds.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615263-4": {
+    "lead_id": "FZ-US-1792615263-4",
+    "business_name": "Ballard Custom Homes",
+    "owner_name": "Jimmy",
+    "recipient_email": "jimmy@ballardcustomhomes.com",
+    "sender_email": "leo@reach.fzcorestudio.com",
+    "state": "FL",
+    "domain": "ballardcustomhomes.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(321) 624-0760' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:43:33.879638+00:00",
+        "sender": "leo@reach.fzcorestudio.com",
+        "subject": "quick question for Jimmy re ballardcustomhomes.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615272-7": {
+    "lead_id": "FZ-US-1792615272-7",
+    "business_name": "Nona Construction Group",
+    "owner_name": "Planning Guide",
+    "recipient_email": "welcome@nonacg.com",
+    "sender_email": "emma@reach.fzcorestudio.com",
+    "state": "FL",
+    "domain": "nonacg.com",
+    "flaw_summary": "Excessive Form Fields (13 inputs) Causing High Drop-Off (Detected static form with 13 fields (wpforms[fields][1][first], wpforms[fields][1][last], wpforms[fields][2], (201) 555-0123, wpforms[fields][5]).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:43:55.336981+00:00",
+        "sender": "emma@reach.fzcorestudio.com",
+        "subject": "nonacg.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615273-8": {
+    "lead_id": "FZ-US-1792615273-8",
+    "business_name": "Holland Builders Co.",
+    "owner_name": "Nick Holland",
+    "recipient_email": "nick@hollandbuildersco.com",
+    "sender_email": "nathan@reach.fzcorestudio.com",
+    "state": "FL",
+    "domain": "hollandbuildersco.com",
+    "flaw_summary": "Excessive Form Fields (11 inputs) Causing High Drop-Off (Detected static form with 11 fields (Name, Email Address, Phone, type-of-project, budget).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:44:17.871341+00:00",
+        "sender": "nathan@reach.fzcorestudio.com",
+        "subject": "hollandbuildersco.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615275-10": {
+    "lead_id": "FZ-US-1792615275-10",
+    "business_name": "Davila Homes",
+    "owner_name": "and visionary",
+    "recipient_email": "tjdavila@davila-homes.com",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "state": "FL",
+    "domain": "davila-homes.com",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (middleName, name, email, phoneNumber, message).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:44:41.506077+00:00",
+        "sender": "mia@reach.fzcorestudio.com",
+        "subject": "davila-homes.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615276-11": {
+    "lead_id": "FZ-US-1792615276-11",
+    "business_name": "Caspian Homes - Home Builder - Florida New Homes",
+    "owner_name": "of the",
+    "recipient_email": "info@caspianhomesfl.com",
+    "sender_email": "caleb@reach.fzcorestudio.com",
+    "state": "FL",
+    "domain": "caspianhomesfl.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:45:06.547740+00:00",
+        "sender": "caleb@reach.fzcorestudio.com",
+        "subject": "caspianhomesfl.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615278-12": {
+    "lead_id": "FZ-US-1792615278-12",
+    "business_name": "Goehring & Morgan Construction",
+    "owner_name": "Kevin Ball",
+    "recipient_email": "info@goehringandmorgan.com",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "state": "FL",
+    "domain": "goehringandmorgan.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(407) 650-2022' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:45:31.017672+00:00",
+        "sender": "harrison@hq.fzcorestudio.com",
+        "subject": "quick question for Kevin re goehringandmorgan.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615281-14": {
+    "lead_id": "FZ-US-1792615281-14",
+    "business_name": "Aulin Homes",
+    "owner_name": "Business Owner",
+    "recipient_email": "contact@aulinhomes.com",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "state": "FL",
+    "domain": "aulinhomes.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(407) 542-7002' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:45:49.189198+00:00",
+        "sender": "victoria@hq.fzcorestudio.com",
+        "subject": "aulinhomes.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615286-18": {
+    "lead_id": "FZ-US-1792615286-18",
+    "business_name": "E2 Homes",
+    "owner_name": "Jobs",
+    "recipient_email": "jobs@e2homes.com",
+    "sender_email": "graham@hq.fzcorestudio.com",
+    "state": "FL",
+    "domain": "e2homes.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:46:11.048616+00:00",
+        "sender": "graham@hq.fzcorestudio.com",
+        "subject": "quick question for Jobs re e2homes.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615361-2": {
+    "lead_id": "FZ-US-1792615361-2",
+    "business_name": "Sunny Pavers",
+    "owner_name": "Business Owner",
+    "recipient_email": "ales@sunnypaverus.com",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "state": "FL",
+    "domain": "sunnypaverus.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '321-663-7530' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:46:30.608411+00:00",
+        "sender": "evelyn@hq.fzcorestudio.com",
+        "subject": "sunnypaverus.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615385-4": {
+    "lead_id": "FZ-US-1792615385-4",
+    "business_name": "Pavermasters LLC",
+    "owner_name": "Business Owner",
+    "recipient_email": "ales@pavermastersllc.com",
+    "sender_email": "connor@hq.fzcorestudio.com",
+    "state": "FL",
+    "domain": "pavermastersllc.com",
+    "flaw_summary": "Excessive Form Fields (15 inputs) Causing High Drop-Off (Detected static form with 15 fields (ak_hp_textarea, input_19, input_1.3, input_1.6, input_2).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:46:46.657107+00:00",
+        "sender": "connor@hq.fzcorestudio.com",
+        "subject": "pavermastersllc.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615398-1": {
+    "lead_id": "FZ-US-1792615398-1",
+    "business_name": "Florida Concrete Coating",
+    "owner_name": "Business Owner",
+    "recipient_email": "ales@flconcretecoating.com",
+    "sender_email": "audrey@client.fzcorestudio.com",
+    "state": "FL",
+    "domain": "flconcretecoating.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '+13529143979' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:47:04.398427+00:00",
+        "sender": "audrey@client.fzcorestudio.com",
+        "subject": "flconcretecoating.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615420-5": {
+    "lead_id": "FZ-US-1792615420-5",
+    "business_name": "Florida Polymer Products",
+    "owner_name": "Business Owner",
+    "recipient_email": "100solid@floridapolymer.com",
+    "sender_email": "elliott@client.fzcorestudio.com",
+    "state": "FL",
+    "domain": "floridapolymer.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:47:20.892585+00:00",
+        "sender": "elliott@client.fzcorestudio.com",
+        "subject": "floridapolymer.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615446-10": {
+    "lead_id": "FZ-US-1792615446-10",
+    "business_name": "Everlast Concrete Finishes",
+    "owner_name": "Business Owner",
+    "recipient_email": "hello@everlastconcretefinishes.com",
+    "sender_email": "madeline@client.fzcorestudio.com",
+    "state": "FL",
+    "domain": "everlastconcretefinishes.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:47:43.303664+00:00",
+        "sender": "madeline@client.fzcorestudio.com",
+        "subject": "everlastconcretefinishes.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615458-1": {
+    "lead_id": "FZ-US-1792615458-1",
+    "business_name": "Plumbing Wizard",
+    "owner_name": "Business Owner",
+    "recipient_email": "office@plumbingwizardfl.com",
+    "sender_email": "trevor@client.fzcorestudio.com",
+    "state": "FL",
+    "domain": "plumbingwizardfl.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:48:04.878083+00:00",
+        "sender": "trevor@client.fzcorestudio.com",
+        "subject": "plumbingwizardfl.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615464-2": {
+    "lead_id": "FZ-US-1792615464-2",
+    "business_name": "ASAP Service Plumbing",
+    "owner_name": "can almost",
+    "recipient_email": "ervice@asapserviceplumbing.com",
+    "sender_email": "claire@client.fzcorestudio.com",
+    "state": "FL",
+    "domain": "asapserviceplumbing.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:48:25.165359+00:00",
+        "sender": "claire@client.fzcorestudio.com",
+        "subject": "quick question for Can re asapserviceplumbing.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615466-3": {
+    "lead_id": "FZ-US-1792615466-3",
+    "business_name": "Orlando Trenchless Repairs",
+    "owner_name": "and was",
+    "recipient_email": "info@orlandotrenchlesssewer.com",
+    "sender_email": "warren@desk.fzcorestudio.com",
+    "state": "FL",
+    "domain": "orlandotrenchlesssewer.com",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (* Full Name, * Email Address, * Message, g-recaptcha-response, h-captcha-response).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:48:47.616331+00:00",
+        "sender": "warren@desk.fzcorestudio.com",
+        "subject": "orlandotrenchlesssewer.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792615480-2": {
+    "lead_id": "FZ-US-1792615480-2",
+    "business_name": "The Resilient Tax Group, Inc.",
+    "owner_name": "Enrolled Agent",
+    "recipient_email": "hello@theresilienttaxgroup.com",
+    "sender_email": "charlotte@desk.fzcorestudio.com",
+    "state": "FL",
+    "domain": "theresilienttaxgroup.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(321) 732-3229' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:49:10.089553+00:00",
+        "sender": "charlotte@desk.fzcorestudio.com",
+        "subject": "quick question for Enrolled re theresilienttaxgroup.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616122-3": {
+    "lead_id": "FZ-US-1792616122-3",
+    "business_name": "Queen Foundation Repair",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@queenfoundationrepair.com",
+    "sender_email": "preston@desk.fzcorestudio.com",
+    "state": "FL",
+    "domain": "queenfoundationrepair.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:49:26.810343+00:00",
+        "sender": "preston@desk.fzcorestudio.com",
+        "subject": "queenfoundationrepair.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616128-6": {
+    "lead_id": "FZ-US-1792616128-6",
+    "business_name": "NEMA Building Construction",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@nemabuildingconstruction.com",
+    "sender_email": "natalie@desk.fzcorestudio.com",
+    "state": "FL",
+    "domain": "nemabuildingconstruction.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:49:51.184192+00:00",
+        "sender": "natalie@desk.fzcorestudio.com",
+        "subject": "nemabuildingconstruction.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616131-7": {
+    "lead_id": "FZ-US-1792616131-7",
+    "business_name": "All Area Roofing & Waterproofing, Inc.",
+    "owner_name": "associations",
+    "recipient_email": "info@allarearoofing.com",
+    "sender_email": "simon@desk.fzcorestudio.com",
+    "state": "FL",
+    "domain": "allarearoofing.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '813.247.7663' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:50:15.374321+00:00",
+        "sender": "simon@desk.fzcorestudio.com",
+        "subject": "quick question for Associations re allarearoofing.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616141-10": {
+    "lead_id": "FZ-US-1792616141-10",
+    "business_name": "Intracoastal Foundations",
+    "owner_name": "Mike",
+    "recipient_email": "mike@intracoastalfoundations.com",
+    "sender_email": "bennett@partner.fzcorestudio.com",
+    "state": "FL",
+    "domain": "intracoastalfoundations.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:50:39.980982+00:00",
+        "sender": "bennett@partner.fzcorestudio.com",
+        "subject": "intracoastalfoundations.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616173-1": {
+    "lead_id": "FZ-US-1792616173-1",
+    "business_name": "M&M Tree Service, Inc.",
+    "owner_name": "Mike Machado",
+    "recipient_email": "contact@mandmtreeservicetampa.com",
+    "sender_email": "lydia@partner.fzcorestudio.com",
+    "state": "FL",
+    "domain": "mandmtreeservicetampa.com",
+    "flaw_summary": "Excessive Form Fields (11 inputs) Causing High Drop-Off (Detected static form with 11 fields (input_7, First Name, Last Name, Phone, Email).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:51:02.826782+00:00",
+        "sender": "lydia@partner.fzcorestudio.com",
+        "subject": "mandmtreeservicetampa.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616190-1": {
+    "lead_id": "FZ-US-1792616190-1",
+    "business_name": "Immigration Exams of Tampa (MAR Primary Care)",
+    "owner_name": "Exams",
+    "recipient_email": "exams@immigrationexamsoftampa.com",
+    "sender_email": "russell@partner.fzcorestudio.com",
+    "state": "FL",
+    "domain": "immigrationexamsoftampa.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '813-480-7288' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:51:27.809497+00:00",
+        "sender": "russell@partner.fzcorestudio.com",
+        "subject": "quick question for Exams re immigrationexamsoftampa.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616192-2": {
+    "lead_id": "FZ-US-1792616192-2",
+    "business_name": "Neelofer Syed, Esq (International Immigration Law Firm)",
+    "owner_name": "Immigration Attorney",
+    "recipient_email": "info@greencardus.net",
+    "sender_email": "valerie@partner.fzcorestudio.com",
+    "state": "FL",
+    "domain": "greencardus.net",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:51:48.852927+00:00",
+        "sender": "valerie@partner.fzcorestudio.com",
+        "subject": "quick question for Immigration re greencardus.net"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616195-4": {
+    "lead_id": "FZ-US-1792616195-4",
+    "business_name": "I-601 Waiver – Immigration Attorney Lizz Cannon",
+    "owner_name": "About Lizz",
+    "recipient_email": "lizz@lizzcannonlaw.com",
+    "sender_email": "spencer@partner.fzcorestudio.com",
+    "state": "FL",
+    "domain": "lizzcannonlaw.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '617-806-6450' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:52:07.433394+00:00",
+        "sender": "spencer@partner.fzcorestudio.com",
+        "subject": "quick question for About re lizzcannonlaw.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616209-1": {
+    "lead_id": "FZ-US-1792616209-1",
+    "business_name": "J ELLEN STUDIO HAIR SOLUTIONS AND DESIGN",
+    "owner_name": "Business Owner",
+    "recipient_email": "help.us@booksy.com",
+    "sender_email": "carter@ops.fzcorestudio.com",
+    "state": "FL",
+    "domain": "booksy.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:52:32.021359+00:00",
+        "sender": "carter@ops.fzcorestudio.com",
+        "subject": "booksy.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616243-3": {
+    "lead_id": "FZ-US-1792616243-3",
+    "business_name": "Tampa Bay Mold Testing Service",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@tampabaymoldtesting.com",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "state": "FL",
+    "domain": "tampabaymoldtesting.com",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Full Name, Email, Phone Number, form_fields[field_30e348c], Property Address).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:52:51.027887+00:00",
+        "sender": "brooke@ops.fzcorestudio.com",
+        "subject": "tampabaymoldtesting.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616244-4": {
+    "lead_id": "FZ-US-1792616244-4",
+    "business_name": "Fast Mold Testing - Tampa",
+    "owner_name": "Tenant Landlord",
+    "recipient_email": "tampa@fastmoldtesting.com",
+    "sender_email": "garrett@ops.fzcorestudio.com",
+    "state": "FL",
+    "domain": "fastmoldtesting.com",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (Enter your name, Enter your email, (555) 123-4567, Enter referral code (e.g., ABC12), Start typing your property address…).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:53:07.792138+00:00",
+        "sender": "garrett@ops.fzcorestudio.com",
+        "subject": "fastmoldtesting.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616246-5": {
+    "lead_id": "FZ-US-1792616246-5",
+    "business_name": "Skyward Water Damage Restoration of Tampa Bay",
+    "owner_name": "Garry Senior",
+    "recipient_email": "info@skywardrestoration.com",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "state": "FL",
+    "domain": "skywardrestoration.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T14:53:24.028374+00:00",
+        "sender": "fiona@ops.fzcorestudio.com",
+        "subject": "quick question for Garry re skywardrestoration.com"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792616247-6": {
+    "lead_id": "FZ-US-1792616247-6",
+    "business_name": "Coast to Coast Remediation",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@tpamold.com",
+    "sender_email": "dean@ops.fzcorestudio.com",
+    "state": "FL",
+    "domain": "tpamold.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-10-23T15:03:07.663737+00:00",
+        "sender": "dean@ops.fzcorestudio.com",
+        "subject": "tpamold.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "replied_at": null,
+    "reply_snippet": null
   }
 }
