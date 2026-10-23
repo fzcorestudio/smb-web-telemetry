@@ -1102,5 +1102,77 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "No critical conversion leaks or severe visual flaws found.",
     "eliminated_at": "2026-10-23T15:58:19.515574+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644406-3",
+    "business_name": "RC Roofing Inc.",
+    "website": "https://rcroofinginc.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T16:18:11.141352+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792644491-10",
+    "business_name": "Qepoxy Pty Ltd",
+    "website": "http://www.qepoxy.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-23T16:20:02.025613+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646137-3",
+    "business_name": "MULTYCERV Commercial Cleaning Services",
+    "website": "http://www.multycerv.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T16:20:50.053528+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646139-4",
+    "business_name": "Integrity Clean Solutions – Residential & Commercial Cleaning in Orlando, FL",
+    "website": "https://integritycleansolutions.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T16:20:51.268411+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646156-15",
+    "business_name": "EnviroClean | Restaurant & Commercial Hood Cleaning",
+    "website": "http://useenviroclean.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T16:21:26.184590+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646237-3",
+    "business_name": "US Tax Consulting",
+    "website": "http://www.ustaxconsulting.net",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T16:22:20.598945+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646360-3",
+    "business_name": "Ironcoat Painting Co",
+    "website": "https://www.ironcoatpainting.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
+    "eliminated_at": "2026-10-23T16:22:48.016765+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646533-1",
+    "business_name": "JK Creative LLC",
+    "website": "https://jkcreative.design",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://jkcr",
+    "eliminated_at": "2026-10-23T16:23:34.093237+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792646595-3",
+    "business_name": "Rocket Resins",
+    "website": "https://www.rocketresins.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T16:24:17.137382+00:00"
   }
 ]
