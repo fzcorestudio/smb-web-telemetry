@@ -566,5 +566,45 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "No critical conversion leaks or severe visual flaws found.",
     "eliminated_at": "2026-10-23T10:37:46.099446+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634308-5",
+    "business_name": "US Passport Renewal Expedited Services",
+    "website": "https://www.passportsandvisas.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T11:11:49.588625+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634386-3",
+    "business_name": "Pristine Pools LLC",
+    "website": "http://www.pristinepools.net",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CONNECTION_RESET at http://www.pristinep",
+    "eliminated_at": "2026-10-23T11:12:32.496529+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634518-1",
+    "business_name": "SESH DETAILING",
+    "website": "https://www.seshdetailing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.inner_text: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body\")\n",
+    "eliminated_at": "2026-10-23T11:15:16.918854+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634669-5",
+    "business_name": "Fencing Outfitters LLC",
+    "website": "http://fencingoutfitters.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T11:19:11.808910+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634742-2",
+    "business_name": "Mobile Auto Detail Pros.",
+    "website": "http://www.mobileautodetailpros.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T11:20:49.455365+00:00"
   }
 ]
