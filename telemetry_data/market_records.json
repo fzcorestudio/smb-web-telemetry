@@ -88170,5 +88170,165 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Costa Construction (Miami, FL). Profile: Rank #56 on Google Maps (28 reviews, 4.9★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
     "harvested_at": "2026-10-23T05:07:30.493737+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792733276-1",
+    "estimated_rank": 31,
+    "business_name": "Arizona Trenchless",
+    "category": "Plumbing & Sewer Line Replacement",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://arizonatrenchless.com",
+    "domain": "arizonatrenchless.com",
+    "reviews_count": 15,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Arizona Trenchless (Phoenix, AZ). Profile: Rank #31 on Google Maps (15 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-23T05:27:56.362890+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792733422-1",
+    "estimated_rank": 21,
+    "business_name": "Valley Immigration Solutions",
+    "category": "Immigration & Visa Consultant",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "website": "http://www.valleyimmigrationsolutions.com",
+    "domain": "valleyimmigrationsolutions.com",
+    "reviews_count": 18,
+    "rating": 4.3,
+    "decision_maker": {
+      "name": "Valley",
+      "first_name": "Valley",
+      "title": "Decision Maker",
+      "verified_email": "valley.solutions@yahoo.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Valley at Valley Immigration Solutions (Phoenix, AZ). Profile: Rank #21 on Google Maps (18 reviews, 4.3★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-23T05:30:22.577001+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792733738-2",
+    "estimated_rank": 22,
+    "business_name": "Diamond Custom Homes AZ",
+    "category": "Luxury Custom Home Builder",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://diamondcustomhomesaz.com",
+    "domain": "diamondcustomhomesaz.com",
+    "reviews_count": 13,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Steven Miller",
+      "first_name": "Steven",
+      "title": "Owner / Founder",
+      "verified_email": "steven@diamondcustomhomesaz.com",
+      "tier": "TIER_1_NAMED_OWNER",
+      "tier_level": 1,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Steven Miller at Diamond Custom Homes AZ (Phoenix, AZ). Profile: Rank #22 on Google Maps (13 reviews, 5.0★). Decision Maker: TIER_1_NAMED_OWNER (Priority 1). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-23T05:35:38.801120+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792734123-8",
+    "estimated_rank": 48,
+    "business_name": "Arizona Pool Builders",
+    "category": "Custom Pool & Spa Builder",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://azpoolbuilds.com",
+    "domain": "azpoolbuilds.com",
+    "reviews_count": 21,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Pools",
+      "first_name": "Pools",
+      "title": "Decision Maker",
+      "verified_email": "pools@azpoolbuilds.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Pools at Arizona Pool Builders (Phoenix, AZ). Profile: Rank #48 on Google Maps (21 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-23T05:42:03.753362+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792734255-6",
+    "estimated_rank": 45,
+    "business_name": "Air Budget Fence",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "website": "https://www.airbudgetfence.com",
+    "domain": "airbudgetfence.com",
+    "reviews_count": 28,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@airbudgetfence.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Air Budget Fence (Phoenix, AZ). Profile: Rank #45 on Google Maps (28 reviews, 4.6★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T05:44:15.559759+00:00"
   }
 ]
