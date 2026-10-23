@@ -1246,5 +1246,69 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-10-23T17:07:05.467196+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792649109-9",
+    "business_name": "Done Right Foundation Repair",
+    "website": "http://donerightfoundationrepair.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T17:30:45.701655+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792651041-6",
+    "business_name": "Westlink Commercial Cleaning",
+    "website": "https://westlinkcommercialcleaning.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T17:33:42.310741+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792651135-1",
+    "business_name": "Global Migration & Education Solutions",
+    "website": "https://globalmigrations.com.au/migration-agent-sydney",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T17:35:43.598182+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792651178-8",
+    "business_name": "Statewide Restorations Pty Ltd",
+    "website": "http://www.statewiderestorations.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at http://www.statewid",
+    "eliminated_at": "2026-10-23T17:36:33.256333+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792651183-10",
+    "business_name": "Steamatic Sydney",
+    "website": "https://www.steamatic.com.au/locations/sydney",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T17:36:37.464727+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792651242-5",
+    "business_name": "Fresh Roof Restoration",
+    "website": "https://freshroofcleaning.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T17:37:53.601579+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792651421-5",
+    "business_name": "Chill Refrigeration and Air Conditioning NSW Pty Ltd",
+    "website": "http://www.chillrefrigeration.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T17:41:02.685997+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792651593-3",
+    "business_name": "Arborist tree works",
+    "website": "https://arboristtreeworks.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T17:45:17.693826+00:00"
   }
 ]
