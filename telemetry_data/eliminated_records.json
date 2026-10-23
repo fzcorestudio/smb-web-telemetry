@@ -318,5 +318,69 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-10-22T18:24:10.382291+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792623940-4",
+    "business_name": "Paverson LLC",
+    "website": "https://www.paverson.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T07:18:23.727429+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625311-20",
+    "business_name": "Fairmont Custom Homes, LLC",
+    "website": "https://www.fairmontcustomhomes.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T07:20:42.831291+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625376-3",
+    "business_name": "Mango Pool & Spa",
+    "website": "https://mangopoolspa.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T07:21:11.247208+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625514-5",
+    "business_name": "Brady Painting Contractors",
+    "website": "http://www.bradypaint.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T07:21:43.741371+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792625615-1",
+    "business_name": "713 Plumbers & Drain Services of Houston",
+    "website": "http://713plumbingsolutions.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T07:22:04.439675+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625677-1",
+    "business_name": "Prestige Epoxy & Coatings Ltd.",
+    "website": "https://www.prestigepaintinggta.ca/commercial-services/epoxy-floors",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T07:22:42.913097+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625751-8",
+    "business_name": "Solar Direct Canada",
+    "website": "https://solardirectcanada.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T07:24:15.849006+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792625882-4",
+    "business_name": "Bestway Home Renovation",
+    "website": "https://www.bestwayhomerenovations.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.bestway",
+    "eliminated_at": "2026-10-23T07:27:12.774054+00:00"
   }
 ]
