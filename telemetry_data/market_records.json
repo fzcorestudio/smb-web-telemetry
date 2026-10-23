@@ -91178,5 +91178,165 @@
     },
     "gemini_context_snippet": "Target: needs at Happy Painting | Drywall and Painting Contractors (Phoenix, AZ). Profile: Rank #48 on Google Maps (5 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
     "harvested_at": "2026-10-23T20:39:02.469096+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792789860-10",
+    "estimated_rank": 47,
+    "business_name": "Jeroyaf Accounting & Tax Services",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://jeroyaf.com",
+    "domain": "jeroyaf.com",
+    "reviews_count": 14,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Anthony Frimpong",
+      "first_name": "Services",
+      "title": "Decision Maker",
+      "verified_email": "services@jeroyaf.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Anthony Frimpong at Jeroyaf Accounting & Tax Services (Denver, CO). Profile: Rank #47 on Google Maps (14 reviews, 4.7★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-23T21:11:00.187281+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792789870-11",
+    "estimated_rank": 48,
+    "business_name": "TBS - Public Accountants & Tax Professionals",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.tbsdenver.com",
+    "domain": "tbsdenver.com",
+    "reviews_count": 22,
+    "rating": 4.6,
+    "decision_maker": {
+      "name": "Errol Roy",
+      "first_name": "Errol",
+      "title": "Owner / Founder",
+      "verified_email": "info@tbsdenver.com",
+      "tier": "TIER_4_GATEKEEPER_ROUTED",
+      "tier_level": 4,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Errol Roy at TBS - Public Accountants & Tax Professionals (Denver, CO). Profile: Rank #48 on Google Maps (22 reviews, 4.6★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T21:11:10.800921+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792790111-5",
+    "estimated_rank": 52,
+    "business_name": "Bakken Law - US Immigration Lawyers",
+    "category": "Immigration & Visa Consultant",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.bakkenlaw.com",
+    "domain": "bakkenlaw.com",
+    "reviews_count": 3,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Testimonials",
+      "first_name": "Tbakken",
+      "title": "Decision Maker",
+      "verified_email": "tbakken@bakkenlaw.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Testimonials at Bakken Law - US Immigration Lawyers (Denver, CO). Profile: Rank #52 on Google Maps (3 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-23T21:15:11.699414+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792790287-5",
+    "estimated_rank": 41,
+    "business_name": "AAA Waterproofing Front Range",
+    "category": "Foundation Repair & Waterproofing",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "http://www.aaawaterproofingfrontrange.com",
+    "domain": "aaawaterproofingfrontrange.com",
+    "reviews_count": 9,
+    "rating": 3.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at AAA Waterproofing Front Range (Denver, CO). Profile: Rank #41 on Google Maps (9 reviews, 3.9★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-23T21:18:07.473561+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792790408-14",
+    "estimated_rank": 42,
+    "business_name": "Divergent Custom Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "website": "https://divergentcustomhomes.com",
+    "domain": "divergentcustomhomes.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "and",
+      "first_name": "And",
+      "title": "Owner / Founder",
+      "verified_email": "info@divergentcustomhomes.com",
+      "tier": "TIER_4_GATEKEEPER_ROUTED",
+      "tier_level": 4,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: and at Divergent Custom Homes (Denver, CO). Profile: Rank #42 on Google Maps (22 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-23T21:20:08.980944+00:00"
   }
 ]
