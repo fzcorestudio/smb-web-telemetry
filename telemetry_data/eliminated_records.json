@@ -958,5 +958,149 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "No critical conversion leaks or severe visual flaws found.",
     "eliminated_at": "2026-10-23T15:17:20.395163+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643582-11",
+    "business_name": "Finishing Touch Concrete Coatings, Inc",
+    "website": "https://ftconcretecoatings.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T15:49:07.577620+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643586-14",
+    "business_name": "PCS - Preferred Coating Supplies",
+    "website": "http://www.preferredcoatingsupplies.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:49:28.551027+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643650-7",
+    "business_name": "Advanced Solar / Electric",
+    "website": "https://yourlocalsolarco.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:50:12.578573+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643697-7",
+    "business_name": "YK Remodeling Co",
+    "website": "https://ykremodeling.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:50:59.248694+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643699-10",
+    "business_name": "Teknik Design & Remodeling",
+    "website": "https://www.teknikinc.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T15:51:08.762188+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643798-6",
+    "business_name": "Hara Chaudhuri Chavez PC",
+    "website": "http://hccpas.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:51:59.894350+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643817-10",
+    "business_name": "O'Connor's Tax Services",
+    "website": "http://californiataxservices.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at http://californiata",
+    "eliminated_at": "2026-10-23T15:52:26.675568+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643831-13",
+    "business_name": "San Diego Tax Center",
+    "website": "http://www.taxcentersandiego.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-23T15:52:42.981229+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643861-6",
+    "business_name": "Del Rancho Pools",
+    "website": "http://www.delranchopools.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T15:53:13.932819+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643932-3",
+    "business_name": "California Commercial Coatings",
+    "website": "https://calcomcoat.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T15:54:35.679471+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792643982-2",
+    "business_name": "San Diego Water Damage",
+    "website": "http://sandiegowaterdamage.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:55:34.242772+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644030-2",
+    "business_name": "Premium Window Tinting",
+    "website": "https://premiumwindowtinting.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:56:03.913951+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644032-3",
+    "business_name": "TintTeck",
+    "website": "https://tintteck.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:56:16.150850+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644086-12",
+    "business_name": "Cleaniful Commercial Cleaning & Janitorial Services - San Diego",
+    "website": "https://cleaniful.com/commercial-cleaning-san-diego-ca",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T15:56:29.525778+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644091-14",
+    "business_name": "Marco's janitorial service",
+    "website": "http://marcosjanitorial.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:56:41.593470+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644117-4",
+    "business_name": "Power Jet Pressure Washing",
+    "website": "https://powerjetwash.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T15:57:08.298079+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644211-4",
+    "business_name": "Bop Design",
+    "website": "https://www.bopdesign.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T15:58:06.981669+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644216-7",
+    "business_name": "Dip Studio",
+    "website": "https://www.dip.studio",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T15:58:19.515574+00:00"
   }
 ]
