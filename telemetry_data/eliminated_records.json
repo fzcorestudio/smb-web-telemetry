@@ -606,5 +606,85 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-23T11:20:49.455365+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634894-6",
+    "business_name": "Maidman commercial Cleaning Service Inc.",
+    "website": "https://www.maidmancleaning.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T11:55:58.025578+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634938-2",
+    "business_name": "Nashville Outdoor Living Spaces",
+    "website": "http://www.nashvilleoutdoorlivingspaces.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T11:57:46.361578+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636156-7",
+    "business_name": "Great North Painting",
+    "website": "https://greatnorthpainting.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T12:00:35.111622+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636233-8",
+    "business_name": "7s Fencing LLC",
+    "website": "https://7sfencing.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T12:01:31.068884+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636238-10",
+    "business_name": "Integra Renovation - General Contractor North York",
+    "website": "https://integrarenovation.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-23T12:01:40.092021+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636253-1",
+    "business_name": "Seaway Pools",
+    "website": "http://www.seawaypools.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T12:02:02.634454+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636292-3",
+    "business_name": "Stone Pros Canada",
+    "website": "https://www.stoneproscanada.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T12:03:16.559806+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636295-5",
+    "business_name": "Vertical Landscape Architects",
+    "website": "http://www.vertla.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T12:03:41.991570+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636375-6",
+    "business_name": "Comfort Air & Refrigeration ltd",
+    "website": "https://comfortrefrigeration.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-23T12:04:27.974542+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792636378-8",
+    "business_name": "Bay tech heating and cooling",
+    "website": "http://www.baytechheatingandcooling.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T12:04:28.111407+00:00"
   }
 ]
