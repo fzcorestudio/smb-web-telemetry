@@ -526,5 +526,45 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-23T09:26:51.106888+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792631734-14",
+    "business_name": "JTI Fence",
+    "website": "https://jtifence.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T10:31:51.686017+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792631777-12",
+    "business_name": "Canopus Supply Inc",
+    "website": "http://www.canopussupply.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-23T10:33:18.183929+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792631790-15",
+    "business_name": "Treadstone Coatings",
+    "website": "http://www.treadstonecoatings.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T10:33:37.354683+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634118-5",
+    "business_name": "Structure Custom Builds- Denver",
+    "website": "https://www.structurecb.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-23T10:36:31.417377+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792634154-1",
+    "business_name": "Maintenance Resources Inc.",
+    "website": "https://maintenanceresourcesinc.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-23T10:37:46.099446+00:00"
   }
 ]
