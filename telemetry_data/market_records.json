@@ -97162,5 +97162,101 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Outback Pools (Sydney, NSW). Profile: Rank #54 on Google Maps (28 reviews, 4.4★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-24T01:41:44.969255+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792808102-5",
+    "estimated_rank": 41,
+    "business_name": "Eastex Gate Solutions LLC",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "https://eastexgatesolutions.com",
+    "domain": "eastexgatesolutions.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Bids",
+      "first_name": "Bids",
+      "title": "Decision Maker",
+      "verified_email": "bids@eastexgatesolutions.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Bids at Eastex Gate Solutions LLC (Houston, TX). Profile: Rank #41 on Google Maps (22 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-24T02:15:02.101151+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792808115-10",
+    "estimated_rank": 53,
+    "business_name": "Metal Railing of America",
+    "category": "Custom Fencing & Automatic Gates",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.mrofa.com",
+    "domain": "mrofa.com",
+    "reviews_count": 11,
+    "rating": 4.5,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "info@ndiscovered.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Metal Railing of America (Houston, TX). Profile: Rank #53 on Google Maps (11 reviews, 4.5★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-24T02:15:15.674177+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792808815-1",
+    "estimated_rank": 21,
+    "business_name": "Unika Homes",
+    "category": "Luxury Custom Home Builder",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "website": "http://www.unikahomes.com",
+    "domain": "unikahomes.com",
+    "reviews_count": 14,
+    "rating": 4.7,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Unika Homes (Houston, TX). Profile: Rank #21 on Google Maps (14 reviews, 4.7★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-24T02:26:55.037384+00:00"
   }
 ]
