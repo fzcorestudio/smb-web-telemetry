@@ -268,6 +268,25 @@ def update_followup_dashboard(pipeline, sent_ledger, quarantine_stats):
     with open(DASHBOARD_FILE, "w", encoding="utf-8") as f:
         f.write(html)
 
+def sort_by_working_hours(items, ignore_hours=False):
+    """
+    Sorts pitches dynamically: prospects in active working hours are placed first.
+    Prospects outside working hours or in closed timezones are placed at the back.
+    """
+    if ignore_hours:
+        return items
+    open_leads = []
+    closed_leads = []
+    for it in items:
+        st = it.get("lead", {}).get("state") or it.get("state") or "US"
+        ct = it.get("lead", {}).get("country") or it.get("country") or "US"
+        in_hours, _ = is_prospect_working_hours(st, ct)
+        if in_hours:
+            open_leads.append(it)
+        else:
+            closed_leads.append(it)
+    return open_leads + closed_leads
+
 def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_recipient=None):
     if not MAILBOXES_FILE.exists():
         raise FileNotFoundError(f"Mailboxes configuration not found: {MAILBOXES_FILE}")
@@ -282,7 +301,8 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
 
     password = os.getenv("SUBDOMAIN_MAIL_PASS")
     if live_mode and not password:
-        print("❌ Error: SUBDOMAIN_MAIL_PASS environment variable is missing!")
+        print("❌ CRITICAL ERROR: SUBDOMAIN_MAIL_PASS environment variable / GitHub Secret is missing!")
+        print("👉 In GitHub Repo: Settings -> Secrets and variables -> Actions -> Add 'SUBDOMAIN_MAIL_PASS'")
         sys.exit(1)
 
     print("=" * 75)
@@ -406,8 +426,8 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
                 print(f"   ✅ Follow-up delivered successfully via {sender_user}!")
 
                 if sends_done < max_sends:
-                    delay = random.uniform(14, 24)
-                    print(f"   ⏳ Multi-Subdomain Pacing: Resting {int(delay)}s before rotating to next inbox...")
+                    delay = random.uniform(3.5, 6.0)
+                    print(f"   ⏳ Multi-Subdomain Pacing: Resting {delay:.1f}s before rotating to next inbox...")
                     time.sleep(delay)
             except Exception as e:
                 print(f"   ❌ Follow-up failed via {sender_user}: {e}")
@@ -426,6 +446,11 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
             if is_q:
                 continue
         pending_pitches.append(p)
+
+    # Timezone-Aware Priority Sorting: Open working hours first
+    pending_pitches = sort_by_working_hours(pending_pitches, ignore_hours=ignore_hours)
+    open_count = sum(1 for it in pending_pitches if is_prospect_working_hours(it.get("lead", {}).get("state") or it.get("state") or "US", it.get("lead", {}).get("country") or it.get("country") or "US")[0])
+    print(f"🕒 Timezone Intelligence: {open_count}/{len(pending_pitches)} pending pitches are currently inside local business hours.")
 
     remaining_pitches = []
 
@@ -482,11 +507,27 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
             remaining_pitches.append(item)
             time.sleep(0.5)
         else:
-            try:
-                with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, context=ctx, timeout=15) as server:
-                    server.login(sender_user, password)
-                    server.sendmail(sender_user, [rec_email], msg.as_string())
+            sent_ok = False
+            for attempt in range(1, 4):
+                try:
+                    with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, context=ctx, timeout=15) as server:
+                        server.login(sender_user, password)
+                        server.sendmail(sender_user, [rec_email], msg.as_string())
+                    sent_ok = True
+                    break
+                except Exception as e:
+                    if attempt < 3:
+                        print(f"   ⚠️ Transient send error via {sender_user} (attempt {attempt}/3): {e}. Retrying in 2s...")
+                        time.sleep(2)
+                    else:
+                        print(f"   ❌ Delivery Failed via {sender_user} after 3 attempts: {e}")
 
+            if not sent_ok:
+                remaining_pitches.append(item)
+                time.sleep(2)
+                continue
+
+            try:
                 increment_mailbox_usage(sender_user, usage)
                 sent_time = datetime.now(timezone.utc).isoformat()
 
@@ -539,8 +580,8 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
                 print(f"   ✅ DELIVERED & QUARANTINED successfully via {sender_user}!")
 
                 if sends_done < max_sends:
-                    delay = random.uniform(14, 24)
-                    print(f"   ⏳ Multi-Subdomain Pacing: Resting {int(delay)}s before rotating to next inbox...")
+                    delay = random.uniform(3.5, 6.0)
+                    print(f"   ⏳ Multi-Subdomain Pacing: Resting {delay:.1f}s before rotating to next inbox...")
                     time.sleep(delay)
 
             except Exception as e:

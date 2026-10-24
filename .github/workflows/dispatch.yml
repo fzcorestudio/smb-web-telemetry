@@ -22,9 +22,9 @@ on:
           - preview
         default: live
       batch_size:
-        description: 'Maximum emails to dispatch in this batch (Max 250)'
+        description: 'Maximum emails to dispatch in this batch (Default 315 for 1,260/day across 50 mailboxes)'
         required: false
-        default: '100'
+        default: '315'
       ignore_hours:
         description: 'Bypass Working Hours Gate (true/false)'
         required: false
@@ -61,12 +61,21 @@ jobs:
         run: |
           python cloud_reply_watcher.py || echo "IMAP scan finished with warnings."
 
+      - name: 🔐 Validate Repository Secrets
+        run: |
+          if [ -z "${{ secrets.SUBDOMAIN_MAIL_PASS }}" ]; then
+            echo "❌ CRITICAL: SUBDOMAIN_MAIL_PASS secret is not set in GitHub Repository Secrets!"
+            echo "👉 Go to: Repo Settings -> Secrets and variables -> Actions -> Add SUBDOMAIN_MAIL_PASS"
+          else
+            echo "✅ Verified: SUBDOMAIN_MAIL_PASS secret is present in cloud environment."
+          fi
+
       - name: 🚀 Run Autonomous Multi-Mailbox Dispatcher
         env:
           SUBDOMAIN_MAIL_PASS: ${{ secrets.SUBDOMAIN_MAIL_PASS }}
         run: |
           MODE="${{ github.event.inputs.mode || 'live' }}"
-          BATCH="${{ github.event.inputs.batch_size || '100' }}"
+          BATCH="${{ github.event.inputs.batch_size || '315' }}"
           IGNORE="${{ github.event.inputs.ignore_hours || 'false' }}"
           echo "Initiating Multi-Mailbox Dispatch in [$MODE] mode with batch limit [$BATCH]..."
           
