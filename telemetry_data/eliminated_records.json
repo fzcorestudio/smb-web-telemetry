@@ -1694,5 +1694,53 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "No critical conversion leaks or severe visual flaws found.",
     "eliminated_at": "2026-10-24T12:26:30.150097+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792708598-3",
+    "business_name": "TM Painting",
+    "website": "https://tmpaintingservices.com/contact-us",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T12:29:44.482694+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792711084-5",
+    "business_name": "ATurf Services and Epoxy",
+    "website": "https://www.aturfandepoxy.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T12:30:18.006707+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792713354-7",
+    "business_name": "WESTSIDE WINDOW TINTING",
+    "website": "http://www.westsidewindowtinting.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T12:32:25.859299+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792713496-1",
+    "business_name": "Queensland Flood Fire & Mould Solutions",
+    "website": "http://www.qldfloodfiremouldsolutions.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T12:33:45.536144+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792713584-1",
+    "business_name": "VIP Roofing Brisbane",
+    "website": "https://www.viproofingbrisbane.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T12:35:01.672027+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792715801-5",
+    "business_name": "B W C Manchester",
+    "website": "https://bwcmanchester.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T12:36:39.864939+00:00"
   }
 ]
