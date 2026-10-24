@@ -76,20 +76,23 @@ def run_supervisor_pipeline(duration_seconds=960, force_mode=None):
     elif pkt_hour == 14 and pkt_minute > 30:
         active_mode = "WRITE_PITCHES"
     else:
-        # Check if we have unaudited leads in market_records
+        # Balanced Mode D: Alternate between Scraping & Auditing so Scraping never starves
         market_file = DATA_DIR / "market_records.json"
         ledger_file = DATA_DIR / "audit_ledger.json"
-        has_unaudited = False
+        pending_count = 0
         if market_file.exists():
             try:
                 records = json.load(open(market_file, encoding='utf-8'))
                 ledger = set(json.load(open(ledger_file, encoding='utf-8'))) if ledger_file.exists() else set()
-                pending = [r for r in records if r.get('lead_id') not in ledger and r.get('decision_maker', {}).get('verified_email')]
-                if len(pending) > 0:
-                    has_unaudited = True
+                pending_count = len([r for r in records if r.get('lead_id') not in ledger and r.get('decision_maker', {}).get('verified_email')])
             except Exception:
                 pass
-        active_mode = "AUDIT" if has_unaudited else "HARVEST"
+        
+        # If backlog exists, alternate: odd runs audit, even runs harvest
+        if pending_count > 0:
+            active_mode = "AUDIT" if (pkt_minute < 30) else "HARVEST"
+        else:
+            active_mode = "HARVEST"
 
     print(f"📍 Active Scheduled Pipeline Stage: [{active_mode}]")
     print("=" * 75 + "\n")

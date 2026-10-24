@@ -205,7 +205,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-10-23T13:32:07.086978+00:00"
+    "bounced_at": "2026-10-24T13:03:39.324038+00:00"
   },
   "FZ-US-1792614815-6": {
     "lead_id": "FZ-US-1792614815-6",
@@ -493,7 +493,7 @@
     "domain": "primepoolsandspa.com",
     "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (service, service, service, service, service).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -502,9 +502,10 @@
         "subject": "primepoolsandspa.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-10-24T13:02:44.683066+00:00"
   },
   "FZ-US-1792615114-3": {
     "lead_id": "FZ-US-1792615114-3",
@@ -700,7 +701,7 @@
     "domain": "firstchoicecommercialcleaning.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(844) 966-5563' found in plain text without an href='tel:' link.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -709,9 +710,10 @@
         "subject": "quick question for Brandon re firstchoicecommercialcleaning.com"
       }
     ],
-    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-10-24T13:03:00.141367+00:00"
   },
   "FZ-US-1792615202-9": {
     "lead_id": "FZ-US-1792615202-9",
@@ -999,7 +1001,7 @@
     "domain": "sunnypaverus.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '321-663-7530' found in plain text without an href='tel:' link.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -1008,9 +1010,10 @@
         "subject": "sunnypaverus.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-10-24T13:02:56.749306+00:00"
   },
   "FZ-US-1792615385-4": {
     "lead_id": "FZ-US-1792615385-4",
@@ -1022,7 +1025,7 @@
     "domain": "pavermastersllc.com",
     "flaw_summary": "Excessive Form Fields (15 inputs) Causing High Drop-Off (Detected static form with 15 fields (ak_hp_textarea, input_19, input_1.3, input_1.6, input_2).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -1031,9 +1034,10 @@
         "subject": "pavermastersllc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-10-24T13:02:46.475352+00:00"
   },
   "FZ-US-1792615398-1": {
     "lead_id": "FZ-US-1792615398-1",
@@ -1045,7 +1049,7 @@
     "domain": "flconcretecoating.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '+13529143979' found in plain text without an href='tel:' link.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -1054,9 +1058,10 @@
         "subject": "flconcretecoating.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-10-24T13:02:28.493182+00:00"
   },
   "FZ-US-1792615420-5": {
     "lead_id": "FZ-US-1792615420-5",
@@ -1137,7 +1142,7 @@
     "domain": "asapserviceplumbing.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -1146,9 +1151,10 @@
         "subject": "quick question for Can re asapserviceplumbing.com"
       }
     ],
-    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-10-24T13:02:42.730193+00:00"
   },
   "FZ-US-1792615466-3": {
     "lead_id": "FZ-US-1792615466-3",
@@ -1183,7 +1189,7 @@
     "domain": "theresilienttaxgroup.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(321) 732-3229' found in plain text without an href='tel:' link.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -1192,9 +1198,10 @@
         "subject": "quick question for Enrolled re theresilienttaxgroup.com"
       }
     ],
-    "next_followup_due": "2026-10-26T14:36:38.477237+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-10-24T13:02:38.699656+00:00"
   },
   "FZ-US-1792616122-3": {
     "lead_id": "FZ-US-1792616122-3",

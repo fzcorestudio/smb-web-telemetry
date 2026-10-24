@@ -146,7 +146,7 @@
   "FZ-US-1792614814-5": {
     "lead_id": "FZ-US-1792614814-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-23T13:32:07.086978+00:00",
+    "quarantined_at": "2026-10-24T13:03:39.324038+00:00",
     "domain": "",
     "email": "info@waterdamagerepairorlando.pro",
     "business_name": "",
@@ -384,26 +384,6 @@
       "domain": "floridafenceandgate.com"
     }
   },
-  "FZ-US-1792615099-2": {
-    "lead_id": "FZ-US-1792615099-2",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-10-23T14:38:52.554930+00:00",
-    "domain": "primepoolsandspa.com",
-    "email": "upport@primepoolsandspa.com",
-    "business_name": "Prime Pools and Spa",
-    "city": "Orlando",
-    "details": {
-      "sent_at": "2026-10-23T14:38:52.549907+00:00",
-      "recipient_email": "upport@primepoolsandspa.com",
-      "recipient_name": "la County",
-      "sender_email": "clara@team.fzcorestudio.com",
-      "business_name": "Prime Pools and Spa",
-      "subject": "primepoolsandspa.com quick estimate calculator",
-      "angle": "60-Second Instant Quote Estimator",
-      "state": "FL",
-      "domain": "primepoolsandspa.com"
-    }
-  },
   "FZ-US-1792615114-3": {
     "lead_id": "FZ-US-1792615114-3",
     "action": "INITIAL_PITCH_DISPATCHED",
@@ -566,22 +546,15 @@
   },
   "FZ-US-1792615196-7": {
     "lead_id": "FZ-US-1792615196-7",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-10-23T14:41:49.490640+00:00",
-    "domain": "firstchoicecommercialcleaning.com",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-10-24T13:03:00.141367+00:00",
+    "domain": "",
     "email": "info@firstchoicecommercialcleaning.com",
-    "business_name": "First Choice Commercial Cleaning Inc",
-    "city": "Orlando",
+    "business_name": "",
+    "city": "",
     "details": {
-      "sent_at": "2026-10-23T14:41:49.480638+00:00",
-      "recipient_email": "info@firstchoicecommercialcleaning.com",
-      "recipient_name": "Brandon Morris",
-      "sender_email": "faiz@direct.fzcorestudio.com",
-      "business_name": "First Choice Commercial Cleaning Inc",
-      "subject": "quick question for Brandon re firstchoicecommercialcleaning.com",
-      "angle": "1-Tap Call & Sticky Bottom Bar",
-      "state": "FL",
-      "domain": "firstchoicecommercialcleaning.com"
+      "bounce_subject": "Undelivered Mail Returned to Sender",
+      "inbox": "faiz@direct.fzcorestudio.com"
     }
   },
   "FZ-US-1792615202-9": {
@@ -824,66 +797,6 @@
       "domain": "e2homes.com"
     }
   },
-  "FZ-US-1792615361-2": {
-    "lead_id": "FZ-US-1792615361-2",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-10-23T14:46:30.613411+00:00",
-    "domain": "sunnypaverus.com",
-    "email": "ales@sunnypaverus.com",
-    "business_name": "Sunny Pavers",
-    "city": "Orlando",
-    "details": {
-      "sent_at": "2026-10-23T14:46:30.608411+00:00",
-      "recipient_email": "ales@sunnypaverus.com",
-      "recipient_name": "Business Owner",
-      "sender_email": "evelyn@hq.fzcorestudio.com",
-      "business_name": "Sunny Pavers",
-      "subject": "sunnypaverus.com mobile call button",
-      "angle": "1-Tap Call & Sticky Bottom Bar",
-      "state": "FL",
-      "domain": "sunnypaverus.com"
-    }
-  },
-  "FZ-US-1792615385-4": {
-    "lead_id": "FZ-US-1792615385-4",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-10-23T14:46:46.664981+00:00",
-    "domain": "pavermastersllc.com",
-    "email": "ales@pavermastersllc.com",
-    "business_name": "Pavermasters LLC",
-    "city": "Orlando",
-    "details": {
-      "sent_at": "2026-10-23T14:46:46.657107+00:00",
-      "recipient_email": "ales@pavermastersllc.com",
-      "recipient_name": "Business Owner",
-      "sender_email": "connor@hq.fzcorestudio.com",
-      "business_name": "Pavermasters LLC",
-      "subject": "pavermastersllc.com quick estimate calculator",
-      "angle": "60-Second Instant Quote Estimator",
-      "state": "FL",
-      "domain": "pavermastersllc.com"
-    }
-  },
-  "FZ-US-1792615398-1": {
-    "lead_id": "FZ-US-1792615398-1",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-10-23T14:47:04.406427+00:00",
-    "domain": "flconcretecoating.com",
-    "email": "ales@flconcretecoating.com",
-    "business_name": "Florida Concrete Coating",
-    "city": "Orlando",
-    "details": {
-      "sent_at": "2026-10-23T14:47:04.398427+00:00",
-      "recipient_email": "ales@flconcretecoating.com",
-      "recipient_name": "Business Owner",
-      "sender_email": "audrey@client.fzcorestudio.com",
-      "business_name": "Florida Concrete Coating",
-      "subject": "flconcretecoating.com mobile call button",
-      "angle": "1-Tap Call & Sticky Bottom Bar",
-      "state": "FL",
-      "domain": "flconcretecoating.com"
-    }
-  },
   "FZ-US-1792615420-5": {
     "lead_id": "FZ-US-1792615420-5",
     "action": "INITIAL_PITCH_DISPATCHED",
@@ -944,26 +857,6 @@
       "domain": "plumbingwizardfl.com"
     }
   },
-  "FZ-US-1792615464-2": {
-    "lead_id": "FZ-US-1792615464-2",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-10-23T14:48:25.178396+00:00",
-    "domain": "asapserviceplumbing.com",
-    "email": "ervice@asapserviceplumbing.com",
-    "business_name": "ASAP Service Plumbing",
-    "city": "Orlando",
-    "details": {
-      "sent_at": "2026-10-23T14:48:25.165359+00:00",
-      "recipient_email": "ervice@asapserviceplumbing.com",
-      "recipient_name": "can almost",
-      "sender_email": "claire@client.fzcorestudio.com",
-      "business_name": "ASAP Service Plumbing",
-      "subject": "quick question for Can re asapserviceplumbing.com",
-      "angle": "1-Tap Call & Sticky Bottom Bar",
-      "state": "FL",
-      "domain": "asapserviceplumbing.com"
-    }
-  },
   "FZ-US-1792615466-3": {
     "lead_id": "FZ-US-1792615466-3",
     "action": "INITIAL_PITCH_DISPATCHED",
@@ -986,22 +879,15 @@
   },
   "FZ-US-1792615480-2": {
     "lead_id": "FZ-US-1792615480-2",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-10-23T14:49:10.098545+00:00",
-    "domain": "theresilienttaxgroup.com",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-10-24T13:02:38.699656+00:00",
+    "domain": "",
     "email": "hello@theresilienttaxgroup.com",
-    "business_name": "The Resilient Tax Group, Inc.",
-    "city": "Orlando",
+    "business_name": "",
+    "city": "",
     "details": {
-      "sent_at": "2026-10-23T14:49:10.089553+00:00",
-      "recipient_email": "hello@theresilienttaxgroup.com",
-      "recipient_name": "Enrolled Agent",
-      "sender_email": "charlotte@desk.fzcorestudio.com",
-      "business_name": "The Resilient Tax Group, Inc.",
-      "subject": "quick question for Enrolled re theresilienttaxgroup.com",
-      "angle": "1-Tap Call & Sticky Bottom Bar",
-      "state": "FL",
-      "domain": "theresilienttaxgroup.com"
+      "bounce_subject": "Undeliverable: quick question for Enrolled re\r\n theresilienttaxgroup.com",
+      "inbox": "charlotte@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792616122-3": {
