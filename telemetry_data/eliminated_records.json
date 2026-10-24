@@ -1974,5 +1974,69 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-24T17:13:46.953814+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792799720-3",
+    "business_name": "The Scottsdale Detailing Co.",
+    "website": "http://scottsdaledetailing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-24T18:24:28.243530+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792800155-6",
+    "business_name": "mbeth website design",
+    "website": "https://www.mbethdesign.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-24T18:26:57.176890+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792805129-2",
+    "business_name": "Partners in Energy - Sydney",
+    "website": "https://www.partnersinenergy.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T18:29:13.300742+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792810453-1",
+    "business_name": "Associated Cooling Services",
+    "website": "https://www.acsuk.org",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T18:31:06.693875+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792810486-3",
+    "business_name": "ADK Kooling Ltd",
+    "website": "http://www.adk.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T18:31:45.156441+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792811187-6",
+    "business_name": "Refresh Property Services & Consultants",
+    "website": "http://www.refreshpsc.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-24T18:32:39.742136+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792811326-9",
+    "business_name": "GSD Painting & Decorating Contractors",
+    "website": "http://www.gsdecorating.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T18:34:28.344848+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792811396-9",
+    "business_name": "Atlas Security Doors Ltd",
+    "website": "https://www.atlassecuritydoors.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 401",
+    "eliminated_at": "2026-10-24T18:35:37.058904+00:00"
   }
 ]
