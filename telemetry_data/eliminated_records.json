@@ -1558,5 +1558,61 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 403",
     "eliminated_at": "2026-10-24T09:18:22.210221+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792678885-1",
+    "business_name": "My Tree Experts",
+    "website": "http://mytreeexperts.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T10:23:53.514025+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792679246-10",
+    "business_name": "NuBrand Growth Marketing",
+    "website": "https://nubrand.io",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T10:25:12.887043+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792679365-3",
+    "business_name": "Jet Clean Janitorial Inc",
+    "website": "https://www.jetcleaninc.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T10:25:28.035411+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792699708-2",
+    "business_name": "ProClean Support Services Ltd. | Office and Commercial Cleaning Services",
+    "website": "http://www.procleanss.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T10:30:36.614270+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792699718-3",
+    "business_name": "Starplus Cleaning Services Ltd",
+    "website": "http://www.starplusservices.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T10:30:45.310411+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792699778-5",
+    "business_name": "Not Another Design Agency",
+    "website": "http://www.notanotherdesignagency.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T10:31:30.215227+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792699789-9",
+    "business_name": "Garden branding agency",
+    "website": "https://brandingbygarden.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T10:31:41.914788+00:00"
   }
 ]
