@@ -1862,5 +1862,77 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-10-24T14:33:32.659319+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792782297-3",
+    "business_name": "Cityscapes Pools & Landscapes Pty Ltd",
+    "website": "https://www.cityscapespoolsandlandscapes.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T15:51:35.709544+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792782318-6",
+    "business_name": "Luxe Poolscapes Pool Builder",
+    "website": "https://luxepoolscapes.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T15:51:51.320080+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792782319-7",
+    "business_name": "J&S Pools Brisbane",
+    "website": "https://jandspools.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T15:51:51.694045+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792783071-6",
+    "business_name": "Falcomer Landscapes",
+    "website": "http://www.falcomerlandscapes.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-24T15:55:37.895293+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792787373-17",
+    "business_name": "Tax Resolution 1st",
+    "website": "https://taxresolution1st.com/contact",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T15:57:28.483696+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792787891-10",
+    "business_name": "Ezdetails Mobile Pressure Washing",
+    "website": "http://www.ezdetailsmobilepressurewashing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-24T15:58:09.353788+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792792425-2",
+    "business_name": "The Window Film Company",
+    "website": "http://www.windowfilm.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T15:59:41.922185+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792792556-5",
+    "business_name": "West London Landscapers",
+    "website": "https://www.westlondonlandscapers.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T16:01:06.508681+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792792737-1",
+    "business_name": "The floorboard refurbishment company",
+    "website": "http://thefloorboardsander.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T16:02:09.090713+00:00"
   }
 ]
