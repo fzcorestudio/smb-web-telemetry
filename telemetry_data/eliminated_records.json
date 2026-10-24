@@ -1358,5 +1358,45 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 403",
     "eliminated_at": "2026-10-23T18:27:49.386121+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792660110-1",
+    "business_name": "Sunshine Grove Arbors",
+    "website": "https://sgarbors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T07:05:50.372068+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792660317-2",
+    "business_name": "Florida Solar Partners",
+    "website": "https://www.floridasolarpartners.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T07:08:04.953697+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792664004-2",
+    "business_name": "Phoenix Water Softeners",
+    "website": "https://bestphoenixplumberrepair.com/scottsdale-plumbing-draining-water-heater-repair",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T07:14:59.256819+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665357-3",
+    "business_name": "San Diego Property Specialists LLC",
+    "website": "http://www.sdpropertyspecialists.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T07:15:48.599647+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792665637-1",
+    "business_name": "American Auto Coatings",
+    "website": "https://www.americanautocoatings.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T07:16:33.390064+00:00"
   }
 ]
