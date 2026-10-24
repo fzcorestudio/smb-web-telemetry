@@ -67,40 +67,75 @@ TARGET_NICHES = [
 ]
 
 TARGET_METROS = [
+    # Texas Triangle & Sub-Metros
     {"city": "Dallas", "state": "TX", "country": "US"},
+    {"city": "Plano", "state": "TX", "country": "US"},
+    {"city": "Frisco", "state": "TX", "country": "US"},
+    {"city": "Arlington", "state": "TX", "country": "US"},
+    {"city": "Irving", "state": "TX", "country": "US"},
     {"city": "Fort Worth", "state": "TX", "country": "US"},
     {"city": "Austin", "state": "TX", "country": "US"},
+    {"city": "Round Rock", "state": "TX", "country": "US"},
     {"city": "Houston", "state": "TX", "country": "US"},
+    {"city": "The Woodlands", "state": "TX", "country": "US"},
+    {"city": "Katy", "state": "TX", "country": "US"},
+    {"city": "Sugar Land", "state": "TX", "country": "US"},
     {"city": "San Antonio", "state": "TX", "country": "US"},
+    # Florida High-Density Hubs
     {"city": "Miami", "state": "FL", "country": "US"},
+    {"city": "Fort Lauderdale", "state": "FL", "country": "US"},
+    {"city": "Boca Raton", "state": "FL", "country": "US"},
     {"city": "Tampa", "state": "FL", "country": "US"},
+    {"city": "St. Petersburg", "state": "FL", "country": "US"},
+    {"city": "Clearwater", "state": "FL", "country": "US"},
     {"city": "Orlando", "state": "FL", "country": "US"},
+    {"city": "Kissimmee", "state": "FL", "country": "US"},
     {"city": "Jacksonville", "state": "FL", "country": "US"},
+    # California & West Coast
     {"city": "San Diego", "state": "CA", "country": "US"},
     {"city": "Orange County", "state": "CA", "country": "US"},
+    {"city": "Irvine", "state": "CA", "country": "US"},
     {"city": "Sacramento", "state": "CA", "country": "US"},
+    {"city": "San Jose", "state": "CA", "country": "US"},
+    # Arizona Desert Hubs
     {"city": "Phoenix", "state": "AZ", "country": "US"},
     {"city": "Scottsdale", "state": "AZ", "country": "US"},
+    {"city": "Mesa", "state": "AZ", "country": "US"},
+    {"city": "Chandler", "state": "AZ", "country": "US"},
+    {"city": "Gilbert", "state": "AZ", "country": "US"},
     {"city": "Tucson", "state": "AZ", "country": "US"},
+    # Southeast & East Coast
     {"city": "Atlanta", "state": "GA", "country": "US"},
+    {"city": "Marietta", "state": "GA", "country": "US"},
+    {"city": "Alpharetta", "state": "GA", "country": "US"},
     {"city": "Charlotte", "state": "NC", "country": "US"},
     {"city": "Raleigh", "state": "NC", "country": "US"},
+    {"city": "Durham", "state": "NC", "country": "US"},
     {"city": "Nashville", "state": "TN", "country": "US"},
+    {"city": "Franklin", "state": "TN", "country": "US"},
     {"city": "Memphis", "state": "TN", "country": "US"},
+    # Mountain & Midwest
     {"city": "Denver", "state": "CO", "country": "US"},
+    {"city": "Aurora", "state": "CO", "country": "US"},
     {"city": "Colorado Springs", "state": "CO", "country": "US"},
     {"city": "Salt Lake City", "state": "UT", "country": "US"},
     {"city": "Las Vegas", "state": "NV", "country": "US"},
+    {"city": "Henderson", "state": "NV", "country": "US"},
     {"city": "Kansas City", "state": "MO", "country": "US"},
+    {"city": "Overland Park", "state": "KS", "country": "US"},
     {"city": "Indianapolis", "state": "IN", "country": "US"},
     {"city": "Columbus", "state": "OH", "country": "US"},
     {"city": "Cincinnati", "state": "OH", "country": "US"},
     {"city": "Cleveland", "state": "OH", "country": "US"},
     {"city": "Pittsburgh", "state": "PA", "country": "US"},
+    # Pacific Northwest
     {"city": "Portland", "state": "OR", "country": "US"},
     {"city": "Seattle", "state": "WA", "country": "US"},
+    {"city": "Bellevue", "state": "WA", "country": "US"},
+    {"city": "Tacoma", "state": "WA", "country": "US"},
     {"city": "Oklahoma City", "state": "OK", "country": "US"},
     {"city": "Richmond", "state": "VA", "country": "US"},
+    # International Commonwealth Strongholds
     {"city": "London", "state": "Greater London", "country": "UK"},
     {"city": "Manchester", "state": "Greater Manchester", "country": "UK"},
     {"city": "Birmingham", "state": "West Midlands", "country": "UK"},
@@ -123,7 +158,7 @@ EXCLUDED_DOMAINS = [
     "forbes.", "homedepot.", "lowes.", "angi.com", "bark.com"
 ]
 
-def crawl_regional_telemetry(category, metro, min_rank=6, max_records_per_query=30, existing_domains=None, quarantine_ledger=None):
+def crawl_regional_telemetry(category, metro, min_rank=0, max_records_per_query=30, existing_domains=None, quarantine_ledger=None):
     from playwright.sync_api import sync_playwright
 
     city = metro["city"]
@@ -161,22 +196,40 @@ def crawl_regional_telemetry(category, metro, min_rank=6, max_records_per_query=
                 except Exception:
                     pass
 
-            # Deep feed scroll
+            # Deep adaptive feed scroll (reaches full Google Maps limit ~120 cards)
             feed = page.locator('div[role="feed"]').first
-            for _ in range(8):
+            prev_card_count = 0
+            stagnant_count = 0
+
+            for scroll_idx in range(1, 26):
                 try:
                     if feed.count() > 0:
-                        feed.evaluate("el => el.scrollBy(0, 4500)")
+                        feed.evaluate("el => el.scrollBy(0, 10000)")
                     else:
-                        page.mouse.wheel(0, 4000)
+                        page.mouse.wheel(0, 10000)
                 except Exception:
-                    page.mouse.wheel(0, 4000)
-                page.wait_for_timeout(750)
+                    page.mouse.wheel(0, 10000)
+                page.wait_for_timeout(800)
+
+                current_card_count = page.locator("div.Nv2PK").count()
+
+                # Check if bottom of Google Maps index reached
+                if page.locator("text=\"You've reached the end of the list\"").count() > 0:
+                    break
+
+                if current_card_count == prev_card_count:
+                    stagnant_count += 1
+                    if stagnant_count >= 2:
+                        break
+                else:
+                    stagnant_count = 0
+                prev_card_count = current_card_count
 
             cards = page.locator("div.Nv2PK").all()
-            print(f"[*] Total listings loaded: {len(cards)}")
+            print(f"[*] Total listings loaded: {len(cards)} (Zero Rank Skipping: Evaluating from Rank #1 to #{len(cards)})")
 
-            target_cards = cards[min_rank:] if len(cards) > min_rank else cards[min(3, len(cards)):]
+            # Zero Rank Skipping: inspect every single card from Rank #1
+            target_cards = cards[min_rank:] if min_rank > 0 else cards
 
             for idx, card in enumerate(target_cards):
                 if len(records) >= max_records_per_query:
@@ -240,7 +293,7 @@ def crawl_regional_telemetry(category, metro, min_rank=6, max_records_per_query=
                     if existing_domains is not None:
                         existing_domains.add(domain)
 
-                    current_rank = min_rank + idx + 1
+                    current_rank = (min_rank or 0) + idx + 1
                     print(f"🎯 [Rank #{current_rank}] {title} ({review_count} revs, {rating}★) -> {website}")
 
                     audit = audit_website_telemetry(website)
@@ -375,7 +428,7 @@ def run_telemetry_harvest(max_duration_seconds=960, target_count=None, output_fi
         found = crawl_regional_telemetry(
             category=niche,
             metro=metro,
-            min_rank=6,
+            min_rank=0,
             max_records_per_query=30,
             existing_domains=existing_domains,
             quarantine_ledger=ql
