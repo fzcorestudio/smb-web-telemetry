@@ -72,8 +72,8 @@ def sanitize_email_address(raw_email):
     if not raw_email:
         return ""
     cleaned = str(raw_email).strip().lower()
-    cleaned = re.sub(r"^(?:u002f|/|[\\s\"'\\\\])+", "", cleaned)
-    cleaned = re.sub(r"[\\s\"'\\\\;]+$", "", cleaned)
+    cleaned = re.sub(r'^(?:u002f|/|[\s"\'\\])+', "", cleaned)
+    cleaned = re.sub(r'[\s"\'\\;]+$', "", cleaned)
     if "@" not in cleaned:
         return ""
     domain = cleaned.split("@")[1].strip()
@@ -406,7 +406,7 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
                 print(f"   ✅ Follow-up delivered successfully via {sender_user}!")
 
                 if sends_done < max_sends:
-                    delay = random.uniform(25, 40)
+                    delay = random.uniform(14, 24)
                     print(f"   ⏳ Multi-Subdomain Pacing: Resting {int(delay)}s before rotating to next inbox...")
                     time.sleep(delay)
             except Exception as e:
@@ -539,7 +539,7 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
                 print(f"   ✅ DELIVERED & QUARANTINED successfully via {sender_user}!")
 
                 if sends_done < max_sends:
-                    delay = random.uniform(25, 40)
+                    delay = random.uniform(14, 24)
                     print(f"   ⏳ Multi-Subdomain Pacing: Resting {int(delay)}s before rotating to next inbox...")
                     time.sleep(delay)
 
