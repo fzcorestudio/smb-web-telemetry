@@ -1742,5 +1742,85 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
     "eliminated_at": "2026-10-24T12:36:39.864939+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792716133-4",
+    "business_name": "Monarch Resin Floors Ltd",
+    "website": "https://monarchresinfloors.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T13:16:10.110450+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792716281-4",
+    "business_name": "B&O Builder",
+    "website": "https://taplink.cc/bo.builder",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: 'NoneType' object is not subscriptable",
+    "eliminated_at": "2026-10-24T13:17:51.756978+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792716352-7",
+    "business_name": "Restorations (UK) - Dehumidifier Hire - Fire and Flood Damage - Manchester",
+    "website": "https://www.restorations-uk.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T13:19:20.947747+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792716630-3",
+    "business_name": "YRF Accountants Manchester",
+    "website": "https://yrfaccountants.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://yrfaccounta",
+    "eliminated_at": "2026-10-24T13:22:31.098479+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792716666-3",
+    "business_name": "Tatton Fencing",
+    "website": "http://www.tattonfencing.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T13:23:00.799305+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792716750-10",
+    "business_name": "Bamboo Manchester",
+    "website": "https://www.bamboomanchester.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 401",
+    "eliminated_at": "2026-10-24T13:24:08.993830+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792718759-10",
+    "business_name": "Emerald Plaster",
+    "website": "https://emeraldplaster.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T13:24:40.622688+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792719281-3",
+    "business_name": "Inspired Remodels",
+    "website": "https://www.inspiredremodels.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T13:25:31.002423+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792719398-5",
+    "business_name": "Beach Cities Roofing",
+    "website": "https://www.bcrpro.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T13:25:35.189308+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792719452-1",
+    "business_name": "MYDG Studio",
+    "website": "https://www.mydg.studio",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T13:25:36.941885+00:00"
   }
 ]
