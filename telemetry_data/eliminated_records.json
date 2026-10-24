@@ -1822,5 +1822,45 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-10-24T13:25:36.941885+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792724645-4",
+    "business_name": "Arizona Treeworks",
+    "website": "https://arizonatreeworks.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://ariz",
+    "eliminated_at": "2026-10-24T14:24:09.525406+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792724858-4",
+    "business_name": "Saturn Pool Company",
+    "website": "https://www.saturnpools.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T14:24:15.038155+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792726907-11",
+    "business_name": "Boldist",
+    "website": "https://boldist.co",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T14:25:26.422043+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792736567-5",
+    "business_name": "Berardi Immigration Law",
+    "website": "http://www.berardiimmigrationlaw.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T14:33:23.897468+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792736622-5",
+    "business_name": "Brightway One - Commercial Cleaning & Concrete Polishing Services",
+    "website": "https://brightwayone.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T14:33:32.659319+00:00"
   }
 ]

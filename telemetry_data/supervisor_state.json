@@ -1,6 +1,6 @@
 {
-  "run_count": 1,
-  "last_mode": "HARVEST",
-  "pending_audits": 448,
-  "updated_at": "2026-10-24T13:49:09.397141+00:00"
+  "run_count": 2,
+  "last_mode": "AUDIT",
+  "pending_audits": 530,
+  "updated_at": "2026-10-24T14:23:02.287203+00:00"
 }
