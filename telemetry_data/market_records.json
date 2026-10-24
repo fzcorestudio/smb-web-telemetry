@@ -96522,5 +96522,293 @@
     },
     "gemini_context_snippet": "Target: Business Owner at Kartchner Kustoms (Scottsdale, AZ). Profile: Rank #43 on Google Maps (23 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
     "harvested_at": "2026-10-24T00:04:19.772213+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792802711-1",
+    "estimated_rank": 26,
+    "business_name": "Nashville Roof Cleaning & Pressure Washing",
+    "category": "Commercial Pressure Washing",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "https://www.nashvillecleanwindows.com",
+    "domain": "nashvillecleanwindows.com",
+    "reviews_count": 14,
+    "rating": 4.4,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Nashville Roof Cleaning & Pressure Washing (Nashville, TN). Profile: Rank #26 on Google Maps (14 reviews, 4.4★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-24T00:45:11.168835+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792802738-1",
+    "estimated_rank": 21,
+    "business_name": "Creatively Madeline Design Studio",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "https://creativelymadeline.com",
+    "domain": "creativelymadeline.com",
+    "reviews_count": 25,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "hello@creativelymadeline.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Creatively Madeline Design Studio (Nashville, TN). Profile: Rank #21 on Google Maps (25 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-24T00:45:38.971462+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792802751-3",
+    "estimated_rank": 26,
+    "business_name": "Quantum Branding Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "http://www.quantumbranding.agency",
+    "domain": "quantumbranding.agency",
+    "reviews_count": 4,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Quantum Branding Agency (Nashville, TN). Profile: Rank #26 on Google Maps (4 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-24T00:45:51.969411+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792802787-10",
+    "estimated_rank": 38,
+    "business_name": "Digital Engage",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "https://digitalengage.net/nashville",
+    "domain": "digitalengage.net",
+    "reviews_count": 23,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Digital Engage",
+      "first_name": "Digital",
+      "title": "Owner / Founder",
+      "verified_email": "help@digitalengage.net",
+      "tier": "TIER_4_GATEKEEPER_ROUTED",
+      "tier_level": 4,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Digital Engage at Digital Engage (Nashville, TN). Profile: Rank #38 on Google Maps (23 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-24T00:46:27.269466+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792802857-15",
+    "estimated_rank": 48,
+    "business_name": "BubbleUp Digital Marketing Agency",
+    "category": "Boutique Branding & Design Agency",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "http://www.bubbleup.net",
+    "domain": "bubbleup.net",
+    "reviews_count": 8,
+    "rating": 4.9,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at BubbleUp Digital Marketing Agency (Nashville, TN). Profile: Rank #48 on Google Maps (8 reviews, 4.9★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-24T00:47:37.227143+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792802964-1",
+    "estimated_rank": 21,
+    "business_name": "Full Circle Tree Shrub",
+    "category": "Tree Removal & Arborist Services",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "http://www.fullcircletreeandshrub.com",
+    "domain": "fullcircletreeandshrub.com",
+    "reviews_count": 22,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Jeff Bergman",
+      "first_name": "Jeff",
+      "title": "Owner / Founder",
+      "verified_email": "%20office@fullcircletreeandshrub.com",
+      "tier": "TIER_4_GATEKEEPER_ROUTED",
+      "tier_level": 4,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Jeff Bergman at Full Circle Tree Shrub (Nashville, TN). Profile: Rank #21 on Google Maps (22 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-24T00:49:24.027510+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792803619-1",
+    "estimated_rank": 23,
+    "business_name": "Steel Coated Epoxy Floors of Nashville",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "https://www.steelcoatedfloors.com/nashville",
+    "domain": "steelcoatedfloors.com",
+    "reviews_count": 10,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Microsoft 365"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Steel Coated Epoxy Floors of Nashville (Nashville, TN). Profile: Rank #23 on Google Maps (10 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+    "harvested_at": "2026-10-24T01:00:19.038520+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792803665-6",
+    "estimated_rank": 41,
+    "business_name": "OCS Concrete Solutions",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "https://www.ocsconcretesolutions.com",
+    "domain": "ocsconcretesolutions.com",
+    "reviews_count": 21,
+    "rating": 4.8,
+    "decision_maker": {
+      "name": "Matt",
+      "first_name": "Matt",
+      "title": "Decision Maker",
+      "verified_email": "matt@ocsconcretesolutions.com",
+      "tier": "TIER_2_NAMED_PERSONAL",
+      "tier_level": 2,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Matt at OCS Concrete Solutions (Nashville, TN). Profile: Rank #41 on Google Maps (21 reviews, 4.8★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-24T01:01:05.117028+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792803667-7",
+    "estimated_rank": 42,
+    "business_name": "Floor America",
+    "category": "Epoxy Flooring & Garage Coating",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "website": "http://www.flooramerica.com",
+    "domain": "flooramerica.com",
+    "reviews_count": 5,
+    "rating": 4.2,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": null,
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "DOMAIN_MX_VERIFIED",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Non-Clickable Phone Number on Mobile",
+      "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+      "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Floor America (Nashville, TN). Profile: Rank #42 on Google Maps (5 reviews, 4.2★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-24T01:01:07.137042+00:00"
   }
 ]
