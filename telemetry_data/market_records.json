@@ -103914,5 +103914,69 @@
     },
     "gemini_context_snippet": "Target: Business Owner at ATLANTA PLUMBERS (Atlanta, GA). Profile: Rank #40 on Google Maps (12 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
     "harvested_at": "2026-10-24T06:22:41.831238+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792849589-1",
+    "estimated_rank": 17,
+    "business_name": "Dallas Best Car Detailing",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "https://dallasbestdetail.com",
+    "domain": "dallasbestdetail.com",
+    "reviews_count": 26,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "hello@dallasbestdetail.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Google Workspace"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dallas Best Car Detailing (Dallas, TX). Profile: Rank #17 on Google Maps (26 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+    "harvested_at": "2026-10-24T13:46:29.649924+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792849598-2",
+    "estimated_rank": 19,
+    "business_name": "Dallas Mobile Details",
+    "category": "Auto Detailing Ceramic Coating",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "website": "http://dallasmobiledetails.com",
+    "domain": "dallasmobiledetails.com",
+    "reviews_count": 5,
+    "rating": 5.0,
+    "decision_maker": {
+      "name": "Business Owner",
+      "first_name": null,
+      "title": "Decision Maker",
+      "verified_email": "contact@dallasmobiledetails.com",
+      "tier": "TIER_5_GENERIC",
+      "tier_level": 5,
+      "email_status": "MX_DELIVERABLE_0_BOUNCE",
+      "mx_provider": "Custom / Private SMTP"
+    },
+    "audit_diagnostics": {
+      "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+      "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+      "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+      "recommended_entry_price": "$99",
+      "turnaround": "12 Hours"
+    },
+    "gemini_context_snippet": "Target: Business Owner at Dallas Mobile Details (Dallas, TX). Profile: Rank #19 on Google Maps (5 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+    "harvested_at": "2026-10-24T13:46:38.357946+00:00"
   }
 ]

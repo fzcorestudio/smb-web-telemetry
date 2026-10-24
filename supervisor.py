@@ -76,9 +76,18 @@ def run_supervisor_pipeline(duration_seconds=960, force_mode=None):
     elif pkt_hour == 14 and pkt_minute > 30:
         active_mode = "WRITE_PITCHES"
     else:
-        # Balanced Mode D: Alternate between Scraping & Auditing so Scraping never starves
+        # Balanced Mode D: Deterministic 50/50 Alternation via State File
         market_file = DATA_DIR / "market_records.json"
         ledger_file = DATA_DIR / "audit_ledger.json"
+        state_file = DATA_DIR / "supervisor_state.json"
+        
+        run_count = 0
+        if state_file.exists():
+            try:
+                run_count = json.load(open(state_file, encoding='utf-8')).get('run_count', 0)
+            except Exception:
+                pass
+
         pending_count = 0
         if market_file.exists():
             try:
@@ -88,11 +97,23 @@ def run_supervisor_pipeline(duration_seconds=960, force_mode=None):
             except Exception:
                 pass
         
-        # If backlog exists, alternate: odd runs audit, even runs harvest
         if pending_count > 0:
-            active_mode = "AUDIT" if (pkt_minute < 30) else "HARVEST"
+            # Deterministic: Even run = HARVEST, Odd run = AUDIT
+            active_mode = "AUDIT" if (run_count % 2 == 1) else "HARVEST"
         else:
             active_mode = "HARVEST"
+
+        # Update run_count in state
+        try:
+            with open(state_file, "w", encoding="utf-8") as f:
+                json.dump({
+                    "run_count": run_count + 1,
+                    "last_mode": active_mode,
+                    "pending_audits": pending_count,
+                    "updated_at": datetime.now(timezone.utc).isoformat()
+                }, f, indent=2)
+        except Exception:
+            pass
 
     print(f"📍 Active Scheduled Pipeline Stage: [{active_mode}]")
     print("=" * 75 + "\n")

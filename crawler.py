@@ -123,7 +123,7 @@ EXCLUDED_DOMAINS = [
     "forbes.", "homedepot.", "lowes.", "angi.com", "bark.com"
 ]
 
-def crawl_regional_telemetry(category, metro, min_rank=20, max_records_per_query=30):
+def crawl_regional_telemetry(category, metro, min_rank=6, max_records_per_query=30, existing_domains=None, quarantine_ledger=None):
     from playwright.sync_api import sync_playwright
 
     city = metro["city"]
@@ -176,7 +176,7 @@ def crawl_regional_telemetry(category, metro, min_rank=20, max_records_per_query
             cards = page.locator("div.Nv2PK").all()
             print(f"[*] Total listings loaded: {len(cards)}")
 
-            target_cards = cards[min_rank:] if len(cards) > min_rank else cards[min(5, len(cards)):]
+            target_cards = cards[min_rank:] if len(cards) > min_rank else cards[min(3, len(cards)):]
 
             for idx, card in enumerate(target_cards):
                 if len(records) >= max_records_per_query:
@@ -223,7 +223,22 @@ def crawl_regional_telemetry(category, metro, min_rank=20, max_records_per_query
                     domain = urllib.parse.urlparse(website).netloc.lower().replace("www.", "")
                     if domain in seen_domains or any(bad in domain for bad in EXCLUDED_DOMAINS):
                         continue
+
+                    # Instant Early Deduplication (Skip known/quarantined in 0.001s without HTTP/DNS load)
+                    if existing_domains and domain in existing_domains:
+                        continue
+                    if quarantine_ledger:
+                        is_q, q_reason = quarantine_ledger.is_quarantined(
+                            domain=domain,
+                            business_name=title,
+                            city=city
+                        )
+                        if is_q:
+                            continue
+
                     seen_domains.add(domain)
+                    if existing_domains is not None:
+                        existing_domains.add(domain)
 
                     current_rank = min_rank + idx + 1
                     print(f"🎯 [Rank #{current_rank}] {title} ({review_count} revs, {rating}★) -> {website}")
@@ -320,76 +335,89 @@ def run_telemetry_harvest(max_duration_seconds=960, target_count=None, output_fi
         except Exception:
             pass
 
+    state_file = output_file.parent / "crawler_state.json"
+    metro_cursor = 0
+    niche_cursor = 0
+    total_queries_run = 0
+
+    if state_file.exists():
+        try:
+            with open(state_file, "r", encoding="utf-8") as f:
+                state_data = json.load(f)
+                metro_cursor = state_data.get("metro_cursor", 0)
+                niche_cursor = state_data.get("niche_cursor", 0)
+                total_queries_run = state_data.get("total_queries_run", 0)
+                print(f"📍 Resuming Crawler from Cursor: Metro #{metro_cursor % len(TARGET_METROS)} ({TARGET_METROS[metro_cursor % len(TARGET_METROS)]['city']}) | Niche #{niche_cursor % len(TARGET_NICHES)} ({TARGET_NICHES[niche_cursor % len(TARGET_NICHES)]})")
+        except Exception:
+            pass
+
+    ql = get_quarantine_ledger() if get_quarantine_ledger else None
     new_count = 0
-    cycle_round = 0
+    queries_this_run = 0
+
+    num_metros = len(TARGET_METROS)
+    num_niches = len(TARGET_NICHES)
+
+    print(f"\n🔄 --- Beginning Interleaved Round-Robin Sweep ({num_metros} Metros × {num_niches} Niches) ---")
 
     while True:
-        cycle_round += 1
         elapsed = time.time() - start_time
         if elapsed >= max_duration_seconds:
             print(f"\n⏱️ Time window complete ({int(elapsed)}s elapsed). Closing cycle...")
             break
 
-        niches = list(TARGET_NICHES)
-        random.shuffle(niches)
-        metros = list(TARGET_METROS)
-        random.shuffle(metros)
+        if target_count and new_count >= target_count:
+            break
 
-        print(f"\n🔄 --- Beginning Discovery Sweep #{cycle_round} ({len(metros)} Metros × {len(niches)} Niches) ---")
+        metro = TARGET_METROS[metro_cursor % num_metros]
+        niche = TARGET_NICHES[niche_cursor % num_niches]
 
-        for metro in metros:
-            for niche in niches:
-                elapsed = time.time() - start_time
-                if elapsed >= max_duration_seconds:
-                    break
+        found = crawl_regional_telemetry(
+            category=niche,
+            metro=metro,
+            min_rank=6,
+            max_records_per_query=30,
+            existing_domains=existing_domains,
+            quarantine_ledger=ql
+        )
 
-                if target_count and new_count >= target_count:
-                    break
+        for item in found:
+            d = item.get("domain", "")
+            all_harvested.append(item)
+            existing_domains.add(d)
+            new_count += 1
+            time_left = max(0, int(max_duration_seconds - (time.time() - start_time)))
+            print(f"📊 Progress: {new_count} new leads secured | {len(all_harvested)} total | {time_left}s remaining in cycle.")
 
-                found = crawl_regional_telemetry(
-                    category=niche,
-                    metro=metro,
-                    min_rank=20,
-                    max_records_per_query=30
-                )
+        # Real-time incremental save
+        output_file.parent.mkdir(parents=True, exist_ok=True)
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(all_harvested, f, indent=2, ensure_ascii=False)
 
-                ql = get_quarantine_ledger() if get_quarantine_ledger else None
-                for item in found:
-                    d = item.get("domain", "")
-                    if d in existing_domains:
-                        continue
-                    if ql:
-                        is_q, q_reason = ql.is_quarantined(
-                            domain=d,
-                            business_name=item.get("business_name"),
-                            city=item.get("city")
-                        )
-                        if is_q:
-                            print(f"🚫 [QUARANTINE SKIP] Past Lead Ignored: {item.get('business_name')} ({q_reason})")
-                            continue
-                    all_harvested.append(item)
-                    existing_domains.add(d)
-                    new_count += 1
-                    time_left = max(0, int(max_duration_seconds - (time.time() - start_time)))
-                    print(f"📊 Progress: {new_count} new leads secured | {len(all_harvested)} total | {time_left}s remaining in cycle.")
+        # Update cursor (Interleaved: advance metro every query, and niche every query)
+        metro_cursor = (metro_cursor + 1) % num_metros
+        niche_cursor = (niche_cursor + 1) % num_niches
+        total_queries_run += 1
+        queries_this_run += 1
 
-                # Real-time incremental save
-                output_file.parent.mkdir(parents=True, exist_ok=True)
-                with open(output_file, "w", encoding="utf-8") as f:
-                    json.dump(all_harvested, f, indent=2, ensure_ascii=False)
-
-                if target_count and new_count >= target_count:
-                    break
-
-                time.sleep(random.uniform(1.5, 3.0))
-
-            if (time.time() - start_time) >= max_duration_seconds:
-                break
-            if target_count and new_count >= target_count:
-                break
+        # Persist cursor state
+        try:
+            with open(state_file, "w", encoding="utf-8") as f:
+                json.dump({
+                    "metro_cursor": metro_cursor,
+                    "niche_cursor": niche_cursor,
+                    "total_queries_run": total_queries_run,
+                    "last_metro": metro["city"],
+                    "last_niche": niche,
+                    "last_harvest_at": datetime.now(timezone.utc).isoformat()
+                }, f, indent=2)
+        except Exception:
+            pass
 
         if target_count and new_count >= target_count:
             break
+
+        time.sleep(random.uniform(1.0, 2.0))
 
     total_time = int(time.time() - start_time)
     print("\n" + "=" * 75)
