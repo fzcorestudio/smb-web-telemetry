@@ -1438,5 +1438,45 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "No critical conversion leaks or severe visual flaws found.",
     "eliminated_at": "2026-10-24T08:00:42.774530+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792672990-2",
+    "business_name": "Coyote Coatings",
+    "website": "https://coyotecoatingsaz.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T08:29:08.033210+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792673069-3",
+    "business_name": "Desert Oasis Commercial Cleaners",
+    "website": "https://desertoasiscleaners.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 520",
+    "eliminated_at": "2026-10-24T08:30:12.348895+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792673138-1",
+    "business_name": "Real Roofing",
+    "website": "https://www.realroofingofficial.com/roofing-company/phoenix",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T08:30:57.120974+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792673174-7",
+    "business_name": "John's Pressure Cleaning LLC",
+    "website": "https://johnspressurecleaning.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T08:31:37.401850+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792673209-2",
+    "business_name": "H&R Tree Services LLC",
+    "website": "https://www.hyrtreeservice.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-24T08:32:00.967671+00:00"
   }
 ]
