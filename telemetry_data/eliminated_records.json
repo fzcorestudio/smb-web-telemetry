@@ -1398,5 +1398,45 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-24T07:16:33.390064+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668084-10",
+    "business_name": "360clean",
+    "website": "https://360clean.com/locations/florida/commercial-cleaning-services-in-tampa-fl",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T07:55:49.355643+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668291-1",
+    "business_name": "Colvex Plumbing",
+    "website": "https://www.colvexplumbing.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T07:56:02.970927+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668306-2",
+    "business_name": "Bay Immigration Law",
+    "website": "https://www.bayimmigrationlaw.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-24T07:56:08.220127+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792668414-4",
+    "business_name": "Ace Garage Pros",
+    "website": "https://acegaragepros.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T07:58:04.183159+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792670246-12",
+    "business_name": "Wheatley & Sons Commercial Cleaning Sydney",
+    "website": "https://www.wheatleyandsons.com.au",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T08:00:42.774530+00:00"
   }
 ]
