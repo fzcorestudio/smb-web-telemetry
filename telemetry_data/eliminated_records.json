@@ -1934,5 +1934,45 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-24T16:02:09.090713+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792793066-2",
+    "business_name": "London Tax Network Ltd",
+    "website": "http://www.londontaxnetwork.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T17:08:33.261621+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792793309-5",
+    "business_name": "Luxpool UK (Swimming Pool Design & Build)",
+    "website": "https://luxpool.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T17:09:39.784183+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792794760-9",
+    "business_name": "Expert Cleaning Solutions, LLC",
+    "website": "https://expertcleaningsolutions.net/indian-trail-nc",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T17:11:25.931816+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792795003-6",
+    "business_name": "Signature W Studio",
+    "website": "https://signaturewstudio.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-24T17:12:05.644656+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792797112-4",
+    "business_name": "Non Slip Floor Solutions Pty Ltd",
+    "website": "https://www.nonslip.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T17:13:46.953814+00:00"
   }
 ]
