@@ -1614,5 +1614,85 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-10-24T10:31:41.914788+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792700384-8",
+    "business_name": "London Tree Surgeon",
+    "website": "https://londontreesurgeon.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T11:07:26.741853+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792702036-1",
+    "business_name": "Roof Rejuvenate of San Diego",
+    "website": "https://roofrejuvenatesd.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T12:15:27.083250+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792706030-2",
+    "business_name": "Highlane Tint and Protection",
+    "website": "http://www.highlanetintandprotection.com.au",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T12:16:32.113133+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792706081-1",
+    "business_name": "GA Fencing",
+    "website": "http://gafencing.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at http://gafencing.co",
+    "eliminated_at": "2026-10-24T12:17:08.393807+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792706108-3",
+    "business_name": "Karlka FenceWright",
+    "website": "https://www.fencewright.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-24T12:17:32.191510+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792706151-2",
+    "business_name": "DIRT BUSTERS CAR DETAILERS - MOBILE CAR DETAILING CLEVELAND",
+    "website": "https://www.mobilecardetailers.com.au/locations/redlands-bayside-service-hub",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T12:18:18.694045+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792706210-3",
+    "business_name": "Exploren Charging Station",
+    "website": "https://exploren.com.au",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-24T12:18:57.626069+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792706217-4",
+    "business_name": "Electric Vehicle Charging Station",
+    "website": "https://www.plugshare.com/location/381320",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T12:19:05.288267+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792706594-6",
+    "business_name": "Desketing",
+    "website": "http://desketing.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-24T12:23:19.532211+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792706823-7",
+    "business_name": "Clean Partner",
+    "website": "https://cleanpartnersolutions.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-24T12:26:30.150097+00:00"
   }
 ]
