@@ -2038,5 +2038,69 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 401",
     "eliminated_at": "2026-10-24T18:35:37.058904+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792811444-12",
+    "business_name": "London Gates & Grilles",
+    "website": "http://www.londongatesandgrilles.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at http://www.londonga",
+    "eliminated_at": "2026-10-25T16:49:26.996551+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792813148-3",
+    "business_name": "Nashville Dip Pools",
+    "website": "https://www.nashvilledippools.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-25T16:49:48.781457+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792818191-6",
+    "business_name": "TaxFlow Financial Services",
+    "website": "https://www.taxflowfs.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-25T16:52:42.910796+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792819684-8",
+    "business_name": "Creative Iron Works",
+    "website": "http://www.mycreativeironworks.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-25T16:53:51.109249+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822067-4",
+    "business_name": "Harrison Homes",
+    "website": "https://harrisonatl.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-25T16:56:14.710110+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822198-2",
+    "business_name": "TruShine 360 Georgia – Hood Cleaning, Fire Protection & Kitchen Services",
+    "website": "https://trushineservice.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-25T16:57:50.904484+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822211-3",
+    "business_name": "Flow State Commercial Cleaning",
+    "website": "http://www.flowstatecleaning.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-25T16:57:55.590339+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822212-4",
+    "business_name": "TAB GREEN COMMERCIAL CLEANING SOLUTIONS",
+    "website": "https://tabgreencs.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-25T16:58:07.658382+00:00"
   }
 ]
