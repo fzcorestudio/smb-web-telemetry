@@ -2102,5 +2102,109 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-25T16:58:07.658382+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822245-11",
+    "business_name": "Wel Clean Solutions, LLC",
+    "website": "https://welcleansolutions.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-26T17:29:15.491469+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822249-13",
+    "business_name": "Pro Squared Janitorial Services",
+    "website": "https://www.prosquaredjanitorial.com/locations/atlanta-ga",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-26T17:29:26.465166+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822412-1",
+    "business_name": "Defyne Cars | PPF, Tint, Ceramic & Wrap",
+    "website": "https://www.defynecars.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-26T17:30:46.499758+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822515-10",
+    "business_name": "Atlanta Web Design Shop",
+    "website": "http://www.atlantawebdesignshop.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-26T17:31:52.192557+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822721-2",
+    "business_name": "Marietta Fencing Contractors",
+    "website": "https://mariettafencingco.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://mariettafen",
+    "eliminated_at": "2026-10-26T17:34:03.781051+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822732-4",
+    "business_name": "Georgia Gate and Fence",
+    "website": "https://georgiagateandfence.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-26T17:34:11.226666+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822779-5",
+    "business_name": "Atlanta Concrete",
+    "website": "https://atlantaconcrete.us",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-26T17:34:42.454899+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822807-2",
+    "business_name": "Walk on Air",
+    "website": "https://www.walkonairhvac.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-26T17:34:49.987968+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792822827-1",
+    "business_name": "Atlantis Pools & Spa, LLC",
+    "website": "http://www.atlantispoolsga.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-26T17:34:57.025805+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792849950-5",
+    "business_name": "Sunset Coast Builders",
+    "website": "https://www.sunsetcoastbuilders.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-26T17:37:42.704031+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792849983-1",
+    "business_name": "OC Roof Kings",
+    "website": "https://ocroofkings.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-26T17:38:02.379284+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850044-4",
+    "business_name": "Diamond Pools & Spas LLC",
+    "website": "https://diamondpools.net",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-26T17:38:25.955118+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850085-10",
+    "business_name": "Greenland Pools & Landscape Inc",
+    "website": "http://greenlandinnovations.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 404",
+    "eliminated_at": "2026-10-26T17:38:56.249360+00:00"
   }
 ]
