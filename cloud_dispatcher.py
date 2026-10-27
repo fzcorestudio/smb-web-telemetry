@@ -81,6 +81,42 @@ def sanitize_email_address(raw_email):
         return ""
     return cleaned
 
+BLOCKED_NAME_WORDS = {
+    'passion', 'contractor', 'contractors', 'service', 'services', 'team',
+    'quality', 'expert', 'experts', 'our', 'the', 'company', 'builders',
+    'specialist', 'specialists', 'business', 'certified', 'trusted',
+    'construction', 'plumbing', 'roofing', 'hvac', 'electric', 'owner',
+    'commercial', 'residential', 'management', 'staff', 'admin', 'info',
+    'contact', 'support', 'sales', 'office', 'help', 'inquires', 'inquiries',
+    'pros', 'solutions', 'enterprises', 'group', 'heating', 'cooling',
+    'electrician', 'contracting', 'repairs', 'remodeling', 'of', 'and'
+}
+
+def clean_recipient_greeting(raw_name, business_name, domain=""):
+    cleaned = re.sub(r'[\r\n\t]+', ' ', str(raw_name or '')).strip()
+    words = [w.lower() for w in re.findall(r'[a-zA-Z]+', cleaned)]
+
+    is_invalid = False
+    if not words or len(cleaned) < 2 or len(cleaned) > 25:
+        is_invalid = True
+    elif any(w in BLOCKED_NAME_WORDS for w in words):
+        is_invalid = True
+    elif len(words) > 3:
+        is_invalid = True
+
+    dom_label = domain or (business_name if business_name and len(business_name) < 25 else "your site")
+
+    if is_invalid:
+        display_name = business_name if (business_name and len(business_name) < 25) else "Business Owner"
+        greeting = "Hi there,"
+        clean_subject = f"quick question re {dom_label}"
+    else:
+        display_name = cleaned.title()
+        greeting = f"Hi {display_name},"
+        clean_subject = f"quick question for {display_name} re {dom_label}"
+
+    return display_name, greeting, clean_subject
+
 def load_json(path, default):
     if not path.exists():
         return default
@@ -395,7 +431,10 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
         sender_title = box.get("title", "Founder & Principal")
         subject = f"Re: quick question about {b_name}"
         flaw_snippet = f_lead.get("flaw_summary", "mobile tap-to-call friction")
-        body_text = build_followup_body(step, rec_name, b_name, f_lead.get("domain", ""), flaw_snippet)
+        rec_name_clean, greeting, _ = clean_recipient_greeting(rec_name, b_name, f_lead.get("domain", ""))
+        body_text = build_followup_body(step, rec_name_clean, b_name, f_lead.get("domain", ""), flaw_snippet)
+        body_text = re.sub(r'^Hi\s+[^,\n]+,', greeting, body_text.strip())
+        rec_name = rec_name_clean
 
         msg = build_ultralight_hybrid_email(sender_name, sender_user, sender_title, rec_name, rec_email, subject, body_text)
 
@@ -464,13 +503,17 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
         state = lead_data.get("state") or item.get("state") or "US"
         country = lead_data.get("country") or item.get("country") or "US"
         b_name = item.get("business_name", "Business")
-        rec_name = item.get("recipient_name") or "Business Owner"
-        rec_name = re.sub(r'[\r\n]+', ' ', str(rec_name)).strip()
+        raw_rec_name = item.get("recipient_name") or "Business Owner"
+        domain_val = lead_data.get("domain") or item.get("website", "").replace("https://", "").replace("http://", "").split("/")[0]
+        rec_name, greeting, clean_sub = clean_recipient_greeting(raw_rec_name, b_name, domain_val)
         rec_email = item.get("recipient_email") or lead_data.get("decision_maker", {}).get("verified_email")
         rec_email = sanitize_email_address(rec_email)
-        subject = item.get("subject", f"quick question about {b_name}")
+        subject = item.get("subject", clean_sub)
+        if any(w in subject.lower() for w in BLOCKED_NAME_WORDS) or "for Business Owner" in subject or "for passion" in subject.lower():
+            subject = clean_sub
         subject = re.sub(r'[\r\n]+', ' ', str(subject)).strip()
         body_text = item.get("body", "")
+        body_text = re.sub(r'^Hi\s+[^,\n]+,', greeting, body_text.strip())
 
         if not rec_email or "@" not in rec_email:
             continue
