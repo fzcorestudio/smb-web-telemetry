@@ -2206,5 +2206,69 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 404",
     "eliminated_at": "2026-10-26T17:38:56.249360+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850233-1",
+    "business_name": "Elek Solar",
+    "website": "https://eleksolar.com/solar-installation-company-in-georgia",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-10-27T18:24:56.042147+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850388-2",
+    "business_name": "Ultimate Excavation & Liners",
+    "website": "http://ultimateexcavation.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-27T18:26:15.508228+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850435-7",
+    "business_name": "Moorhouse Coating Park City",
+    "website": "https://moorhousecoating.com/locations/park-city",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-27T18:26:46.163981+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850558-2",
+    "business_name": "Timber Green Commercial Cleaning LLC",
+    "website": "https://timbergreenclean.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-27T18:28:46.786601+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850574-5",
+    "business_name": "One Way Cleaning Company",
+    "website": "http://www.onewaycleaningcompany.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-27T18:29:03.078084+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850655-11",
+    "business_name": "MC Janitorial",
+    "website": "https://mcjanitorial.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-27T18:30:03.835099+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792850663-12",
+    "business_name": "Lotus Services",
+    "website": "https://www.servicesbylotus.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-27T18:30:06.111534+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792854390-15",
+    "business_name": "EJG CPA Advisors",
+    "website": "https://www.ejgcpaadvisors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-27T18:33:17.656117+00:00"
   }
 ]
