@@ -465,7 +465,7 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
                 print(f"   ✅ Follow-up delivered successfully via {sender_user}!")
 
                 if sends_done < max_sends:
-                    delay = random.uniform(3.5, 6.0)
+                    delay = random.uniform(1.8, 3.0)
                     print(f"   ⏳ Multi-Subdomain Pacing: Resting {delay:.1f}s before rotating to next inbox...")
                     time.sleep(delay)
             except Exception as e:
@@ -623,7 +623,7 @@ def dispatch_engine(live_mode=False, max_sends=25, ignore_hours=False, test_reci
                 print(f"   ✅ DELIVERED & QUARANTINED successfully via {sender_user}!")
 
                 if sends_done < max_sends:
-                    delay = random.uniform(3.5, 6.0)
+                    delay = random.uniform(1.8, 3.0)
                     print(f"   ⏳ Multi-Subdomain Pacing: Resting {delay:.1f}s before rotating to next inbox...")
                     time.sleep(delay)
 
