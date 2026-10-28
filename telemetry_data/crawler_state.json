@@ -1,8 +1,8 @@
 {
-  "metro_cursor": 64,
-  "niche_cursor": 16,
-  "total_queries_run": 206,
-  "last_metro": "Birmingham",
-  "last_niche": "Solar Panel Installation",
-  "last_harvest_at": "2026-10-28T15:31:08.833377+00:00"
+  "metro_cursor": 0,
+  "niche_cursor": 23,
+  "total_queries_run": 213,
+  "last_metro": "Brisbane",
+  "last_niche": "Painting Contractor Interior Exterior",
+  "last_harvest_at": "2026-10-28T20:43:42.733214+00:00"
 }
