@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "lead_id": "FZ-US-1792621325-3",
+    "prospect_email": "info@ta-cpa.com",
+    "sender_header": "\"info@ta-cpa.com\" <info@ta-cpa.com>",
+    "mailbox_received": "graham@hq.fzcorestudio.com",
+    "subject": "Email Inactive",
+    "snippet": "Email inactive",
+    "received_at": "2026-10-28T18:12:16.097586+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792618160-1",
+    "prospect_email": "concierge@veritasdetailing.site",
+    "sender_header": "\"Veritas Detail Concierge\" <concierge@veritasdetailing.site>",
+    "mailbox_received": "hannah@get.fzcorestudio.com",
+    "subject": "We Received Your Message | Veritas Mobile Car Detailing",
+    "snippet": "<p>Thank you for contacting Veritas Mobile Car Detailing.</p><p>&nbsp;</p><p>We received your message and a member of our Detail Concierge team will get back to you as soon as possible.</p><p>&nbsp;</p><p>If you’re requesting a quote, please include your vehicle’s year, make, model, your location, and the service you’re interested in. Photos are also helpful if there are specific areas you’d like us to address.</p><p>&nbsp;</p><p>In the meantime, you can view our detailing services or book online at <a href=\"https://veritasdetailing.site\">https://veritasdetailing.site</a></p><p>&nbsp;</p><p>We appreciate the opportunity to earn your business.</p><p>&nbsp;</p><p><strong>Detail Concierge</strong></p><p>Veritas Mobile Car Detailing</p><p><a href=\"https://veritasdetailing.site\">https://veritasdetailing.site</a></p>",
+    "received_at": "2026-10-28T18:12:17.850041+00:00"
+  }
+]
