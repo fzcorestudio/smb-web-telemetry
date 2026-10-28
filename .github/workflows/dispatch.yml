@@ -2,17 +2,17 @@ name: Multi-Mailbox Outbound Pitch Dispatcher
 
 on:
   schedule:
-    # 5 Prime US Contractor Business Windows (Mon-Fri) for 1,250 Emails/Day (Strict 25/Mailbox):
-    # Pulse 1: 05:30 PM PKT (12:30 UTC = 08:30 AM EDT - Morning Start & Estimating)
-    - cron: '30 12 * * 1-5'
-    # Pulse 2: 07:30 PM PKT (14:30 UTC = 10:30 AM EDT / 08:30 AM CDT - Central Opening)
-    - cron: '30 14 * * 1-5'
-    # Pulse 3: 09:30 PM PKT (16:30 UTC = 12:30 PM EDT / 09:30 AM PDT - Lunch & West Coast)
-    - cron: '30 16 * * 1-5'
-    # Pulse 4: 11:30 PM PKT (18:30 UTC = 02:30 PM EDT / 11:30 AM PDT - Afternoon Review)
-    - cron: '30 18 * * 1-5'
-    # Pulse 5: 01:30 AM PKT (20:30 UTC = 04:30 PM EDT / 01:30 PM PDT - End-of-Day Quoting)
-    - cron: '30 20 * * 1-5'
+    # 5 High-Converting US Contractor Pulses to complete 1,250 emails safely before 12:00 AM PKT:
+    # Pulse 1: 06:45 PM PKT (13:45 UTC = 09:45 AM EDT - US Morning Kickoff)
+    - cron: '45 13 * * 1-5'
+    # Pulse 2: 07:45 PM PKT (14:45 UTC = 10:45 AM EDT / 09:45 AM CDT - Central Full Shift)
+    - cron: '45 14 * * 1-5'
+    # Pulse 3: 08:45 PM PKT (15:45 UTC = 11:45 AM EDT / 08:45 AM PDT - West Coast Kickoff)
+    - cron: '45 15 * * 1-5'
+    # Pulse 4: 09:45 PM PKT (16:45 UTC = 12:45 PM EDT / 09:45 AM PDT - Prime Midday Window)
+    - cron: '45 16 * * 1-5'
+    # Pulse 5: 10:45 PM PKT (17:45 UTC = 01:45 PM EDT / 10:45 AM PDT - Target Completion Pulse)
+    - cron: '45 17 * * 1-5'
   workflow_dispatch:
     inputs:
       mode:
