@@ -146,7 +146,7 @@
   "FZ-US-1792614814-5": {
     "lead_id": "FZ-US-1792614814-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-24T13:03:39.324038+00:00",
+    "quarantined_at": "2026-10-28T13:18:19.252131+00:00",
     "domain": "",
     "email": "info@waterdamagerepairorlando.pro",
     "business_name": "",
@@ -547,7 +547,7 @@
   "FZ-US-1792615196-7": {
     "lead_id": "FZ-US-1792615196-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-24T13:03:00.141367+00:00",
+    "quarantined_at": "2026-10-28T13:17:57.979065+00:00",
     "domain": "",
     "email": "info@firstchoicecommercialcleaning.com",
     "business_name": "",
@@ -880,7 +880,7 @@
   "FZ-US-1792615480-2": {
     "lead_id": "FZ-US-1792615480-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-24T13:02:38.699656+00:00",
+    "quarantined_at": "2026-10-28T13:17:45.811557+00:00",
     "domain": "",
     "email": "hello@theresilienttaxgroup.com",
     "business_name": "",
@@ -1148,6 +1148,71 @@
       "angle": "1-Tap Call & Sticky Bottom Bar",
       "state": "FL",
       "domain": "tpamold.com"
+    }
+  },
+  "FZ-US-1792615099-2": {
+    "lead_id": "FZ-US-1792615099-2",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-10-28T13:17:49.096206+00:00",
+    "domain": "",
+    "email": "upport@primepoolsandspa.com",
+    "business_name": "",
+    "city": "",
+    "details": {
+      "bounce_subject": "Undelivered Mail Returned to Sender",
+      "inbox": "clara@team.fzcorestudio.com"
+    }
+  },
+  "FZ-US-1792615361-2": {
+    "lead_id": "FZ-US-1792615361-2",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-10-28T13:17:56.718661+00:00",
+    "domain": "",
+    "email": "ales@sunnypaverus.com",
+    "business_name": "",
+    "city": "",
+    "details": {
+      "bounce_subject": "Undelivered Mail Returned to Sender",
+      "inbox": "evelyn@hq.fzcorestudio.com"
+    }
+  },
+  "FZ-US-1792615385-4": {
+    "lead_id": "FZ-US-1792615385-4",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-10-28T13:17:50.302218+00:00",
+    "domain": "",
+    "email": "ales@pavermastersllc.com",
+    "business_name": "",
+    "city": "",
+    "details": {
+      "bounce_subject": "Undelivered Mail Returned to Sender",
+      "inbox": "connor@hq.fzcorestudio.com"
+    }
+  },
+  "FZ-US-1792615398-1": {
+    "lead_id": "FZ-US-1792615398-1",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-10-28T13:17:39.254706+00:00",
+    "domain": "",
+    "email": "ales@flconcretecoating.com",
+    "business_name": "",
+    "city": "",
+    "details": {
+      "bounce_subject": "Undelivered Mail Returned to Sender",
+      "inbox": "audrey@client.fzcorestudio.com"
+    }
+  },
+  "FZ-US-1792615464-2": {
+    "lead_id": "FZ-US-1792615464-2",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-10-28T13:17:47.936778+00:00",
+    "domain": "",
+    "email": "ervice@asapserviceplumbing.com",
+    "business_name": "",
+    "city": "",
+    "details": {
+      "bounce_subject": "Delivery Status Notification (Failure)",
+      "inbox": "claire@client.fzcorestudio.com"
     }
   }
 }
