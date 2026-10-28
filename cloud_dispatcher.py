@@ -151,7 +151,7 @@ def build_ultralight_hybrid_email(sender_name, sender_email, sender_title, recip
     msg = MIMEMultipart("alternative")
     msg["From"] = f"{sender_name} <{sender_email}>"
     msg["To"] = f"{recipient_name} <{recipient_email}>"
-    msg["Reply-To"] = "Faiz Majeed <contact@fzcorestudio.com>"
+    msg["Reply-To"] = "Faiz Majeed <faiz@fzcorestudio.com>"
     msg["Subject"] = subject
     msg["Date"] = formatdate(localtime=True)
     msg["Message-ID"] = make_msgid(domain=subdomain)

@@ -43,7 +43,7 @@ jobs:
   dispatch-pitches:
     name: Safe Multi-Subdomain SMTP Dispatcher & Follow-Up
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 60
 
     steps:
       - name: 🚚 Checkout Repository

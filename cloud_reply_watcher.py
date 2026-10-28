@@ -290,42 +290,43 @@ def check_for_lead_replies():
             continue
 
 
-    # Scan contact@fzcorestudio.com for any direct replies
+    # Scan faiz@fzcorestudio.com & contact@fzcorestudio.com for direct replies
     contact_pass = os.getenv("PASS_CONTACT")
     if contact_pass and prospect_map:
-        try:
-            client = imaplib.IMAP4_SSL(IMAP_HOST, IMAP_PORT, timeout=12)
-            client.login("contact@fzcorestudio.com", contact_pass)
-            client.select("INBOX", readonly=True)
-            status, data = client.search(None, "ALL")
-            if status == "OK" and data and data[0]:
-                msg_ids = data[0].split()
-                recent_ids = msg_ids[-30:] if len(msg_ids) > 30 else msg_ids
-                for mid in reversed(recent_ids):
-                    r_status, msg_data = client.fetch(mid, "(RFC822.HEADER)")
-                    if r_status != "OK" or not msg_data:
-                        continue
-                    parsed_msg = email.message_from_bytes(msg_data[0][1])
-                    sender_header = clean_header_text(parsed_msg.get("From"))
-                    sender_email = extract_email_address(sender_header)
-                    matched_lid = prospect_map.get(sender_email)
-                    if matched_lid:
-                        b_status, full_data = client.fetch(mid, "(RFC822)")
-                        full_parsed = email.message_from_bytes(full_data[0][1]) if b_status == "OK" else parsed_msg
-                        snippet = get_body_snippet(full_parsed)
-                        print(f"\n🚨 [CLIENT REPLY TO CONTACT] From: {sender_header} <{sender_email}>")
-                        if matched_lid in pipeline:
-                            pipeline[matched_lid]["status"] = "REPLIED"
-                            pipeline[matched_lid]["replied_at"] = datetime.now(timezone.utc).isoformat()
-                            pipeline[matched_lid]["reply_snippet"] = snippet
-                            pipeline[matched_lid]["next_followup_due"] = None
-                        if ql:
-                            ql.quarantine_lead(lead={"lead_id": matched_lid, "recipient_email": sender_email}, action="CLIENT_REPLIED")
-                        del prospect_map[sender_email]
-                        new_replies_found += 1
-            client.logout()
-        except Exception:
-            pass
+        for primary_box in ["faiz@fzcorestudio.com", "contact@fzcorestudio.com"]:
+            try:
+                client = imaplib.IMAP4_SSL(IMAP_HOST, IMAP_PORT, timeout=12)
+                client.login(primary_box, contact_pass)
+                client.select("INBOX", readonly=True)
+                status, data = client.search(None, "ALL")
+                if status == "OK" and data and data[0]:
+                    msg_ids = data[0].split()
+                    recent_ids = msg_ids[-30:] if len(msg_ids) > 30 else msg_ids
+                    for mid in reversed(recent_ids):
+                        r_status, msg_data = client.fetch(mid, "(RFC822.HEADER)")
+                        if r_status != "OK" or not msg_data:
+                            continue
+                        parsed_msg = email.message_from_bytes(msg_data[0][1])
+                        sender_header = clean_header_text(parsed_msg.get("From"))
+                        sender_email = extract_email_address(sender_header)
+                        matched_lid = prospect_map.get(sender_email)
+                        if matched_lid:
+                            b_status, full_data = client.fetch(mid, "(RFC822)")
+                            full_parsed = email.message_from_bytes(full_data[0][1]) if b_status == "OK" else parsed_msg
+                            snippet = get_body_snippet(full_parsed)
+                            print(f"\n🚨 [CLIENT REPLY TO {primary_box}] From: {sender_header} <{sender_email}>")
+                            if matched_lid in pipeline:
+                                pipeline[matched_lid]["status"] = "REPLIED"
+                                pipeline[matched_lid]["replied_at"] = datetime.now(timezone.utc).isoformat()
+                                pipeline[matched_lid]["reply_snippet"] = snippet
+                                pipeline[matched_lid]["next_followup_due"] = None
+                            if ql:
+                                ql.quarantine_lead(lead={"lead_id": matched_lid, "recipient_email": sender_email}, action="CLIENT_REPLIED")
+                            del prospect_map[sender_email]
+                            new_replies_found += 1
+                client.logout()
+            except Exception:
+                pass
 
     # Save updated pipeline and replies archive
     if new_replies_found > 0 or new_bounces_found > 0:
