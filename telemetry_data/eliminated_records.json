@@ -2270,5 +2270,101 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
     "eliminated_at": "2026-10-27T18:33:17.656117+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792854453-4",
+    "business_name": "Val Doors LLC-Commercial Door Repair",
+    "website": "http://www.valdoorsllc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-28T08:07:02.772196+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792854456-5",
+    "business_name": "Garage Door Solved",
+    "website": "https://garagedoorsolved.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-28T08:07:15.363272+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792854540-11",
+    "business_name": "Legendary Concrete Tempe",
+    "website": "https://legendaryconcretetempe.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'scrollWidth')\n    at eval (eval a",
+    "eliminated_at": "2026-10-28T08:08:37.514358+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792854640-5",
+    "business_name": "Platinum Pest Control AZ",
+    "website": "https://platinumpestcontrolaz.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://plat",
+    "eliminated_at": "2026-10-28T08:09:24.750523+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792854642-6",
+    "business_name": "Kova Pest Control",
+    "website": "http://kovapestcontrol.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-28T08:09:25.267627+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792854732-3",
+    "business_name": "Bates Paving & Sealing Inc",
+    "website": "http://batespaving.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-28T08:11:01.132816+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792854796-10",
+    "business_name": "Accurate Paving LLC",
+    "website": "https://www.accuratepavingllc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
+    "eliminated_at": "2026-10-28T08:11:40.908508+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792855049-7",
+    "business_name": "NLG Glass & Mirrors Company LLC",
+    "website": "https://glassandmirrormarietta.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-28T08:13:26.722229+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792855096-1",
+    "business_name": "Unique Construction",
+    "website": "https://theuniqueco.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-28T08:13:45.182781+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792855109-4",
+    "business_name": "GPH Grading",
+    "website": "https://gphgrading.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-10-28T08:14:19.172455+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792855320-29",
+    "business_name": "Earth Shapers",
+    "website": "http://earthshapersllc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-28T08:16:26.633544+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859051-2",
+    "business_name": "Lockguard Locksmiths of Charlotte",
+    "website": "https://lockguardlocksmiths.com/locksmith-charlotte",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-28T08:16:46.434849+00:00"
   }
 ]
