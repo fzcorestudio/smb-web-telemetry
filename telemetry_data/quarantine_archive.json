@@ -146,7 +146,7 @@
   "FZ-US-1792614814-5": {
     "lead_id": "FZ-US-1792614814-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-28T13:18:19.252131+00:00",
+    "quarantined_at": "2026-10-28T13:42:30.348892+00:00",
     "domain": "",
     "email": "info@waterdamagerepairorlando.pro",
     "business_name": "",
@@ -547,7 +547,7 @@
   "FZ-US-1792615196-7": {
     "lead_id": "FZ-US-1792615196-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-28T13:17:57.979065+00:00",
+    "quarantined_at": "2026-10-28T13:41:59.661780+00:00",
     "domain": "",
     "email": "info@firstchoicecommercialcleaning.com",
     "business_name": "",
@@ -880,7 +880,7 @@
   "FZ-US-1792615480-2": {
     "lead_id": "FZ-US-1792615480-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-28T13:17:45.811557+00:00",
+    "quarantined_at": "2026-10-28T13:41:41.185149+00:00",
     "domain": "",
     "email": "hello@theresilienttaxgroup.com",
     "business_name": "",
@@ -1153,7 +1153,7 @@
   "FZ-US-1792615099-2": {
     "lead_id": "FZ-US-1792615099-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-28T13:17:49.096206+00:00",
+    "quarantined_at": "2026-10-28T13:41:45.914193+00:00",
     "domain": "",
     "email": "upport@primepoolsandspa.com",
     "business_name": "",
@@ -1166,7 +1166,7 @@
   "FZ-US-1792615361-2": {
     "lead_id": "FZ-US-1792615361-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-28T13:17:56.718661+00:00",
+    "quarantined_at": "2026-10-28T13:41:57.808329+00:00",
     "domain": "",
     "email": "ales@sunnypaverus.com",
     "business_name": "",
@@ -1179,7 +1179,7 @@
   "FZ-US-1792615385-4": {
     "lead_id": "FZ-US-1792615385-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-28T13:17:50.302218+00:00",
+    "quarantined_at": "2026-10-28T13:41:47.652910+00:00",
     "domain": "",
     "email": "ales@pavermastersllc.com",
     "business_name": "",
@@ -1192,7 +1192,7 @@
   "FZ-US-1792615398-1": {
     "lead_id": "FZ-US-1792615398-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-28T13:17:39.254706+00:00",
+    "quarantined_at": "2026-10-28T13:41:31.563732+00:00",
     "domain": "",
     "email": "ales@flconcretecoating.com",
     "business_name": "",
@@ -1205,7 +1205,7 @@
   "FZ-US-1792615464-2": {
     "lead_id": "FZ-US-1792615464-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-10-28T13:17:47.936778+00:00",
+    "quarantined_at": "2026-10-28T13:41:44.287111+00:00",
     "domain": "",
     "email": "ervice@asapserviceplumbing.com",
     "business_name": "",
@@ -1213,6 +1213,3866 @@
     "details": {
       "bounce_subject": "Delivery Status Notification (Failure)",
       "inbox": "claire@client.fzcorestudio.com"
+    }
+  },
+  "FZ-US-1792616275-2": {
+    "lead_id": "FZ-US-1792616275-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:50:27.153751+00:00",
+    "domain": "chargepoint.com",
+    "email": "investors@chargepoint.com",
+    "business_name": "ChargePoint Charging Station",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:50:27.151416+00:00",
+      "recipient_email": "investors@chargepoint.com",
+      "recipient_name": "Ship Experience",
+      "sender_email": "liam@team.fzcorestudio.com",
+      "business_name": "ChargePoint Charging Station",
+      "subject": "quick question for Ship re chargepoint.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "chargepoint.com"
+    }
+  },
+  "FZ-US-1792616288-1": {
+    "lead_id": "FZ-US-1792616288-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:50:33.362617+00:00",
+    "domain": "westchasepainting.com",
+    "email": "office@westchasepainting.com",
+    "business_name": "Westchase Painting Company",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:50:33.360366+00:00",
+      "recipient_email": "office@westchasepainting.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "maya@team.fzcorestudio.com",
+      "business_name": "Westchase Painting Company",
+      "subject": "quick question for Meet re westchasepainting.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "westchasepainting.com"
+    }
+  },
+  "FZ-US-1792616289-3": {
+    "lead_id": "FZ-US-1792616289-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:50:40.664837+00:00",
+    "domain": "elitepaintingfl.com",
+    "email": "fazia@elitepaintingfl.com",
+    "business_name": "Elite Painting & Waterproofing Inc.",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:50:40.662487+00:00",
+      "recipient_email": "fazia@elitepaintingfl.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "julian@team.fzcorestudio.com",
+      "business_name": "Elite Painting & Waterproofing Inc.",
+      "subject": "quick question re elitepaintingfl.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "elitepaintingfl.com"
+    }
+  },
+  "FZ-US-1792616326-1": {
+    "lead_id": "FZ-US-1792616326-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:50:47.346541+00:00",
+    "domain": "gulfstreampools.com",
+    "email": "contact@gulfstreampools.com",
+    "business_name": "Gulf Stream Pools & Spas",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:50:47.344166+00:00",
+      "recipient_email": "contact@gulfstreampools.com",
+      "recipient_name": "Gulf Stream Pools & Spas",
+      "sender_email": "hannah@get.fzcorestudio.com",
+      "business_name": "Gulf Stream Pools & Spas",
+      "subject": "gulfstreampools.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "gulfstreampools.com"
+    }
+  },
+  "FZ-US-1792616331-3": {
+    "lead_id": "FZ-US-1792616331-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:50:53.950223+00:00",
+    "domain": "elitepooldesigns.com",
+    "email": "info@elitepooldesigns.com",
+    "business_name": "Elite Pool Designs Inc",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:50:53.947856+00:00",
+      "recipient_email": "info@elitepooldesigns.com",
+      "recipient_name": "Qualified Professionals",
+      "sender_email": "owen@get.fzcorestudio.com",
+      "business_name": "Elite Pool Designs Inc",
+      "subject": "elitepooldesigns.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "elitepooldesigns.com"
+    }
+  },
+  "FZ-US-1792616333-5": {
+    "lead_id": "FZ-US-1792616333-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:51:01.524947+00:00",
+    "domain": "ryanhughesdesign.com",
+    "email": "info@ryanhughesdesign.com",
+    "business_name": "Ryan Hughes Design",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:51:01.522252+00:00",
+      "recipient_email": "info@ryanhughesdesign.com",
+      "recipient_name": "Ryan Hughes Design",
+      "sender_email": "chloe@get.fzcorestudio.com",
+      "business_name": "Ryan Hughes Design",
+      "subject": "ryanhughesdesign.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "ryanhughesdesign.com"
+    }
+  },
+  "FZ-US-1792616335-6": {
+    "lead_id": "FZ-US-1792616335-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:51:16.591138+00:00",
+    "domain": "leecustompools.com",
+    "email": "info@leecustompools.com",
+    "business_name": "Lee Custom Pools",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:51:16.588658+00:00",
+      "recipient_email": "info@leecustompools.com",
+      "recipient_name": "Lee Custom Pools",
+      "sender_email": "mason@get.fzcorestudio.com",
+      "business_name": "Lee Custom Pools",
+      "subject": "leecustompools.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "leecustompools.com"
+    }
+  },
+  "FZ-US-1792616351-1": {
+    "lead_id": "FZ-US-1792616351-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:51:22.609453+00:00",
+    "domain": "reimagineremodelinganddesign.com",
+    "email": "office@reimagineremodelinganddesign.com",
+    "business_name": "Reimagine Remodeling And Design - Bathroom & Kitchen Remodeling",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:51:22.606973+00:00",
+      "recipient_email": "office@reimagineremodelinganddesign.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "zoe@get.fzcorestudio.com",
+      "business_name": "Reimagine Remodeling And Design - Bathroom & Kitchen Remodeling",
+      "subject": "quick question re reimagineremodelinganddesign.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "reimagineremodelinganddesign.com"
+    }
+  },
+  "FZ-US-1792616354-2": {
+    "lead_id": "FZ-US-1792616354-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:51:37.807075+00:00",
+    "domain": "tampastandardconstruction.com",
+    "email": "info@tampastandardconstruction.com",
+    "business_name": "Tampa Standard Construction",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:51:37.804545+00:00",
+      "recipient_email": "info@tampastandardconstruction.com",
+      "recipient_name": "Is Unique",
+      "sender_email": "faiz@direct.fzcorestudio.com",
+      "business_name": "Tampa Standard Construction",
+      "subject": "quick question for Is Unique re tampastandardconstruction.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "tampastandardconstruction.com"
+    }
+  },
+  "FZ-US-1792616367-10": {
+    "lead_id": "FZ-US-1792616367-10",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:51:44.765609+00:00",
+    "domain": "mackprorenovations.com",
+    "email": "vlad@mackprorenovations.com",
+    "business_name": "Mack PRO Renovations",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:51:44.763057+00:00",
+      "recipient_email": "vlad@mackprorenovations.com",
+      "recipient_name": "Vlad",
+      "sender_email": "ethan@direct.fzcorestudio.com",
+      "business_name": "Mack PRO Renovations",
+      "subject": "quick question for Vlad re mackprorenovations.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "mackprorenovations.com"
+    }
+  },
+  "FZ-US-1792616391-1": {
+    "lead_id": "FZ-US-1792616391-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:51:58.385504+00:00",
+    "domain": "magicleanoftampa.com",
+    "email": "info@magicleanoftampa.com",
+    "business_name": "Magiclean of Tampa",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:51:58.382785+00:00",
+      "recipient_email": "info@magicleanoftampa.com",
+      "recipient_name": "Magiclean of Tampa",
+      "sender_email": "olivia@direct.fzcorestudio.com",
+      "business_name": "Magiclean of Tampa",
+      "subject": "quick question re magicleanoftampa.com",
+      "angle": "Mobile Friction Reduction",
+      "state": "FL",
+      "domain": "magicleanoftampa.com"
+    }
+  },
+  "FZ-US-1792616396-4": {
+    "lead_id": "FZ-US-1792616396-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:52:03.973705+00:00",
+    "domain": "steamcleaning.us",
+    "email": "info@steamcleaning.us",
+    "business_name": "CE Commercial Kitchen Cleaning Florida",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:52:03.971171+00:00",
+      "recipient_email": "info@steamcleaning.us",
+      "recipient_name": "Operated Deep",
+      "sender_email": "noah@direct.fzcorestudio.com",
+      "business_name": "CE Commercial Kitchen Cleaning Florida",
+      "subject": "quick question for Operated Deep re steamcleaning.us",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "steamcleaning.us"
+    }
+  },
+  "FZ-US-1792616398-5": {
+    "lead_id": "FZ-US-1792616398-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:52:11.737761+00:00",
+    "domain": "cleanedpristinesolutions.com",
+    "email": "admin@cleanedpristinesolutions.com",
+    "business_name": "Cleaned Pristine Solutions",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:52:11.735191+00:00",
+      "recipient_email": "admin@cleanedpristinesolutions.com",
+      "recipient_name": "Ship When",
+      "sender_email": "ava@direct.fzcorestudio.com",
+      "business_name": "Cleaned Pristine Solutions",
+      "subject": "quick question for Ship When re cleanedpristinesolutions.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "cleanedpristinesolutions.com"
+    }
+  },
+  "FZ-US-1792616401-6": {
+    "lead_id": "FZ-US-1792616401-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:52:17.044408+00:00",
+    "domain": "ssifacilityservices.com",
+    "email": "support@ssifacilityservices.com",
+    "business_name": "SSI Facility Services LLC",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:52:17.041678+00:00",
+      "recipient_email": "support@ssifacilityservices.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "leo@reach.fzcorestudio.com",
+      "business_name": "SSI Facility Services LLC",
+      "subject": "quick question re ssifacilityservices.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "ssifacilityservices.com"
+    }
+  },
+  "FZ-US-1792616416-2": {
+    "lead_id": "FZ-US-1792616416-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:52:22.394365+00:00",
+    "domain": "paverrescuellc.com",
+    "email": "lucas@paverrescuellc.com",
+    "business_name": "Paver Rescue Paver Sealing Tampa",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:52:22.391641+00:00",
+      "recipient_email": "lucas@paverrescuellc.com",
+      "recipient_name": "Lucas",
+      "sender_email": "emma@reach.fzcorestudio.com",
+      "business_name": "Paver Rescue Paver Sealing Tampa",
+      "subject": "quick question for Lucas re paverrescuellc.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "paverrescuellc.com"
+    }
+  },
+  "FZ-US-1792616460-1": {
+    "lead_id": "FZ-US-1792616460-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:52:29.251267+00:00",
+    "domain": "crescenthomesinc.com",
+    "email": "calvin@crescenthomesinc.com",
+    "business_name": "Crescent Homes Inc",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:52:29.248527+00:00",
+      "recipient_email": "calvin@crescenthomesinc.com",
+      "recipient_name": "Programs",
+      "sender_email": "nathan@reach.fzcorestudio.com",
+      "business_name": "Crescent Homes Inc",
+      "subject": "crescenthomesinc.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "crescenthomesinc.com"
+    }
+  },
+  "FZ-US-1792616460-2": {
+    "lead_id": "FZ-US-1792616460-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:52:45.429751+00:00",
+    "domain": "momentumcustomhomes.com",
+    "email": "michael@momentumcustomhomes.com",
+    "business_name": "Momentum Homes",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:52:45.427030+00:00",
+      "recipient_email": "michael@momentumcustomhomes.com",
+      "recipient_name": "Michael",
+      "sender_email": "mia@reach.fzcorestudio.com",
+      "business_name": "Momentum Homes",
+      "subject": "quick question for Michael re momentumcustomhomes.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "momentumcustomhomes.com"
+    }
+  },
+  "FZ-US-1792616470-3": {
+    "lead_id": "FZ-US-1792616470-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:52:50.982174+00:00",
+    "domain": "manorbuilder.com",
+    "email": "info@manorbuilder.com",
+    "business_name": "Manor Builder",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:52:50.979404+00:00",
+      "recipient_email": "info@manorbuilder.com",
+      "recipient_name": "Abdul Ghafoor",
+      "sender_email": "caleb@reach.fzcorestudio.com",
+      "business_name": "Manor Builder",
+      "subject": "quick question for Abdul re manorbuilder.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "manorbuilder.com"
+    }
+  },
+  "FZ-US-1792616471-4": {
+    "lead_id": "FZ-US-1792616471-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:52:57.271485+00:00",
+    "domain": "gilk.com",
+    "email": "office@gilk.com",
+    "business_name": "Gilk Design Build",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:52:57.268722+00:00",
+      "recipient_email": "office@gilk.com",
+      "recipient_name": "Is",
+      "sender_email": "harrison@hq.fzcorestudio.com",
+      "business_name": "Gilk Design Build",
+      "subject": "quick question for Is re gilk.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "gilk.com"
+    }
+  },
+  "FZ-US-1792616477-5": {
+    "lead_id": "FZ-US-1792616477-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:53:12.126625+00:00",
+    "domain": "zmcbuild.com",
+    "email": "office@zmcbuild.com",
+    "business_name": "ZMC Design + Build",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:53:12.123789+00:00",
+      "recipient_email": "office@zmcbuild.com",
+      "recipient_name": "Ship Zadok",
+      "sender_email": "victoria@hq.fzcorestudio.com",
+      "business_name": "ZMC Design + Build",
+      "subject": "zmcbuild.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "zmcbuild.com"
+    }
+  },
+  "FZ-US-1792616479-7": {
+    "lead_id": "FZ-US-1792616479-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:53:18.798710+00:00",
+    "domain": "taralonhomes.com",
+    "email": "scottkirchner@taralonhomes.com",
+    "business_name": "Taralon Homes",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:53:18.795889+00:00",
+      "recipient_email": "scottkirchner@taralonhomes.com",
+      "recipient_name": "Scottkirchner",
+      "sender_email": "graham@hq.fzcorestudio.com",
+      "business_name": "Taralon Homes",
+      "subject": "taralonhomes.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "taralonhomes.com"
+    }
+  },
+  "FZ-US-1792616480-9": {
+    "lead_id": "FZ-US-1792616480-9",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:53:25.002488+00:00",
+    "domain": "turkcustomhomes.com",
+    "email": "info@turkcustomhomes.com",
+    "business_name": "Turk Custom Homes",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:53:24.999527+00:00",
+      "recipient_email": "info@turkcustomhomes.com",
+      "recipient_name": "Turk Custom Homes",
+      "sender_email": "evelyn@hq.fzcorestudio.com",
+      "business_name": "Turk Custom Homes",
+      "subject": "turkcustomhomes.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "turkcustomhomes.com"
+    }
+  },
+  "FZ-US-1792616485-10": {
+    "lead_id": "FZ-US-1792616485-10",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:53:31.699772+00:00",
+    "domain": "madisontampa.com",
+    "email": "info@madisontampa.com",
+    "business_name": "Madison Homes",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:53:31.696704+00:00",
+      "recipient_email": "info@madisontampa.com",
+      "recipient_name": "Ship In",
+      "sender_email": "connor@hq.fzcorestudio.com",
+      "business_name": "Madison Homes",
+      "subject": "quick question for Ship re madisontampa.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "madisontampa.com"
+    }
+  },
+  "FZ-US-1792616489-12": {
+    "lead_id": "FZ-US-1792616489-12",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:53:37.169927+00:00",
+    "domain": "vikinhomes.com",
+    "email": "info@vikinhomes.com",
+    "business_name": "VIKIN Homes",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:53:37.166988+00:00",
+      "recipient_email": "info@vikinhomes.com",
+      "recipient_name": "VIKIN Homes",
+      "sender_email": "audrey@client.fzcorestudio.com",
+      "business_name": "VIKIN Homes",
+      "subject": "vikinhomes.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "vikinhomes.com"
+    }
+  },
+  "FZ-US-1792616496-16": {
+    "lead_id": "FZ-US-1792616496-16",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:53:44.273833+00:00",
+    "domain": "dmfhomestpa.com",
+    "email": "info@dmfhomestpa.com",
+    "business_name": "DMF Homes LLC",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:53:44.270849+00:00",
+      "recipient_email": "info@dmfhomestpa.com",
+      "recipient_name": "Derrick Friga",
+      "sender_email": "elliott@client.fzcorestudio.com",
+      "business_name": "DMF Homes LLC",
+      "subject": "quick question for Derrick re dmfhomestpa.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "dmfhomestpa.com"
+    }
+  },
+  "FZ-US-1792616531-2": {
+    "lead_id": "FZ-US-1792616531-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:53:59.114050+00:00",
+    "domain": "lawyerstudiodesign.com",
+    "email": "contact@lawyerstudiodesign.com",
+    "business_name": "Lawyer Studio Design",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:53:59.111040+00:00",
+      "recipient_email": "contact@lawyerstudiodesign.com",
+      "recipient_name": "Lawyer Studio Design",
+      "sender_email": "madeline@client.fzcorestudio.com",
+      "business_name": "Lawyer Studio Design",
+      "subject": "lawyerstudiodesign.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "lawyerstudiodesign.com"
+    }
+  },
+  "FZ-US-1792616538-5": {
+    "lead_id": "FZ-US-1792616538-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:54:06.229273+00:00",
+    "domain": "ascendlymarketing.com",
+    "email": "info@ascendlymarketing.com",
+    "business_name": "Ascendly Marketing and Website Design",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:54:06.226231+00:00",
+      "recipient_email": "info@ascendlymarketing.com",
+      "recipient_name": "Quoted In",
+      "sender_email": "trevor@client.fzcorestudio.com",
+      "business_name": "Ascendly Marketing and Website Design",
+      "subject": "quick question for Quoted re ascendlymarketing.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "ascendlymarketing.com"
+    }
+  },
+  "FZ-US-1792616540-6": {
+    "lead_id": "FZ-US-1792616540-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:54:19.213729+00:00",
+    "domain": "dunn-co.com",
+    "email": "jauregui@dunn-co.com",
+    "business_name": "Dunn&Co.",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:54:19.210645+00:00",
+      "recipient_email": "jauregui@dunn-co.com",
+      "recipient_name": "Jauregui",
+      "sender_email": "claire@client.fzcorestudio.com",
+      "business_name": "Dunn&Co.",
+      "subject": "quick note for Jauregui re dunn-co.com",
+      "angle": "Mobile Viewport Un-Breaking",
+      "state": "FL",
+      "domain": "dunn-co.com"
+    }
+  },
+  "FZ-US-1792616554-9": {
+    "lead_id": "FZ-US-1792616554-9",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:54:24.995508+00:00",
+    "domain": "streetlaced.com",
+    "email": "blaise@streetlaced.com",
+    "business_name": "Street Laced Marketing & Promotions, Inc.",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:54:24.992322+00:00",
+      "recipient_email": "blaise@streetlaced.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "warren@desk.fzcorestudio.com",
+      "business_name": "Street Laced Marketing & Promotions, Inc.",
+      "subject": "streetlaced.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "streetlaced.com"
+    }
+  },
+  "FZ-US-1792616554-10": {
+    "lead_id": "FZ-US-1792616554-10",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:54:31.386876+00:00",
+    "domain": "designmakerllc.com",
+    "email": "info@designmakerllc.com",
+    "business_name": "Design Maker LLC",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:54:31.383682+00:00",
+      "recipient_email": "info@designmakerllc.com",
+      "recipient_name": "Design Maker LLC",
+      "sender_email": "charlotte@desk.fzcorestudio.com",
+      "business_name": "Design Maker LLC",
+      "subject": "designmakerllc.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "designmakerllc.com"
+    }
+  },
+  "FZ-US-1792616555-11": {
+    "lead_id": "FZ-US-1792616555-11",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:54:36.834637+00:00",
+    "domain": "greatimpressions.biz",
+    "email": "john@greatimpressions.biz",
+    "business_name": "Great Impressions",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:54:36.831511+00:00",
+      "recipient_email": "john@greatimpressions.biz",
+      "recipient_name": "John",
+      "sender_email": "preston@desk.fzcorestudio.com",
+      "business_name": "Great Impressions",
+      "subject": "greatimpressions.biz quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "greatimpressions.biz"
+    }
+  },
+  "FZ-US-1792616557-12": {
+    "lead_id": "FZ-US-1792616557-12",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:54:48.253862+00:00",
+    "domain": "floridaseo.net",
+    "email": "adam@floridaseo.net",
+    "business_name": "FloridaSEO.net",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:54:48.250605+00:00",
+      "recipient_email": "adam@floridaseo.net",
+      "recipient_name": "Adam",
+      "sender_email": "natalie@desk.fzcorestudio.com",
+      "business_name": "FloridaSEO.net",
+      "subject": "floridaseo.net quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "floridaseo.net"
+    }
+  },
+  "FZ-US-1792616558-13": {
+    "lead_id": "FZ-US-1792616558-13",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:54:55.982024+00:00",
+    "domain": "cgotprint.com",
+    "email": "orders@cgotprint.com",
+    "business_name": "Custom Graphics of Tampa",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:54:55.978745+00:00",
+      "recipient_email": "orders@cgotprint.com",
+      "recipient_name": "Orders",
+      "sender_email": "simon@desk.fzcorestudio.com",
+      "business_name": "Custom Graphics of Tampa",
+      "subject": "cgotprint.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "cgotprint.com"
+    }
+  },
+  "FZ-US-1792616563-15": {
+    "lead_id": "FZ-US-1792616563-15",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:03.110499+00:00",
+    "domain": "upwebstudio.com",
+    "email": "info@upwebstudio.com",
+    "business_name": "UpWeb Studio",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:03.107158+00:00",
+      "recipient_email": "info@upwebstudio.com",
+      "recipient_name": "UpWeb Studio",
+      "sender_email": "bennett@partner.fzcorestudio.com",
+      "business_name": "UpWeb Studio",
+      "subject": "upwebstudio.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "upwebstudio.com"
+    }
+  },
+  "FZ-US-1792616565-17": {
+    "lead_id": "FZ-US-1792616565-17",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:09.980002+00:00",
+    "domain": "createandcompany.com",
+    "email": "hello@createandcompany.com",
+    "business_name": "CREATE+CO",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:09.976750+00:00",
+      "recipient_email": "hello@createandcompany.com",
+      "recipient_name": "CREATE+CO",
+      "sender_email": "lydia@partner.fzcorestudio.com",
+      "business_name": "CREATE+CO",
+      "subject": "quick question re createandcompany.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "createandcompany.com"
+    }
+  },
+  "FZ-US-1792616567-18": {
+    "lead_id": "FZ-US-1792616567-18",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:16.254571+00:00",
+    "domain": "pressmarketing.com",
+    "email": "info@pressmarketing.com",
+    "business_name": "PRESS PR + Marketing",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:16.251246+00:00",
+      "recipient_email": "info@pressmarketing.com",
+      "recipient_name": "PRESS PR + Marketing",
+      "sender_email": "russell@partner.fzcorestudio.com",
+      "business_name": "PRESS PR + Marketing",
+      "subject": "pressmarketing.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "pressmarketing.com"
+    }
+  },
+  "FZ-US-1792616569-19": {
+    "lead_id": "FZ-US-1792616569-19",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:26.175483+00:00",
+    "domain": "tampaseoagency.com",
+    "email": "info@tampaseoagency.com",
+    "business_name": "Tampa SEO Agency",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:26.172216+00:00",
+      "recipient_email": "info@tampaseoagency.com",
+      "recipient_name": "Tampa SEO Agency",
+      "sender_email": "valerie@partner.fzcorestudio.com",
+      "business_name": "Tampa SEO Agency",
+      "subject": "quick question re tampaseoagency.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "tampaseoagency.com"
+    }
+  },
+  "FZ-US-1792616583-1": {
+    "lead_id": "FZ-US-1792616583-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:32.375474+00:00",
+    "domain": "galaxyfloorcoatings.com",
+    "email": "sales@galaxyfloorcoatings.com",
+    "business_name": "Galaxy Floor Coatings",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:32.372137+00:00",
+      "recipient_email": "sales@galaxyfloorcoatings.com",
+      "recipient_name": "Galaxy Floor Coatings",
+      "sender_email": "spencer@partner.fzcorestudio.com",
+      "business_name": "Galaxy Floor Coatings",
+      "subject": "galaxyfloorcoatings.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "galaxyfloorcoatings.com"
+    }
+  },
+  "FZ-US-1792616603-6": {
+    "lead_id": "FZ-US-1792616603-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:38.395753+00:00",
+    "domain": "tampaepoxyelite.com",
+    "email": "info@tampaepoxyelite.com",
+    "business_name": "TAMPA EPOXY ELITE",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:38.392315+00:00",
+      "recipient_email": "info@tampaepoxyelite.com",
+      "recipient_name": "TAMPA EPOXY ELITE",
+      "sender_email": "carter@ops.fzcorestudio.com",
+      "business_name": "TAMPA EPOXY ELITE",
+      "subject": "tampaepoxyelite.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "tampaepoxyelite.com"
+    }
+  },
+  "FZ-US-1792616615-7": {
+    "lead_id": "FZ-US-1792616615-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:43.972400+00:00",
+    "domain": "concreteideasflorida.com",
+    "email": "jesse@concreteideasflorida.com",
+    "business_name": "Concrete Ideas Inc",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:43.968868+00:00",
+      "recipient_email": "jesse@concreteideasflorida.com",
+      "recipient_name": "Jesse",
+      "sender_email": "brooke@ops.fzcorestudio.com",
+      "business_name": "Concrete Ideas Inc",
+      "subject": "concreteideasflorida.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "concreteideasflorida.com"
+    }
+  },
+  "FZ-US-1792616656-1": {
+    "lead_id": "FZ-US-1792616656-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:50.519547+00:00",
+    "domain": "leakgeekplumbersfl.com",
+    "email": "office@leakgeekplumbersfl.com",
+    "business_name": "Leak Geek Plumbers & Tampa Drain Cleaning",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:50.516084+00:00",
+      "recipient_email": "office@leakgeekplumbersfl.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "garrett@ops.fzcorestudio.com",
+      "business_name": "Leak Geek Plumbers & Tampa Drain Cleaning",
+      "subject": "leakgeekplumbersfl.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "leakgeekplumbersfl.com"
+    }
+  },
+  "FZ-US-1792616680-2": {
+    "lead_id": "FZ-US-1792616680-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:55:56.189314+00:00",
+    "domain": "taxprosadvisors.com",
+    "email": "contact@taxprosadvisors.com",
+    "business_name": "TAX PROS ADVISORS",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:55:56.185766+00:00",
+      "recipient_email": "contact@taxprosadvisors.com",
+      "recipient_name": "Ship Structure",
+      "sender_email": "fiona@ops.fzcorestudio.com",
+      "business_name": "TAX PROS ADVISORS",
+      "subject": "quick question for Ship Structure re taxprosadvisors.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "taxprosadvisors.com"
+    }
+  },
+  "FZ-US-1792616681-3": {
+    "lead_id": "FZ-US-1792616681-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:56:02.147340+00:00",
+    "domain": "taxworkoutgroup.com",
+    "email": "contact@taxworkoutgroup.com",
+    "business_name": "Tax Workout Group",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:56:02.143766+00:00",
+      "recipient_email": "contact@taxworkoutgroup.com",
+      "recipient_name": "Tax Workout Group",
+      "sender_email": "dean@ops.fzcorestudio.com",
+      "business_name": "Tax Workout Group",
+      "subject": "quick question re taxworkoutgroup.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "taxworkoutgroup.com"
+    }
+  },
+  "FZ-US-1792616710-1": {
+    "lead_id": "FZ-US-1792616710-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:56:07.803328+00:00",
+    "domain": "securityfencecompanyflorida.com",
+    "email": "quotes@securityfencecompanyflorida.com",
+    "business_name": "Security Fence Co of Florida, Inc.",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:56:07.799180+00:00",
+      "recipient_email": "quotes@securityfencecompanyflorida.com",
+      "recipient_name": "Mr",
+      "sender_email": "faiz@mail.fzcorestudio.com",
+      "business_name": "Security Fence Co of Florida, Inc.",
+      "subject": "quick question for Mr re securityfencecompanyflorida.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "securityfencecompanyflorida.com"
+    }
+  },
+  "FZ-US-1792616713-3": {
+    "lead_id": "FZ-US-1792616713-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:56:15.105935+00:00",
+    "domain": "autogatellc.com",
+    "email": "service@autogatellc.com",
+    "business_name": "Automatic Gate Engineering",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:56:15.102382+00:00",
+      "recipient_email": "service@autogatellc.com",
+      "recipient_name": "Technicians",
+      "sender_email": "marcus@mail.fzcorestudio.com",
+      "business_name": "Automatic Gate Engineering",
+      "subject": "autogatellc.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "autogatellc.com"
+    }
+  },
+  "FZ-US-1792616718-4": {
+    "lead_id": "FZ-US-1792616718-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:56:22.618796+00:00",
+    "domain": "odi-tampa.com",
+    "email": "sales@odi-tampa.com",
+    "business_name": "Ornamental Design Inc.",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T13:56:22.614912+00:00",
+      "recipient_email": "sales@odi-tampa.com",
+      "recipient_name": "Ship Led",
+      "sender_email": "elena@mail.fzcorestudio.com",
+      "business_name": "Ornamental Design Inc.",
+      "subject": "quick question for Ship re odi-tampa.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "odi-tampa.com"
+    }
+  },
+  "FZ-US-1792618088-1": {
+    "lead_id": "FZ-US-1792618088-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:56:30.579745+00:00",
+    "domain": "discountfenceusa.com",
+    "email": "marketing@discountfenceusa.com",
+    "business_name": "Discount Fence USA - Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:56:30.576165+00:00",
+      "recipient_email": "marketing@discountfenceusa.com",
+      "recipient_name": "Daniel",
+      "sender_email": "adrian@mail.fzcorestudio.com",
+      "business_name": "Discount Fence USA - Houston",
+      "subject": "discountfenceusa.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "discountfenceusa.com"
+    }
+  },
+  "FZ-US-1792618089-2": {
+    "lead_id": "FZ-US-1792618089-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:56:38.542253+00:00",
+    "domain": "architecturalfabricators.com",
+    "email": "info@architecturalfabricators.com",
+    "business_name": "Architectural Fabricators",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:56:38.538552+00:00",
+      "recipient_email": "info@architecturalfabricators.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "julian@mail.fzcorestudio.com",
+      "business_name": "Architectural Fabricators",
+      "subject": "quick question for In re architecturalfabricators.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "architecturalfabricators.com"
+    }
+  },
+  "FZ-US-1792618093-3": {
+    "lead_id": "FZ-US-1792618093-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:56:46.716898+00:00",
+    "domain": "houston-gaterepair.com",
+    "email": "service@houston-gaterepair.com",
+    "business_name": "Houston Gate Repair",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:56:46.713248+00:00",
+      "recipient_email": "service@houston-gaterepair.com",
+      "recipient_name": "Houston Gate Repair",
+      "sender_email": "lucas@team.fzcorestudio.com",
+      "business_name": "Houston Gate Repair",
+      "subject": "houston-gaterepair.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "houston-gaterepair.com"
+    }
+  },
+  "FZ-US-1792618094-4": {
+    "lead_id": "FZ-US-1792618094-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:56:54.340912+00:00",
+    "domain": "alltexasfence.com",
+    "email": "alejandra@alltexasfence.com",
+    "business_name": "All-Texas Fence Inc",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:56:54.337184+00:00",
+      "recipient_email": "alejandra@alltexasfence.com",
+      "recipient_name": "Alejandra",
+      "sender_email": "clara@team.fzcorestudio.com",
+      "business_name": "All-Texas Fence Inc",
+      "subject": "quick question for Alejandra re alltexasfence.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "alltexasfence.com"
+    }
+  },
+  "FZ-US-1792618098-5": {
+    "lead_id": "FZ-US-1792618098-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:02.286959+00:00",
+    "domain": "texasfenceandiron.com",
+    "email": "jobs@texasfenceandiron.com",
+    "business_name": "Texas Fence & Iron Co.",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:02.283239+00:00",
+      "recipient_email": "jobs@texasfenceandiron.com",
+      "recipient_name": "Jobs",
+      "sender_email": "liam@team.fzcorestudio.com",
+      "business_name": "Texas Fence & Iron Co.",
+      "subject": "quick question for Jobs re texasfenceandiron.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "texasfenceandiron.com"
+    }
+  },
+  "FZ-US-1792618114-2": {
+    "lead_id": "FZ-US-1792618114-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:08.260832+00:00",
+    "domain": "tax-wellness.com",
+    "email": "info@tax-wellness.com",
+    "business_name": "Tax Wellness, LLC",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:08.257098+00:00",
+      "recipient_email": "info@tax-wellness.com",
+      "recipient_name": "Tax Wellness, LLC",
+      "sender_email": "maya@team.fzcorestudio.com",
+      "business_name": "Tax Wellness, LLC",
+      "subject": "tax-wellness.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "tax-wellness.com"
+    }
+  },
+  "FZ-US-1792618121-3": {
+    "lead_id": "FZ-US-1792618121-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:14.102879+00:00",
+    "domain": "theledgerway.com",
+    "email": "info@theledgerway.com",
+    "business_name": "LedgerWay",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:14.099123+00:00",
+      "recipient_email": "info@theledgerway.com",
+      "recipient_name": "Compensation Quarterly",
+      "sender_email": "julian@team.fzcorestudio.com",
+      "business_name": "LedgerWay",
+      "subject": "quick question for Compensation Quarterly re theledgerway.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "theledgerway.com"
+    }
+  },
+  "FZ-US-1792618160-1": {
+    "lead_id": "FZ-US-1792618160-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:20.583481+00:00",
+    "domain": "veritasdetailing.site",
+    "email": "concierge@veritasdetailing.site",
+    "business_name": "Veritas Mobile Car Detailing of Memorial",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:20.579559+00:00",
+      "recipient_email": "concierge@veritasdetailing.site",
+      "recipient_name": "Concierge",
+      "sender_email": "hannah@get.fzcorestudio.com",
+      "business_name": "Veritas Mobile Car Detailing of Memorial",
+      "subject": "veritasdetailing.site quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "veritasdetailing.site"
+    }
+  },
+  "FZ-US-1792618182-1": {
+    "lead_id": "FZ-US-1792618182-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:26.984668+00:00",
+    "domain": "bestwaterrestorations.com",
+    "email": "info@bestwaterrestorations.com",
+    "business_name": "Best Water Restoration",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:26.980758+00:00",
+      "recipient_email": "info@bestwaterrestorations.com",
+      "recipient_name": "Best Water Restoration",
+      "sender_email": "owen@get.fzcorestudio.com",
+      "business_name": "Best Water Restoration",
+      "subject": "bestwaterrestorations.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "bestwaterrestorations.com"
+    }
+  },
+  "FZ-US-1792618197-1": {
+    "lead_id": "FZ-US-1792618197-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:34.175189+00:00",
+    "domain": "adcetera.com",
+    "email": "info@adcetera.com",
+    "business_name": "Adcetera",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:34.171295+00:00",
+      "recipient_email": "info@adcetera.com",
+      "recipient_name": "Adcetera",
+      "sender_email": "chloe@get.fzcorestudio.com",
+      "business_name": "Adcetera",
+      "subject": "quick question re adcetera.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "adcetera.com"
+    }
+  },
+  "FZ-US-1792618204-3": {
+    "lead_id": "FZ-US-1792618204-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:41.470875+00:00",
+    "domain": "troyhenry.design",
+    "email": "hello@troyhenry.design",
+    "business_name": "Troy Henry Design & Marketing | Website Design, Graphic Design, Printing | Small Businesses & Churches | Houston Texas",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:41.466697+00:00",
+      "recipient_email": "hello@troyhenry.design",
+      "recipient_name": "Business Owner",
+      "sender_email": "mason@get.fzcorestudio.com",
+      "business_name": "Troy Henry Design & Marketing | Website Design, Graphic Design, Printing | Small Businesses & Churches | Houston Texas",
+      "subject": "troyhenry.design mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "troyhenry.design"
+    }
+  },
+  "FZ-US-1792618206-4": {
+    "lead_id": "FZ-US-1792618206-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:47.012671+00:00",
+    "domain": "mayabytes.com",
+    "email": "agency@mayabytes.com",
+    "business_name": "Mayabytes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:47.008745+00:00",
+      "recipient_email": "agency@mayabytes.com",
+      "recipient_name": "Agency",
+      "sender_email": "zoe@get.fzcorestudio.com",
+      "business_name": "Mayabytes",
+      "subject": "mayabytes.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "mayabytes.com"
+    }
+  },
+  "FZ-US-1792618216-5": {
+    "lead_id": "FZ-US-1792618216-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:52.468086+00:00",
+    "domain": "mpiredesigngroup.com",
+    "email": "info@mpiredesigngroup.com",
+    "business_name": "Mpire Design Group",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:52.464136+00:00",
+      "recipient_email": "info@mpiredesigngroup.com",
+      "recipient_name": "Mpire Design Group",
+      "sender_email": "faiz@direct.fzcorestudio.com",
+      "business_name": "Mpire Design Group",
+      "subject": "quick question re mpiredesigngroup.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "mpiredesigngroup.com"
+    }
+  },
+  "FZ-US-1792618219-6": {
+    "lead_id": "FZ-US-1792618219-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:57:59.945306+00:00",
+    "domain": "theprboutique.com",
+    "email": "info@theprboutique.com",
+    "business_name": "The PR Boutique - Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:57:59.941350+00:00",
+      "recipient_email": "info@theprboutique.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "ethan@direct.fzcorestudio.com",
+      "business_name": "The PR Boutique - Houston",
+      "subject": "quick question re theprboutique.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "theprboutique.com"
+    }
+  },
+  "FZ-US-1792618220-7": {
+    "lead_id": "FZ-US-1792618220-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:05.369030+00:00",
+    "domain": "coredesignstudio.com",
+    "email": "info@coredesignstudio.com",
+    "business_name": "Core Design Studio",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:05.365056+00:00",
+      "recipient_email": "info@coredesignstudio.com",
+      "recipient_name": "Fiona Mcgettigan",
+      "sender_email": "olivia@direct.fzcorestudio.com",
+      "business_name": "Core Design Studio",
+      "subject": "quick question for Fiona re coredesignstudio.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "coredesignstudio.com"
+    }
+  },
+  "FZ-US-1792618223-8": {
+    "lead_id": "FZ-US-1792618223-8",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:10.849625+00:00",
+    "domain": "rvncreative.com",
+    "email": "hello@rvncreative.com",
+    "business_name": "Raven Creative, LLC",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:10.845602+00:00",
+      "recipient_email": "hello@rvncreative.com",
+      "recipient_name": "Executives",
+      "sender_email": "noah@direct.fzcorestudio.com",
+      "business_name": "Raven Creative, LLC",
+      "subject": "quick question for Executives re rvncreative.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "rvncreative.com"
+    }
+  },
+  "FZ-US-1792618229-9": {
+    "lead_id": "FZ-US-1792618229-9",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:16.210317+00:00",
+    "domain": "webbonafide.com",
+    "email": "info@webbonafide.com",
+    "business_name": "WEB BONAFIDE : Web Design Company | E-Commerce Website | Logo Design | SEO & Digital Marketing in Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:16.206042+00:00",
+      "recipient_email": "info@webbonafide.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "ava@direct.fzcorestudio.com",
+      "business_name": "WEB BONAFIDE : Web Design Company | E-Commerce Website | Logo Design | SEO & Digital Marketing in Houston",
+      "subject": "webbonafide.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "webbonafide.com"
+    }
+  },
+  "FZ-US-1792618266-2": {
+    "lead_id": "FZ-US-1792618266-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:24.033897+00:00",
+    "domain": "houstonpainters.co",
+    "email": "hello@houstonpainters.co",
+    "business_name": "Houston Painters Co",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:24.029770+00:00",
+      "recipient_email": "hello@houstonpainters.co",
+      "recipient_name": "Martinez Gracida",
+      "sender_email": "leo@reach.fzcorestudio.com",
+      "business_name": "Houston Painters Co",
+      "subject": "quick question for Martinez re houstonpainters.co",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "houstonpainters.co"
+    }
+  },
+  "FZ-US-1792618280-1": {
+    "lead_id": "FZ-US-1792618280-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:31.624325+00:00",
+    "domain": "luxurydetails.com",
+    "email": "info@luxurydetails.com",
+    "business_name": "Luxury Details",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:31.619886+00:00",
+      "recipient_email": "info@luxurydetails.com",
+      "recipient_name": "Luxury Details",
+      "sender_email": "emma@reach.fzcorestudio.com",
+      "business_name": "Luxury Details",
+      "subject": "luxurydetails.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "luxurydetails.com"
+    }
+  },
+  "FZ-US-1792618281-2": {
+    "lead_id": "FZ-US-1792618281-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:37.589224+00:00",
+    "domain": "invisishield.com",
+    "email": "steve@invisishield.com",
+    "business_name": "Invisishield",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:37.585053+00:00",
+      "recipient_email": "steve@invisishield.com",
+      "recipient_name": "Steve",
+      "sender_email": "nathan@reach.fzcorestudio.com",
+      "business_name": "Invisishield",
+      "subject": "quick question for Steve re invisishield.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "invisishield.com"
+    }
+  },
+  "FZ-US-1792618321-2": {
+    "lead_id": "FZ-US-1792618321-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:43.828317+00:00",
+    "domain": "astrawatt.com",
+    "email": "info@astrawatt.com",
+    "business_name": "Astrawatt Solar",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:43.824064+00:00",
+      "recipient_email": "info@astrawatt.com",
+      "recipient_name": "Astrawatt Solar",
+      "sender_email": "mia@reach.fzcorestudio.com",
+      "business_name": "Astrawatt Solar",
+      "subject": "astrawatt.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "astrawatt.com"
+    }
+  },
+  "FZ-US-1792618324-3": {
+    "lead_id": "FZ-US-1792618324-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:49.971469+00:00",
+    "domain": "icarussol.com",
+    "email": "info@icarussol.com",
+    "business_name": "Icarus Solar",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:49.967257+00:00",
+      "recipient_email": "info@icarussol.com",
+      "recipient_name": "Icarus Solar",
+      "sender_email": "caleb@reach.fzcorestudio.com",
+      "business_name": "Icarus Solar",
+      "subject": "icarussol.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "icarussol.com"
+    }
+  },
+  "FZ-US-1792618326-5": {
+    "lead_id": "FZ-US-1792618326-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:58:57.869295+00:00",
+    "domain": "solarsandhu.com",
+    "email": "info@solarsandhu.com",
+    "business_name": "Solar Sandhu Inc",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:58:57.864994+00:00",
+      "recipient_email": "info@solarsandhu.com",
+      "recipient_name": "Solar Sandhu Inc",
+      "sender_email": "harrison@hq.fzcorestudio.com",
+      "business_name": "Solar Sandhu Inc",
+      "subject": "quick question re solarsandhu.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "solarsandhu.com"
+    }
+  },
+  "FZ-US-1792618329-7": {
+    "lead_id": "FZ-US-1792618329-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:59:05.198670+00:00",
+    "domain": "creatumsolar.com",
+    "email": "info@creatumsolar.com",
+    "business_name": "CreatumSolar",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:59:05.194368+00:00",
+      "recipient_email": "info@creatumsolar.com",
+      "recipient_name": "CreatumSolar",
+      "sender_email": "victoria@hq.fzcorestudio.com",
+      "business_name": "CreatumSolar",
+      "subject": "creatumsolar.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "creatumsolar.com"
+    }
+  },
+  "FZ-US-1792618349-2": {
+    "lead_id": "FZ-US-1792618349-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:59:13.657031+00:00",
+    "domain": "crvhomes.com",
+    "email": "sales@crvhomes.com",
+    "business_name": "CRV Homes, LLC.",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:59:13.652668+00:00",
+      "recipient_email": "sales@crvhomes.com",
+      "recipient_name": "CRV Homes, LLC.",
+      "sender_email": "graham@hq.fzcorestudio.com",
+      "business_name": "CRV Homes, LLC.",
+      "subject": "crvhomes.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "crvhomes.com"
+    }
+  },
+  "FZ-US-1792618352-3": {
+    "lead_id": "FZ-US-1792618352-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:59:19.508147+00:00",
+    "domain": "irajtaghihomes.com",
+    "email": "info@irajtaghihomes.com",
+    "business_name": "Iraj Taghi Custom Homes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:59:19.503764+00:00",
+      "recipient_email": "info@irajtaghihomes.com",
+      "recipient_name": "Iraj Taghi Custom Homes",
+      "sender_email": "evelyn@hq.fzcorestudio.com",
+      "business_name": "Iraj Taghi Custom Homes",
+      "subject": "quick question re irajtaghihomes.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "irajtaghihomes.com"
+    }
+  },
+  "FZ-US-1792618353-4": {
+    "lead_id": "FZ-US-1792618353-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:59:28.102714+00:00",
+    "domain": "craftedhome.com",
+    "email": "info@craftedhome.com",
+    "business_name": "CRAFTED Custom Homes + Renovations",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:59:28.098351+00:00",
+      "recipient_email": "info@craftedhome.com",
+      "recipient_name": "Jeff Mattson",
+      "sender_email": "connor@hq.fzcorestudio.com",
+      "business_name": "CRAFTED Custom Homes + Renovations",
+      "subject": "quick question for Jeff re craftedhome.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "craftedhome.com"
+    }
+  },
+  "FZ-US-1792618357-5": {
+    "lead_id": "FZ-US-1792618357-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:59:34.667076+00:00",
+    "domain": "texasfinehomes.net",
+    "email": "ds@texasfinehomes.net",
+    "business_name": "Texas Fine Homes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:59:34.662453+00:00",
+      "recipient_email": "ds@texasfinehomes.net",
+      "recipient_name": "Texas Fine Homes",
+      "sender_email": "audrey@client.fzcorestudio.com",
+      "business_name": "Texas Fine Homes",
+      "subject": "quick question re texasfinehomes.net",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "texasfinehomes.net"
+    }
+  },
+  "FZ-US-1792618359-6": {
+    "lead_id": "FZ-US-1792618359-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:59:41.347261+00:00",
+    "domain": "avantcustomhomes.org",
+    "email": "admin@avantcustomhomes.org",
+    "business_name": "AVANT Custom Homes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:59:41.342809+00:00",
+      "recipient_email": "admin@avantcustomhomes.org",
+      "recipient_name": "AVANT Custom Homes",
+      "sender_email": "elliott@client.fzcorestudio.com",
+      "business_name": "AVANT Custom Homes",
+      "subject": "avantcustomhomes.org mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "avantcustomhomes.org"
+    }
+  },
+  "FZ-US-1792618361-7": {
+    "lead_id": "FZ-US-1792618361-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:59:49.193070+00:00",
+    "domain": "woodcustomhomes.net",
+    "email": "philip@woodcustomhomes.net",
+    "business_name": "Wood Custom Homes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:59:49.188583+00:00",
+      "recipient_email": "philip@woodcustomhomes.net",
+      "recipient_name": "Philip",
+      "sender_email": "madeline@client.fzcorestudio.com",
+      "business_name": "Wood Custom Homes",
+      "subject": "quick question for Philip re woodcustomhomes.net",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "woodcustomhomes.net"
+    }
+  },
+  "FZ-US-1792618379-11": {
+    "lead_id": "FZ-US-1792618379-11",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T13:59:56.527358+00:00",
+    "domain": "avacustomhomes.com",
+    "email": "info@avacustomhomes.com",
+    "business_name": "Ava Custom Homes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T13:59:56.522790+00:00",
+      "recipient_email": "info@avacustomhomes.com",
+      "recipient_name": "Ava Custom Homes",
+      "sender_email": "trevor@client.fzcorestudio.com",
+      "business_name": "Ava Custom Homes",
+      "subject": "quick question for Ava re avacustomhomes.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "avacustomhomes.com"
+    }
+  },
+  "FZ-US-1792618381-12": {
+    "lead_id": "FZ-US-1792618381-12",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:00:05.444917+00:00",
+    "domain": "modernedgebuild.com",
+    "email": "vendor@modernedgebuild.com",
+    "business_name": "Modern Edge Builders",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:00:05.440090+00:00",
+      "recipient_email": "vendor@modernedgebuild.com",
+      "recipient_name": "Modern Edge Builders",
+      "sender_email": "claire@client.fzcorestudio.com",
+      "business_name": "Modern Edge Builders",
+      "subject": "quick question re modernedgebuild.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "modernedgebuild.com"
+    }
+  },
+  "FZ-US-1792618381-13": {
+    "lead_id": "FZ-US-1792618381-13",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:00:25.625667+00:00",
+    "domain": "ashwooddesigns.com",
+    "email": "info@ashwooddesigns.com",
+    "business_name": "Ashwood Designs & Custom Homes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:00:25.621104+00:00",
+      "recipient_email": "info@ashwooddesigns.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "warren@desk.fzcorestudio.com",
+      "business_name": "Ashwood Designs & Custom Homes",
+      "subject": "ashwooddesigns.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "ashwooddesigns.com"
+    }
+  },
+  "FZ-US-1792618383-14": {
+    "lead_id": "FZ-US-1792618383-14",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:00:32.010246+00:00",
+    "domain": "corbelcustomhomes.com",
+    "email": "info@corbelcustomhomes.com",
+    "business_name": "Corbel Custom Homes Inc",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:00:32.005395+00:00",
+      "recipient_email": "info@corbelcustomhomes.com",
+      "recipient_name": "Corbel Custom Homes Inc",
+      "sender_email": "charlotte@desk.fzcorestudio.com",
+      "business_name": "Corbel Custom Homes Inc",
+      "subject": "corbelcustomhomes.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "corbelcustomhomes.com"
+    }
+  },
+  "FZ-US-1792618384-15": {
+    "lead_id": "FZ-US-1792618384-15",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:00:40.660276+00:00",
+    "domain": "zanderhomes.net",
+    "email": "sales@zanderhomes.net",
+    "business_name": "Zander Homes ️",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:00:40.655556+00:00",
+      "recipient_email": "sales@zanderhomes.net",
+      "recipient_name": "Everyone Seems",
+      "sender_email": "preston@desk.fzcorestudio.com",
+      "business_name": "Zander Homes ️",
+      "subject": "quick question for Everyone Seems re zanderhomes.net",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "zanderhomes.net"
+    }
+  },
+  "FZ-US-1792618385-16": {
+    "lead_id": "FZ-US-1792618385-16",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:00:54.992116+00:00",
+    "domain": "jamestownestatehomes.com",
+    "email": "dallas.chamberlain@jamestownestatehomes.com",
+    "business_name": "Jamestown Estate Homes -- Oak Forest and Houston Heights",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:00:54.987418+00:00",
+      "recipient_email": "dallas.chamberlain@jamestownestatehomes.com",
+      "recipient_name": "To Create",
+      "sender_email": "natalie@desk.fzcorestudio.com",
+      "business_name": "Jamestown Estate Homes -- Oak Forest and Houston Heights",
+      "subject": "jamestownestatehomes.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "jamestownestatehomes.com"
+    }
+  },
+  "FZ-US-1792618396-1": {
+    "lead_id": "FZ-US-1792618396-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:01:10.396544+00:00",
+    "domain": "leveluphouseleveling.com",
+    "email": "info@leveluphouseleveling.com",
+    "business_name": "Level Up Foundation Repair & House Leveling",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:01:10.391883+00:00",
+      "recipient_email": "info@leveluphouseleveling.com",
+      "recipient_name": "Inspect We",
+      "sender_email": "simon@desk.fzcorestudio.com",
+      "business_name": "Level Up Foundation Repair & House Leveling",
+      "subject": "leveluphouseleveling.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "leveluphouseleveling.com"
+    }
+  },
+  "FZ-US-1792618406-4": {
+    "lead_id": "FZ-US-1792618406-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:01:17.601762+00:00",
+    "domain": "pyramidwaterproofing.com",
+    "email": "info@pyramidwaterproofing.com",
+    "business_name": "Pyramid Waterproofing Co",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:01:17.597069+00:00",
+      "recipient_email": "info@pyramidwaterproofing.com",
+      "recipient_name": "Pyramid Waterproofing Co",
+      "sender_email": "bennett@partner.fzcorestudio.com",
+      "business_name": "Pyramid Waterproofing Co",
+      "subject": "quick question re pyramidwaterproofing.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "pyramidwaterproofing.com"
+    }
+  },
+  "FZ-US-1792618409-5": {
+    "lead_id": "FZ-US-1792618409-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:01:32.199773+00:00",
+    "domain": "pasadenafoundationrepairpros.com",
+    "email": "info@pasadenafoundationrepairpros.com",
+    "business_name": "Pasadena Foundation Repair",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:01:32.195072+00:00",
+      "recipient_email": "info@pasadenafoundationrepairpros.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "lydia@partner.fzcorestudio.com",
+      "business_name": "Pasadena Foundation Repair",
+      "subject": "quick question re pasadenafoundationrepairpros.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "pasadenafoundationrepairpros.com"
+    }
+  },
+  "FZ-US-1792618450-2": {
+    "lead_id": "FZ-US-1792618450-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:01:40.666160+00:00",
+    "domain": "tommystrees.com",
+    "email": "tommy@tommystrees.com",
+    "business_name": "Tommy's Tree Services",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:01:40.661436+00:00",
+      "recipient_email": "tommy@tommystrees.com",
+      "recipient_name": "Tommy",
+      "sender_email": "russell@partner.fzcorestudio.com",
+      "business_name": "Tommy's Tree Services",
+      "subject": "tommystrees.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "tommystrees.com"
+    }
+  },
+  "FZ-US-1792618456-4": {
+    "lead_id": "FZ-US-1792618456-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:01:51.421045+00:00",
+    "domain": "adamstreeservice.com",
+    "email": "info@adamstreeservice.com",
+    "business_name": "Adam's Trees Designs and Services",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:01:51.416255+00:00",
+      "recipient_email": "info@adamstreeservice.com",
+      "recipient_name": "Ship",
+      "sender_email": "valerie@partner.fzcorestudio.com",
+      "business_name": "Adam's Trees Designs and Services",
+      "subject": "quick question for Ship re adamstreeservice.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "adamstreeservice.com"
+    }
+  },
+  "FZ-US-1792618481-4": {
+    "lead_id": "FZ-US-1792618481-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:02:00.387240+00:00",
+    "domain": "cajodiconstruction.com",
+    "email": "info@cajodiconstruction.com",
+    "business_name": "Cajodi Construction",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:02:00.382298+00:00",
+      "recipient_email": "info@cajodiconstruction.com",
+      "recipient_name": "Cajodi Construction",
+      "sender_email": "spencer@partner.fzcorestudio.com",
+      "business_name": "Cajodi Construction",
+      "subject": "quick question re cajodiconstruction.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "cajodiconstruction.com"
+    }
+  },
+  "FZ-US-1792618496-2": {
+    "lead_id": "FZ-US-1792618496-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:02:15.546142+00:00",
+    "domain": "cruzgoldlaw.com",
+    "email": "info@cruzgoldlaw.com",
+    "business_name": "Immigration Lawyer Houston Cruz Gold & Associates LLC",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:02:15.541297+00:00",
+      "recipient_email": "info@cruzgoldlaw.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "carter@ops.fzcorestudio.com",
+      "business_name": "Immigration Lawyer Houston Cruz Gold & Associates LLC",
+      "subject": "cruzgoldlaw.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "cruzgoldlaw.com"
+    }
+  },
+  "FZ-US-1792618517-2": {
+    "lead_id": "FZ-US-1792618517-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:02:25.425065+00:00",
+    "domain": "libertykbm.com",
+    "email": "sales@libertykbm.com",
+    "business_name": "Liberty Kitchens and Baths",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:02:25.420228+00:00",
+      "recipient_email": "sales@libertykbm.com",
+      "recipient_name": "Get",
+      "sender_email": "brooke@ops.fzcorestudio.com",
+      "business_name": "Liberty Kitchens and Baths",
+      "subject": "quick question for Get re libertykbm.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "libertykbm.com"
+    }
+  },
+  "FZ-US-1792618569-2": {
+    "lead_id": "FZ-US-1792618569-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:02:35.849292+00:00",
+    "domain": "beltwayclean.com",
+    "email": "u003einfo@beltwayclean.com",
+    "business_name": "Beltway Commercial Cleaning",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:02:35.844273+00:00",
+      "recipient_email": "u003einfo@beltwayclean.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "garrett@ops.fzcorestudio.com",
+      "business_name": "Beltway Commercial Cleaning",
+      "subject": "beltwayclean.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "beltwayclean.com"
+    }
+  },
+  "FZ-US-1792618576-4": {
+    "lead_id": "FZ-US-1792618576-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:02:58.551734+00:00",
+    "domain": "zionjanitorial.com",
+    "email": "services@zionjanitorial.com",
+    "business_name": "Zion Janitorial Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:02:58.546712+00:00",
+      "recipient_email": "services@zionjanitorial.com",
+      "recipient_name": "Zion Janitorial Houston",
+      "sender_email": "fiona@ops.fzcorestudio.com",
+      "business_name": "Zion Janitorial Houston",
+      "subject": "quick question re zionjanitorial.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "zionjanitorial.com"
+    }
+  },
+  "FZ-US-1792618609-2": {
+    "lead_id": "FZ-US-1792618609-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:03:12.895026+00:00",
+    "domain": "tiptonspiresdesign.com",
+    "email": "info@tiptonspiresdesign.com",
+    "business_name": "Tipton Spires Design|Build",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:03:12.890044+00:00",
+      "recipient_email": "info@tiptonspiresdesign.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "dean@ops.fzcorestudio.com",
+      "business_name": "Tipton Spires Design|Build",
+      "subject": "tiptonspiresdesign.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "tiptonspiresdesign.com"
+    }
+  },
+  "FZ-US-1792618609-3": {
+    "lead_id": "FZ-US-1792618609-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:03:19.645397+00:00",
+    "domain": "magnoliacustompools.com",
+    "email": "info@magnoliacustompools.com",
+    "business_name": "Magnolia Custom Pools",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:03:19.640394+00:00",
+      "recipient_email": "info@magnoliacustompools.com",
+      "recipient_name": "Magnolia Custom",
+      "sender_email": "faiz@mail.fzcorestudio.com",
+      "business_name": "Magnolia Custom Pools",
+      "subject": "magnoliacustompools.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "magnoliacustompools.com"
+    }
+  },
+  "FZ-US-1792618610-5": {
+    "lead_id": "FZ-US-1792618610-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:03:25.888048+00:00",
+    "domain": "astorgaoutdoorliving.com",
+    "email": "info@astorgaoutdoorliving.com",
+    "business_name": "Astorga Outdoor Living",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:03:25.883058+00:00",
+      "recipient_email": "info@astorgaoutdoorliving.com",
+      "recipient_name": "Who You",
+      "sender_email": "marcus@mail.fzcorestudio.com",
+      "business_name": "Astorga Outdoor Living",
+      "subject": "astorgaoutdoorliving.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "astorgaoutdoorliving.com"
+    }
+  },
+  "FZ-US-1792618670-2": {
+    "lead_id": "FZ-US-1792618670-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:03:33.354144+00:00",
+    "domain": "jpmasterepoxycoating.com",
+    "email": "info@jpmasterepoxycoating.com",
+    "business_name": "JP Master Epoxy Coatings",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:03:33.349128+00:00",
+      "recipient_email": "info@jpmasterepoxycoating.com",
+      "recipient_name": "JP Master Epoxy Coatings",
+      "sender_email": "elena@mail.fzcorestudio.com",
+      "business_name": "JP Master Epoxy Coatings",
+      "subject": "jpmasterepoxycoating.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "jpmasterepoxycoating.com"
+    }
+  },
+  "FZ-US-1792620636-6": {
+    "lead_id": "FZ-US-1792620636-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:03:46.771682+00:00",
+    "domain": "watermoldfire.net",
+    "email": "admin@watermoldfire.net",
+    "business_name": "Water Mold Fire Restoration of Tampa",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:03:46.766473+00:00",
+      "recipient_email": "admin@watermoldfire.net",
+      "recipient_name": "Removing Mold",
+      "sender_email": "adrian@mail.fzcorestudio.com",
+      "business_name": "Water Mold Fire Restoration of Tampa",
+      "subject": "watermoldfire.net quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "watermoldfire.net"
+    }
+  },
+  "FZ-US-1792620652-1": {
+    "lead_id": "FZ-US-1792620652-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:03:52.267533+00:00",
+    "domain": "rtimmigrationlaw.com",
+    "email": "info@rtimmigrationlaw.com",
+    "business_name": "RT Immigration Law",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:03:52.262484+00:00",
+      "recipient_email": "info@rtimmigrationlaw.com",
+      "recipient_name": "RT Immigration Law",
+      "sender_email": "julian@mail.fzcorestudio.com",
+      "business_name": "RT Immigration Law",
+      "subject": "rtimmigrationlaw.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "rtimmigrationlaw.com"
+    }
+  },
+  "FZ-US-1792620702-4": {
+    "lead_id": "FZ-US-1792620702-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:03:59.413892+00:00",
+    "domain": "reliancecpa.com",
+    "email": "kim@reliancecpa.com",
+    "business_name": "Reliance Consulting CPAs",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:03:59.408729+00:00",
+      "recipient_email": "kim@reliancecpa.com",
+      "recipient_name": "On Clearwater",
+      "sender_email": "lucas@team.fzcorestudio.com",
+      "business_name": "Reliance Consulting CPAs",
+      "subject": "quick question for On re reliancecpa.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "reliancecpa.com"
+    }
+  },
+  "FZ-US-1792620766-6": {
+    "lead_id": "FZ-US-1792620766-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:04:13.841651+00:00",
+    "domain": "shamrockrc.net",
+    "email": "zbsmith@shamrockrc.net",
+    "business_name": "Shamrock Restaurant Cleaning",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:04:13.836463+00:00",
+      "recipient_email": "zbsmith@shamrockrc.net",
+      "recipient_name": "Zbsmith",
+      "sender_email": "clara@team.fzcorestudio.com",
+      "business_name": "Shamrock Restaurant Cleaning",
+      "subject": "quick question for Zbsmith re shamrockrc.net",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "shamrockrc.net"
+    }
+  },
+  "FZ-US-1792620791-5": {
+    "lead_id": "FZ-US-1792620791-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:04:26.781262+00:00",
+    "domain": "tommybath.com",
+    "email": "info@tommybath.com",
+    "business_name": "Tommy Bath",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:04:26.776106+00:00",
+      "recipient_email": "info@tommybath.com",
+      "recipient_name": "Takes Lots",
+      "sender_email": "liam@team.fzcorestudio.com",
+      "business_name": "Tommy Bath",
+      "subject": "tommybath.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "tommybath.com"
+    }
+  },
+  "FZ-US-1792620832-5": {
+    "lead_id": "FZ-US-1792620832-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:04:34.270096+00:00",
+    "domain": "concretecoatingsflorida.com",
+    "email": "info@concretecoatingsflorida.com",
+    "business_name": "Tampa Bay Concrete Polishing & Concrete Coatings | Polished Concrete & Epoxy Floors",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:04:34.264921+00:00",
+      "recipient_email": "info@concretecoatingsflorida.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "maya@team.fzcorestudio.com",
+      "business_name": "Tampa Bay Concrete Polishing & Concrete Coatings | Polished Concrete & Epoxy Floors",
+      "subject": "concretecoatingsflorida.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "concretecoatingsflorida.com"
+    }
+  },
+  "FZ-US-1792620850-3": {
+    "lead_id": "FZ-US-1792620850-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:04:47.241675+00:00",
+    "domain": "southeastgates.com",
+    "email": "sales@southeastgates.com",
+    "business_name": "Southeast Gates and Fencing",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:04:47.236452+00:00",
+      "recipient_email": "sales@southeastgates.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "julian@team.fzcorestudio.com",
+      "business_name": "Southeast Gates and Fencing",
+      "subject": "quick question re southeastgates.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "southeastgates.com"
+    }
+  },
+  "FZ-US-1792620852-4": {
+    "lead_id": "FZ-US-1792620852-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:05:01.646283+00:00",
+    "domain": "rejasironworks.com",
+    "email": "contact@rejasironworks.com",
+    "business_name": "Rejas Iron Works",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:05:01.641038+00:00",
+      "recipient_email": "contact@rejasironworks.com",
+      "recipient_name": "Rejas Iron Works",
+      "sender_email": "hannah@get.fzcorestudio.com",
+      "business_name": "Rejas Iron Works",
+      "subject": "rejasironworks.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "rejasironworks.com"
+    }
+  },
+  "FZ-US-1792620893-1": {
+    "lead_id": "FZ-US-1792620893-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:05:07.404024+00:00",
+    "domain": "ecoprosolar.com",
+    "email": "sales@ecoprosolar.com",
+    "business_name": "Ecopro - Tampa",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:05:07.398692+00:00",
+      "recipient_email": "sales@ecoprosolar.com",
+      "recipient_name": "Ecopro - Tampa",
+      "sender_email": "owen@get.fzcorestudio.com",
+      "business_name": "Ecopro - Tampa",
+      "subject": "quick question re ecoprosolar.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "ecoprosolar.com"
+    }
+  },
+  "FZ-US-1792620956-2": {
+    "lead_id": "FZ-US-1792620956-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:05:21.873713+00:00",
+    "domain": "dashcg.com",
+    "email": "info@dashcg.com",
+    "business_name": "Dash Creative Group",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:05:21.868394+00:00",
+      "recipient_email": "info@dashcg.com",
+      "recipient_name": "Dash Creative Group",
+      "sender_email": "chloe@get.fzcorestudio.com",
+      "business_name": "Dash Creative Group",
+      "subject": "dashcg.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "dashcg.com"
+    }
+  },
+  "FZ-US-1792620961-5": {
+    "lead_id": "FZ-US-1792620961-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:05:37.184252+00:00",
+    "domain": "shtromcreative.com",
+    "email": "standout@shtromcreative.com",
+    "business_name": "SHTROM Creative",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:05:37.178860+00:00",
+      "recipient_email": "standout@shtromcreative.com",
+      "recipient_name": "Standout",
+      "sender_email": "mason@get.fzcorestudio.com",
+      "business_name": "SHTROM Creative",
+      "subject": "shtromcreative.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "shtromcreative.com"
+    }
+  },
+  "FZ-US-1792620985-12": {
+    "lead_id": "FZ-US-1792620985-12",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:05:50.396287+00:00",
+    "domain": "hashtagcreative.co",
+    "email": "hello@hashtagcreative.co",
+    "business_name": "Hashtag Creative",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:05:50.390713+00:00",
+      "recipient_email": "hello@hashtagcreative.co",
+      "recipient_name": "Hashtag Creative",
+      "sender_email": "zoe@get.fzcorestudio.com",
+      "business_name": "Hashtag Creative",
+      "subject": "hashtagcreative.co quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "hashtagcreative.co"
+    }
+  },
+  "FZ-US-1792620990-15": {
+    "lead_id": "FZ-US-1792620990-15",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:05:58.260414+00:00",
+    "domain": "expertmedia.design",
+    "email": "info@expertmedia.design",
+    "business_name": "Expert Media Design",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:05:58.254998+00:00",
+      "recipient_email": "info@expertmedia.design",
+      "recipient_name": "Expert Media Design",
+      "sender_email": "faiz@direct.fzcorestudio.com",
+      "business_name": "Expert Media Design",
+      "subject": "quick question re expertmedia.design",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "expertmedia.design"
+    }
+  },
+  "FZ-US-1792621131-10": {
+    "lead_id": "FZ-US-1792621131-10",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:06:05.070460+00:00",
+    "domain": "royalbuiltconcrete.com",
+    "email": "info@royalbuiltconcrete.com",
+    "business_name": "Royal Built Concrete LLC",
+    "city": "Tampa",
+    "details": {
+      "sent_at": "2026-10-28T14:06:05.064996+00:00",
+      "recipient_email": "info@royalbuiltconcrete.com",
+      "recipient_name": "Royal Built Concrete LLC",
+      "sender_email": "ethan@direct.fzcorestudio.com",
+      "business_name": "Royal Built Concrete LLC",
+      "subject": "royalbuiltconcrete.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "royalbuiltconcrete.com"
+    }
+  },
+  "FZ-US-1792621199-1": {
+    "lead_id": "FZ-US-1792621199-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:06:11.299811+00:00",
+    "domain": "armadaprowaterdamagerepair.pro",
+    "email": "info@armadaprowaterdamagerepair.pro",
+    "business_name": "ArmadaPro Water Damage Repair",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:06:11.294293+00:00",
+      "recipient_email": "info@armadaprowaterdamagerepair.pro",
+      "recipient_name": "Business Owner",
+      "sender_email": "olivia@direct.fzcorestudio.com",
+      "business_name": "ArmadaPro Water Damage Repair",
+      "subject": "armadaprowaterdamagerepair.pro quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "armadaprowaterdamagerepair.pro"
+    }
+  },
+  "FZ-US-1792621200-2": {
+    "lead_id": "FZ-US-1792621200-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:06:17.138803+00:00",
+    "domain": "stormsafewaterdamagerestoration.com",
+    "email": "info@stormsafewaterdamagerestoration.com",
+    "business_name": "StormSafe Water Damage Restoration",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:06:17.133321+00:00",
+      "recipient_email": "info@stormsafewaterdamagerestoration.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "noah@direct.fzcorestudio.com",
+      "business_name": "StormSafe Water Damage Restoration",
+      "subject": "stormsafewaterdamagerestoration.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "stormsafewaterdamagerestoration.com"
+    }
+  },
+  "FZ-US-1792621201-3": {
+    "lead_id": "FZ-US-1792621201-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:06:24.585195+00:00",
+    "domain": "daxion.com",
+    "email": "contact@daxion.com",
+    "business_name": "Daxion - Mold & Water Specialist",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:06:24.579635+00:00",
+      "recipient_email": "contact@daxion.com",
+      "recipient_name": "Or",
+      "sender_email": "ava@direct.fzcorestudio.com",
+      "business_name": "Daxion - Mold & Water Specialist",
+      "subject": "quick question for Or re daxion.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "daxion.com"
+    }
+  },
+  "FZ-US-1792621228-6": {
+    "lead_id": "FZ-US-1792621228-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:06:31.550761+00:00",
+    "domain": "waterdamageservicesinc.com",
+    "email": "info@waterdamageservicesinc.com",
+    "business_name": "Miami Water Damage Restoration Services Inc",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:06:31.545081+00:00",
+      "recipient_email": "info@waterdamageservicesinc.com",
+      "recipient_name": "Dealing With",
+      "sender_email": "leo@reach.fzcorestudio.com",
+      "business_name": "Miami Water Damage Restoration Services Inc",
+      "subject": "quick question for Dealing With re waterdamageservicesinc.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "waterdamageservicesinc.com"
+    }
+  },
+  "FZ-US-1792621254-2": {
+    "lead_id": "FZ-US-1792621254-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:06:44.956085+00:00",
+    "domain": "usimmigrationadvisor.com",
+    "email": "midavies@usimmigrationadvisor.com",
+    "business_name": "Davies & Associates - Immigration Law",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:06:44.950500+00:00",
+      "recipient_email": "midavies@usimmigrationadvisor.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "emma@reach.fzcorestudio.com",
+      "business_name": "Davies & Associates - Immigration Law",
+      "subject": "usimmigrationadvisor.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "usimmigrationadvisor.com"
+    }
+  },
+  "FZ-US-1792621275-2": {
+    "lead_id": "FZ-US-1792621275-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:06:58.375161+00:00",
+    "domain": "sanitizedplace.com",
+    "email": "info@sanitizedplace.com",
+    "business_name": "Sanitized Place Commercial & Municipal Janitorial Services",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:06:58.369581+00:00",
+      "recipient_email": "info@sanitizedplace.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "nathan@reach.fzcorestudio.com",
+      "business_name": "Sanitized Place Commercial & Municipal Janitorial Services",
+      "subject": "sanitizedplace.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "sanitizedplace.com"
+    }
+  },
+  "FZ-US-1792621276-3": {
+    "lead_id": "FZ-US-1792621276-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:07:13.330396+00:00",
+    "domain": "auroramultiservice.com",
+    "email": "info@auroramultiservice.com",
+    "business_name": "Aurora Multiservice Commercial Cleaning & Power Wash",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:07:13.324700+00:00",
+      "recipient_email": "info@auroramultiservice.com",
+      "recipient_name": "Associations",
+      "sender_email": "mia@reach.fzcorestudio.com",
+      "business_name": "Aurora Multiservice Commercial Cleaning & Power Wash",
+      "subject": "quick question for Associations re auroramultiservice.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "auroramultiservice.com"
+    }
+  },
+  "FZ-US-1792621287-5": {
+    "lead_id": "FZ-US-1792621287-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:07:27.252178+00:00",
+    "domain": "dade-drivewaycleaning.com",
+    "email": "cs@dade-drivewaycleaning.com",
+    "business_name": "Florida Surface Cleaning – Driveway & Pressure Washing in Miami",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:07:27.246446+00:00",
+      "recipient_email": "cs@dade-drivewaycleaning.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "caleb@reach.fzcorestudio.com",
+      "business_name": "Florida Surface Cleaning – Driveway & Pressure Washing in Miami",
+      "subject": "dade-drivewaycleaning.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "dade-drivewaycleaning.com"
+    }
+  },
+  "FZ-US-1792621300-1": {
+    "lead_id": "FZ-US-1792621300-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:07:40.711742+00:00",
+    "domain": "peoplesplumbing.com",
+    "email": "info@peoplesplumbing.com",
+    "business_name": "People's Plumbing & Mechanical Inc",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:07:40.706038+00:00",
+      "recipient_email": "info@peoplesplumbing.com",
+      "recipient_name": "Visionary Founder",
+      "sender_email": "harrison@hq.fzcorestudio.com",
+      "business_name": "People's Plumbing & Mechanical Inc",
+      "subject": "quick question for Visionary Founder re peoplesplumbing.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "peoplesplumbing.com"
+    }
+  },
+  "FZ-US-1792621318-1": {
+    "lead_id": "FZ-US-1792621318-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:07:47.036068+00:00",
+    "domain": "thinktaxaccounting.com",
+    "email": "info@thinktaxaccounting.com",
+    "business_name": "Think Tax Accounting Services LLC",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:07:47.030344+00:00",
+      "recipient_email": "info@thinktaxaccounting.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "victoria@hq.fzcorestudio.com",
+      "business_name": "Think Tax Accounting Services LLC",
+      "subject": "quick question for Saron re thinktaxaccounting.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "thinktaxaccounting.com"
+    }
+  },
+  "FZ-US-1792621325-3": {
+    "lead_id": "FZ-US-1792621325-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:01.523901+00:00",
+    "domain": "ta-cpa.com",
+    "email": "info@ta-cpa.com",
+    "business_name": "Travieso Advisory CPA Corp.",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:01.518030+00:00",
+      "recipient_email": "info@ta-cpa.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "graham@hq.fzcorestudio.com",
+      "business_name": "Travieso Advisory CPA Corp.",
+      "subject": "ta-cpa.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "ta-cpa.com"
+    }
+  },
+  "FZ-US-1792621325-4": {
+    "lead_id": "FZ-US-1792621325-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:15.161010+00:00",
+    "domain": "tapsolution.net",
+    "email": "info@tapsolution.net",
+    "business_name": "Tax Accounting Plus",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:15.155189+00:00",
+      "recipient_email": "info@tapsolution.net",
+      "recipient_name": "Tax Accounting Plus",
+      "sender_email": "evelyn@hq.fzcorestudio.com",
+      "business_name": "Tax Accounting Plus",
+      "subject": "tapsolution.net mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "tapsolution.net"
+    }
+  },
+  "FZ-US-1792621326-5": {
+    "lead_id": "FZ-US-1792621326-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:21.120177+00:00",
+    "domain": "levinecpas.com",
+    "email": "info@levinecpas.com",
+    "business_name": "LEVINE CPA & ADVISORS",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:21.114345+00:00",
+      "recipient_email": "info@levinecpas.com",
+      "recipient_name": "Steven Levine",
+      "sender_email": "connor@hq.fzcorestudio.com",
+      "business_name": "LEVINE CPA & ADVISORS",
+      "subject": "quick question for Steven re levinecpas.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "levinecpas.com"
+    }
+  },
+  "FZ-US-1792621358-1": {
+    "lead_id": "FZ-US-1792621358-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:28.576924+00:00",
+    "domain": "cps-outdoors.com",
+    "email": "info@cps-outdoors.com",
+    "business_name": "CPS Outdoors / AquaticFloors",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:28.571035+00:00",
+      "recipient_email": "info@cps-outdoors.com",
+      "recipient_name": "Administrative",
+      "sender_email": "audrey@client.fzcorestudio.com",
+      "business_name": "CPS Outdoors / AquaticFloors",
+      "subject": "cps-outdoors.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "cps-outdoors.com"
+    }
+  },
+  "FZ-US-1792621363-3": {
+    "lead_id": "FZ-US-1792621363-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:34.400599+00:00",
+    "domain": "bluepointepoolsandspas.com",
+    "email": "bluepointe@bluepointepoolsandspas.com",
+    "business_name": "Blue Pointe Pools & Spas",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:34.394548+00:00",
+      "recipient_email": "bluepointe@bluepointepoolsandspas.com",
+      "recipient_name": "Bluepointe",
+      "sender_email": "elliott@client.fzcorestudio.com",
+      "business_name": "Blue Pointe Pools & Spas",
+      "subject": "quick question for Bluepointe re bluepointepoolsandspas.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "bluepointepoolsandspas.com"
+    }
+  },
+  "FZ-US-1792621385-1": {
+    "lead_id": "FZ-US-1792621385-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:41.847730+00:00",
+    "domain": "flicshoodcleaners.co",
+    "email": "byronlogo@flicshoodcleaners.co",
+    "business_name": "Florida Industrial Cleaning Services(Miami Dade Kitchen Hood Exhaust Cleaner)",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:41.841771+00:00",
+      "recipient_email": "byronlogo@flicshoodcleaners.co",
+      "recipient_name": "Byronlogo",
+      "sender_email": "madeline@client.fzcorestudio.com",
+      "business_name": "Florida Industrial Cleaning Services(Miami Dade Kitchen Hood Exhaust Cleaner)",
+      "subject": "quick question for Byronlogo re flicshoodcleaners.co",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "flicshoodcleaners.co"
+    }
+  },
+  "FZ-US-1792621388-4": {
+    "lead_id": "FZ-US-1792621388-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:47.638650+00:00",
+    "domain": "dreamcleanmiami.com",
+    "email": "office@dreamcleanmiami.com",
+    "business_name": "Dream Clean Inc",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:47.632700+00:00",
+      "recipient_email": "office@dreamcleanmiami.com",
+      "recipient_name": "Dream Clean Inc",
+      "sender_email": "trevor@client.fzcorestudio.com",
+      "business_name": "Dream Clean Inc",
+      "subject": "quick question re dreamcleanmiami.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "dreamcleanmiami.com"
+    }
+  },
+  "FZ-US-1792621391-5": {
+    "lead_id": "FZ-US-1792621391-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:52.741825+00:00",
+    "domain": "parkslopecleaning.com",
+    "email": "info@parkslopecleaning.com",
+    "business_name": "Park Slope Cleaning",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:52.735903+00:00",
+      "recipient_email": "info@parkslopecleaning.com",
+      "recipient_name": "How Working",
+      "sender_email": "claire@client.fzcorestudio.com",
+      "business_name": "Park Slope Cleaning",
+      "subject": "quick question for How re parkslopecleaning.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "parkslopecleaning.com"
+    }
+  },
+  "FZ-US-1792621422-1": {
+    "lead_id": "FZ-US-1792621422-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:08:58.205364+00:00",
+    "domain": "diamondremodelers.com",
+    "email": "jeff@diamondremodelers.com",
+    "business_name": "Diamond Remodelers",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:08:58.199447+00:00",
+      "recipient_email": "jeff@diamondremodelers.com",
+      "recipient_name": "Diamond Remodelers",
+      "sender_email": "warren@desk.fzcorestudio.com",
+      "business_name": "Diamond Remodelers",
+      "subject": "quick question re diamondremodelers.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "diamondremodelers.com"
+    }
+  },
+  "FZ-US-1792621453-2": {
+    "lead_id": "FZ-US-1792621453-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:09:05.779027+00:00",
+    "domain": "artofcoatingmiami.com",
+    "email": "info@artofcoatingmiami.com",
+    "business_name": "Art of Coating Miami",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:09:05.772987+00:00",
+      "recipient_email": "info@artofcoatingmiami.com",
+      "recipient_name": "Art of Coating Miami",
+      "sender_email": "charlotte@desk.fzcorestudio.com",
+      "business_name": "Art of Coating Miami",
+      "subject": "quick question re artofcoatingmiami.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "artofcoatingmiami.com"
+    }
+  },
+  "FZ-US-1792621458-5": {
+    "lead_id": "FZ-US-1792621458-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:09:11.656439+00:00",
+    "domain": "concretepolishingmiamifl.com",
+    "email": "info@concretepolishingmiamifl.com",
+    "business_name": "Diamond Epoxy Floors",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:09:11.650238+00:00",
+      "recipient_email": "info@concretepolishingmiamifl.com",
+      "recipient_name": "Diamond Epoxy Floors",
+      "sender_email": "preston@desk.fzcorestudio.com",
+      "business_name": "Diamond Epoxy Floors",
+      "subject": "concretepolishingmiamifl.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "concretepolishingmiamifl.com"
+    }
+  },
+  "FZ-US-1792621458-6": {
+    "lead_id": "FZ-US-1792621458-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:09:18.574385+00:00",
+    "domain": "allproepoxyfl.com",
+    "email": "customerservice@allproepoxyfl.com",
+    "business_name": "All Pro Epoxy FL",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:09:18.568212+00:00",
+      "recipient_email": "customerservice@allproepoxyfl.com",
+      "recipient_name": "Customerservice",
+      "sender_email": "natalie@desk.fzcorestudio.com",
+      "business_name": "All Pro Epoxy FL",
+      "subject": "allproepoxyfl.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "allproepoxyfl.com"
+    }
+  },
+  "FZ-US-1792621470-9": {
+    "lead_id": "FZ-US-1792621470-9",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:09:25.154666+00:00",
+    "domain": "puritycoatings.com",
+    "email": "info@puritycoatings.com",
+    "business_name": "Purity Coatings",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:09:25.148573+00:00",
+      "recipient_email": "info@puritycoatings.com",
+      "recipient_name": "Purity Coatings",
+      "sender_email": "simon@desk.fzcorestudio.com",
+      "business_name": "Purity Coatings",
+      "subject": "puritycoatings.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "puritycoatings.com"
+    }
+  },
+  "FZ-US-1792621474-10": {
+    "lead_id": "FZ-US-1792621474-10",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:09:30.960005+00:00",
+    "domain": "epoxyveterans.com",
+    "email": "support@epoxyveterans.com",
+    "business_name": "Epoxy Veterans",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:09:30.953911+00:00",
+      "recipient_email": "support@epoxyveterans.com",
+      "recipient_name": "Veterans",
+      "sender_email": "bennett@partner.fzcorestudio.com",
+      "business_name": "Epoxy Veterans",
+      "subject": "quick question for Veterans re epoxyveterans.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "epoxyveterans.com"
+    }
+  },
+  "FZ-US-1792621498-6": {
+    "lead_id": "FZ-US-1792621498-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:09:36.961746+00:00",
+    "domain": "rkgarageandgates.com",
+    "email": "sales@rkgarageandgates.com",
+    "business_name": "RK Electric Gate Of Coral Gables",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:09:36.955644+00:00",
+      "recipient_email": "sales@rkgarageandgates.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "lydia@partner.fzcorestudio.com",
+      "business_name": "RK Electric Gate Of Coral Gables",
+      "subject": "quick question re rkgarageandgates.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "rkgarageandgates.com"
+    }
+  },
+  "FZ-US-1792621503-8": {
+    "lead_id": "FZ-US-1792621503-8",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:09:51.280778+00:00",
+    "domain": "southfloridafencing.com",
+    "email": "tony@southfloridafencing.com",
+    "business_name": "South Florida Fencing",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:09:51.274561+00:00",
+      "recipient_email": "tony@southfloridafencing.com",
+      "recipient_name": "Tony",
+      "sender_email": "russell@partner.fzcorestudio.com",
+      "business_name": "South Florida Fencing",
+      "subject": "southfloridafencing.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "southfloridafencing.com"
+    }
+  },
+  "FZ-US-1792621541-1": {
+    "lead_id": "FZ-US-1792621541-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:09:57.769778+00:00",
+    "domain": "floridasolarcoach.com",
+    "email": "info@floridasolarcoach.com",
+    "business_name": "Florida Solar Coach",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:09:57.763569+00:00",
+      "recipient_email": "info@floridasolarcoach.com",
+      "recipient_name": "Florida Solar Coach",
+      "sender_email": "valerie@partner.fzcorestudio.com",
+      "business_name": "Florida Solar Coach",
+      "subject": "quick question re floridasolarcoach.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "floridasolarcoach.com"
+    }
+  },
+  "FZ-US-1792623292-1": {
+    "lead_id": "FZ-US-1792623292-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:10:05.662997+00:00",
+    "domain": "houstonsuperiorepoxy.com",
+    "email": "info@houstonsuperiorepoxy.com",
+    "business_name": "Houston Superior Epoxy",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:10:05.656766+00:00",
+      "recipient_email": "info@houstonsuperiorepoxy.com",
+      "recipient_name": "Houston Superior Epoxy",
+      "sender_email": "spencer@partner.fzcorestudio.com",
+      "business_name": "Houston Superior Epoxy",
+      "subject": "houstonsuperiorepoxy.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "houstonsuperiorepoxy.com"
+    }
+  },
+  "FZ-US-1792623335-1": {
+    "lead_id": "FZ-US-1792623335-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:10:20.912568+00:00",
+    "domain": "tellyourtale.com",
+    "email": "info@tellyourtale.com",
+    "business_name": "Tell Your Tale Marketing & Design",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:10:20.906337+00:00",
+      "recipient_email": "info@tellyourtale.com",
+      "recipient_name": "Trent Salch",
+      "sender_email": "carter@ops.fzcorestudio.com",
+      "business_name": "Tell Your Tale Marketing & Design",
+      "subject": "quick question for Trent Salch re tellyourtale.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "tellyourtale.com"
+    }
+  },
+  "FZ-US-1792623346-7": {
+    "lead_id": "FZ-US-1792623346-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:10:27.368772+00:00",
+    "domain": "intuitivecreate.com",
+    "email": "nfo@intuitivecreate.com",
+    "business_name": "Intuitive",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:10:27.362404+00:00",
+      "recipient_email": "nfo@intuitivecreate.com",
+      "recipient_name": "Intuitive",
+      "sender_email": "brooke@ops.fzcorestudio.com",
+      "business_name": "Intuitive",
+      "subject": "quick question for Meet re intuitivecreate.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "intuitivecreate.com"
+    }
+  },
+  "FZ-US-1792623373-3": {
+    "lead_id": "FZ-US-1792623373-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:10:33.918989+00:00",
+    "domain": "promodular.com",
+    "email": "sales@promodular.com",
+    "business_name": "ProModular Hardscapes LLC",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:10:33.912647+00:00",
+      "recipient_email": "sales@promodular.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "garrett@ops.fzcorestudio.com",
+      "business_name": "ProModular Hardscapes LLC",
+      "subject": "promodular.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "promodular.com"
+    }
+  },
+  "FZ-US-1792623576-5": {
+    "lead_id": "FZ-US-1792623576-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:10:48.747716+00:00",
+    "domain": "water-damage-restoration-houston.com",
+    "email": "dispatch@water-damage-restoration-houston.com",
+    "business_name": "Express Water Damage Restoration Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:10:48.741138+00:00",
+      "recipient_email": "dispatch@water-damage-restoration-houston.com",
+      "recipient_name": "Dispatch",
+      "sender_email": "fiona@ops.fzcorestudio.com",
+      "business_name": "Express Water Damage Restoration Houston",
+      "subject": "quick question for Dispatch re water-damage-restoration-houston.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "water-damage-restoration-houston.com"
+    }
+  },
+  "FZ-US-1792623578-6": {
+    "lead_id": "FZ-US-1792623578-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:11:01.991184+00:00",
+    "domain": "flood--damage.net",
+    "email": "help@flood--damage.net",
+    "business_name": "SuperDry Water Damage Cleanup Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:11:01.984812+00:00",
+      "recipient_email": "help@flood--damage.net",
+      "recipient_name": "Can Face",
+      "sender_email": "dean@ops.fzcorestudio.com",
+      "business_name": "SuperDry Water Damage Cleanup Houston",
+      "subject": "flood, damage.net quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "flood--damage.net"
+    }
+  },
+  "FZ-US-1792623579-7": {
+    "lead_id": "FZ-US-1792623579-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:11:14.538254+00:00",
+    "domain": "houston-mold-removal.com",
+    "email": "info@houston-mold-removal.com",
+    "business_name": "Houston Mold Removal Services",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:11:14.531846+00:00",
+      "recipient_email": "info@houston-mold-removal.com",
+      "recipient_name": "Deserves Rapid",
+      "sender_email": "faiz@mail.fzcorestudio.com",
+      "business_name": "Houston Mold Removal Services",
+      "subject": "quick question for Deserves re houston-mold-removal.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "houston-mold-removal.com"
+    }
+  },
+  "FZ-US-1792623680-2": {
+    "lead_id": "FZ-US-1792623680-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:11:21.919674+00:00",
+    "domain": "northpointecustompools.com",
+    "email": "info@northpointecustompools.com",
+    "business_name": "NorthPointe Custom Pools, LLC",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:11:21.913171+00:00",
+      "recipient_email": "info@northpointecustompools.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "marcus@mail.fzcorestudio.com",
+      "business_name": "NorthPointe Custom Pools, LLC",
+      "subject": "quick question for Operated re northpointecustompools.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "northpointecustompools.com"
+    }
+  },
+  "FZ-US-1792623731-4": {
+    "lead_id": "FZ-US-1792623731-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:11:27.390922+00:00",
+    "domain": "linktr.ee",
+    "email": "press@linktr.ee",
+    "business_name": "City Twin Mobile Detailing",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:11:27.384392+00:00",
+      "recipient_email": "press@linktr.ee",
+      "recipient_name": "Business Owner",
+      "sender_email": "elena@mail.fzcorestudio.com",
+      "business_name": "City Twin Mobile Detailing",
+      "subject": "quick question re linktr.ee",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "linktr.ee"
+    }
+  },
+  "FZ-US-1792623762-2": {
+    "lead_id": "FZ-US-1792623762-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:11:33.938068+00:00",
+    "domain": "koolrenovations.com",
+    "email": "info@koolrenovations.com",
+    "business_name": "Kool Renovations",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:11:33.931565+00:00",
+      "recipient_email": "info@koolrenovations.com",
+      "recipient_name": "Kool Renovations",
+      "sender_email": "adrian@mail.fzcorestudio.com",
+      "business_name": "Kool Renovations",
+      "subject": "koolrenovations.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "koolrenovations.com"
+    }
+  },
+  "FZ-US-1792623789-1": {
+    "lead_id": "FZ-US-1792623789-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:11:40.058851+00:00",
+    "domain": "naviconus.com",
+    "email": "newproject@naviconus.com",
+    "business_name": "Navicon Construction | Luxury Homebuilder",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:11:40.052141+00:00",
+      "recipient_email": "newproject@naviconus.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "julian@mail.fzcorestudio.com",
+      "business_name": "Navicon Construction | Luxury Homebuilder",
+      "subject": "naviconus.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "naviconus.com"
+    }
+  },
+  "FZ-US-1792623789-2": {
+    "lead_id": "FZ-US-1792623789-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:11:46.375228+00:00",
+    "domain": "ballagasconstruction.com",
+    "email": "contact@ballagasconstruction.com",
+    "business_name": "Ballagas Construction",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:11:46.368638+00:00",
+      "recipient_email": "contact@ballagasconstruction.com",
+      "recipient_name": "Led General",
+      "sender_email": "lucas@team.fzcorestudio.com",
+      "business_name": "Ballagas Construction",
+      "subject": "quick question for Led General re ballagasconstruction.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "ballagasconstruction.com"
+    }
+  },
+  "FZ-US-1792623794-5": {
+    "lead_id": "FZ-US-1792623794-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:11:54.748711+00:00",
+    "domain": "miamiproconstruction.com",
+    "email": "info@miamiproconstruction.com",
+    "business_name": "Miami Pro Construction",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:11:54.742087+00:00",
+      "recipient_email": "info@miamiproconstruction.com",
+      "recipient_name": "About Us",
+      "sender_email": "clara@team.fzcorestudio.com",
+      "business_name": "Miami Pro Construction",
+      "subject": "quick question for About Us re miamiproconstruction.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "miamiproconstruction.com"
+    }
+  },
+  "FZ-US-1792623795-6": {
+    "lead_id": "FZ-US-1792623795-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:12:07.453895+00:00",
+    "domain": "jd-miami.com",
+    "email": "architecture@jd-miami.com",
+    "business_name": "JD-MIAMI",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:12:07.447130+00:00",
+      "recipient_email": "architecture@jd-miami.com",
+      "recipient_name": "Architecture",
+      "sender_email": "liam@team.fzcorestudio.com",
+      "business_name": "JD-MIAMI",
+      "subject": "jd-miami.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "jd-miami.com"
+    }
+  },
+  "FZ-US-1792623796-8": {
+    "lead_id": "FZ-US-1792623796-8",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:12:22.551757+00:00",
+    "domain": "nowecohome.com",
+    "email": "info@nowecohome.com",
+    "business_name": "Now Eco Home",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:12:22.544997+00:00",
+      "recipient_email": "info@nowecohome.com",
+      "recipient_name": "Now Eco Home",
+      "sender_email": "maya@team.fzcorestudio.com",
+      "business_name": "Now Eco Home",
+      "subject": "nowecohome.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "nowecohome.com"
+    }
+  },
+  "FZ-US-1792623796-9": {
+    "lead_id": "FZ-US-1792623796-9",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:12:29.574750+00:00",
+    "domain": "authenticconstruct.com",
+    "email": "info@authenticconstruct.com",
+    "business_name": "Authentic Construction",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:12:29.568079+00:00",
+      "recipient_email": "info@authenticconstruct.com",
+      "recipient_name": "Authentic Construction",
+      "sender_email": "julian@team.fzcorestudio.com",
+      "business_name": "Authentic Construction",
+      "subject": "quick question re authenticconstruct.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "authenticconstruct.com"
+    }
+  },
+  "FZ-US-1792623820-12": {
+    "lead_id": "FZ-US-1792623820-12",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:12:37.296393+00:00",
+    "domain": "sunstatebuilder.com",
+    "email": "sales@sunstatebuilder.com",
+    "business_name": "Sunstate Builders-South",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:12:37.289621+00:00",
+      "recipient_email": "sales@sunstatebuilder.com",
+      "recipient_name": "Sunstate Builders-South",
+      "sender_email": "hannah@get.fzcorestudio.com",
+      "business_name": "Sunstate Builders-South",
+      "subject": "quick question for Born re sunstatebuilder.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "sunstatebuilder.com"
+    }
+  },
+  "FZ-US-1792623870-7": {
+    "lead_id": "FZ-US-1792623870-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:12:43.464141+00:00",
+    "domain": "gladiatorsimprovement.com",
+    "email": "info@gladiatorsimprovement.com",
+    "business_name": "Gladiators Improvement",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:12:43.457387+00:00",
+      "recipient_email": "info@gladiatorsimprovement.com",
+      "recipient_name": "Gladiators Improvement",
+      "sender_email": "owen@get.fzcorestudio.com",
+      "business_name": "Gladiators Improvement",
+      "subject": "gladiatorsimprovement.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "gladiatorsimprovement.com"
+    }
+  },
+  "FZ-US-1792623876-9": {
+    "lead_id": "FZ-US-1792623876-9",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:12:56.715557+00:00",
+    "domain": "apexflooringllc.com",
+    "email": "info@apexflooringllc.com",
+    "business_name": "Apex Epoxy Flooring of Hialeah",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:12:56.708655+00:00",
+      "recipient_email": "info@apexflooringllc.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "chloe@get.fzcorestudio.com",
+      "business_name": "Apex Epoxy Flooring of Hialeah",
+      "subject": "apexflooringllc.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "apexflooringllc.com"
+    }
+  },
+  "FZ-US-1792623915-1": {
+    "lead_id": "FZ-US-1792623915-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:13:03.796897+00:00",
+    "domain": "socialbrand-mia.com",
+    "email": "info@socialbrand-mia.com",
+    "business_name": "Social Brand",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:13:03.790095+00:00",
+      "recipient_email": "info@socialbrand-mia.com",
+      "recipient_name": "Social Brand",
+      "sender_email": "mason@get.fzcorestudio.com",
+      "business_name": "Social Brand",
+      "subject": "quick question re socialbrand-mia.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "socialbrand-mia.com"
+    }
+  },
+  "FZ-US-1792623916-2": {
+    "lead_id": "FZ-US-1792623916-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:13:11.478439+00:00",
+    "domain": "dsnhousecollective.com",
+    "email": "david@dsnhousecollective.com",
+    "business_name": "DSN HOUSE COLLECTIVE - Branding | Web | Motion | Videos | Consultancy",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:13:11.471537+00:00",
+      "recipient_email": "david@dsnhousecollective.com",
+      "recipient_name": "David",
+      "sender_email": "zoe@get.fzcorestudio.com",
+      "business_name": "DSN HOUSE COLLECTIVE - Branding | Web | Motion | Videos | Consultancy",
+      "subject": "quick question for David re dsnhousecollective.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "dsnhousecollective.com"
+    }
+  },
+  "FZ-US-1792623917-3": {
+    "lead_id": "FZ-US-1792623917-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:13:18.780567+00:00",
+    "domain": "thebrandley.com",
+    "email": "roberto@thebrandley.com",
+    "business_name": "theBrandley Branding Studio",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:13:18.773494+00:00",
+      "recipient_email": "roberto@thebrandley.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "faiz@direct.fzcorestudio.com",
+      "business_name": "theBrandley Branding Studio",
+      "subject": "quick question re thebrandley.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "thebrandley.com"
+    }
+  },
+  "FZ-US-1792623919-6": {
+    "lead_id": "FZ-US-1792623919-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:13:31.371715+00:00",
+    "domain": "cadesign.io",
+    "email": "hello@cadesign.io",
+    "business_name": "Miami B2B Marketing Agency - Ca Design",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:13:31.364778+00:00",
+      "recipient_email": "hello@cadesign.io",
+      "recipient_name": "At Mozzo",
+      "sender_email": "ethan@direct.fzcorestudio.com",
+      "business_name": "Miami B2B Marketing Agency - Ca Design",
+      "subject": "quick question for At re cadesign.io",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "cadesign.io"
+    }
+  },
+  "FZ-US-1792623920-7": {
+    "lead_id": "FZ-US-1792623920-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:13:37.607544+00:00",
+    "domain": "xposureadvertising.com",
+    "email": "gerard@xposureadvertising.com",
+    "business_name": "Xposure Advertising",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:13:37.600612+00:00",
+      "recipient_email": "gerard@xposureadvertising.com",
+      "recipient_name": "Xposure Advertising",
+      "sender_email": "olivia@direct.fzcorestudio.com",
+      "business_name": "Xposure Advertising",
+      "subject": "quick question re xposureadvertising.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "xposureadvertising.com"
+    }
+  },
+  "FZ-US-1792623933-1": {
+    "lead_id": "FZ-US-1792623933-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:13:52.744593+00:00",
+    "domain": "paversofpalmbeach.com",
+    "email": "office@paversofpalmbeach.com",
+    "business_name": "Perfect Pavers of Palm Beach",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:13:52.737580+00:00",
+      "recipient_email": "office@paversofpalmbeach.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "noah@direct.fzcorestudio.com",
+      "business_name": "Perfect Pavers of Palm Beach",
+      "subject": "quick question re paversofpalmbeach.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "paversofpalmbeach.com"
+    }
+  },
+  "FZ-US-1792623942-7": {
+    "lead_id": "FZ-US-1792623942-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:00.519359+00:00",
+    "domain": "amazingoutdoorsmiami.com",
+    "email": "sales@amazingoutdoorsmiami.com",
+    "business_name": "Amazing Outdoors Miami",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:00.512415+00:00",
+      "recipient_email": "sales@amazingoutdoorsmiami.com",
+      "recipient_name": "Amazing Outdoors Miami",
+      "sender_email": "ava@direct.fzcorestudio.com",
+      "business_name": "Amazing Outdoors Miami",
+      "subject": "amazingoutdoorsmiami.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "amazingoutdoorsmiami.com"
+    }
+  },
+  "FZ-US-1792623984-11": {
+    "lead_id": "FZ-US-1792623984-11",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:08.040009+00:00",
+    "domain": "dsornamental.com",
+    "email": "davesimeon@dsornamental.com",
+    "business_name": "DS Ornamental Iron Work, LLC",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:08.032982+00:00",
+      "recipient_email": "davesimeon@dsornamental.com",
+      "recipient_name": "Davesimeon",
+      "sender_email": "leo@reach.fzcorestudio.com",
+      "business_name": "DS Ornamental Iron Work, LLC",
+      "subject": "dsornamental.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "dsornamental.com"
+    }
+  },
+  "FZ-US-1792624005-5": {
+    "lead_id": "FZ-US-1792624005-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:21.419686+00:00",
+    "domain": "bestvaluejanitorialservices.com",
+    "email": "info@bestvaluejanitorialservices.com",
+    "business_name": "Best Value Janitorial Services",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:21.412433+00:00",
+      "recipient_email": "info@bestvaluejanitorialservices.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "emma@reach.fzcorestudio.com",
+      "business_name": "Best Value Janitorial Services",
+      "subject": "quick question re bestvaluejanitorialservices.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "bestvaluejanitorialservices.com"
+    }
+  },
+  "FZ-US-1792624009-6": {
+    "lead_id": "FZ-US-1792624009-6",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:27.976052+00:00",
+    "domain": "305janitorialservices.com",
+    "email": "info@305janitorialservices.com",
+    "business_name": "305 Janitorial Services",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:27.968985+00:00",
+      "recipient_email": "info@305janitorialservices.com",
+      "recipient_name": "305 Janitorial Services",
+      "sender_email": "nathan@reach.fzcorestudio.com",
+      "business_name": "305 Janitorial Services",
+      "subject": "quick question re 305janitorialservices.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "305janitorialservices.com"
+    }
+  },
+  "FZ-US-1792624049-1": {
+    "lead_id": "FZ-US-1792624049-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:35.240811+00:00",
+    "domain": "martinezroofingmiami.com",
+    "email": "info@martinezroofingmiami.com",
+    "business_name": "Martinez Roofing Miami",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:35.233666+00:00",
+      "recipient_email": "info@martinezroofingmiami.com",
+      "recipient_name": "Martinez Roofing Miami",
+      "sender_email": "mia@reach.fzcorestudio.com",
+      "business_name": "Martinez Roofing Miami",
+      "subject": "quick question re martinezroofingmiami.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "martinezroofingmiami.com"
+    }
+  },
+  "FZ-US-1792624076-1": {
+    "lead_id": "FZ-US-1792624076-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:41.454605+00:00",
+    "domain": "relislaw.com",
+    "email": "intake@relislaw.com",
+    "business_name": "RelisLaw Visa Immigration Florida",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:41.447395+00:00",
+      "recipient_email": "intake@relislaw.com",
+      "recipient_name": "Or Manager",
+      "sender_email": "caleb@reach.fzcorestudio.com",
+      "business_name": "RelisLaw Visa Immigration Florida",
+      "subject": "quick question for Or re relislaw.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "relislaw.com"
+    }
+  },
+  "FZ-US-1792624106-1": {
+    "lead_id": "FZ-US-1792624106-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:47.464621+00:00",
+    "domain": "gonzalezpaintinginc.com",
+    "email": "contact@gonzalezpaintinginc.com",
+    "business_name": "Gonzalez Painting & Waterproofing, Inc.",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:47.457458+00:00",
+      "recipient_email": "contact@gonzalezpaintinginc.com",
+      "recipient_name": "Mario Was",
+      "sender_email": "harrison@hq.fzcorestudio.com",
+      "business_name": "Gonzalez Painting & Waterproofing, Inc.",
+      "subject": "quick question for Mario re gonzalezpaintinginc.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "FL",
+      "domain": "gonzalezpaintinginc.com"
+    }
+  },
+  "FZ-US-1792624107-2": {
+    "lead_id": "FZ-US-1792624107-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:53.333773+00:00",
+    "domain": "rodriguezpaintersinc.com",
+    "email": "support@rodriguezpaintersinc.com",
+    "business_name": "Rodriguez Painters , Inc",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:53.326588+00:00",
+      "recipient_email": "support@rodriguezpaintersinc.com",
+      "recipient_name": "Rodriguez Painters , Inc",
+      "sender_email": "victoria@hq.fzcorestudio.com",
+      "business_name": "Rodriguez Painters , Inc",
+      "subject": "rodriguezpaintersinc.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "rodriguezpaintersinc.com"
+    }
+  },
+  "FZ-US-1792624108-3": {
+    "lead_id": "FZ-US-1792624108-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:14:59.304171+00:00",
+    "domain": "floridaclosetpros.com",
+    "email": "team@floridaclosetpros.com",
+    "business_name": "Florida Coastal Painters",
+    "city": "Miami",
+    "details": {
+      "sent_at": "2026-10-28T14:14:59.296962+00:00",
+      "recipient_email": "team@floridaclosetpros.com",
+      "recipient_name": "Florida Coastal Painters",
+      "sender_email": "graham@hq.fzcorestudio.com",
+      "business_name": "Florida Coastal Painters",
+      "subject": "quick question re floridaclosetpros.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "FL",
+      "domain": "floridaclosetpros.com"
+    }
+  },
+  "FZ-US-1792625066-3": {
+    "lead_id": "FZ-US-1792625066-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:15:06.756948+00:00",
+    "domain": "coatmyslab.com",
+    "email": "michael@coatmyslab.com",
+    "business_name": "Coat My Slab",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:15:06.749615+00:00",
+      "recipient_email": "michael@coatmyslab.com",
+      "recipient_name": "Michael",
+      "sender_email": "evelyn@hq.fzcorestudio.com",
+      "business_name": "Coat My Slab",
+      "subject": "quick question for Michael re coatmyslab.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "coatmyslab.com"
+    }
+  },
+  "FZ-US-1792625157-8": {
+    "lead_id": "FZ-US-1792625157-8",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:15:20.485993+00:00",
+    "domain": "watercleanup.us",
+    "email": "info@watercleanup.us",
+    "business_name": "Rhino Water Damage Restoration Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:15:20.478695+00:00",
+      "recipient_email": "info@watercleanup.us",
+      "recipient_name": "Business Owner",
+      "sender_email": "connor@hq.fzcorestudio.com",
+      "business_name": "Rhino Water Damage Restoration Houston",
+      "subject": "watercleanup.us mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "watercleanup.us"
+    }
+  },
+  "FZ-US-1792625188-3": {
+    "lead_id": "FZ-US-1792625188-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:15:26.621984+00:00",
+    "domain": "noirkitchenremodelinghouston.com",
+    "email": "hello@noirkitchenremodelinghouston.com",
+    "business_name": "Noir Kitchen Remodeling Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:15:26.614456+00:00",
+      "recipient_email": "hello@noirkitchenremodelinghouston.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "audrey@client.fzcorestudio.com",
+      "business_name": "Noir Kitchen Remodeling Houston",
+      "subject": "quick question re noirkitchenremodelinghouston.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "noirkitchenremodelinghouston.com"
+    }
+  },
+  "FZ-US-1792625249-4": {
+    "lead_id": "FZ-US-1792625249-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:15:32.717114+00:00",
+    "domain": "pritchardindustries.com",
+    "email": "info@pritchardindustries.com",
+    "business_name": "Pritchard Industries",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:15:32.709670+00:00",
+      "recipient_email": "info@pritchardindustries.com",
+      "recipient_name": "Pritchard Industries",
+      "sender_email": "elliott@client.fzcorestudio.com",
+      "business_name": "Pritchard Industries",
+      "subject": "quick question re pritchardindustries.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "pritchardindustries.com"
+    }
+  },
+  "FZ-US-1792625308-19": {
+    "lead_id": "FZ-US-1792625308-19",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:15:45.750284+00:00",
+    "domain": "croixhomes.com",
+    "email": "mcroix@croixhomes.com",
+    "business_name": "Croix Custom Homes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:15:45.742636+00:00",
+      "recipient_email": "mcroix@croixhomes.com",
+      "recipient_name": "Mcroix",
+      "sender_email": "madeline@client.fzcorestudio.com",
+      "business_name": "Croix Custom Homes",
+      "subject": "quick question for Mcroix re croixhomes.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "croixhomes.com"
+    }
+  },
+  "FZ-US-1792625312-21": {
+    "lead_id": "FZ-US-1792625312-21",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:15:51.884581+00:00",
+    "domain": "harvardhomeshou.com",
+    "email": "info@harvardhomeshou.com",
+    "business_name": "Harvard Homes",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:15:51.877118+00:00",
+      "recipient_email": "info@harvardhomeshou.com",
+      "recipient_name": "Dotan Sharir",
+      "sender_email": "trevor@client.fzcorestudio.com",
+      "business_name": "Harvard Homes",
+      "subject": "quick question for Dotan re harvardhomeshou.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "harvardhomeshou.com"
+    }
+  },
+  "FZ-US-1792625333-2": {
+    "lead_id": "FZ-US-1792625333-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:16:07.287383+00:00",
+    "domain": "designagencyhouston.com",
+    "email": "hello@designagencyhouston.com",
+    "business_name": "The Design Agency",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:16:07.279896+00:00",
+      "recipient_email": "hello@designagencyhouston.com",
+      "recipient_name": "The Design Agency",
+      "sender_email": "claire@client.fzcorestudio.com",
+      "business_name": "The Design Agency",
+      "subject": "designagencyhouston.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "designagencyhouston.com"
+    }
+  },
+  "FZ-US-1792625349-8": {
+    "lead_id": "FZ-US-1792625349-8",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:16:15.235600+00:00",
+    "domain": "kreadivkoo.com",
+    "email": "miketodd@kreadivkoo.com",
+    "business_name": "Kreadiv & Koo",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:16:15.228203+00:00",
+      "recipient_email": "miketodd@kreadivkoo.com",
+      "recipient_name": "Miketodd",
+      "sender_email": "warren@desk.fzcorestudio.com",
+      "business_name": "Kreadiv & Koo",
+      "subject": "quick question for Miketodd re kreadivkoo.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "kreadivkoo.com"
+    }
+  },
+  "FZ-US-1792625428-1": {
+    "lead_id": "FZ-US-1792625428-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:16:29.034465+00:00",
+    "domain": "rivalroofingco.com",
+    "email": "alex@rivalroofingco.com",
+    "business_name": "Rival Roofing and Restoration",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:16:29.026347+00:00",
+      "recipient_email": "alex@rivalroofingco.com",
+      "recipient_name": "Alex",
+      "sender_email": "charlotte@desk.fzcorestudio.com",
+      "business_name": "Rival Roofing and Restoration",
+      "subject": "quick question for Alex re rivalroofingco.com",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "rivalroofingco.com"
+    }
+  },
+  "FZ-US-1792625511-4": {
+    "lead_id": "FZ-US-1792625511-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:16:42.798963+00:00",
+    "domain": "toptierhouston.com",
+    "email": "painting@toptierhouston.com",
+    "business_name": "Top Tier Painters of Houston",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:16:42.791455+00:00",
+      "recipient_email": "painting@toptierhouston.com",
+      "recipient_name": "Painting",
+      "sender_email": "preston@desk.fzcorestudio.com",
+      "business_name": "Top Tier Painters of Houston",
+      "subject": "quick question for Painting re toptierhouston.com",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "TX",
+      "domain": "toptierhouston.com"
+    }
+  },
+  "FZ-US-1792625525-7": {
+    "lead_id": "FZ-US-1792625525-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:16:56.819463+00:00",
+    "domain": "houstontexaspainters.com",
+    "email": "support@houstontexaspainters.com",
+    "business_name": "Houston Texas Painters of Katy",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:16:56.811714+00:00",
+      "recipient_email": "support@houstontexaspainters.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "natalie@desk.fzcorestudio.com",
+      "business_name": "Houston Texas Painters of Katy",
+      "subject": "houstontexaspainters.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "TX",
+      "domain": "houstontexaspainters.com"
+    }
+  },
+  "FZ-US-1792625529-8": {
+    "lead_id": "FZ-US-1792625529-8",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:17:03.902007+00:00",
+    "domain": "gracepaintingremodeling.com",
+    "email": "go@gracepaintingremodeling.com",
+    "business_name": "Grace Painting & Remodeling LLC",
+    "city": "Houston",
+    "details": {
+      "sent_at": "2026-10-28T14:17:03.894430+00:00",
+      "recipient_email": "go@gracepaintingremodeling.com",
+      "recipient_name": "Business Owner",
+      "sender_email": "simon@desk.fzcorestudio.com",
+      "business_name": "Grace Painting & Remodeling LLC",
+      "subject": "quick question re gracepaintingremodeling.com",
+      "angle": "Mobile Viewport Un-Breaking",
+      "state": "TX",
+      "domain": "gracepaintingremodeling.com"
+    }
+  },
+  "FZ-CA-1792625660-1": {
+    "lead_id": "FZ-CA-1792625660-1",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:17:10.830547+00:00",
+    "domain": "mrtreeman.ca",
+    "email": "sales@mrtreeman.ca",
+    "business_name": "Mr Tree Man",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:17:10.822896+00:00",
+      "recipient_email": "sales@mrtreeman.ca",
+      "recipient_name": "Mr Tree Man",
+      "sender_email": "bennett@partner.fzcorestudio.com",
+      "business_name": "Mr Tree Man",
+      "subject": "mrtreeman.ca mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "ON",
+      "domain": "mrtreeman.ca"
+    }
+  },
+  "FZ-CA-1792625678-2": {
+    "lead_id": "FZ-CA-1792625678-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:17:17.464667+00:00",
+    "domain": "diamondshieldepoxy.site",
+    "email": "info@diamondshieldepoxy.site",
+    "business_name": "DiamondShield Epoxy Floors Markham",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:17:17.457035+00:00",
+      "recipient_email": "info@diamondshieldepoxy.site",
+      "recipient_name": "Business Owner",
+      "sender_email": "lydia@partner.fzcorestudio.com",
+      "business_name": "DiamondShield Epoxy Floors Markham",
+      "subject": "diamondshieldepoxy.site mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "ON",
+      "domain": "diamondshieldepoxy.site"
+    }
+  },
+  "FZ-CA-1792625679-3": {
+    "lead_id": "FZ-CA-1792625679-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:17:23.802944+00:00",
+    "domain": "akaalcoatings.ca",
+    "email": "info@akaalcoatings.ca",
+    "business_name": "Akaal Coatings (Epoxy&Concrete)",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:17:23.795242+00:00",
+      "recipient_email": "info@akaalcoatings.ca",
+      "recipient_name": "Business Owner",
+      "sender_email": "russell@partner.fzcorestudio.com",
+      "business_name": "Akaal Coatings (Epoxy&Concrete)",
+      "subject": "quick question re akaalcoatings.ca",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "ON",
+      "domain": "akaalcoatings.ca"
+    }
+  },
+  "FZ-CA-1792625681-4": {
+    "lead_id": "FZ-CA-1792625681-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:17:37.151593+00:00",
+    "domain": "prolayercoatings.ca",
+    "email": "info@prolayercoatings.ca",
+    "business_name": "ProLayer Coatings Inc. | Epoxy Flooring Mississauga",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:17:37.143944+00:00",
+      "recipient_email": "info@prolayercoatings.ca",
+      "recipient_name": "Business Owner",
+      "sender_email": "valerie@partner.fzcorestudio.com",
+      "business_name": "ProLayer Coatings Inc. | Epoxy Flooring Mississauga",
+      "subject": "prolayercoatings.ca mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "ON",
+      "domain": "prolayercoatings.ca"
+    }
+  },
+  "FZ-CA-1792625683-5": {
+    "lead_id": "FZ-CA-1792625683-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:17:42.724281+00:00",
+    "domain": "eposhield.com",
+    "email": "info@eposhield.com",
+    "business_name": "Eposhield Epoxy Flooring",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:17:42.716561+00:00",
+      "recipient_email": "info@eposhield.com",
+      "recipient_name": "Eposhield Epoxy Flooring",
+      "sender_email": "spencer@partner.fzcorestudio.com",
+      "business_name": "Eposhield Epoxy Flooring",
+      "subject": "eposhield.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "ON",
+      "domain": "eposhield.com"
+    }
+  },
+  "FZ-CA-1792625686-7": {
+    "lead_id": "FZ-CA-1792625686-7",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:17:49.183087+00:00",
+    "domain": "peelepoxy.com",
+    "email": "info@peelepoxy.com",
+    "business_name": "Peel Epoxy",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:17:49.175314+00:00",
+      "recipient_email": "info@peelepoxy.com",
+      "recipient_name": "Peel Epoxy",
+      "sender_email": "carter@ops.fzcorestudio.com",
+      "business_name": "Peel Epoxy",
+      "subject": "peelepoxy.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "ON",
+      "domain": "peelepoxy.com"
+    }
+  },
+  "FZ-CA-1792625704-2": {
+    "lead_id": "FZ-CA-1792625704-2",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:17:55.366086+00:00",
+    "domain": "frdetailing.ca",
+    "email": "info@frdetailing.ca",
+    "business_name": "Ali Mobile Car Detailing",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:17:55.358256+00:00",
+      "recipient_email": "info@frdetailing.ca",
+      "recipient_name": "Ali Mobile Car Detailing",
+      "sender_email": "brooke@ops.fzcorestudio.com",
+      "business_name": "Ali Mobile Car Detailing",
+      "subject": "frdetailing.ca mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "ON",
+      "domain": "frdetailing.ca"
+    }
+  },
+  "FZ-CA-1792625734-3": {
+    "lead_id": "FZ-CA-1792625734-3",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:18:01.238332+00:00",
+    "domain": "borealsolar.com",
+    "email": "info@borealsolar.com",
+    "business_name": "Boreal Solar Inc",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:18:01.230536+00:00",
+      "recipient_email": "info@borealsolar.com",
+      "recipient_name": "Boreal Solar Inc",
+      "sender_email": "garrett@ops.fzcorestudio.com",
+      "business_name": "Boreal Solar Inc",
+      "subject": "borealsolar.com mobile call button",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "ON",
+      "domain": "borealsolar.com"
+    }
+  },
+  "FZ-CA-1792625735-4": {
+    "lead_id": "FZ-CA-1792625735-4",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:18:08.471469+00:00",
+    "domain": "livezeno.com",
+    "email": "info@livezeno.com",
+    "business_name": "Zeno Renewables - Mississauga",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:18:08.463630+00:00",
+      "recipient_email": "info@livezeno.com",
+      "recipient_name": "In Mississauga",
+      "sender_email": "fiona@ops.fzcorestudio.com",
+      "business_name": "Zeno Renewables - Mississauga",
+      "subject": "livezeno.com quick estimate calculator",
+      "angle": "60-Second Instant Quote Estimator",
+      "state": "ON",
+      "domain": "livezeno.com"
+    }
+  },
+  "FZ-CA-1792625737-5": {
+    "lead_id": "FZ-CA-1792625737-5",
+    "action": "INITIAL_PITCH_DISPATCHED",
+    "quarantined_at": "2026-10-28T14:18:15.676463+00:00",
+    "domain": "solar-x.ca",
+    "email": "info@solar-x.ca",
+    "business_name": "Solar X - Oakville",
+    "city": "Toronto",
+    "details": {
+      "sent_at": "2026-10-28T14:18:15.668382+00:00",
+      "recipient_email": "info@solar-x.ca",
+      "recipient_name": "At Closing",
+      "sender_email": "dean@ops.fzcorestudio.com",
+      "business_name": "Solar X - Oakville",
+      "subject": "quick question for At re solar-x.ca",
+      "angle": "1-Tap Call & Sticky Bottom Bar",
+      "state": "ON",
+      "domain": "solar-x.ca"
     }
   }
 }
