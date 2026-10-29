@@ -2366,5 +2366,85 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-10-28T08:16:46.434849+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859096-10",
+    "business_name": "Pitbull Keys Automotive Locksmith",
+    "website": "http://www.pitbullkeys.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-29T13:43:36.963114+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859290-1",
+    "business_name": "Shineworks Mobile Auto Detailing",
+    "website": "https://shineworkscardetailing.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-29T13:44:36.101697+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859371-1",
+    "business_name": "Signs Now Memphis",
+    "website": "http://www.signsnow.com/memphis",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-29T13:44:58.113263+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859664-12",
+    "business_name": "Construction and remodeling",
+    "website": "https://gcproremodeling.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-29T13:47:37.170732+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859784-1",
+    "business_name": "Primaris Custom Homes",
+    "website": "https://primarisconstruction.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-29T13:48:07.065911+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859860-13",
+    "business_name": "Alternative Living Spaces Inc.",
+    "website": "http://alternativelivingspaces.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-29T13:49:21.723188+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859861-14",
+    "business_name": "Lennar at Reverie at Lake Las Vegas",
+    "website": "https://www.lennar.com/new-homes/nevada/las-vegas/henderson/lake-las-vegas/reverie",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-29T13:49:25.034227+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859865-16",
+    "business_name": "Elegant Homes",
+    "website": "http://eleganthomesvegas.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at http://elega",
+    "eliminated_at": "2026-10-29T13:49:30.422977+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792859964-2",
+    "business_name": "Legendz Roofing Kansas City",
+    "website": "https://www.legendzroofing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-29T13:50:54.646386+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792864185-3",
+    "business_name": "Huser's Outdoor Design + Build",
+    "website": "https://www.huserslandscape.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-29T13:54:16.817200+00:00"
   }
 ]
