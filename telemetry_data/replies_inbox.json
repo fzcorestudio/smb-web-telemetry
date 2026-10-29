@@ -79,5 +79,32 @@
     "subject": "Automatic reply: quick note about groovyhues.com",
     "snippet": "Hello, Thank you for reaching out to Groovy Hues support! Because we are a national company with local operators, there are a handful of ways to get support. For your closest service provider, visit https://www.groovyhues.com/locations/ and enter your zip code to find the closest location. The location can assist with appointments, service questions, warranties, and any other questions about services we provide. You will find their phone number and other ways to contact them on their location website page. For our corporate office, visit https://horsepowerbrands.com/ or email info@horsepowerbrands.com. Our corporate office can assist with national inquiries. For franchise development, if you are a broker or interesting in buying a franchise, visit https://horsepowerbrands.com/ or email development@horsepowerbrands.com for assistance. To opt out of messaging or to request to delete your data, please email privacy@groovyhues.com. Thank you, Groovy Hues Support",
     "received_at": "2026-10-29T19:17:12.136698+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792648486-3",
+    "prospect_email": "ask@panacheconsultingllc.com",
+    "sender_header": "Panache Consulting <ask@panacheconsultingllc.com>",
+    "mailbox_received": "evelyn@hq.fzcorestudio.com",
+    "subject": "Thank You For Contacting Panache",
+    "snippet": "Thank you for contacting Panache Consulting. A marketing representative will get back to you within the next 1-2 business days. If you would like to discuss a new or existing project, you can also contact us Monday - Friday from 9AM - 5PM at 980.221.2699. [Panache Consulting l Design Your Own Image] SUPPORT TEAM PANACHE CONSULTING LLC Break Through The Shadows of Mediocrity 615 S College St, Charlotte NC 28202 panacheconsultingllc.com o: 980.221.2699",
+    "received_at": "2026-10-29T19:54:28.876678+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792660501-10",
+    "prospect_email": "contact@unitedjanitors.com",
+    "sender_header": "\"contact@unitedjanitors.com\" <contact@unitedjanitors.com>",
+    "mailbox_received": "faiz@direct.fzcorestudio.com",
+    "subject": "We’ve Received Your Message – United Janitors",
+    "snippet": "Thanks for your message! You’ve reached United Janitors - where clean spaces meet reliable service. We’ve received your email and will get back to you shortly. If you’re reaching out about commercial cleaning, janitorial services, or government contracting, we’ll make sure the right team follows up promptly. In the meantime, learn more about how we can help keep your facility safe, spotless, and service-ready at UnitedJanitors.com. United Janitors Phone: 305-507-3450 Email: contact@unitedjanitors.com",
+    "received_at": "2026-10-29T19:54:33.520990+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792644379-7",
+    "prospect_email": "info@crsbuildersinc.com",
+    "sender_header": "info@crsbuildersinc.com",
+    "mailbox_received": "harrison@hq.fzcorestudio.com",
+    "subject": "Your email requires verification verify#6L0IZQiG0jO4Opw6YxEnN-1793215823",
+    "snippet": "The message you sent requires that you verify that you are a real live human being and not a spam source. To complete this verification, simply reply to this message and leave the subject line intact. Or, you can click the following link: http://mail.crsbuildersinc.com/cgi-sys/bxd.cgi?a=info@crsbuildersinc.com&id=6L0IZQiG0jO4Opw6YxEnN-1793215823 The headers of the message sent from your address are shown below: From harrison@hq.fzcorestudio.com Wed Oct 28 12:30:23 2026 Received: from bumble.aspen.relay.mailchannels.net ([23.83.221.25]:61301) by biz272.inmotionhosting.com with esmtps (TLS1.3) tls TLS_AES_256_GCM_SHA384 (Exim 4.100.1) (envelope-from <harrison@hq.fzcorestudio.com>) id 1xM9Ls-00000006Z2U-0IHT for info@crsbuildersinc.com; Wed, 28 Oct 2026 12:30:23 -0700 X-Sender-Id: hostingeremail|x-authuser|harrison@hq.fzcorestudio.com Received: from relay.mailchannels.net (localhost [127.0.0.1]) by relay.mailchannels.net (Postfix) with ESMTP id ACCEC46196F for <info@crsbuildersinc.com>; Wed, 28 Oct 2026 19:30:20 +0000 (UTC) Received: from de-fra-smtpout10.hostinger.io (trex-green-4.trex.outbound.svc.cluster.local [100.96.18.161]) (Authenticated sender: hostingeremail) by relay.mailchannels.net (Postfix) with ESMTPA id F11B8460104 for <info@crsbuildersinc.com>; Wed, 28 Oct 2026 19:30:15 +0000 (UTC) X-Sender-Id: hostingeremail|x-authuser|harrison@hq.fzcorestudio.com X-MC-Relay: Junk X-MailChannels-SenderId: hostingeremail|x-authuser|harrison@hq.fzcorestudio.com X-MailChannels-Auth-Id: hostingeremail X-Slimy-Shelf: 2c29a43d75d98bf3_1793215820540_455071350 X-MC-Loop-Signature: 1793215820540:3138906710 X-MC-Ingress-Time: 1793215820540 Received: from de-fra-smtpout10.hostinger.io (de-fra-smtpout10.hostinger.io [148.222.55.9]) (using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384) by 100.96.18.161 (trex/8.0.2); Wed, 28 Oct 2026 19:30:20 +0000 DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hq.fzcorestudio.com; s=hostingermail-a; t=1793215814; h=from:from:reply-to:reply-to:subject:subject:date:date: message-id:message-id:to:to:cc:mime-version:mime-version: content-type:content-type; bh=NiZ1qj+uDXAtVgwj+hS1X60xrPHpFwhoQKKm+XINzSI=; b=Anw/MU5/XfG+Fgs5za4ZYqZs+70c4H60pG1tR+xCiglr0SFXwWwYx9NiYvmjGUrKpq7yYc yQYfoYTkqb3aTvDOlgb9cJyC4bxc/T2HPaCgBWgSa8jxSMU7/hOVwiWp6MjYVqXRrAipFt Lv5dUpcj7H6DgP2E0zSyN+BERf7Mvc7AGbV3KprppZrZII2NWVuMbD5YyOBj7dPB21OTWs xKskrv4sDpDIjAmoIJNNI4yfsw7+pzfGDGOzVOS41OzxIWeH/+xW+ovODOuUsmOqadTVK7 qKpMxSOvx/m4BXrdVMiYAZa8XHFfF78m7aZT55o/Rd5O8bXrUYVTG3UY4t5EvQ== Received: from runnervm48cm3.ubxyp142xwouhcve2rjopkwagg.phxx.internal.cloudapp.net (unknown [172.182.200.146]) (Authenticated sender: harrison@hq.fzcorestudio.com) by smtp.hostinger.com (smtp.hostinger.com) with ESMTPSA id 4jFHWT5LXfz4680 for <info@crsbuildersinc.com>; Wed, 28 Oct 2026 19:30:13 +0000 (UTC) Content-Type: multipart/alternative; boundary=\"===============1044190074694355715==\" MIME-Version: 1.0 From: Faiz Majeed <harrison@hq.fzcorestudio.com> To: CRS Builders Inc <info@",
+    "received_at": "2026-10-29T19:54:57.196476+00:00"
   }
 ]
