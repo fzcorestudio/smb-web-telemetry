@@ -2446,5 +2446,117 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 403",
     "eliminated_at": "2026-10-29T13:54:16.817200+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792864467-8",
+    "business_name": "2J Supply HVAC Distributors",
+    "website": "https://www.2jsupply.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-31T13:31:45.574056+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792864515-10",
+    "business_name": "Bachman's HVAC Solutions",
+    "website": "https://www.bachmansinc.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-31T13:32:18.891325+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792864580-4",
+    "business_name": "Castle Energy, LLC",
+    "website": "http://www.castlenrg.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-10-31T13:32:54.257048+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792864625-13",
+    "business_name": "Aggreko Energy Solutions - Cleveland",
+    "website": "https://www.aggreko.com/en-us",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-10-31T13:33:35.404986+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792864629-14",
+    "business_name": "Graybar",
+    "website": "https://www.graybar.com/store-finder",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-31T13:33:35.573376+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792864808-4",
+    "business_name": "Oregon Fire and Water Cleanup and Restoration",
+    "website": "http://oregonrestore.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-10-31T13:34:10.506535+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792864863-9",
+    "business_name": "ASAP Flood & Fire Restoration",
+    "website": "https://floodfireandrestoration.com/portland-or",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://floodfirean",
+    "eliminated_at": "2026-10-31T13:34:25.512757+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792865036-10",
+    "business_name": "Foundation Restoration",
+    "website": "https://www.foundationrestoration.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-31T13:35:13.111481+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792876369-8",
+    "business_name": "Heritage Landscaping, Fence & Deck LLC",
+    "website": "https://www.heritagelandscapingwa.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.heritag",
+    "eliminated_at": "2026-10-31T13:36:33.012832+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792876506-1",
+    "business_name": "Perfection House Painters of Richmond",
+    "website": "https://perfectionhousepaintersofrichmond.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-10-31T13:37:22.765056+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792876558-5",
+    "business_name": "Raynor Painting",
+    "website": "https://www.raynorpainting.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.raynorp",
+    "eliminated_at": "2026-10-31T13:38:06.204580+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792876560-6",
+    "business_name": "A&A Painting Services LLC",
+    "website": "https://www.aapaintingservices.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.aapaint",
+    "eliminated_at": "2026-10-31T13:38:06.437106+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792876561-7",
+    "business_name": "City Wide Decorators",
+    "website": "http://citywidedecorators.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-31T13:38:06.575155+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792876566-9",
+    "business_name": "Lane Brothers, Inc",
+    "website": "http://www.lanebrothers.net",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-10-31T13:38:10.145883+00:00"
   }
 ]
