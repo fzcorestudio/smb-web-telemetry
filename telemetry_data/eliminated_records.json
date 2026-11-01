@@ -2558,5 +2558,77 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 403",
     "eliminated_at": "2026-10-31T13:38:10.145883+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792876568-10",
+    "business_name": "Mexatubs Painting",
+    "website": "https://www.mexatubspainting.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-01T13:47:19.943655+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792876636-4",
+    "business_name": "The One Off - London",
+    "website": "https://www.theoneoff.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-01T13:47:59.070032+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792876697-11",
+    "business_name": "Way Boutique Agency",
+    "website": "http://www.way.boutique",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-01T13:48:26.814619+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792876728-18",
+    "business_name": "Web Design Studio London",
+    "website": "https://webdesignstudio.london",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-01T13:49:01.757681+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792876752-21",
+    "business_name": "Digital Web London",
+    "website": "https://www.digitalweblondon.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-01T13:49:16.498788+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792876872-3",
+    "business_name": "Innovative Cleaning Management Services Ltd",
+    "website": "https://www.innovativecleaningservices.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-01T13:50:46.049255+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792877055-22",
+    "business_name": "Premier Property Cleaning | House & End of Tenancy Cleaners Hale",
+    "website": "https://www.premierpropertycleaning.org",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-01T13:52:55.655879+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792877307-20",
+    "business_name": "Kbuxton Maintenance",
+    "website": "https://www.kbuxton.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-01T13:55:07.259579+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792877315-21",
+    "business_name": "The SafeGroup - Birmingham",
+    "website": "http://www.thesafegroup.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-01T13:55:10.912517+00:00"
   }
 ]
