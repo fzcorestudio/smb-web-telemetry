@@ -2630,5 +2630,45 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-11-01T13:55:10.912517+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1792884779-22",
+    "business_name": "Calgary Greencrete",
+    "website": "http://www.calgarygreencrete.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at http://www.calgaryg",
+    "eliminated_at": "2026-11-02T09:13:02.724799+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792884933-7",
+    "business_name": "Blast It Pest Control Sydney",
+    "website": "https://blastitpestcontrol.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://blas",
+    "eliminated_at": "2026-11-02T09:15:31.489295+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792885012-1",
+    "business_name": "EOC Metal Roofing",
+    "website": "https://eocmetalroofing.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-02T09:16:05.618884+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792885275-20",
+    "business_name": "Professional Plumbing Contractors",
+    "website": "http://professionalplumbingcontractors.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-02T09:20:25.665025+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1792892442-11",
+    "business_name": "Decorative Concrete SEQ Pty Ltd",
+    "website": "https://www.brisbanedecorativeconcrete.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-02T09:22:20.056917+00:00"
   }
 ]
