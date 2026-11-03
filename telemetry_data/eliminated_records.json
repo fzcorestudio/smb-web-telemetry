@@ -2670,5 +2670,69 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
     "eliminated_at": "2026-11-02T09:22:20.056917+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792892600-9",
+    "business_name": "Energy Efficient Solutions",
+    "website": "http://www.energyefficientsolutions.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-03T09:15:55.110742+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792892647-14",
+    "business_name": "One Point Spray Foam Services",
+    "website": "https://www.onepointsprayfoam.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-03T09:16:33.943505+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792892845-12",
+    "business_name": "Danny's Bobcat Excavation Services",
+    "website": "https://www.dannysbobcat.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-03T09:18:35.955874+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792892848-14",
+    "business_name": "Frisco ISD Construction Services",
+    "website": "https://www.friscoisd.org/departments/construction-services/home",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 404",
+    "eliminated_at": "2026-11-03T09:18:40.083413+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792892879-18",
+    "business_name": "Pacesetter Excavation",
+    "website": "http://pacesetterexcavation.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-03T09:19:03.622352+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792911340-2",
+    "business_name": "Texas Tint Boutique",
+    "website": "http://texastintboutique.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CONNECTION_CLOSED at http://texastintbou",
+    "eliminated_at": "2026-11-03T09:21:42.449044+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792911564-9",
+    "business_name": "Level Group Developers",
+    "website": "https://levelgroupdevelopers.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-03T09:24:07.891470+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792911666-25",
+    "business_name": "Lowell Homes at Flamingo Ranch Estates",
+    "website": "https://lowellhomesinc.com/flamingo-ranch-estates",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://lowellhomes",
+    "eliminated_at": "2026-11-03T09:25:32.922877+00:00"
   }
 ]
