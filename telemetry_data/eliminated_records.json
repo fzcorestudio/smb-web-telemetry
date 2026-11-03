@@ -2734,5 +2734,77 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://lowellhomes",
     "eliminated_at": "2026-11-03T09:25:32.922877+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792911704-30",
+    "business_name": "Prince Building Corporation",
+    "website": "https://www.princebuildingcorp.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-11-03T17:11:03.165950+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792911858-3",
+    "business_name": "Pool & Spa Creations Inc",
+    "website": "http://poolcreation.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 409",
+    "eliminated_at": "2026-11-03T17:11:37.248224+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792911950-15",
+    "business_name": "Hampe Pools",
+    "website": "http://hampepools.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-03T17:12:40.232864+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792912032-7",
+    "business_name": "BlackFin Landscapes",
+    "website": "http://blackfinlandscapesllc.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-03T17:13:22.700877+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931216-1",
+    "business_name": "Shaffer Air Conditioning & Rfg",
+    "website": "http://www.shafferair.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-03T17:15:08.966679+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931233-4",
+    "business_name": "Starr Mechanical, Inc.",
+    "website": "http://starrmechanical.net",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CONNECTION_RESET at http://starrmechanic",
+    "eliminated_at": "2026-11-03T17:15:13.275345+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931344-2",
+    "business_name": "All Dry Services of San Diego",
+    "website": "https://www.myalldry.com/north-county-san-diego-california",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-03T17:15:34.906757+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931479-3",
+    "business_name": "First Choice",
+    "website": "https://santamonicawaterdamage.best/anaheim",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://santam",
+    "eliminated_at": "2026-11-03T17:17:05.622409+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931714-1",
+    "business_name": "San Jose Plumbing",
+    "website": "https://sanjoseplumbinginc.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-03T17:19:24.763185+00:00"
   }
 ]
