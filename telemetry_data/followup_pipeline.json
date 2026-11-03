@@ -182,7 +182,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:10.776390+00:00"
+    "bounced_at": "2026-11-03T22:31:59.952312+00:00"
   },
   "FZ-US-1792614814-5": {
     "lead_id": "FZ-US-1792614814-5",
@@ -206,7 +206,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:30.713463+00:00"
+    "bounced_at": "2026-11-03T22:32:20.460850+00:00"
   },
   "FZ-US-1792614815-6": {
     "lead_id": "FZ-US-1792614815-6",
@@ -506,7 +506,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:05.359933+00:00"
+    "bounced_at": "2026-11-03T22:30:56.493111+00:00"
   },
   "FZ-US-1792615114-3": {
     "lead_id": "FZ-US-1792615114-3",
@@ -599,7 +599,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:05.785875+00:00"
+    "bounced_at": "2026-11-03T22:31:54.623393+00:00"
   },
   "FZ-US-1792615181-2": {
     "lead_id": "FZ-US-1792615181-2",
@@ -715,7 +715,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:37.453441+00:00"
+    "bounced_at": "2026-11-03T22:31:27.293643+00:00"
   },
   "FZ-US-1792615202-9": {
     "lead_id": "FZ-US-1792615202-9",
@@ -1015,7 +1015,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:33.260491+00:00"
+    "bounced_at": "2026-11-03T22:31:23.966342+00:00"
   },
   "FZ-US-1792615385-4": {
     "lead_id": "FZ-US-1792615385-4",
@@ -1039,7 +1039,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:09.783513+00:00"
+    "bounced_at": "2026-11-03T22:31:00.814954+00:00"
   },
   "FZ-US-1792615398-1": {
     "lead_id": "FZ-US-1792615398-1",
@@ -1063,7 +1063,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:37.296881+00:00"
+    "bounced_at": "2026-11-03T22:30:27.772053+00:00"
   },
   "FZ-US-1792615420-5": {
     "lead_id": "FZ-US-1792615420-5",
@@ -1156,7 +1156,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:02.078978+00:00"
+    "bounced_at": "2026-11-03T22:30:53.237397+00:00"
   },
   "FZ-US-1792615466-3": {
     "lead_id": "FZ-US-1792615466-3",
@@ -1203,7 +1203,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:44.682602+00:00"
+    "bounced_at": "2026-11-03T22:30:35.525238+00:00"
   },
   "FZ-US-1792616122-3": {
     "lead_id": "FZ-US-1792616122-3",
@@ -1917,7 +1917,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:19.331523+00:00"
+    "bounced_at": "2026-11-03T22:31:10.472330+00:00"
   },
   "FZ-US-1792616471-4": {
     "lead_id": "FZ-US-1792616471-4",
@@ -2010,7 +2010,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:53.887595+00:00"
+    "bounced_at": "2026-11-03T22:30:45.186283+00:00"
   },
   "FZ-US-1792616485-10": {
     "lead_id": "FZ-US-1792616485-10",
@@ -2241,7 +2241,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:50.838153+00:00"
+    "bounced_at": "2026-11-03T22:30:42.374453+00:00"
   },
   "FZ-US-1792616558-13": {
     "lead_id": "FZ-US-1792616558-13",
@@ -2380,7 +2380,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:26.835461+00:00"
+    "bounced_at": "2026-11-03T22:31:17.778625+00:00"
   },
   "FZ-US-1792616603-6": {
     "lead_id": "FZ-US-1792616603-6",
@@ -2404,7 +2404,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:51.550635+00:00"
+    "bounced_at": "2026-11-03T22:30:43.020156+00:00"
   },
   "FZ-US-1792616615-7": {
     "lead_id": "FZ-US-1792616615-7",
@@ -2474,7 +2474,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:35.981074+00:00"
+    "bounced_at": "2026-11-03T22:30:26.424177+00:00"
   },
   "FZ-US-1792616681-3": {
     "lead_id": "FZ-US-1792616681-3",
@@ -3050,7 +3050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:42.126778+00:00"
+    "bounced_at": "2026-11-03T22:30:32.957032+00:00"
   },
   "FZ-US-1792618324-3": {
     "lead_id": "FZ-US-1792618324-3",
@@ -3603,7 +3603,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:32.638854+00:00"
+    "bounced_at": "2026-11-03T22:30:22.893168+00:00"
   },
   "FZ-US-1792618576-4": {
     "lead_id": "FZ-US-1792618576-4",
@@ -3857,7 +3857,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:20.226356+00:00"
+    "bounced_at": "2026-11-03T22:32:09.768990+00:00"
   },
   "FZ-US-1792620850-3": {
     "lead_id": "FZ-US-1792620850-3",
@@ -4065,7 +4065,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:41.889849+00:00"
+    "bounced_at": "2026-11-03T22:30:32.733752+00:00"
   },
   "FZ-US-1792621200-2": {
     "lead_id": "FZ-US-1792621200-2",
@@ -4089,7 +4089,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:17.327929+00:00"
+    "bounced_at": "2026-11-03T22:32:06.934312+00:00"
   },
   "FZ-US-1792621201-3": {
     "lead_id": "FZ-US-1792621201-3",
@@ -4113,7 +4113,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:40.496431+00:00"
+    "bounced_at": "2026-11-03T22:30:31.270068+00:00"
   },
   "FZ-US-1792621228-6": {
     "lead_id": "FZ-US-1792621228-6",
@@ -4137,7 +4137,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:32.849148+00:00"
+    "bounced_at": "2026-11-03T22:30:23.120056+00:00"
   },
   "FZ-US-1792621254-2": {
     "lead_id": "FZ-US-1792621254-2",
@@ -4529,7 +4529,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:51.947512+00:00"
+    "bounced_at": "2026-11-03T22:31:41.316036+00:00"
   },
   "FZ-US-1792621458-6": {
     "lead_id": "FZ-US-1792621458-6",
@@ -4737,7 +4737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:38.387967+00:00"
+    "bounced_at": "2026-11-03T22:30:28.934959+00:00"
   },
   "FZ-US-1792623373-3": {
     "lead_id": "FZ-US-1792623373-3",
@@ -4784,7 +4784,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:18.303586+00:00"
+    "bounced_at": "2026-11-03T22:31:09.421389+00:00"
   },
   "FZ-US-1792623578-6": {
     "lead_id": "FZ-US-1792623578-6",
@@ -4808,7 +4808,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:11.741941+00:00"
+    "bounced_at": "2026-11-03T22:31:02.783810+00:00"
   },
   "FZ-US-1792623579-7": {
     "lead_id": "FZ-US-1792623579-7",
@@ -4832,7 +4832,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:18.087932+00:00"
+    "bounced_at": "2026-11-03T22:31:09.196779+00:00"
   },
   "FZ-US-1792623680-2": {
     "lead_id": "FZ-US-1792623680-2",
@@ -5362,7 +5362,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:57.296601+00:00"
+    "bounced_at": "2026-11-03T22:30:48.144412+00:00"
   },
   "FZ-US-1792624076-1": {
     "lead_id": "FZ-US-1792624076-1",
@@ -5455,7 +5455,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:50.334231+00:00"
+    "bounced_at": "2026-11-03T22:31:39.473037+00:00"
   },
   "FZ-US-1792625066-3": {
     "lead_id": "FZ-US-1792625066-3",
@@ -5479,7 +5479,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:22.144311+00:00"
+    "bounced_at": "2026-11-03T22:31:13.272932+00:00"
   },
   "FZ-US-1792625157-8": {
     "lead_id": "FZ-US-1792625157-8",
@@ -5503,7 +5503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:09.548971+00:00"
+    "bounced_at": "2026-11-03T22:31:00.586826+00:00"
   },
   "FZ-US-1792625188-3": {
     "lead_id": "FZ-US-1792625188-3",
@@ -5550,7 +5550,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:20.823246+00:00"
+    "bounced_at": "2026-11-03T22:31:11.984831+00:00"
   },
   "FZ-US-1792625308-19": {
     "lead_id": "FZ-US-1792625308-19",
@@ -5896,7 +5896,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:46.511107+00:00"
+    "bounced_at": "2026-11-03T22:30:37.292676+00:00"
   },
   "FZ-CA-1792625734-3": {
     "lead_id": "FZ-CA-1792625734-3",
@@ -6449,7 +6449,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:07.488458+00:00"
+    "bounced_at": "2026-11-03T22:31:56.335530+00:00"
   },
   "FZ-CA-1792625962-6": {
     "lead_id": "FZ-CA-1792625962-6",
@@ -6703,7 +6703,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:20.414264+00:00"
+    "bounced_at": "2026-11-03T22:31:11.561733+00:00"
   },
   "FZ-US-1792627387-2": {
     "lead_id": "FZ-US-1792627387-2",
@@ -6819,7 +6819,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:54.829267+00:00"
+    "bounced_at": "2026-11-03T22:30:45.832521+00:00"
   },
   "FZ-US-1792627427-1": {
     "lead_id": "FZ-US-1792627427-1",
@@ -7119,7 +7119,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:12.481944+00:00"
+    "bounced_at": "2026-11-03T22:31:03.629325+00:00"
   },
   "FZ-US-1792627483-14": {
     "lead_id": "FZ-US-1792627483-14",
@@ -7511,7 +7511,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:29.199876+00:00"
+    "bounced_at": "2026-11-03T22:31:19.897573+00:00"
   },
   "FZ-US-1792627593-14": {
     "lead_id": "FZ-US-1792627593-14",
@@ -7581,7 +7581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:32.423973+00:00"
+    "bounced_at": "2026-11-03T22:30:22.660077+00:00"
   },
   "FZ-US-1792627617-6": {
     "lead_id": "FZ-US-1792627617-6",
@@ -7605,7 +7605,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:07.261055+00:00"
+    "bounced_at": "2026-11-03T22:31:56.098785+00:00"
   },
   "FZ-US-1792627619-7": {
     "lead_id": "FZ-US-1792627619-7",
@@ -7652,7 +7652,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:03.207913+00:00"
+    "bounced_at": "2026-11-03T22:30:54.332397+00:00"
   },
   "FZ-US-1792627628-11": {
     "lead_id": "FZ-US-1792627628-11",
@@ -7791,7 +7791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:32.038897+00:00"
+    "bounced_at": "2026-11-03T22:31:22.676050+00:00"
   },
   "FZ-US-1792627691-1": {
     "lead_id": "FZ-US-1792627691-1",
@@ -8206,7 +8206,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:35.757541+00:00"
+    "bounced_at": "2026-11-03T22:30:26.202005+00:00"
   },
   "FZ-US-1792627857-8": {
     "lead_id": "FZ-US-1792627857-8",
@@ -8368,7 +8368,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:33.871986+00:00"
+    "bounced_at": "2026-11-03T22:30:24.231091+00:00"
   },
   "FZ-US-1792627871-18": {
     "lead_id": "FZ-US-1792627871-18",
@@ -8806,7 +8806,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:46.824453+00:00"
+    "bounced_at": "2026-11-03T22:31:35.995586+00:00"
   },
   "FZ-US-1792634864-13": {
     "lead_id": "FZ-US-1792634864-13",
@@ -9083,7 +9083,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:01.850791+00:00"
+    "bounced_at": "2026-11-03T22:30:53.009193+00:00"
   },
   "FZ-US-1792634924-18": {
     "lead_id": "FZ-US-1792634924-18",
@@ -9291,7 +9291,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:02:05.543576+00:00"
+    "bounced_at": "2026-11-03T22:32:57.585479+00:00"
   },
   "FZ-US-1792634966-7": {
     "lead_id": "FZ-US-1792634966-7",
@@ -9591,7 +9591,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:04.707829+00:00"
+    "bounced_at": "2026-11-03T22:30:55.842407+00:00"
   },
   "FZ-CA-1792636225-6": {
     "lead_id": "FZ-CA-1792636225-6",
@@ -10581,7 +10581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:12.223779+00:00"
+    "bounced_at": "2026-11-03T22:31:03.406632+00:00"
   },
   "FZ-CA-1792636728-2": {
     "lead_id": "FZ-CA-1792636728-2",
@@ -10927,7 +10927,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:02:15.829772+00:00"
+    "bounced_at": "2026-11-03T22:33:07.958193+00:00"
   },
   "FZ-US-1792638681-2": {
     "lead_id": "FZ-US-1792638681-2",
@@ -11664,7 +11664,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:46.090982+00:00"
+    "bounced_at": "2026-11-03T22:30:36.866806+00:00"
   },
   "FZ-US-1792639181-16": {
     "lead_id": "FZ-US-1792639181-16",
@@ -11803,7 +11803,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:16.268448+00:00"
+    "bounced_at": "2026-11-03T22:31:07.360242+00:00"
   },
   "FZ-US-1792703574-3": {
     "lead_id": "FZ-US-1792703574-3",
@@ -11919,7 +11919,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:10.136294+00:00"
+    "bounced_at": "2026-11-03T22:31:59.303721+00:00"
   },
   "FZ-US-1792703853-5": {
     "lead_id": "FZ-US-1792703853-5",
@@ -12242,7 +12242,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:24.819308+00:00"
+    "bounced_at": "2026-11-03T22:31:15.945252+00:00"
   },
   "FZ-US-1792718941-3": {
     "lead_id": "FZ-US-1792718941-3",
@@ -12611,7 +12611,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:51.664091+00:00"
+    "bounced_at": "2026-11-03T22:32:42.673475+00:00"
   },
   "FZ-CA-1792722171-5": {
     "lead_id": "FZ-CA-1792722171-5",
@@ -12635,7 +12635,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:37.307196+00:00"
+    "bounced_at": "2026-11-03T22:32:27.735098+00:00"
   },
   "FZ-CA-1792722320-3": {
     "lead_id": "FZ-CA-1792722320-3",
@@ -13510,7 +13510,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:02:08.908723+00:00"
+    "bounced_at": "2026-11-03T22:33:00.932930+00:00"
   },
   "FZ-US-1792787219-3": {
     "lead_id": "FZ-US-1792787219-3",
@@ -13557,7 +13557,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:31.828843+00:00"
+    "bounced_at": "2026-11-03T22:31:22.441410+00:00"
   },
   "FZ-US-1792787245-4": {
     "lead_id": "FZ-US-1792787245-4",
@@ -13581,7 +13581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:08.414884+00:00"
+    "bounced_at": "2026-11-03T22:30:59.482411+00:00"
   },
   "FZ-US-1792787247-5": {
     "lead_id": "FZ-US-1792787247-5",
@@ -13697,7 +13697,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:01.411744+00:00"
+    "bounced_at": "2026-11-03T22:30:52.555362+00:00"
   },
   "FZ-US-1792787401-1": {
     "lead_id": "FZ-US-1792787401-1",
@@ -13721,7 +13721,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:02:11.939911+00:00"
+    "bounced_at": "2026-11-03T22:33:04.024772+00:00"
   },
   "FZ-US-1792787415-1": {
     "lead_id": "FZ-US-1792787415-1",
@@ -13791,7 +13791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:36.722605+00:00"
+    "bounced_at": "2026-11-03T22:32:27.131850+00:00"
   },
   "FZ-US-1792787572-13": {
     "lead_id": "FZ-US-1792787572-13",
@@ -13999,7 +13999,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:47.484650+00:00"
+    "bounced_at": "2026-11-03T22:31:36.626681+00:00"
   },
   "FZ-US-1792799273-2": {
     "lead_id": "FZ-US-1792799273-2",
@@ -14345,7 +14345,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:59.348675+00:00"
+    "bounced_at": "2026-11-03T22:30:50.219602+00:00"
   },
   "FZ-US-1792799567-4": {
     "lead_id": "FZ-US-1792799567-4",
@@ -14553,7 +14553,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:24.600333+00:00"
+    "bounced_at": "2026-11-03T22:31:15.722893+00:00"
   },
   "FZ-US-1792799809-8": {
     "lead_id": "FZ-US-1792799809-8",
@@ -14577,7 +14577,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:40.521552+00:00"
+    "bounced_at": "2026-11-03T22:32:30.904043+00:00"
   },
   "FZ-US-1792799869-1": {
     "lead_id": "FZ-US-1792799869-1",
@@ -14624,7 +14624,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:48.661677+00:00"
+    "bounced_at": "2026-11-03T22:30:39.987096+00:00"
   },
   "FZ-US-1792799956-2": {
     "lead_id": "FZ-US-1792799956-2",
@@ -14786,7 +14786,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:20.198036+00:00"
+    "bounced_at": "2026-11-03T22:31:11.336572+00:00"
   },
   "FZ-US-1792800083-2": {
     "lead_id": "FZ-US-1792800083-2",
@@ -15017,7 +15017,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:18.362301+00:00"
+    "bounced_at": "2026-11-03T22:32:07.953426+00:00"
   },
   "FZ-US-1792815115-10": {
     "lead_id": "FZ-US-1792815115-10",
@@ -15064,7 +15064,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:02:05.315215+00:00"
+    "bounced_at": "2026-11-03T22:32:57.354362+00:00"
   },
   "FZ-US-1792815128-12": {
     "lead_id": "FZ-US-1792815128-12",
@@ -15157,7 +15157,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:53.403333+00:00"
+    "bounced_at": "2026-11-03T22:30:44.738706+00:00"
   },
   "FZ-US-1792815633-6": {
     "lead_id": "FZ-US-1792815633-6",
@@ -15319,7 +15319,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:00.953872+00:00"
+    "bounced_at": "2026-11-03T22:31:49.879700+00:00"
   },
   "FZ-US-1792819635-10": {
     "lead_id": "FZ-US-1792819635-10",
@@ -15619,7 +15619,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:46.749629+00:00"
+    "bounced_at": "2026-11-03T22:32:37.602398+00:00"
   },
   "FZ-US-1792820218-5": {
     "lead_id": "FZ-US-1792820218-5",
@@ -16011,7 +16011,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:01.632558+00:00"
+    "bounced_at": "2026-11-03T22:30:52.781246+00:00"
   },
   "FZ-US-1792850159-1": {
     "lead_id": "FZ-US-1792850159-1",
@@ -16242,7 +16242,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:31.378619+00:00"
+    "bounced_at": "2026-11-03T22:32:21.131838+00:00"
   },
   "FZ-US-1792850466-3": {
     "lead_id": "FZ-US-1792850466-3",
@@ -16381,7 +16381,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:43.325251+00:00"
+    "bounced_at": "2026-11-03T22:31:32.333100+00:00"
   },
   "FZ-US-1792850524-10": {
     "lead_id": "FZ-US-1792850524-10",
@@ -16612,7 +16612,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:24.062615+00:00"
+    "bounced_at": "2026-11-03T22:31:15.171286+00:00"
   },
   "FZ-US-1792854375-10": {
     "lead_id": "FZ-US-1792854375-10",
@@ -16797,7 +16797,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:43.777956+00:00"
+    "bounced_at": "2026-11-03T22:32:34.576153+00:00"
   },
   "FZ-US-1792854437-2": {
     "lead_id": "FZ-US-1792854437-2",
@@ -16867,7 +16867,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:23.842704+00:00"
+    "bounced_at": "2026-11-03T22:31:14.944118+00:00"
   },
   "FZ-US-1792854494-2": {
     "lead_id": "FZ-US-1792854494-2",
@@ -17443,7 +17443,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:40.086676+00:00"
+    "bounced_at": "2026-11-03T22:30:30.822770+00:00"
   },
   "FZ-US-1792726568-1": {
     "lead_id": "FZ-US-1792726568-1",
@@ -17513,7 +17513,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:11.988619+00:00"
+    "bounced_at": "2026-11-03T22:31:03.009671+00:00"
   },
   "FZ-US-1792726907-10": {
     "lead_id": "FZ-US-1792726907-10",
@@ -17790,7 +17790,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:00.961923+00:00"
+    "bounced_at": "2026-11-03T22:30:52.085036+00:00"
   },
   "FZ-CA-1792728942-3": {
     "lead_id": "FZ-CA-1792728942-3",
@@ -18021,7 +18021,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:24.377502+00:00"
+    "bounced_at": "2026-11-03T22:31:15.489546+00:00"
   },
   "FZ-US-1792731323-8": {
     "lead_id": "FZ-US-1792731323-8",
@@ -18137,7 +18137,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:12.934544+00:00"
+    "bounced_at": "2026-11-03T22:31:04.054248+00:00"
   },
   "FZ-US-1792731594-1": {
     "lead_id": "FZ-US-1792731594-1",
@@ -18414,7 +18414,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:37.103724+00:00"
+    "bounced_at": "2026-11-03T22:32:27.523284+00:00"
   },
   "FZ-US-1792794426-2": {
     "lead_id": "FZ-US-1792794426-2",
@@ -18737,7 +18737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:15.954037+00:00"
+    "bounced_at": "2026-11-03T22:31:07.042424+00:00"
   },
   "FZ-US-1792794996-4": {
     "lead_id": "FZ-US-1792794996-4",
@@ -18922,7 +18922,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:54.950784+00:00"
+    "bounced_at": "2026-11-03T22:31:44.173262+00:00"
   },
   "FZ-US-1792803665-6": {
     "lead_id": "FZ-US-1792803665-6",
@@ -18992,7 +18992,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:54.120157+00:00"
+    "bounced_at": "2026-11-03T22:30:45.401928+00:00"
   },
   "FZ-US-1792812902-15": {
     "lead_id": "FZ-US-1792812902-15",
@@ -19936,7 +19936,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:50.003924+00:00"
+    "bounced_at": "2026-11-03T22:31:39.142338+00:00"
   },
   "FZ-US-1792822343-3": {
     "lead_id": "FZ-US-1792822343-3",
@@ -20052,7 +20052,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:03.285766+00:00"
+    "bounced_at": "2026-11-03T22:31:52.160362+00:00"
   },
   "FZ-US-1792822397-4": {
     "lead_id": "FZ-US-1792822397-4",
@@ -20076,7 +20076,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:54.725470+00:00"
+    "bounced_at": "2026-11-03T22:31:43.939508+00:00"
   },
   "FZ-US-1792822413-2": {
     "lead_id": "FZ-US-1792822413-2",
@@ -20399,7 +20399,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:48.441763+00:00"
+    "bounced_at": "2026-11-03T22:30:39.752606+00:00"
   },
   "FZ-US-1792822633-5": {
     "lead_id": "FZ-US-1792822633-5",
@@ -20561,7 +20561,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:19.966532+00:00"
+    "bounced_at": "2026-11-03T22:31:11.109050+00:00"
   },
   "FZ-US-1792822755-2": {
     "lead_id": "FZ-US-1792822755-2",
@@ -20723,7 +20723,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:48.833786+00:00"
+    "bounced_at": "2026-11-03T22:32:39.893847+00:00"
   },
   "FZ-US-1792822897-6": {
     "lead_id": "FZ-US-1792822897-6",
@@ -20747,7 +20747,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:59.566750+00:00"
+    "bounced_at": "2026-11-03T22:30:50.442926+00:00"
   },
   "FZ-US-1792822920-7": {
     "lead_id": "FZ-US-1792822920-7",
@@ -20794,7 +20794,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:48.879782+00:00"
+    "bounced_at": "2026-11-03T22:30:40.227097+00:00"
   },
   "FZ-US-1792822929-9": {
     "lead_id": "FZ-US-1792822929-9",
@@ -21140,7 +21140,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:37.080718+00:00"
+    "bounced_at": "2026-11-03T22:30:27.548998+00:00"
   },
   "FZ-US-1792850343-2": {
     "lead_id": "FZ-US-1792850343-2",
@@ -21279,7 +21279,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:55.067116+00:00"
+    "bounced_at": "2026-11-03T22:30:46.049216+00:00"
   },
   "FZ-US-1792850567-3": {
     "lead_id": "FZ-US-1792850567-3",
@@ -21901,7 +21901,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:27.391815+00:00"
+    "bounced_at": "2026-11-03T22:32:17.180979+00:00"
   },
   "FZ-US-1792854976-2": {
     "lead_id": "FZ-US-1792854976-2",
@@ -21971,7 +21971,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:29.436548+00:00"
+    "bounced_at": "2026-11-03T22:31:20.113940+00:00"
   },
   "FZ-US-1792855037-6": {
     "lead_id": "FZ-US-1792855037-6",
@@ -22041,7 +22041,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:39.872759+00:00"
+    "bounced_at": "2026-11-03T22:30:30.585499+00:00"
   },
   "FZ-US-1792855104-3": {
     "lead_id": "FZ-US-1792855104-3",
@@ -22249,7 +22249,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:08.644639+00:00"
+    "bounced_at": "2026-11-03T22:30:59.713273+00:00"
   },
   "FZ-US-1792855221-19": {
     "lead_id": "FZ-US-1792855221-19",
@@ -22503,7 +22503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:43.140760+00:00"
+    "bounced_at": "2026-11-03T22:30:33.987588+00:00"
   },
   "FZ-US-1792859094-8": {
     "lead_id": "FZ-US-1792859094-8",
@@ -22987,7 +22987,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:54.357923+00:00"
+    "bounced_at": "2026-11-03T22:30:45.619269+00:00"
   },
   "FZ-CA-1792617003-8": {
     "lead_id": "FZ-CA-1792617003-8",
@@ -23126,7 +23126,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:11.006829+00:00"
+    "bounced_at": "2026-11-03T22:31:02.133382+00:00"
   },
   "FZ-CA-1792617030-6": {
     "lead_id": "FZ-CA-1792617030-6",
@@ -23863,7 +23863,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:48.227858+00:00"
+    "bounced_at": "2026-11-03T22:30:39.518937+00:00"
   },
   "FZ-US-1792628298-3": {
     "lead_id": "FZ-US-1792628298-3",
@@ -24002,7 +24002,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:36.859942+00:00"
+    "bounced_at": "2026-11-03T22:30:27.320050+00:00"
   },
   "FZ-CA-1792631077-1": {
     "lead_id": "FZ-CA-1792631077-1",
@@ -24049,7 +24049,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:04.731226+00:00"
+    "bounced_at": "2026-11-03T22:31:53.570277+00:00"
   },
   "FZ-CA-1792631086-4": {
     "lead_id": "FZ-CA-1792631086-4",
@@ -24740,7 +24740,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:41.680067+00:00"
+    "bounced_at": "2026-11-03T22:30:32.505803+00:00"
   },
   "FZ-CA-1792631358-5": {
     "lead_id": "FZ-CA-1792631358-5",
@@ -24879,7 +24879,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:43.575726+00:00"
+    "bounced_at": "2026-11-03T22:32:34.358013+00:00"
   },
   "FZ-CA-1792631418-1": {
     "lead_id": "FZ-CA-1792631418-1",
@@ -25248,7 +25248,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:01.186976+00:00"
+    "bounced_at": "2026-11-03T22:30:52.322464+00:00"
   },
   "FZ-CA-1792631659-13": {
     "lead_id": "FZ-CA-1792631659-13",
@@ -26307,7 +26307,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:36.637302+00:00"
+    "bounced_at": "2026-11-03T22:30:27.088265+00:00"
   },
   "FZ-US-1792634187-3": {
     "lead_id": "FZ-US-1792634187-3",
@@ -26492,7 +26492,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:27.165873+00:00"
+    "bounced_at": "2026-11-03T22:32:16.958072+00:00"
   },
   "FZ-US-1792634261-3": {
     "lead_id": "FZ-US-1792634261-3",
@@ -26631,7 +26631,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:32.212369+00:00"
+    "bounced_at": "2026-11-03T22:30:22.423767+00:00"
   },
   "FZ-US-1792634387-4": {
     "lead_id": "FZ-US-1792634387-4",
@@ -27414,7 +27414,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:34.087562+00:00"
+    "bounced_at": "2026-11-03T22:30:24.470615+00:00"
   },
   "FZ-US-1792634670-6": {
     "lead_id": "FZ-US-1792634670-6",
@@ -27438,7 +27438,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:08.879126+00:00"
+    "bounced_at": "2026-11-03T22:30:59.944581+00:00"
   },
   "FZ-US-1792634676-8": {
     "lead_id": "FZ-US-1792634676-8",
@@ -27922,7 +27922,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:24.312097+00:00"
+    "bounced_at": "2026-11-03T22:32:14.101921+00:00"
   },
   "FZ-US-1792641581-4": {
     "lead_id": "FZ-US-1792641581-4",
@@ -28613,7 +28613,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:04.946720+00:00"
+    "bounced_at": "2026-11-03T22:30:56.067517+00:00"
   },
   "FZ-US-1792641949-4": {
     "lead_id": "FZ-US-1792641949-4",
@@ -28913,7 +28913,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:39.468128+00:00"
+    "bounced_at": "2026-11-03T22:30:30.127724+00:00"
   },
   "FZ-US-1792642159-2": {
     "lead_id": "FZ-US-1792642159-2",
@@ -29397,7 +29397,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:18.524962+00:00"
+    "bounced_at": "2026-11-03T22:31:09.649405+00:00"
   },
   "FZ-US-1792642252-5": {
     "lead_id": "FZ-US-1792642252-5",
@@ -29444,7 +29444,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:32.253077+00:00"
+    "bounced_at": "2026-11-03T22:31:22.911038+00:00"
   },
   "FZ-US-1792642258-9": {
     "lead_id": "FZ-US-1792642258-9",
@@ -29790,7 +29790,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:31.322272+00:00"
+    "bounced_at": "2026-11-03T22:31:21.912216+00:00"
   },
   "FZ-US-1792642402-11": {
     "lead_id": "FZ-US-1792642402-11",
@@ -29837,7 +29837,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:51.334183+00:00"
+    "bounced_at": "2026-11-03T22:30:42.799302+00:00"
   },
   "FZ-US-1792643571-6": {
     "lead_id": "FZ-US-1792643571-6",
@@ -30482,7 +30482,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:58.726685+00:00"
+    "bounced_at": "2026-11-03T22:30:49.588621+00:00"
   },
   "FZ-US-1792643924-1": {
     "lead_id": "FZ-US-1792643924-1",
@@ -30506,7 +30506,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:02:14.179239+00:00"
+    "bounced_at": "2026-11-03T22:33:06.285953+00:00"
   },
   "FZ-US-1792643951-4": {
     "lead_id": "FZ-US-1792643951-4",
@@ -31818,7 +31818,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:44.577548+00:00"
+    "bounced_at": "2026-11-03T22:31:33.568874+00:00"
   },
   "FZ-US-1792648374-2": {
     "lead_id": "FZ-US-1792648374-2",
@@ -31842,7 +31842,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:43.362439+00:00"
+    "bounced_at": "2026-11-03T22:30:34.220162+00:00"
   },
   "FZ-US-1792648375-3": {
     "lead_id": "FZ-US-1792648375-3",
@@ -32050,7 +32050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:36.412381+00:00"
+    "bounced_at": "2026-11-03T22:30:26.862178+00:00"
   },
   "FZ-US-1792648493-7": {
     "lead_id": "FZ-US-1792648493-7",
@@ -32166,7 +32166,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:01.598167+00:00"
+    "bounced_at": "2026-11-03T22:31:50.522417+00:00"
   },
   "FZ-US-1792648522-2": {
     "lead_id": "FZ-US-1792648522-2",
@@ -32213,7 +32213,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:04.073368+00:00"
+    "bounced_at": "2026-11-03T22:30:55.213717+00:00"
   },
   "FZ-US-1792648540-3": {
     "lead_id": "FZ-US-1792648540-3",
@@ -32237,7 +32237,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:10.559702+00:00"
+    "bounced_at": "2026-11-03T22:31:59.728015+00:00"
   },
   "FZ-US-1792648553-9": {
     "lead_id": "FZ-US-1792648553-9",
@@ -32307,7 +32307,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:54.410982+00:00"
+    "bounced_at": "2026-11-03T22:31:43.671200+00:00"
   },
   "FZ-US-1792648630-1": {
     "lead_id": "FZ-US-1792648630-1",
@@ -32745,7 +32745,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:06.654917+00:00"
+    "bounced_at": "2026-11-03T22:30:57.792165+00:00"
   },
   "FZ-US-1792648799-2": {
     "lead_id": "FZ-US-1792648799-2",
@@ -32815,7 +32815,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:21.294154+00:00"
+    "bounced_at": "2026-11-03T22:32:10.824725+00:00"
   },
   "FZ-US-1792648835-1": {
     "lead_id": "FZ-US-1792648835-1",
@@ -33368,7 +33368,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:51.424949+00:00"
+    "bounced_at": "2026-11-03T22:32:42.430990+00:00"
   },
   "FZ-US-1792654925-19": {
     "lead_id": "FZ-US-1792654925-19",
@@ -33461,7 +33461,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:34.307155+00:00"
+    "bounced_at": "2026-11-03T22:30:24.714018+00:00"
   },
   "FZ-US-1792657561-3": {
     "lead_id": "FZ-US-1792657561-3",
@@ -33761,7 +33761,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:29.676225+00:00"
+    "bounced_at": "2026-11-03T22:31:20.329251+00:00"
   },
   "FZ-US-1792660046-11": {
     "lead_id": "FZ-US-1792660046-11",
@@ -33877,7 +33877,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:57.087012+00:00"
+    "bounced_at": "2026-11-03T22:30:47.922865+00:00"
   },
   "FZ-US-1792660194-4": {
     "lead_id": "FZ-US-1792660194-4",
@@ -33993,7 +33993,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:02:09.940718+00:00"
+    "bounced_at": "2026-11-03T22:33:01.943456+00:00"
   },
   "FZ-US-1792660501-10": {
     "lead_id": "FZ-US-1792660501-10",
@@ -34247,7 +34247,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:57.894109+00:00"
+    "bounced_at": "2026-11-03T22:31:47.335428+00:00"
   },
   "FZ-CA-1792663418-2": {
     "lead_id": "FZ-CA-1792663418-2",
@@ -34386,7 +34386,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:11.258117+00:00"
+    "bounced_at": "2026-11-03T22:31:02.365779+00:00"
   },
   "FZ-CA-1792663433-9": {
     "lead_id": "FZ-CA-1792663433-9",
@@ -34548,7 +34548,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:00.069634+00:00"
+    "bounced_at": "2026-11-03T22:31:49.029864+00:00"
   },
   "FZ-CA-1792663895-12": {
     "lead_id": "FZ-CA-1792663895-12",
@@ -34641,7 +34641,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:29.676447+00:00"
+    "bounced_at": "2026-11-03T22:32:19.428653+00:00"
   },
   "FZ-US-1792663961-2": {
     "lead_id": "FZ-US-1792663961-2",
@@ -34941,7 +34941,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:39.760633+00:00"
+    "bounced_at": "2026-11-03T22:31:29.249768+00:00"
   },
   "FZ-US-1792665838-1": {
     "lead_id": "FZ-US-1792665838-1",
@@ -35724,7 +35724,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:58.155495+00:00"
+    "bounced_at": "2026-11-03T22:32:49.255864+00:00"
   },
   "FZ-US-1792672994-4": {
     "lead_id": "FZ-US-1792672994-4",
@@ -35886,7 +35886,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:45.432045+00:00"
+    "bounced_at": "2026-11-03T22:30:36.214281+00:00"
   },
   "FZ-US-1792673138-2": {
     "lead_id": "FZ-US-1792673138-2",
@@ -36048,7 +36048,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:33.659261+00:00"
+    "bounced_at": "2026-11-03T22:30:23.997230+00:00"
   },
   "FZ-US-1792673182-10": {
     "lead_id": "FZ-US-1792673182-10",
@@ -36555,7 +36555,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:57.677117+00:00"
+    "bounced_at": "2026-11-03T22:31:47.108779+00:00"
   },
   "FZ-US-1792673629-6": {
     "lead_id": "FZ-US-1792673629-6",
@@ -36579,7 +36579,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:53.950048+00:00"
+    "bounced_at": "2026-11-03T22:32:44.979924+00:00"
   },
   "FZ-US-1792673631-7": {
     "lead_id": "FZ-US-1792673631-7",
@@ -36718,7 +36718,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:20.454824+00:00"
+    "bounced_at": "2026-11-03T22:32:10.000767+00:00"
   },
   "FZ-US-1792676514-15": {
     "lead_id": "FZ-US-1792676514-15",
@@ -36857,7 +36857,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:12.016306+00:00"
+    "bounced_at": "2026-11-03T22:32:01.153457+00:00"
   },
   "FZ-US-1792678796-4": {
     "lead_id": "FZ-US-1792678796-4",
@@ -36881,7 +36881,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:03.439816+00:00"
+    "bounced_at": "2026-11-03T22:30:54.568017+00:00"
   },
   "FZ-US-1792678809-7": {
     "lead_id": "FZ-US-1792678809-7",
@@ -37135,7 +37135,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:42.772139+00:00"
+    "bounced_at": "2026-11-03T22:31:31.844596+00:00"
   },
   "FZ-US-1792679241-7": {
     "lead_id": "FZ-US-1792679241-7",
@@ -37343,7 +37343,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:02.848638+00:00"
+    "bounced_at": "2026-11-03T22:31:51.728430+00:00"
   },
   "FZ-US-1792679600-6": {
     "lead_id": "FZ-US-1792679600-6",
@@ -38011,7 +38011,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:36.141651+00:00"
+    "bounced_at": "2026-11-03T22:32:26.557029+00:00"
   },
   "FZ-US-1792859534-6": {
     "lead_id": "FZ-US-1792859534-6",
@@ -38035,7 +38035,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:57.950650+00:00"
+    "bounced_at": "2026-11-03T22:32:49.039543+00:00"
   },
   "FZ-US-1792859537-7": {
     "lead_id": "FZ-US-1792859537-7",
@@ -38841,7 +38841,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:48.009168+00:00"
+    "bounced_at": "2026-11-03T22:30:39.287346+00:00"
   },
   "FZ-US-1792864068-3": {
     "lead_id": "FZ-US-1792864068-3",
@@ -39486,7 +39486,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:46.552098+00:00"
+    "bounced_at": "2026-11-03T22:32:37.390978+00:00"
   },
   "FZ-AU-1792615707-7": {
     "lead_id": "FZ-AU-1792615707-7",
@@ -40637,7 +40637,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:06.897635+00:00"
+    "bounced_at": "2026-11-03T22:30:58.031201+00:00"
   },
   "FZ-AU-1792651066-1": {
     "lead_id": "FZ-AU-1792651066-1",
@@ -41052,7 +41052,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:02:11.524134+00:00"
+    "bounced_at": "2026-11-03T22:33:03.586670+00:00"
   },
   "FZ-AU-1792651291-2": {
     "lead_id": "FZ-AU-1792651291-2",
@@ -41421,7 +41421,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:23.671509+00:00"
+    "bounced_at": "2026-11-03T22:32:13.433201+00:00"
   },
   "FZ-AU-1792651474-5": {
     "lead_id": "FZ-AU-1792651474-5",
@@ -41445,7 +41445,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:15.542361+00:00"
+    "bounced_at": "2026-11-03T22:31:06.622395+00:00"
   },
   "FZ-AU-1792651485-7": {
     "lead_id": "FZ-AU-1792651485-7",
@@ -42481,7 +42481,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:50.215353+00:00"
+    "bounced_at": "2026-11-03T22:30:41.753699+00:00"
   },
   "FZ-AU-1792670242-11": {
     "lead_id": "FZ-AU-1792670242-11",
@@ -42574,7 +42574,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:24.088988+00:00"
+    "bounced_at": "2026-11-03T22:32:13.867125+00:00"
   },
   "FZ-AU-1792670329-6": {
     "lead_id": "FZ-AU-1792670329-6",
@@ -42828,7 +42828,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T21:59:58.509774+00:00"
+    "bounced_at": "2026-11-03T22:30:49.362315+00:00"
   },
   "FZ-AU-1792670710-8": {
     "lead_id": "FZ-AU-1792670710-8",
@@ -44002,7 +44002,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:01:26.543089+00:00"
+    "bounced_at": "2026-11-03T22:32:16.346402+00:00"
   },
   "FZ-AU-1792797079-3": {
     "lead_id": "FZ-AU-1792797079-3",
@@ -44187,7 +44187,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T22:00:23.404422+00:00"
+    "bounced_at": "2026-11-03T22:31:14.508768+00:00"
   },
   "FZ-AU-1792797351-5": {
     "lead_id": "FZ-AU-1792797351-5",
@@ -44521,7 +44521,7 @@
     "domain": "pnwmoldmasters.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -44530,9 +44530,10 @@
         "subject": "quick question for Example re pnwmoldmasters.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:53.892165+00:00"
   },
   "FZ-US-1792864792-3": {
     "lead_id": "FZ-US-1792864792-3",
@@ -44751,7 +44752,7 @@
     "domain": "seattleslabjack.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -44760,9 +44761,10 @@
         "subject": "seattleslabjack.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:56.098534+00:00"
   },
   "FZ-US-1792865038-11": {
     "lead_id": "FZ-US-1792865038-11",
@@ -44981,7 +44983,7 @@
     "domain": "exorironworks.com",
     "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (First Name, Email, SELECT, INPUT, Last Name).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -44990,9 +44992,10 @@
         "subject": "exorironworks.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:30:22.185382+00:00"
   },
   "FZ-US-1792876374-9": {
     "lead_id": "FZ-US-1792876374-9",
@@ -45441,7 +45444,7 @@
     "domain": "ronickpavingltd.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -45450,9 +45453,10 @@
         "subject": "ronickpavingltd.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:22.585536+00:00"
   },
   "FZ-CA-1792884623-10": {
     "lead_id": "FZ-CA-1792884623-10",
@@ -45464,7 +45468,7 @@
     "domain": "concretestar.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -45473,9 +45477,10 @@
         "subject": "quick question for Operated re concretestar.ca"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:30:38.838891+00:00"
   },
   "FZ-CA-1792884631-11": {
     "lead_id": "FZ-CA-1792884631-11",
@@ -45487,7 +45492,7 @@
     "domain": "calgaryconcreteservices.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -45496,9 +45501,10 @@
         "subject": "quick question for Set re calgaryconcreteservices.ca"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:31:45.481741+00:00"
   },
   "FZ-CA-1792884655-12": {
     "lead_id": "FZ-CA-1792884655-12",
@@ -45694,7 +45700,7 @@
     "domain": "homestars.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -45703,9 +45709,10 @@
         "subject": "quick question for Painter re homestars.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:30:51.657299+00:00"
   },
   "FZ-CA-1792884792-24": {
     "lead_id": "FZ-CA-1792884792-24",
@@ -45786,7 +45793,7 @@
     "domain": "stallionconcrete.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -45795,9 +45802,10 @@
         "subject": "stallionconcrete.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:25.362265+00:00"
   },
   "FZ-CA-1792884821-29": {
     "lead_id": "FZ-CA-1792884821-29",
@@ -45924,7 +45932,7 @@
     "domain": "txatticfanatics.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '972-379-7229' found in plain text without an href='tel:' link.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -45933,9 +45941,10 @@
         "subject": "txatticfanatics.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:51.409043+00:00"
   },
   "FZ-US-1792892591-7": {
     "lead_id": "FZ-US-1792892591-7",
@@ -45947,7 +45956,7 @@
     "domain": "hkinsulation.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -45956,9 +45965,10 @@
         "subject": "hkinsulation.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:30:41.524491+00:00"
   },
   "FZ-US-1792892597-8": {
     "lead_id": "FZ-US-1792892597-8",
@@ -46085,7 +46095,7 @@
     "domain": "ehshvac.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -46094,9 +46104,10 @@
         "subject": "quick question for Residing In re ehshvac.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:11.969378+00:00"
   },
   "FZ-US-1792892658-17": {
     "lead_id": "FZ-US-1792892658-17",
@@ -46131,7 +46142,7 @@
     "domain": "himprovement.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -46140,9 +46151,10 @@
         "subject": "himprovement.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:30:21.949485+00:00"
   },
   "FZ-US-1792892705-1": {
     "lead_id": "FZ-US-1792892705-1",
@@ -46890,7 +46902,7 @@
     "domain": "lmgdetailing.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -46899,9 +46911,10 @@
         "subject": "lmgdetailing.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:30:44.330976+00:00"
   },
   "FZ-US-1792911338-1": {
     "lead_id": "FZ-US-1792911338-1",
@@ -47005,7 +47018,7 @@
     "domain": "waterdamagechamp.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -47014,9 +47027,10 @@
         "subject": "waterdamagechamp.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:06.324031+00:00"
   },
   "FZ-US-1792931376-6": {
     "lead_id": "FZ-US-1792931376-6",
@@ -47143,7 +47157,7 @@
     "domain": "waterremovalsandiego.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -47152,9 +47166,10 @@
         "subject": "quick question for Martin re waterremovalsandiego.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:31:35.573280+00:00"
   },
   "FZ-US-1792931456-1": {
     "lead_id": "FZ-US-1792931456-1",
@@ -47189,7 +47204,7 @@
     "domain": "rhinoconcrete.services",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "REPLIED",
     "step_history": [
       {
         "step": 1,
@@ -47198,9 +47213,9 @@
         "subject": "quick question re rhinoconcrete.services"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
-    "replied_at": null,
-    "reply_snippet": null
+    "next_followup_due": null,
+    "replied_at": "2026-11-03T22:31:01.911650+00:00",
+    "reply_snippet": "<p>Hi [First Name],</p><p>Thank you for reaching out to <strong>Rhino Concrete</strong>. We’ve received your message and our team will get back to you within <strong>24 hours</strong>.</p><p>In the meantime, here’s what you can expect from us:</p><p>A quick follow-up call or email to discuss your project.</p><p>A free, no-obligation estimate tailored to your needs.</p><p>Honest, upfront pricing and professional service.</p><p>If your request is urgent, please feel free to call us directly at <strong>(562) 824-2092</strong>.</p><p>We look forward to working with you!</p><p>Best regards,<br>Ryan<br><strong>Rhino Concrete</strong><br>&nbsp;(562) 824-2092<br>&nbsp;</p>"
   },
   "FZ-US-1792931501-5": {
     "lead_id": "FZ-US-1792931501-5",
@@ -47442,7 +47457,7 @@
     "domain": "weld4u.co",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -47451,9 +47466,10 @@
         "subject": "weld4u.co quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:31:40.690249+00:00"
   },
   "FZ-US-1792931632-10": {
     "lead_id": "FZ-US-1792931632-10",
@@ -47465,7 +47481,7 @@
     "domain": "jrciron.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -47474,9 +47490,10 @@
         "subject": "jrciron.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:39.377848+00:00"
   },
   "FZ-US-1792931639-11": {
     "lead_id": "FZ-US-1792931639-11",
@@ -47626,7 +47643,7 @@
     "domain": "integratedpcm.com.au",
     "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (INPUT, INPUT, INPUT, Pest Control Services, how_soon_do_you_need_the_service).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -47635,9 +47652,10 @@
         "subject": "integratedpcm.com.au quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:33.218885+00:00"
   },
   "FZ-AU-1792884931-6": {
     "lead_id": "FZ-AU-1792884931-6",
@@ -47741,7 +47759,7 @@
     "domain": "propestcontrolsydney.com.au",
     "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (gq_web, gq_name, gq_phone, gq_email, e.g. Dee Why 2099).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -47750,9 +47768,10 @@
         "subject": "propestcontrolsydney.com.au quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-03T22:32:22.815114+00:00"
   },
   "FZ-AU-1792885039-2": {
     "lead_id": "FZ-AU-1792885039-2",
@@ -48188,6 +48207,3042 @@
       }
     ],
     "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644445-1": {
+    "lead_id": "FZ-AU-1792644445-1",
+    "business_name": "Quality Epoxy Floors - Epoxy Flooring Brisbane, Garage Floor Coatings, Concrete Sealing",
+    "owner_name": "Business Owner",
+    "recipient_email": "admin@qualityepoxyfloors.com.au",
+    "sender_email": "marcus@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "qualityepoxyfloors.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:28.035454+00:00",
+        "sender": "marcus@mail.fzcorestudio.com",
+        "subject": "quick question re qualityepoxyfloors.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644455-2": {
+    "lead_id": "FZ-AU-1792644455-2",
+    "business_name": "Specialised Epoxy Flooring",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@specialisedepoxyflooring.com.au",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "specialisedepoxyflooring.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:32.181179+00:00",
+        "sender": "elena@mail.fzcorestudio.com",
+        "subject": "specialisedepoxyflooring.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644474-4": {
+    "lead_id": "FZ-AU-1792644474-4",
+    "business_name": "Ultimate Floors Epoxy & Polish",
+    "owner_name": "Quotes",
+    "recipient_email": "quotes@ultimatefloors.com.au",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ultimatefloors.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:36.231884+00:00",
+        "sender": "adrian@mail.fzcorestudio.com",
+        "subject": "quick question for Quotes re ultimatefloors.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644481-6": {
+    "lead_id": "FZ-AU-1792644481-6",
+    "business_name": "Apex Epoxy Flooring",
+    "owner_name": "Nathan",
+    "recipient_email": "nathan@apexepoxy.com.au",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "apexepoxy.com.au",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Full Name*, Phone*, Email*, Enquiry, email).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:40.806178+00:00",
+        "sender": "julian@mail.fzcorestudio.com",
+        "subject": "apexepoxy.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644482-7": {
+    "lead_id": "FZ-AU-1792644482-7",
+    "business_name": "Suncoast Epoxy",
+    "owner_name": "Eddie",
+    "recipient_email": "eddie@suncoastepoxy.com.au",
+    "sender_email": "lucas@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "suncoastepoxy.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:43.967030+00:00",
+        "sender": "lucas@team.fzcorestudio.com",
+        "subject": "suncoastepoxy.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644484-8": {
+    "lead_id": "FZ-AU-1792644484-8",
+    "business_name": "Epoxy By Design",
+    "owner_name": "Epoxy By Design",
+    "recipient_email": "hello@ebdfloors.com",
+    "sender_email": "clara@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ebdfloors.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:47.854196+00:00",
+        "sender": "clara@team.fzcorestudio.com",
+        "subject": "ebdfloors.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644486-9": {
+    "lead_id": "FZ-AU-1792644486-9",
+    "business_name": "Allure Concrete Solutions Pty Ltd",
+    "owner_name": "Business Owner",
+    "recipient_email": "sales@allureconcretesolutions.com.au",
+    "sender_email": "liam@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "allureconcretesolutions.com.au",
+    "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (dmform-0, dmform-1, dmform-2, dmform-5, dmform-4).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:51.615326+00:00",
+        "sender": "liam@team.fzcorestudio.com",
+        "subject": "quick question re allureconcretesolutions.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644497-13": {
+    "lead_id": "FZ-AU-1792644497-13",
+    "business_name": "Frontline Protective Coatings - Waterproofing & Epoxy Coatings",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@frontlinepc.au",
+    "sender_email": "maya@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "frontlinepc.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:54.986550+00:00",
+        "sender": "maya@team.fzcorestudio.com",
+        "subject": "frontlinepc.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644498-14": {
+    "lead_id": "FZ-AU-1792644498-14",
+    "business_name": "Crystal Epoxy Flooring Ipswich",
+    "owner_name": "In Springfield",
+    "recipient_email": "info@ipswichfloorcovering.com",
+    "sender_email": "julian@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ipswichfloorcovering.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:33:58.270697+00:00",
+        "sender": "julian@team.fzcorestudio.com",
+        "subject": "quick question for In re ipswichfloorcovering.com"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792644499-15": {
+    "lead_id": "FZ-AU-1792644499-15",
+    "business_name": "Epoxy Armour Coatings",
+    "owner_name": "Tori Faux",
+    "recipient_email": "info@epoxyarmourcoatings.com.au",
+    "sender_email": "hannah@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "epoxyarmourcoatings.com.au",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (First Name, Last Name, Phone, Email, Message).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:02.428329+00:00",
+        "sender": "hannah@get.fzcorestudio.com",
+        "subject": "quick question for Tori Faux re epoxyarmourcoatings.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666023-1": {
+    "lead_id": "FZ-AU-1792666023-1",
+    "business_name": "Ceramic Coatings Logan",
+    "owner_name": "Ceramic Coatings Logan",
+    "recipient_email": "contact@a1autostyling.com.au",
+    "sender_email": "owen@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "a1autostyling.com.au",
+    "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (Make + model + colour, e.g. White Tesla Model Y 2024, wpforms[fields][8], First name, Last name, wpforms[fields][7]).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:06.428155+00:00",
+        "sender": "owen@get.fzcorestudio.com",
+        "subject": "a1autostyling.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666068-2": {
+    "lead_id": "FZ-AU-1792666068-2",
+    "business_name": "S2F Painting",
+    "owner_name": "Apostoli Holevas",
+    "recipient_email": "hello@s2fpainting.com.au",
+    "sender_email": "chloe@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "s2fpainting.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:09.678588+00:00",
+        "sender": "chloe@get.fzcorestudio.com",
+        "subject": "quick question for Apostoli re s2fpainting.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666072-3": {
+    "lead_id": "FZ-AU-1792666072-3",
+    "business_name": "Brush Masters Brisbane",
+    "owner_name": "Pete",
+    "recipient_email": "pete@brushmastersbrisbane.com.au",
+    "sender_email": "mason@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "brushmastersbrisbane.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:13.244149+00:00",
+        "sender": "mason@get.fzcorestudio.com",
+        "subject": "quick question for Pete re brushmastersbrisbane.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666090-1": {
+    "lead_id": "FZ-AU-1792666090-1",
+    "business_name": "Dr Andrew Hadj | Plastic Surgeon Brisbane",
+    "owner_name": "Reception",
+    "recipient_email": "reception@andrewhadj.com",
+    "sender_email": "zoe@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "andrewhadj.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:17.275377+00:00",
+        "sender": "zoe@get.fzcorestudio.com",
+        "subject": "quick question for Reception re andrewhadj.com"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666101-4": {
+    "lead_id": "FZ-AU-1792666101-4",
+    "business_name": "Cosmetic Medicine Centre",
+    "owner_name": "Renowned Cosmetic",
+    "recipient_email": "enquiries@cosmeticmedicinecentre.com.au",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "cosmeticmedicinecentre.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:21.670120+00:00",
+        "sender": "faiz@direct.fzcorestudio.com",
+        "subject": "cosmeticmedicinecentre.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666104-6": {
+    "lead_id": "FZ-AU-1792666104-6",
+    "business_name": "The Ivy Clinic",
+    "owner_name": "Drwendy",
+    "recipient_email": "drwendy@theivyclinic.com.au",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "theivyclinic.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:25.715625+00:00",
+        "sender": "ethan@direct.fzcorestudio.com",
+        "subject": "quick question for Drwendy re theivyclinic.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666122-7": {
+    "lead_id": "FZ-AU-1792666122-7",
+    "business_name": "Dan Kennedy: Plastic Surgeon",
+    "owner_name": "Business Owner",
+    "recipient_email": "consultation@plasticsurgeon.com.au",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "plasticsurgeon.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:29.539088+00:00",
+        "sender": "olivia@direct.fzcorestudio.com",
+        "subject": "plasticsurgeon.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666123-8": {
+    "lead_id": "FZ-AU-1792666123-8",
+    "business_name": "Dr Ian Chinsee",
+    "owner_name": "Dr Ian Chinsee",
+    "recipient_email": "info@drchinsee.com.au",
+    "sender_email": "noah@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "drchinsee.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:33.007533+00:00",
+        "sender": "noah@direct.fzcorestudio.com",
+        "subject": "drchinsee.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666131-9": {
+    "lead_id": "FZ-AU-1792666131-9",
+    "business_name": "Brisbane City Skin Clinic",
+    "owner_name": "Business Owner",
+    "recipient_email": "admin@brisbanecityskinclinic.com.au",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "brisbanecityskinclinic.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:37.565898+00:00",
+        "sender": "ava@direct.fzcorestudio.com",
+        "subject": "brisbanecityskinclinic.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666163-3": {
+    "lead_id": "FZ-AU-1792666163-3",
+    "business_name": "Seal Team Six Epoxy",
+    "owner_name": "Seal Team Six Epoxy",
+    "recipient_email": "info@sealteamsixepoxy.com.au",
+    "sender_email": "leo@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "sealteamsixepoxy.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:41.283034+00:00",
+        "sender": "leo@reach.fzcorestudio.com",
+        "subject": "quick question re sealteamsixepoxy.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666188-13": {
+    "lead_id": "FZ-AU-1792666188-13",
+    "business_name": "Flaked Floor Coatings | Epoxy Flooring",
+    "owner_name": "Director Steve",
+    "recipient_email": "info@flakedfloorcoatings.com.au",
+    "sender_email": "emma@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "flakedfloorcoatings.com.au",
+    "flaw_summary": "Excessive Form Fields (11 inputs) Causing High Drop-Off (Detected static form with 11 fields (Name, Email, Phone Number, Street, city, post code, Floor Size In m2).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:45.356781+00:00",
+        "sender": "emma@reach.fzcorestudio.com",
+        "subject": "flakedfloorcoatings.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792666205-15": {
+    "lead_id": "FZ-AU-1792666205-15",
+    "business_name": "Tough Floors - Northern Brisbane",
+    "owner_name": "Trained Local",
+    "recipient_email": "info@toughfloors.com.au",
+    "sender_email": "nathan@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "toughfloors.com.au",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (What is your first name, What is your last name, Enter your email address, Enter your phone number, What suburb do you live in).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:48.956974+00:00",
+        "sender": "nathan@reach.fzcorestudio.com",
+        "subject": "toughfloors.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706028-1": {
+    "lead_id": "FZ-AU-1792706028-1",
+    "business_name": "Eclipse Tinting",
+    "owner_name": "Eclipse Tinting",
+    "recipient_email": "enquiries@eclipsetinting.net.au",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "eclipsetinting.net.au",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (item_3__fluent_sf, Your Name*, Your Email*, Search, Your Phone* ).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:52.642059+00:00",
+        "sender": "mia@reach.fzcorestudio.com",
+        "subject": "eclipsetinting.net.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706053-3": {
+    "lead_id": "FZ-AU-1792706053-3",
+    "business_name": "High Performance Window Films",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@hpfilmservice.com.au",
+    "sender_email": "caleb@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "highperformancewindowfilmsbrisbane.com.au",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (YOUR NAME, YOUR EMAIL, YOUR NUMBER, YOUR SUBURB, YOUR MESSAGE).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:34:56.296075+00:00",
+        "sender": "caleb@reach.fzcorestudio.com",
+        "subject": "highperformancewindowfilmsbrisbane.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706055-4": {
+    "lead_id": "FZ-AU-1792706055-4",
+    "business_name": "AAA TINT",
+    "owner_name": "AAA TINT",
+    "recipient_email": "info@aaatint.com.au",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "aaatint.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:00.584835+00:00",
+        "sender": "harrison@hq.fzcorestudio.com",
+        "subject": "aaatint.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706110-4": {
+    "lead_id": "FZ-AU-1792706110-4",
+    "business_name": "KC AluScape",
+    "owner_name": "KC AluScape",
+    "recipient_email": "admin@kcaluscape.com.au",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "kcaluscape.com.au",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '9568456524' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:03.888438+00:00",
+        "sender": "victoria@hq.fzcorestudio.com",
+        "subject": "kcaluscape.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706115-5": {
+    "lead_id": "FZ-AU-1792706115-5",
+    "business_name": "Top Tier Fencing",
+    "owner_name": "Top Tier Fencing",
+    "recipient_email": "admin@toptierfencing.com.au",
+    "sender_email": "graham@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "toptierfencing.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:07.155907+00:00",
+        "sender": "graham@hq.fzcorestudio.com",
+        "subject": "toptierfencing.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706117-6": {
+    "lead_id": "FZ-AU-1792706117-6",
+    "business_name": "Fenced Out",
+    "owner_name": "Fenced Out",
+    "recipient_email": "hello@fencedout.com.au",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "fencedout.com.au",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (First Name, Last Name, Email, Phone, Suburb).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:11.060463+00:00",
+        "sender": "evelyn@hq.fzcorestudio.com",
+        "subject": "fencedout.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706161-4": {
+    "lead_id": "FZ-AU-1792706161-4",
+    "business_name": "ROYALFINISH MOBILE CAR DETAILING BRISBANE",
+    "owner_name": "Royalfinishco",
+    "recipient_email": "royalfinishco@gmail.com",
+    "sender_email": "connor@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "royalfinishco.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:14.383976+00:00",
+        "sender": "connor@hq.fzcorestudio.com",
+        "subject": "royalfinishco.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706185-1": {
+    "lead_id": "FZ-AU-1792706185-1",
+    "business_name": "Evie Charging Station",
+    "owner_name": "Paul Fox",
+    "recipient_email": "info@evie.com.au",
+    "sender_email": "audrey@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "evie.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:18.856356+00:00",
+        "sender": "audrey@client.fzcorestudio.com",
+        "subject": "quick question for Paul re evie.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706259-1": {
+    "lead_id": "FZ-AU-1792706259-1",
+    "business_name": "Drain Masters Plumbing Brisbane",
+    "owner_name": "Matty",
+    "recipient_email": "matty@drainmastersplumbing.com.au",
+    "sender_email": "elliott@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "drainmastersplumbing.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:23.306640+00:00",
+        "sender": "elliott@client.fzcorestudio.com",
+        "subject": "quick question for Matty re drainmastersplumbing.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706339-2": {
+    "lead_id": "FZ-AU-1792706339-2",
+    "business_name": "Urban Scene Construction",
+    "owner_name": "Build",
+    "recipient_email": "build@urbanscene.com.au",
+    "sender_email": "madeline@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "urbansceneconstruction.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:26.385799+00:00",
+        "sender": "madeline@client.fzcorestudio.com",
+        "subject": "quick question for Build re urbansceneconstruction.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706342-3": {
+    "lead_id": "FZ-AU-1792706342-3",
+    "business_name": "JC Bathroom Renovations",
+    "owner_name": "Craig",
+    "recipient_email": "craig@jcbathroomrenovations.com",
+    "sender_email": "trevor@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "jcbathroomrenovations.com",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (input_9, Name, Phone, Email, Inquiry).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:30.181005+00:00",
+        "sender": "trevor@client.fzcorestudio.com",
+        "subject": "jcbathroomrenovations.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706356-4": {
+    "lead_id": "FZ-AU-1792706356-4",
+    "business_name": "The Brisbane Bathroom Company",
+    "owner_name": "David",
+    "recipient_email": "david@brisbathco.com.au",
+    "sender_email": "claire@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "brisbathco.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:34.340034+00:00",
+        "sender": "claire@client.fzcorestudio.com",
+        "subject": "quick question for David re brisbathco.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706367-6": {
+    "lead_id": "FZ-AU-1792706367-6",
+    "business_name": "QTG Bathroom Renovations",
+    "owner_name": "QTG Bathroom Renovations",
+    "recipient_email": "admin@qtgbuilders.com.au",
+    "sender_email": "warren@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "qtgbuilders.com.au",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (first-name, last-name, email, phone, address).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:37.602857+00:00",
+        "sender": "warren@desk.fzcorestudio.com",
+        "subject": "quick question re qtgbuilders.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706417-8": {
+    "lead_id": "FZ-AU-1792706417-8",
+    "business_name": "Kitchen renovations Brisbane",
+    "owner_name": "Business Owner",
+    "recipient_email": "admin@kitchenrenovationsbrisbane.com",
+    "sender_email": "charlotte@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "kitchenrenovationsbrisbane.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:41.726328+00:00",
+        "sender": "charlotte@desk.fzcorestudio.com",
+        "subject": "kitchenrenovationsbrisbane.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706422-9": {
+    "lead_id": "FZ-AU-1792706422-9",
+    "business_name": "Complete Bathroom Renovations Brisbane",
+    "owner_name": "Cbr Qld",
+    "recipient_email": "info@completebathroomrenovationsqld.com.au",
+    "sender_email": "preston@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "completebathroomrenovationsqld.com.au",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (frm_verify, Your Name, Your Phone, Your E-mail, Note).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:45.584753+00:00",
+        "sender": "preston@desk.fzcorestudio.com",
+        "subject": "completebathroomrenovationsqld.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706424-10": {
+    "lead_id": "FZ-AU-1792706424-10",
+    "business_name": "Nu Style Trades",
+    "owner_name": "Licensed Builder",
+    "recipient_email": "jacques@nustyletrades.com.au",
+    "sender_email": "natalie@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "nustyletrades.com.au",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (INPUT, INPUT, Enter your phone number, Enter your address, Services).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:48.821777+00:00",
+        "sender": "natalie@desk.fzcorestudio.com",
+        "subject": "nustyletrades.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706457-1": {
+    "lead_id": "FZ-AU-1792706457-1",
+    "business_name": "Solution Accountants",
+    "owner_name": "Meena",
+    "recipient_email": "meena@solutionaccountants.com.au",
+    "sender_email": "simon@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "solutionaccountants.com.au",
+    "flaw_summary": "Excessive Form Fields (49 inputs) Causing High Drop-Off (Detected static form with 49 fields (wpforms[fields][2][first], wpforms[fields][2][last], wpforms[fields][5], wpforms[fields][3], wpforms[fields][6]).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:51.956691+00:00",
+        "sender": "simon@desk.fzcorestudio.com",
+        "subject": "solutionaccountants.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706478-2": {
+    "lead_id": "FZ-AU-1792706478-2",
+    "business_name": "Karlaya Accounting and Business Advisory",
+    "owner_name": "Business Owner",
+    "recipient_email": "admin@karlaya.com.au",
+    "sender_email": "bennett@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "karlaya.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:35:56.403895+00:00",
+        "sender": "bennett@partner.fzcorestudio.com",
+        "subject": "quick question for Karlaya re karlaya.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706487-3": {
+    "lead_id": "FZ-AU-1792706487-3",
+    "business_name": "Roz Lahey Accounting",
+    "owner_name": "Roz Lahey",
+    "recipient_email": "info@rla.com.au",
+    "sender_email": "lydia@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "rla.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:00.088646+00:00",
+        "sender": "lydia@partner.fzcorestudio.com",
+        "subject": "quick question for Roz re rla.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706516-1": {
+    "lead_id": "FZ-AU-1792706516-1",
+    "business_name": "Creature Creative",
+    "owner_name": "Creature Creative",
+    "recipient_email": "info@creature.com.au",
+    "sender_email": "russell@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "creature.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:03.440966+00:00",
+        "sender": "russell@partner.fzcorestudio.com",
+        "subject": "creature.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706538-2": {
+    "lead_id": "FZ-AU-1792706538-2",
+    "business_name": "Maker Street Studios",
+    "owner_name": "Judgement To",
+    "recipient_email": "studio@mkrst.co",
+    "sender_email": "valerie@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "mkrst.co",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (input_6, Name, Company Name, Email, Phone).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:07.880613+00:00",
+        "sender": "valerie@partner.fzcorestudio.com",
+        "subject": "mkrst.co quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706554-3": {
+    "lead_id": "FZ-AU-1792706554-3",
+    "business_name": "Vesanique",
+    "owner_name": "Ask",
+    "recipient_email": "ask@vesanique.com",
+    "sender_email": "spencer@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "vesanique.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:11.346196+00:00",
+        "sender": "spencer@partner.fzcorestudio.com",
+        "subject": "vesanique.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706566-4": {
+    "lead_id": "FZ-AU-1792706566-4",
+    "business_name": "Viabrand ®",
+    "owner_name": "Sayhello",
+    "recipient_email": "sayhello@viabrand.com.au",
+    "sender_email": "carter@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "viabrand.com.au",
+    "flaw_summary": "Excessive Form Fields (17 inputs) Causing High Drop-Off (Detected static form with 17 fields (input_17, Please write your project brief. Be as detailed as possible... *, Business Name *, input_3, input_14.1).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:15.364597+00:00",
+        "sender": "carter@ops.fzcorestudio.com",
+        "subject": "quick question for Sayhello re viabrand.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706579-5": {
+    "lead_id": "FZ-AU-1792706579-5",
+    "business_name": "Patch Agency",
+    "owner_name": "Sara De",
+    "recipient_email": "info@patchagency.com.au",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "patchagency.com.au",
+    "flaw_summary": "Excessive Form Fields (13 inputs) Causing High Drop-Off (Detected static form with 13 fields (First Name*, Last Name*, Email*, Phone*, Company*).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:18.616707+00:00",
+        "sender": "brooke@ops.fzcorestudio.com",
+        "subject": "patchagency.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706595-7": {
+    "lead_id": "FZ-AU-1792706595-7",
+    "business_name": "Polished Websites + Design",
+    "owner_name": "Creativity",
+    "recipient_email": "felicity@polished.com.au",
+    "sender_email": "garrett@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "polished.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:26.427489+00:00",
+        "sender": "garrett@ops.fzcorestudio.com",
+        "subject": "quick question for Creativity re polished.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706602-8": {
+    "lead_id": "FZ-AU-1792706602-8",
+    "business_name": "By Ninja",
+    "owner_name": "By Ninja",
+    "recipient_email": "hello@byninja.com.au",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "byninja.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:30.207652+00:00",
+        "sender": "fiona@ops.fzcorestudio.com",
+        "subject": "byninja.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706606-9": {
+    "lead_id": "FZ-AU-1792706606-9",
+    "business_name": "NOUS",
+    "owner_name": "NOUS",
+    "recipient_email": "hello@nous.com.au",
+    "sender_email": "dean@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "nous.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:33.663054+00:00",
+        "sender": "dean@ops.fzcorestudio.com",
+        "subject": "nous.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706607-10": {
+    "lead_id": "FZ-AU-1792706607-10",
+    "business_name": "Studio Untitled",
+    "owner_name": "Studio Untitled",
+    "recipient_email": "help@studiountitled.com",
+    "sender_email": "faiz@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "studiountitled.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:37.614594+00:00",
+        "sender": "faiz@mail.fzcorestudio.com",
+        "subject": "studiountitled.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706609-11": {
+    "lead_id": "FZ-AU-1792706609-11",
+    "business_name": "Social Studio Marketing",
+    "owner_name": "If Your",
+    "recipient_email": "hello@socialstudio.marketing",
+    "sender_email": "marcus@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "socialstudio.marketing",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:41.392397+00:00",
+        "sender": "marcus@mail.fzcorestudio.com",
+        "subject": "quick question for If re socialstudio.marketing"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706621-12": {
+    "lead_id": "FZ-AU-1792706621-12",
+    "business_name": "Monday Creative",
+    "owner_name": "Renae",
+    "recipient_email": "renae@mondaycreative.com.au",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "mondaycreative.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:45.650260+00:00",
+        "sender": "elena@mail.fzcorestudio.com",
+        "subject": "mondaycreative.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706629-13": {
+    "lead_id": "FZ-AU-1792706629-13",
+    "business_name": "Orange Digital",
+    "owner_name": "Enquiries",
+    "recipient_email": "enquiries@orangedigital.com.au",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "orangedigital.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:48.910387+00:00",
+        "sender": "adrian@mail.fzcorestudio.com",
+        "subject": "quick question for Enquiries re orangedigital.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706631-14": {
+    "lead_id": "FZ-AU-1792706631-14",
+    "business_name": "Willmore Design",
+    "owner_name": "Charles",
+    "recipient_email": "charles@willmoredesign.com.au",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "willmoredesign.com.au",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (dmform-0, dmform-1, dmform-2, dmform-3, submit).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:52.617746+00:00",
+        "sender": "julian@mail.fzcorestudio.com",
+        "subject": "willmoredesign.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706676-15": {
+    "lead_id": "FZ-AU-1792706676-15",
+    "business_name": "Green Light Creative",
+    "owner_name": "Green Light Creative",
+    "recipient_email": "hello@greenlightcreative.com.au",
+    "sender_email": "lucas@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "greenlightcreative.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:55.822099+00:00",
+        "sender": "lucas@team.fzcorestudio.com",
+        "subject": "greenlightcreative.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706685-16": {
+    "lead_id": "FZ-AU-1792706685-16",
+    "business_name": "Driven",
+    "owner_name": "Driven",
+    "recipient_email": "info@driven.agency",
+    "sender_email": "clara@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "driven.agency",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (input_6, First name*, Last name*, Email*, input_4.1).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:36:59.478142+00:00",
+        "sender": "clara@team.fzcorestudio.com",
+        "subject": "driven.agency quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706713-17": {
+    "lead_id": "FZ-AU-1792706713-17",
+    "business_name": "By ABLO - Social Media and Content Agency",
+    "owner_name": "Business Owner",
+    "recipient_email": "hello@byablo.com.au",
+    "sender_email": "liam@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "byablo.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:02.828831+00:00",
+        "sender": "liam@team.fzcorestudio.com",
+        "subject": "quick question for Head re byablo.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706722-18": {
+    "lead_id": "FZ-AU-1792706722-18",
+    "business_name": "Valley Edge Design Centre",
+    "owner_name": "Print",
+    "recipient_email": "print@valleyedge.com.au",
+    "sender_email": "maya@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "valleyedge.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:06.062157+00:00",
+        "sender": "maya@team.fzcorestudio.com",
+        "subject": "quick question for Print re valleyedge.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706738-1": {
+    "lead_id": "FZ-AU-1792706738-1",
+    "business_name": "Apic cleaning Brisbane",
+    "owner_name": "Apic cleaning Brisbane",
+    "recipient_email": "contact@apiccleaning.com.au",
+    "sender_email": "julian@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "apiccleaning.com.au",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (Enter your name, Enter your phone number, Enter your email, service, message).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:09.488036+00:00",
+        "sender": "julian@team.fzcorestudio.com",
+        "subject": "apiccleaning.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706757-2": {
+    "lead_id": "FZ-AU-1792706757-2",
+    "business_name": "Commercial Cleaning Machines - Brisbane",
+    "owner_name": "Ship",
+    "recipient_email": "sales@ccmachines.com.au",
+    "sender_email": "hannah@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ccmachines.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:21.350129+00:00",
+        "sender": "hannah@get.fzcorestudio.com",
+        "subject": "quick question for Ship re ccmachines.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706783-3": {
+    "lead_id": "FZ-AU-1792706783-3",
+    "business_name": "Associated Cleaning",
+    "owner_name": "Associated Cleaning",
+    "recipient_email": "cc@associatedcleaning.com.au",
+    "sender_email": "owen@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "associatedcleaning.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:25.377648+00:00",
+        "sender": "owen@get.fzcorestudio.com",
+        "subject": "associatedcleaning.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706805-5": {
+    "lead_id": "FZ-AU-1792706805-5",
+    "business_name": "House and Commercial Cleaning Services - Eco Brisbane",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@ecobrisbane.com.au",
+    "sender_email": "chloe@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ecobrisbane.com.au",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (your-name, your-email, your-phone, your-message, g-recaptcha-response).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:38.202240+00:00",
+        "sender": "chloe@get.fzcorestudio.com",
+        "subject": "ecobrisbane.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706821-6": {
+    "lead_id": "FZ-AU-1792706821-6",
+    "business_name": "Multiple Cleaning pty Ltd",
+    "owner_name": "Prakash",
+    "recipient_email": "prakash@multiplecleaning.com.au",
+    "sender_email": "mason@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "multiplecleaning.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:41.575018+00:00",
+        "sender": "mason@get.fzcorestudio.com",
+        "subject": "quick question for Prakash re multiplecleaning.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706842-8": {
+    "lead_id": "FZ-AU-1792706842-8",
+    "business_name": "Brisbane Office Cleaning",
+    "owner_name": "Enquiries",
+    "recipient_email": "enquiries@brisbaneofficecleaning.net",
+    "sender_email": "zoe@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "brisbaneofficecleaning.net.au",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Name, Phone, Email, Message, INPUT).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:45.660698+00:00",
+        "sender": "zoe@get.fzcorestudio.com",
+        "subject": "quick question for Enquiries re brisbaneofficecleaning.net.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706881-9": {
+    "lead_id": "FZ-AU-1792706881-9",
+    "business_name": "TCM CLEAN - Commercial Cleaners",
+    "owner_name": "Business Owner",
+    "recipient_email": "admin@tcmclean.com.au",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "tcmclean.com.au",
+    "flaw_summary": "Excessive Form Fields (15 inputs) Causing High Drop-Off (Detected static form with 15 fields (*Your name, Contact number, *Your e-mail, Office[], Pressure[]).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:49.373475+00:00",
+        "sender": "faiz@direct.fzcorestudio.com",
+        "subject": "tcmclean.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706900-11": {
+    "lead_id": "FZ-AU-1792706900-11",
+    "business_name": "Complete Janitorial Supplies",
+    "owner_name": "Business Owner",
+    "recipient_email": "sales@completejanitorialsupplies.com.au",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "completejanitorialsupplies.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:54.917951+00:00",
+        "sender": "ethan@direct.fzcorestudio.com",
+        "subject": "completejanitorialsupplies.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706907-12": {
+    "lead_id": "FZ-AU-1792706907-12",
+    "business_name": "Unity Commercial Cleaning",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@unitycc.au",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "unitycc.au",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (Your name, Phone number, Email address, service, Suburb, premises size and cleaning requirements).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:37:58.958610+00:00",
+        "sender": "olivia@direct.fzcorestudio.com",
+        "subject": "unitycc.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706955-2": {
+    "lead_id": "FZ-AU-1792706955-2",
+    "business_name": "ABC Roof Restoration Brisbane",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@abcroofrestorationbrisbane.com.au",
+    "sender_email": "noah@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "abcroofrestorationbrisbane.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:02.354765+00:00",
+        "sender": "noah@direct.fzcorestudio.com",
+        "subject": "quick question re abcroofrestorationbrisbane.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706971-5": {
+    "lead_id": "FZ-AU-1792706971-5",
+    "business_name": "J & R Rooftiling",
+    "owner_name": "Jaysidorenko",
+    "recipient_email": "jaysidorenko@gmail.com",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "jandrrooftiling.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:06.256887+00:00",
+        "sender": "ava@direct.fzcorestudio.com",
+        "subject": "quick question for Jaysidorenko re jandrrooftiling.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792706992-8": {
+    "lead_id": "FZ-AU-1792706992-8",
+    "business_name": "Bua's Roof, Gutter and Solar Maintenance",
+    "owner_name": "Operatorresidential",
+    "recipient_email": "sales@buasroofngutter.com.au",
+    "sender_email": "leo@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "buasroofngutter.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:09.969714+00:00",
+        "sender": "leo@reach.fzcorestudio.com",
+        "subject": "quick question for Operatorresidential re buasroofngutter.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792712901-2": {
+    "lead_id": "FZ-AU-1792712901-2",
+    "business_name": "Oluma Commercial Cleaning Services",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@oluma.com.au",
+    "sender_email": "emma@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "oluma.com.au",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (Enter your first name, Enter your last name, john@doe.com.au, INPUT, \"Hi Robbie, I'm looking to get my office / restaurant / rental property cleaned. It's roughly 110m²\").)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:14.188261+00:00",
+        "sender": "emma@reach.fzcorestudio.com",
+        "subject": "oluma.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792712999-8": {
+    "lead_id": "FZ-AU-1792712999-8",
+    "business_name": "Quality Commercial Cleaning Pty Ltd",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@qcc.cleaning",
+    "sender_email": "nathan@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "qcc.cleaning",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:18.138448+00:00",
+        "sender": "nathan@reach.fzcorestudio.com",
+        "subject": "qcc.cleaning mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713029-10": {
+    "lead_id": "FZ-AU-1792713029-10",
+    "business_name": "Precise Commercial Cleaners Brisbane",
+    "owner_name": "Business Owner",
+    "recipient_email": "sales@precisecommercialcleaners.com.au",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "precisecommercialcleaners.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:21.767855+00:00",
+        "sender": "mia@reach.fzcorestudio.com",
+        "subject": "quick question re precisecommercialcleaners.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713032-11": {
+    "lead_id": "FZ-AU-1792713032-11",
+    "business_name": "JAN-PRO Commercial Cleaning Brisbane",
+    "owner_name": "Operators Who",
+    "recipient_email": "info@jan-pro.com.au",
+    "sender_email": "caleb@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "jan-pro.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:24.856109+00:00",
+        "sender": "caleb@reach.fzcorestudio.com",
+        "subject": "quick question for Operators re jan-pro.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713134-2": {
+    "lead_id": "FZ-AU-1792713134-2",
+    "business_name": "Solar Install Co - Solar Company Brisbane",
+    "owner_name": "We",
+    "recipient_email": "info@solarinstallco.com.au",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "solarinstallco.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:28.817199+00:00",
+        "sender": "harrison@hq.fzcorestudio.com",
+        "subject": "quick question for We re solarinstallco.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713249-1": {
+    "lead_id": "FZ-AU-1792713249-1",
+    "business_name": "Dynamic Wraps",
+    "owner_name": "Dynamic",
+    "recipient_email": "dynamic@dynamicwraps.com.au",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "dynamicwraps.com.au",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (_app_id, INPUT, INPUT, INPUT, INPUT).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:32.776228+00:00",
+        "sender": "victoria@hq.fzcorestudio.com",
+        "subject": "dynamicwraps.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713302-3": {
+    "lead_id": "FZ-AU-1792713302-3",
+    "business_name": "Auztint",
+    "owner_name": "Matt",
+    "recipient_email": "matt@auztint.com.au",
+    "sender_email": "graham@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "auztint.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:36.141124+00:00",
+        "sender": "graham@hq.fzcorestudio.com",
+        "subject": "quick question for Matt re auztint.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713341-6": {
+    "lead_id": "FZ-AU-1792713341-6",
+    "business_name": "Polyfilm Australia",
+    "owner_name": "Polyfilm Australia",
+    "recipient_email": "sales@polyfilm.com.au",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "polyfilm.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:40.097153+00:00",
+        "sender": "evelyn@hq.fzcorestudio.com",
+        "subject": "polyfilm.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713369-1": {
+    "lead_id": "FZ-AU-1792713369-1",
+    "business_name": "A&J Pressure Cleaning",
+    "owner_name": "Adam",
+    "recipient_email": "adam@ajpressureclean.com.au",
+    "sender_email": "connor@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ajpressureclean.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:43.962394+00:00",
+        "sender": "connor@hq.fzcorestudio.com",
+        "subject": "quick question for Adam re ajpressureclean.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713384-2": {
+    "lead_id": "FZ-AU-1792713384-2",
+    "business_name": "Spotless Pressure Cleaning",
+    "owner_name": "Spotlesspressure",
+    "recipient_email": "spotlesspressure@outlook.com",
+    "sender_email": "audrey@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "spotlesspressure.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:48.094807+00:00",
+        "sender": "audrey@client.fzcorestudio.com",
+        "subject": "quick question for Spotlesspressure re spotlesspressure.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713406-3": {
+    "lead_id": "FZ-AU-1792713406-3",
+    "business_name": "Roof Cleaners Brisbane",
+    "owner_name": "Roof Cleaners Brisbane",
+    "recipient_email": "admin@roofcleanersbrisbane.com.au",
+    "sender_email": "elliott@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "roofcleanersbrisbane.com.au",
+    "flaw_summary": "Excessive Form Fields (17 inputs) Causing High Drop-Off (Detected static form with 17 fields (firstName, lastName, 04.., email, Start typing your address).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:51.985333+00:00",
+        "sender": "elliott@client.fzcorestudio.com",
+        "subject": "quick question re roofcleanersbrisbane.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713440-5": {
+    "lead_id": "FZ-AU-1792713440-5",
+    "business_name": "1st Choice High Pressure Cleaning",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@1stchoicehighpressure.com.au",
+    "sender_email": "madeline@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "1stchoicehighpressure.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:55.309791+00:00",
+        "sender": "madeline@client.fzcorestudio.com",
+        "subject": "1stchoicehighpressure.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713443-6": {
+    "lead_id": "FZ-AU-1792713443-6",
+    "business_name": "Evolve Pressure Cleaning",
+    "owner_name": "Enquiries",
+    "recipient_email": "enquiries@evolvepressurecleaning.com.au",
+    "sender_email": "trevor@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "evolvepressurecleaning.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:38:58.944683+00:00",
+        "sender": "trevor@client.fzcorestudio.com",
+        "subject": "evolvepressurecleaning.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713500-2": {
+    "lead_id": "FZ-AU-1792713500-2",
+    "business_name": "Flood Responders & Mould Assassins",
+    "owner_name": "Gethelp",
+    "recipient_email": "gethelp@fr-ma.com.au",
+    "sender_email": "claire@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "fr-ma.com.au",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (First name *, Last name, Email address *, Phone number *, SELECT).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:02.557692+00:00",
+        "sender": "claire@client.fzcorestudio.com",
+        "subject": "fr-ma.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713507-3": {
+    "lead_id": "FZ-AU-1792713507-3",
+    "business_name": "Juvenaire",
+    "owner_name": "Claims",
+    "recipient_email": "claims@juvenaire.com.au",
+    "sender_email": "warren@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "juvenaire.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:06.259661+00:00",
+        "sender": "warren@desk.fzcorestudio.com",
+        "subject": "quick question for Claims re juvenaire.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713516-4": {
+    "lead_id": "FZ-AU-1792713516-4",
+    "business_name": "Rapid Restoration Gold Coast - Flood - Fire - Mould",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@rapidrestoration.com.au",
+    "sender_email": "charlotte@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "rapidrestoration.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:09.411554+00:00",
+        "sender": "charlotte@desk.fzcorestudio.com",
+        "subject": "rapidrestoration.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713519-5": {
+    "lead_id": "FZ-AU-1792713519-5",
+    "business_name": "Summit Restorations",
+    "owner_name": "Summit Restorations",
+    "recipient_email": "info@summitrestorations.com.au",
+    "sender_email": "preston@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "summitrestorations.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:13.361077+00:00",
+        "sender": "preston@desk.fzcorestudio.com",
+        "subject": "summitrestorations.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713527-6": {
+    "lead_id": "FZ-AU-1792713527-6",
+    "business_name": "Mould Pro Brisbane",
+    "owner_name": "Mould Pro Brisbane",
+    "recipient_email": "sales@mouldpro.com.au",
+    "sender_email": "natalie@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "mouldpro.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:17.104853+00:00",
+        "sender": "natalie@desk.fzcorestudio.com",
+        "subject": "mouldpro.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713535-8": {
+    "lead_id": "FZ-AU-1792713535-8",
+    "business_name": "Surco Restorations",
+    "owner_name": "Surco Restorations",
+    "recipient_email": "admin@surco.com.au",
+    "sender_email": "simon@desk.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "surco.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:21.085643+00:00",
+        "sender": "simon@desk.fzcorestudio.com",
+        "subject": "surco.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713540-9": {
+    "lead_id": "FZ-AU-1792713540-9",
+    "business_name": "SEQ Custom Renovations",
+    "owner_name": "Reports",
+    "recipient_email": "reports@nextweb.com.au",
+    "sender_email": "bennett@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "seqcustomrenovations.com.au",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (Name*, Email*, Phone*, Address*, custom_1791267753482).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:26.483709+00:00",
+        "sender": "bennett@partner.fzcorestudio.com",
+        "subject": "seqcustomrenovations.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713548-11": {
+    "lead_id": "FZ-AU-1792713548-11",
+    "business_name": "Mould Off",
+    "owner_name": "Mould Off",
+    "recipient_email": "info@mouldoff.com.au",
+    "sender_email": "lydia@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "mouldoff.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:30.156590+00:00",
+        "sender": "lydia@partner.fzcorestudio.com",
+        "subject": "quick question re mouldoff.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713565-12": {
+    "lead_id": "FZ-AU-1792713565-12",
+    "business_name": "Pircsa Pty Ltd",
+    "owner_name": "Ship",
+    "recipient_email": "steve@pircsa.com.au",
+    "sender_email": "russell@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "pircsa.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:33.258433+00:00",
+        "sender": "russell@partner.fzcorestudio.com",
+        "subject": "quick question for Ship re pircsa.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713566-13": {
+    "lead_id": "FZ-AU-1792713566-13",
+    "business_name": "Able Restoration & Cleaning",
+    "owner_name": "Business Owner",
+    "recipient_email": "ablerestorationcleaning@gmail.com",
+    "sender_email": "valerie@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ablerestorationcleaning.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:37.218215+00:00",
+        "sender": "valerie@partner.fzcorestudio.com",
+        "subject": "ablerestorationcleaning.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713599-2": {
+    "lead_id": "FZ-AU-1792713599-2",
+    "business_name": "GC/Brisbane Roofing and Guttering PTY LTD",
+    "owner_name": "Business Owner",
+    "recipient_email": "g.c.bne.roofingandguttering@gmail.com",
+    "sender_email": "spencer@partner.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "gcbrisbaneroofingandguttering.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:40.548143+00:00",
+        "sender": "spencer@partner.fzcorestudio.com",
+        "subject": "quick question re gcbrisbaneroofingandguttering.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713630-5": {
+    "lead_id": "FZ-AU-1792713630-5",
+    "business_name": "Rays Roofing Solutions Brisbane Northside",
+    "owner_name": "Ray",
+    "recipient_email": "ray@raysroofingsolutions.com.au",
+    "sender_email": "carter@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "raysroofingsolutions.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:44.338942+00:00",
+        "sender": "carter@ops.fzcorestudio.com",
+        "subject": "quick question for Ray re raysroofingsolutions.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713651-10": {
+    "lead_id": "FZ-AU-1792713651-10",
+    "business_name": "Sky High Roofing Brisbane",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@skyhighroofing.com.au",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "skyhighroofingbrisbane.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:47.913657+00:00",
+        "sender": "brooke@ops.fzcorestudio.com",
+        "subject": "quick question re skyhighroofingbrisbane.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713809-1": {
+    "lead_id": "FZ-AU-1792713809-1",
+    "business_name": "Studio Ag",
+    "owner_name": "Enquiries",
+    "recipient_email": "enquiries@studioagriculture.co",
+    "sender_email": "garrett@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "studioagriculture.co",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:51.710204+00:00",
+        "sender": "garrett@ops.fzcorestudio.com",
+        "subject": "studioagriculture.co quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713825-4": {
+    "lead_id": "FZ-AU-1792713825-4",
+    "business_name": "The Creative Branding Hub",
+    "owner_name": "Business Owner",
+    "recipient_email": "hello@thecreativebrandinghub.com.au",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "thecreativebrandinghub.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:39:57.378859+00:00",
+        "sender": "fiona@ops.fzcorestudio.com",
+        "subject": "quick question re thecreativebrandinghub.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792713891-10": {
+    "lead_id": "FZ-AU-1792713891-10",
+    "business_name": "Exposure By Design",
+    "owner_name": "Geoff Doyle",
+    "recipient_email": "geoff@exposurebydesign.com.au",
+    "sender_email": "dean@ops.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "exposurebydesign.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:01.360717+00:00",
+        "sender": "dean@ops.fzcorestudio.com",
+        "subject": "quick question for Geoff Doyle re exposurebydesign.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782256-1": {
+    "lead_id": "FZ-AU-1792782256-1",
+    "business_name": "QLD Pool Constructions",
+    "owner_name": "Member Since",
+    "recipient_email": "qldpoolcon@icloud.com",
+    "sender_email": "faiz@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "qldpoolconstructions.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:04.402396+00:00",
+        "sender": "faiz@mail.fzcorestudio.com",
+        "subject": "quick question for Member Since re qldpoolconstructions.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782271-2": {
+    "lead_id": "FZ-AU-1792782271-2",
+    "business_name": "Cyber Pools",
+    "owner_name": "Cyber Pools",
+    "recipient_email": "support@cyberpools.com.au",
+    "sender_email": "marcus@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "cyberpools.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:07.725806+00:00",
+        "sender": "marcus@mail.fzcorestudio.com",
+        "subject": "cyberpools.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782298-4": {
+    "lead_id": "FZ-AU-1792782298-4",
+    "business_name": "Complete Creative Constructions - Fibreglass Pools - Brisbane",
+    "owner_name": "Led Fibreglass",
+    "recipient_email": "info@completecreativeconstructions.com.au",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "completecreativeconstructions.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:11.460824+00:00",
+        "sender": "elena@mail.fzcorestudio.com",
+        "subject": "quick question for Led Fibreglass re completecreativeconstructions.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782300-5": {
+    "lead_id": "FZ-AU-1792782300-5",
+    "business_name": "Nirvana Pools and Spas",
+    "owner_name": "Nirvana Pools and Spas",
+    "recipient_email": "sales@nirvanapools.com.au",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "nirvanapools.com.au",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (INPUT, INPUT, INPUT, INPUT, SELECT).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:15.783189+00:00",
+        "sender": "adrian@mail.fzcorestudio.com",
+        "subject": "nirvanapools.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782335-8": {
+    "lead_id": "FZ-AU-1792782335-8",
+    "business_name": "Blue Haven Pools & Spas QLD",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@bluehavenqld.com.au",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "bluehavenqld.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:18.851371+00:00",
+        "sender": "julian@mail.fzcorestudio.com",
+        "subject": "bluehavenqld.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782349-10": {
+    "lead_id": "FZ-AU-1792782349-10",
+    "business_name": "La Vida Pools and Spas Qld",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@lavidapools.com.au",
+    "sender_email": "lucas@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "lavidapools.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:22.755752+00:00",
+        "sender": "lucas@team.fzcorestudio.com",
+        "subject": "lavidapools.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782351-11": {
+    "lead_id": "FZ-AU-1792782351-11",
+    "business_name": "Tide Pools and Landscapes",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@tidepools.com.au",
+    "sender_email": "clara@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "tidepools.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:25.889974+00:00",
+        "sender": "clara@team.fzcorestudio.com",
+        "subject": "tidepools.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782353-12": {
+    "lead_id": "FZ-AU-1792782353-12",
+    "business_name": "4017 Pools",
+    "owner_name": "4017 Pools",
+    "recipient_email": "office@4017pools.com.au",
+    "sender_email": "liam@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "4017pools.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:29.524103+00:00",
+        "sender": "liam@team.fzcorestudio.com",
+        "subject": "4017pools.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782368-1": {
+    "lead_id": "FZ-AU-1792782368-1",
+    "business_name": "Sculls Pressure Cleaning",
+    "owner_name": "Welcome To",
+    "recipient_email": "benscull@sculls.com.au",
+    "sender_email": "maya@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "sculls.com.au",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (_app_id, INPUT, INPUT, INPUT, INPUT).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:33.662510+00:00",
+        "sender": "maya@team.fzcorestudio.com",
+        "subject": "sculls.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782376-3": {
+    "lead_id": "FZ-AU-1792782376-3",
+    "business_name": "High Pressure Cleaning Brisbane",
+    "owner_name": "Business Owner",
+    "recipient_email": "admin@tcmcleaners.com.au",
+    "sender_email": "julian@team.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "highpressurecleaningbrisbane.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:36.838708+00:00",
+        "sender": "julian@team.fzcorestudio.com",
+        "subject": "highpressurecleaningbrisbane.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782568-1": {
+    "lead_id": "FZ-AU-1792782568-1",
+    "business_name": "Horizon Epoxy Flooring",
+    "owner_name": "Horizon Epoxy Flooring",
+    "recipient_email": "info@horizonepoxyflooring.com",
+    "sender_email": "hannah@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "horizonepoxyfloors.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:40.914592+00:00",
+        "sender": "hannah@get.fzcorestudio.com",
+        "subject": "horizonepoxyfloors.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782629-6": {
+    "lead_id": "FZ-AU-1792782629-6",
+    "business_name": "Renaissance Coating - Epoxy Flooring",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@renaissancecoating.com.au",
+    "sender_email": "owen@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "renaissancecoating.com.au",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (_gotcha, John, Smith, 04XX XXX XXX, john@example.com).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:44.505962+00:00",
+        "sender": "owen@get.fzcorestudio.com",
+        "subject": "renaissancecoating.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782757-1": {
+    "lead_id": "FZ-AU-1792782757-1",
+    "business_name": "S&S REMEDIAL SERVICES PTY LTD",
+    "owner_name": "Business Owner",
+    "recipient_email": "contact@ssremedial.au",
+    "sender_email": "chloe@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ssremedial.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:47.883632+00:00",
+        "sender": "chloe@get.fzcorestudio.com",
+        "subject": "ssremedial.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782773-5": {
+    "lead_id": "FZ-AU-1792782773-5",
+    "business_name": "National Construction & Remedial Pty Ltd",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@ncraustralia.com.au",
+    "sender_email": "mason@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ncraustralia.com.au",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Name, Email*, Phone Number, Subject, Message).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:52.228043+00:00",
+        "sender": "mason@get.fzcorestudio.com",
+        "subject": "ncraustralia.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782774-6": {
+    "lead_id": "FZ-AU-1792782774-6",
+    "business_name": "Blake's Waterproofing",
+    "owner_name": "Blake's Waterproofing",
+    "recipient_email": "info@blakeswaterproofing.com.au",
+    "sender_email": "zoe@get.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "blakeswaterproofing.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:40:57.599184+00:00",
+        "sender": "zoe@get.fzcorestudio.com",
+        "subject": "quick question re blakeswaterproofing.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782802-7": {
+    "lead_id": "FZ-AU-1792782802-7",
+    "business_name": "KLM Waterproofing",
+    "owner_name": "KLM Waterproofing",
+    "recipient_email": "info@klmwaterproofing.com.au",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "klmwaterproofing.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:02.272031+00:00",
+        "sender": "faiz@direct.fzcorestudio.com",
+        "subject": "quick question re klmwaterproofing.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782901-8": {
+    "lead_id": "FZ-AU-1792782901-8",
+    "business_name": "The Sharp Cosmetic Clinic Brisbane",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@drdavidsharp.com.au",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "plastic-surgery-brisbane.com.au",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (input_11, Name, Email, Phone, Please list the procedure/s you are interested in here).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:06.454861+00:00",
+        "sender": "ethan@direct.fzcorestudio.com",
+        "subject": "plastic-surgery-brisbane.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792782979-1": {
+    "lead_id": "FZ-AU-1792782979-1",
+    "business_name": "A & J Doolan Brisbane Paving Contractor",
+    "owner_name": "Doolanpave",
+    "recipient_email": "doolanpave@gmail.com",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "pavinginbrisbane.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:10.063172+00:00",
+        "sender": "olivia@direct.fzcorestudio.com",
+        "subject": "quick question for Doolanpave re pavinginbrisbane.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792783025-3": {
+    "lead_id": "FZ-AU-1792783025-3",
+    "business_name": "JTX Scapes",
+    "owner_name": "JTX Scapes",
+    "recipient_email": "info@jtxscapes.com.au",
+    "sender_email": "noah@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "jtxscapes.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:26.367548+00:00",
+        "sender": "noah@direct.fzcorestudio.com",
+        "subject": "jtxscapes.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792783049-5": {
+    "lead_id": "FZ-AU-1792783049-5",
+    "business_name": "Atomic Landscapes",
+    "owner_name": "David",
+    "recipient_email": "david@atomiclandscapes.com.au",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "atomiclandscapes.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:31.305325+00:00",
+        "sender": "ava@direct.fzcorestudio.com",
+        "subject": "quick question for David re atomiclandscapes.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792783102-7": {
+    "lead_id": "FZ-AU-1792783102-7",
+    "business_name": "DB Landscapes",
+    "owner_name": "DB Landscapes",
+    "recipient_email": "info@dblandscapes.com.au",
+    "sender_email": "leo@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "dblandscapes.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:35.750479+00:00",
+        "sender": "leo@reach.fzcorestudio.com",
+        "subject": "quick question re dblandscapes.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892343-1": {
+    "lead_id": "FZ-AU-1792892343-1",
+    "business_name": "Asphalt & Civil Hire",
+    "owner_name": "Asphalt & Civil Hire",
+    "recipient_email": "admin@asphaltandcivilhire.com.au",
+    "sender_email": "emma@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "asphaltandcivilhire.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:38.818452+00:00",
+        "sender": "emma@reach.fzcorestudio.com",
+        "subject": "quick question re asphaltandcivilhire.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892352-2": {
+    "lead_id": "FZ-AU-1792892352-2",
+    "business_name": "RC Civil OZ PTY LTD - Asphalt Civil Contractor | Driveway and Paving",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@rcciviloz.com.au",
+    "sender_email": "nathan@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "rcciviloz.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:42.507327+00:00",
+        "sender": "nathan@reach.fzcorestudio.com",
+        "subject": "rcciviloz.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892366-3": {
+    "lead_id": "FZ-AU-1792892366-3",
+    "business_name": "Pavetech Road Construction",
+    "owner_name": "Cameron",
+    "recipient_email": "admin@pavetech.com.au",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "pavetech.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:45.703213+00:00",
+        "sender": "mia@reach.fzcorestudio.com",
+        "subject": "quick question for Cameron re pavetech.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892367-4": {
+    "lead_id": "FZ-AU-1792892367-4",
+    "business_name": "JM Paving and Tiling",
+    "owner_name": "JM Paving and Tiling",
+    "recipient_email": "info@jmpaving.com.au",
+    "sender_email": "caleb@reach.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "jmpaving.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:49.555439+00:00",
+        "sender": "caleb@reach.fzcorestudio.com",
+        "subject": "quick question re jmpaving.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892399-6": {
+    "lead_id": "FZ-AU-1792892399-6",
+    "business_name": "JEL Property Services",
+    "owner_name": "Typesetit",
+    "recipient_email": "typesetit@att.net",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "jelpropertyservices.com.au",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:52.791080+00:00",
+        "sender": "harrison@hq.fzcorestudio.com",
+        "subject": "quick question for Typesetit re jelpropertyservices.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892403-7": {
+    "lead_id": "FZ-AU-1792892403-7",
+    "business_name": "The Asphalt Company",
+    "owner_name": "The Asphalt Company",
+    "recipient_email": "contact@theasphaltcompany.com.au",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "theasphaltcompany.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:41:56.353110+00:00",
+        "sender": "victoria@hq.fzcorestudio.com",
+        "subject": "quick question re theasphaltcompany.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892411-8": {
+    "lead_id": "FZ-AU-1792892411-8",
+    "business_name": "South East Paving",
+    "owner_name": "South East Paving",
+    "recipient_email": "info@southeastpaving.com.au",
+    "sender_email": "graham@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "southeastpaving.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:42:00.488746+00:00",
+        "sender": "graham@hq.fzcorestudio.com",
+        "subject": "quick question re southeastpaving.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892415-9": {
+    "lead_id": "FZ-AU-1792892415-9",
+    "business_name": "Concrete Resurfacing Brisbane",
+    "owner_name": "Business Owner",
+    "recipient_email": "contact@concrete-resurfacing-brisbane.net.au",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "concrete-resurfacing-brisbane.net.au",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (website_url, service, Your suburb, Your name, 04XX XXX XXX).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:42:04.532826+00:00",
+        "sender": "evelyn@hq.fzcorestudio.com",
+        "subject": "concrete-resurfacing-brisbane.net.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892416-10": {
+    "lead_id": "FZ-AU-1792892416-10",
+    "business_name": "Brick N Pave",
+    "owner_name": "Brick N Pave",
+    "recipient_email": "info@bricknpave.com.au",
+    "sender_email": "connor@hq.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "bricknpave.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:42:08.014875+00:00",
+        "sender": "connor@hq.fzcorestudio.com",
+        "subject": "bricknpave.com.au quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892464-12": {
+    "lead_id": "FZ-AU-1792892464-12",
+    "business_name": "Imperial Concreting",
+    "owner_name": "Imperial Concreting",
+    "recipient_email": "hello@ziggyandzephyr.com",
+    "sender_email": "audrey@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "ziggyandzephyr.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:42:11.645243+00:00",
+        "sender": "audrey@client.fzcorestudio.com",
+        "subject": "quick question re ziggyandzephyr.com"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892466-13": {
+    "lead_id": "FZ-AU-1792892466-13",
+    "business_name": "Colour My Concrete",
+    "owner_name": "Colour My Concrete",
+    "recipient_email": "sales@colourmyconcrete.com.au",
+    "sender_email": "elliott@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "colourmyconcrete.com.au",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:42:15.416779+00:00",
+        "sender": "elliott@client.fzcorestudio.com",
+        "subject": "quick question re colourmyconcrete.com.au"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-AU-1792892499-15": {
+    "lead_id": "FZ-AU-1792892499-15",
+    "business_name": "Southeast Concrete Resurfacing",
+    "owner_name": "Business Owner",
+    "recipient_email": "sales@secresurf.com.au",
+    "sender_email": "madeline@client.fzcorestudio.com",
+    "state": "QLD",
+    "domain": "secresurf.com.au",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-03T22:42:19.456103+00:00",
+        "sender": "madeline@client.fzcorestudio.com",
+        "subject": "secresurf.com.au mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-06T22:33:14.632001+00:00",
     "replied_at": null,
     "reply_snippet": null
   }
