@@ -182,7 +182,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:33.378837+00:00"
+    "bounced_at": "2026-11-03T20:44:58.662092+00:00"
   },
   "FZ-US-1792614814-5": {
     "lead_id": "FZ-US-1792614814-5",
@@ -206,7 +206,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:05.060569+00:00"
+    "bounced_at": "2026-11-03T20:45:33.754486+00:00"
   },
   "FZ-US-1792614815-6": {
     "lead_id": "FZ-US-1792614815-6",
@@ -506,7 +506,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:54.998524+00:00"
+    "bounced_at": "2026-11-03T20:43:11.526438+00:00"
   },
   "FZ-US-1792615114-3": {
     "lead_id": "FZ-US-1792615114-3",
@@ -599,7 +599,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:25.490309+00:00"
+    "bounced_at": "2026-11-03T20:44:49.593958+00:00"
   },
   "FZ-US-1792615181-2": {
     "lead_id": "FZ-US-1792615181-2",
@@ -715,7 +715,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:43.047768+00:00"
+    "bounced_at": "2026-11-03T20:44:02.373353+00:00"
   },
   "FZ-US-1792615202-9": {
     "lead_id": "FZ-US-1792615202-9",
@@ -1015,7 +1015,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:37.771124+00:00"
+    "bounced_at": "2026-11-03T20:43:52.898655+00:00"
   },
   "FZ-US-1792615385-4": {
     "lead_id": "FZ-US-1792615385-4",
@@ -1039,7 +1039,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:01.519988+00:00"
+    "bounced_at": "2026-11-03T20:43:17.321744+00:00"
   },
   "FZ-US-1792615398-1": {
     "lead_id": "FZ-US-1792615398-1",
@@ -1063,7 +1063,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:12.306062+00:00"
+    "bounced_at": "2026-11-03T20:42:20.773737+00:00"
   },
   "FZ-US-1792615420-5": {
     "lead_id": "FZ-US-1792615420-5",
@@ -1156,7 +1156,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:49.966023+00:00"
+    "bounced_at": "2026-11-03T20:43:06.923463+00:00"
   },
   "FZ-US-1792615466-3": {
     "lead_id": "FZ-US-1792615466-3",
@@ -1203,7 +1203,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:24.288677+00:00"
+    "bounced_at": "2026-11-03T20:42:35.212032+00:00"
   },
   "FZ-US-1792616122-3": {
     "lead_id": "FZ-US-1792616122-3",
@@ -1523,7 +1523,7 @@
         "subject": "quick question for Ship re chargepoint.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1546,7 +1546,7 @@
         "subject": "quick question for Meet re westchasepainting.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1569,7 +1569,7 @@
         "subject": "quick question re elitepaintingfl.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1592,7 +1592,7 @@
         "subject": "gulfstreampools.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1615,7 +1615,7 @@
         "subject": "elitepooldesigns.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1638,7 +1638,7 @@
         "subject": "ryanhughesdesign.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1661,7 +1661,7 @@
         "subject": "leecustompools.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1684,7 +1684,7 @@
         "subject": "quick question re reimagineremodelinganddesign.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1707,7 +1707,7 @@
         "subject": "quick question for Is Unique re tampastandardconstruction.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1730,7 +1730,7 @@
         "subject": "quick question for Vlad re mackprorenovations.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1753,7 +1753,7 @@
         "subject": "quick question re magicleanoftampa.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1776,7 +1776,7 @@
         "subject": "quick question for Operated Deep re steamcleaning.us"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1799,7 +1799,7 @@
         "subject": "quick question for Ship When re cleanedpristinesolutions.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1822,7 +1822,7 @@
         "subject": "quick question re ssifacilityservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1845,7 +1845,7 @@
         "subject": "quick question for Lucas re paverrescuellc.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1868,7 +1868,7 @@
         "subject": "crescenthomesinc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1891,7 +1891,7 @@
         "subject": "quick question for Michael re momentumcustomhomes.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1917,7 +1917,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:16.553689+00:00"
+    "bounced_at": "2026-11-03T20:43:34.333954+00:00"
   },
   "FZ-US-1792616471-4": {
     "lead_id": "FZ-US-1792616471-4",
@@ -1938,7 +1938,7 @@
         "subject": "quick question for Is re gilk.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1961,7 +1961,7 @@
         "subject": "zmcbuild.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1984,7 +1984,7 @@
         "subject": "taralonhomes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2010,7 +2010,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:38.022997+00:00"
+    "bounced_at": "2026-11-03T20:42:53.603240+00:00"
   },
   "FZ-US-1792616485-10": {
     "lead_id": "FZ-US-1792616485-10",
@@ -2031,7 +2031,7 @@
         "subject": "quick question for Ship re madisontampa.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2054,7 +2054,7 @@
         "subject": "vikinhomes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2077,7 +2077,7 @@
         "subject": "quick question for Derrick re dmfhomestpa.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2100,7 +2100,7 @@
         "subject": "lawyerstudiodesign.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2123,7 +2123,7 @@
         "subject": "quick question for Quoted re ascendlymarketing.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2146,7 +2146,7 @@
         "subject": "quick note for Jauregui re dunn-co.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2169,7 +2169,7 @@
         "subject": "streetlaced.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2192,7 +2192,7 @@
         "subject": "designmakerllc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2215,7 +2215,7 @@
         "subject": "greatimpressions.biz quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2241,7 +2241,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:33.906942+00:00"
+    "bounced_at": "2026-11-03T20:42:48.617401+00:00"
   },
   "FZ-US-1792616558-13": {
     "lead_id": "FZ-US-1792616558-13",
@@ -2262,7 +2262,7 @@
         "subject": "cgotprint.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2285,7 +2285,7 @@
         "subject": "upwebstudio.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2308,7 +2308,7 @@
         "subject": "quick question re createandcompany.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2331,7 +2331,7 @@
         "subject": "pressmarketing.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2354,7 +2354,7 @@
         "subject": "quick question re tampaseoagency.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2380,7 +2380,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:28.174372+00:00"
+    "bounced_at": "2026-11-03T20:43:44.591264+00:00"
   },
   "FZ-US-1792616603-6": {
     "lead_id": "FZ-US-1792616603-6",
@@ -2404,7 +2404,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:34.912435+00:00"
+    "bounced_at": "2026-11-03T20:42:50.297470+00:00"
   },
   "FZ-US-1792616615-7": {
     "lead_id": "FZ-US-1792616615-7",
@@ -2425,7 +2425,7 @@
         "subject": "concreteideasflorida.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2448,7 +2448,7 @@
         "subject": "leakgeekplumbersfl.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2474,7 +2474,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:10.247997+00:00"
+    "bounced_at": "2026-11-03T20:42:19.028094+00:00"
   },
   "FZ-US-1792616681-3": {
     "lead_id": "FZ-US-1792616681-3",
@@ -2495,7 +2495,7 @@
         "subject": "quick question re taxworkoutgroup.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2518,7 +2518,7 @@
         "subject": "quick question for Mr re securityfencecompanyflorida.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2541,7 +2541,7 @@
         "subject": "autogatellc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2564,7 +2564,7 @@
         "subject": "quick question for Ship re odi-tampa.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3050,7 +3050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:20.161954+00:00"
+    "bounced_at": "2026-11-03T20:42:29.414999+00:00"
   },
   "FZ-US-1792618324-3": {
     "lead_id": "FZ-US-1792618324-3",
@@ -3603,7 +3603,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:04.927353+00:00"
+    "bounced_at": "2026-11-03T20:42:11.562655+00:00"
   },
   "FZ-US-1792618576-4": {
     "lead_id": "FZ-US-1792618576-4",
@@ -3739,7 +3739,7 @@
         "subject": "watermoldfire.net quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3762,7 +3762,7 @@
         "subject": "rtimmigrationlaw.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3785,7 +3785,7 @@
         "subject": "quick question for On re reliancecpa.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3808,7 +3808,7 @@
         "subject": "quick question for Zbsmith re shamrockrc.net"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3831,7 +3831,7 @@
         "subject": "tommybath.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3857,7 +3857,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:48.421501+00:00"
+    "bounced_at": "2026-11-03T20:45:14.090398+00:00"
   },
   "FZ-US-1792620850-3": {
     "lead_id": "FZ-US-1792620850-3",
@@ -3878,7 +3878,7 @@
         "subject": "quick question re southeastgates.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3901,7 +3901,7 @@
         "subject": "rejasironworks.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3924,7 +3924,7 @@
         "subject": "quick question re ecoprosolar.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3947,7 +3947,7 @@
         "subject": "dashcg.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3970,7 +3970,7 @@
         "subject": "shtromcreative.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3993,7 +3993,7 @@
         "subject": "hashtagcreative.co quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4016,7 +4016,7 @@
         "subject": "quick question re expertmedia.design"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4039,7 +4039,7 @@
         "subject": "royalbuiltconcrete.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4065,7 +4065,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:19.817011+00:00"
+    "bounced_at": "2026-11-03T20:42:28.851004+00:00"
   },
   "FZ-US-1792621200-2": {
     "lead_id": "FZ-US-1792621200-2",
@@ -4089,7 +4089,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:43.855891+00:00"
+    "bounced_at": "2026-11-03T20:45:08.070938+00:00"
   },
   "FZ-US-1792621201-3": {
     "lead_id": "FZ-US-1792621201-3",
@@ -4113,7 +4113,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:17.541184+00:00"
+    "bounced_at": "2026-11-03T20:42:25.422840+00:00"
   },
   "FZ-US-1792621228-6": {
     "lead_id": "FZ-US-1792621228-6",
@@ -4137,7 +4137,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:05.262088+00:00"
+    "bounced_at": "2026-11-03T20:42:12.121565+00:00"
   },
   "FZ-US-1792621254-2": {
     "lead_id": "FZ-US-1792621254-2",
@@ -4158,7 +4158,7 @@
         "subject": "usimmigrationadvisor.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4181,7 +4181,7 @@
         "subject": "sanitizedplace.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4204,7 +4204,7 @@
         "subject": "quick question for Associations re auroramultiservice.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4227,7 +4227,7 @@
         "subject": "dade-drivewaycleaning.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4250,7 +4250,7 @@
         "subject": "quick question for Visionary Founder re peoplesplumbing.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4273,7 +4273,7 @@
         "subject": "quick question for Saron re thinktaxaccounting.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4319,7 +4319,7 @@
         "subject": "tapsolution.net mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4342,7 +4342,7 @@
         "subject": "quick question for Steven re levinecpas.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4365,7 +4365,7 @@
         "subject": "cps-outdoors.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4388,7 +4388,7 @@
         "subject": "quick question for Bluepointe re bluepointepoolsandspas.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4411,7 +4411,7 @@
         "subject": "quick question for Byronlogo re flicshoodcleaners.co"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4434,7 +4434,7 @@
         "subject": "quick question re dreamcleanmiami.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4457,7 +4457,7 @@
         "subject": "quick question for How re parkslopecleaning.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4480,7 +4480,7 @@
         "subject": "quick question re diamondremodelers.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4503,7 +4503,7 @@
         "subject": "quick question re artofcoatingmiami.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4529,7 +4529,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:04.598324+00:00"
+    "bounced_at": "2026-11-03T20:44:25.503482+00:00"
   },
   "FZ-US-1792621458-6": {
     "lead_id": "FZ-US-1792621458-6",
@@ -4550,7 +4550,7 @@
         "subject": "allproepoxyfl.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4573,7 +4573,7 @@
         "subject": "puritycoatings.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4596,7 +4596,7 @@
         "subject": "quick question for Veterans re epoxyveterans.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4619,7 +4619,7 @@
         "subject": "quick question re rkgarageandgates.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4642,7 +4642,7 @@
         "subject": "southfloridafencing.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4665,7 +4665,7 @@
         "subject": "quick question re floridasolarcoach.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4737,7 +4737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:14.084919+00:00"
+    "bounced_at": "2026-11-03T20:42:22.327660+00:00"
   },
   "FZ-US-1792623373-3": {
     "lead_id": "FZ-US-1792623373-3",
@@ -4784,7 +4784,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:14.890020+00:00"
+    "bounced_at": "2026-11-03T20:43:32.897161+00:00"
   },
   "FZ-US-1792623578-6": {
     "lead_id": "FZ-US-1792623578-6",
@@ -4808,7 +4808,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:04.303592+00:00"
+    "bounced_at": "2026-11-03T20:43:21.710919+00:00"
   },
   "FZ-US-1792623579-7": {
     "lead_id": "FZ-US-1792623579-7",
@@ -4832,7 +4832,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:14.534860+00:00"
+    "bounced_at": "2026-11-03T20:43:32.595263+00:00"
   },
   "FZ-US-1792623680-2": {
     "lead_id": "FZ-US-1792623680-2",
@@ -4876,7 +4876,7 @@
         "subject": "quick question re linktr.ee"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4899,7 +4899,7 @@
         "subject": "koolrenovations.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4922,7 +4922,7 @@
         "subject": "naviconus.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4945,7 +4945,7 @@
         "subject": "quick question for Led General re ballagasconstruction.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4968,7 +4968,7 @@
         "subject": "quick question for About Us re miamiproconstruction.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4991,7 +4991,7 @@
         "subject": "jd-miami.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5014,7 +5014,7 @@
         "subject": "nowecohome.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5037,7 +5037,7 @@
         "subject": "quick question re authenticconstruct.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5060,7 +5060,7 @@
         "subject": "quick question for Born re sunstatebuilder.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5083,7 +5083,7 @@
         "subject": "gladiatorsimprovement.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5106,7 +5106,7 @@
         "subject": "apexflooringllc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5129,7 +5129,7 @@
         "subject": "quick question re socialbrand-mia.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5152,7 +5152,7 @@
         "subject": "quick question for David re dsnhousecollective.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5175,7 +5175,7 @@
         "subject": "quick question re thebrandley.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5198,7 +5198,7 @@
         "subject": "quick question for At re cadesign.io"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5221,7 +5221,7 @@
         "subject": "quick question re xposureadvertising.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5244,7 +5244,7 @@
         "subject": "quick question re paversofpalmbeach.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5267,7 +5267,7 @@
         "subject": "amazingoutdoorsmiami.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5290,7 +5290,7 @@
         "subject": "dsornamental.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5313,7 +5313,7 @@
         "subject": "quick question re bestvaluejanitorialservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5336,7 +5336,7 @@
         "subject": "quick question re 305janitorialservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5362,7 +5362,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:42.357611+00:00"
+    "bounced_at": "2026-11-03T20:42:57.548577+00:00"
   },
   "FZ-US-1792624076-1": {
     "lead_id": "FZ-US-1792624076-1",
@@ -5383,7 +5383,7 @@
         "subject": "quick question for Or re relislaw.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5406,7 +5406,7 @@
         "subject": "quick question for Mario re gonzalezpaintinginc.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5429,7 +5429,7 @@
         "subject": "rodriguezpaintersinc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5455,7 +5455,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:01.977755+00:00"
+    "bounced_at": "2026-11-03T20:44:21.594128+00:00"
   },
   "FZ-US-1792625066-3": {
     "lead_id": "FZ-US-1792625066-3",
@@ -5479,7 +5479,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:21.065626+00:00"
+    "bounced_at": "2026-11-03T20:43:38.134938+00:00"
   },
   "FZ-US-1792625157-8": {
     "lead_id": "FZ-US-1792625157-8",
@@ -5503,7 +5503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:01.187537+00:00"
+    "bounced_at": "2026-11-03T20:43:17.023633+00:00"
   },
   "FZ-US-1792625188-3": {
     "lead_id": "FZ-US-1792625188-3",
@@ -5550,7 +5550,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:18.932733+00:00"
+    "bounced_at": "2026-11-03T20:43:36.368321+00:00"
   },
   "FZ-US-1792625308-19": {
     "lead_id": "FZ-US-1792625308-19",
@@ -5755,7 +5755,7 @@
         "subject": "mrtreeman.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5778,7 +5778,7 @@
         "subject": "diamondshieldepoxy.site mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5801,7 +5801,7 @@
         "subject": "quick question re akaalcoatings.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5824,7 +5824,7 @@
         "subject": "prolayercoatings.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5847,7 +5847,7 @@
         "subject": "eposhield.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5870,7 +5870,7 @@
         "subject": "peelepoxy.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5896,7 +5896,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:27.037215+00:00"
+    "bounced_at": "2026-11-03T20:42:37.648209+00:00"
   },
   "FZ-CA-1792625734-3": {
     "lead_id": "FZ-CA-1792625734-3",
@@ -5917,7 +5917,7 @@
         "subject": "borealsolar.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5940,7 +5940,7 @@
         "subject": "livezeno.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5963,7 +5963,7 @@
         "subject": "quick question for At re solar-x.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5986,7 +5986,7 @@
         "subject": "skypower.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6009,7 +6009,7 @@
         "subject": "quick question for Looking re greentargetsolar.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6032,7 +6032,7 @@
         "subject": "microgreen.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6055,7 +6055,7 @@
         "subject": "heliotechnik.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6078,7 +6078,7 @@
         "subject": "impactenergy.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6101,7 +6101,7 @@
         "subject": "diamondrenewable.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6124,7 +6124,7 @@
         "subject": "kineticsolar.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6147,7 +6147,7 @@
         "subject": "northtrust.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6170,7 +6170,7 @@
         "subject": "416restoration.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6193,7 +6193,7 @@
         "subject": "quick question for Renter re moldcare.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6216,7 +6216,7 @@
         "subject": "mold.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6239,7 +6239,7 @@
         "subject": "quick question for Had re moldstars.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6262,7 +6262,7 @@
         "subject": "karreno.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6285,7 +6285,7 @@
         "subject": "quick question re elitereno.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6308,7 +6308,7 @@
         "subject": "quick question re hometradestandards.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6331,7 +6331,7 @@
         "subject": "samedayheatcool.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6354,7 +6354,7 @@
         "subject": "coldfuel.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6377,7 +6377,7 @@
         "subject": "quick question re superiorhvacservice.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6400,7 +6400,7 @@
         "subject": "pristinecarwraps.site mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6423,7 +6423,7 @@
         "subject": "quick question for Boston re focuscleaning.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6449,7 +6449,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:28.076041+00:00"
+    "bounced_at": "2026-11-03T20:44:51.799102+00:00"
   },
   "FZ-CA-1792625962-6": {
     "lead_id": "FZ-CA-1792625962-6",
@@ -6470,7 +6470,7 @@
         "subject": "quick question re reliableofficecleaners.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6493,7 +6493,7 @@
         "subject": "quick question re elitecleaningservices.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6516,7 +6516,7 @@
         "subject": "quick question re dripndryjanitorialservices.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6539,7 +6539,7 @@
         "subject": "marathoncleaning.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6562,7 +6562,7 @@
         "subject": "quick question for Phone re daycustomhomes.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6585,7 +6585,7 @@
         "subject": "quick question for Arman re elviano.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6608,7 +6608,7 @@
         "subject": "severnwoods.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6631,7 +6631,7 @@
         "subject": "lumarahomes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6654,7 +6654,7 @@
         "subject": "quick question for Michael re rosegoldhomes.net"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6703,7 +6703,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:18.258730+00:00"
+    "bounced_at": "2026-11-03T20:43:35.793283+00:00"
   },
   "FZ-US-1792627387-2": {
     "lead_id": "FZ-US-1792627387-2",
@@ -6819,7 +6819,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:39.012804+00:00"
+    "bounced_at": "2026-11-03T20:42:54.513361+00:00"
   },
   "FZ-US-1792627427-1": {
     "lead_id": "FZ-US-1792627427-1",
@@ -7119,7 +7119,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:05.335752+00:00"
+    "bounced_at": "2026-11-03T20:43:23.388323+00:00"
   },
   "FZ-US-1792627483-14": {
     "lead_id": "FZ-US-1792627483-14",
@@ -7511,7 +7511,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:31.441722+00:00"
+    "bounced_at": "2026-11-03T20:43:47.526402+00:00"
   },
   "FZ-US-1792627593-14": {
     "lead_id": "FZ-US-1792627593-14",
@@ -7581,7 +7581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:04.593175+00:00"
+    "bounced_at": "2026-11-03T20:42:10.995500+00:00"
   },
   "FZ-US-1792627617-6": {
     "lead_id": "FZ-US-1792627617-6",
@@ -7605,7 +7605,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:27.733210+00:00"
+    "bounced_at": "2026-11-03T20:44:51.511612+00:00"
   },
   "FZ-US-1792627619-7": {
     "lead_id": "FZ-US-1792627619-7",
@@ -7652,7 +7652,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:51.699058+00:00"
+    "bounced_at": "2026-11-03T20:43:08.681141+00:00"
   },
   "FZ-US-1792627628-11": {
     "lead_id": "FZ-US-1792627628-11",
@@ -7791,7 +7791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:35.767313+00:00"
+    "bounced_at": "2026-11-03T20:43:51.242135+00:00"
   },
   "FZ-US-1792627691-1": {
     "lead_id": "FZ-US-1792627691-1",
@@ -8206,7 +8206,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:09.904517+00:00"
+    "bounced_at": "2026-11-03T20:42:18.736959+00:00"
   },
   "FZ-US-1792627857-8": {
     "lead_id": "FZ-US-1792627857-8",
@@ -8368,7 +8368,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:06.900432+00:00"
+    "bounced_at": "2026-11-03T20:42:14.921406+00:00"
   },
   "FZ-US-1792627871-18": {
     "lead_id": "FZ-US-1792627871-18",
@@ -8665,7 +8665,7 @@
         "subject": "quick question for Caleb Puts re experiencethebuild.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8688,7 +8688,7 @@
         "subject": "defattacustomhomes.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8711,7 +8711,7 @@
         "subject": "quick question for Hugh re kingdombuilderstn.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8734,7 +8734,7 @@
         "subject": "quick question re landondevelopment.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8757,7 +8757,7 @@
         "subject": "schumacherhomes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8780,7 +8780,7 @@
         "subject": "quick question for One Accountable re may.construction"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8806,7 +8806,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:56.658805+00:00"
+    "bounced_at": "2026-11-03T20:44:16.975168+00:00"
   },
   "FZ-US-1792634864-13": {
     "lead_id": "FZ-US-1792634864-13",
@@ -8827,7 +8827,7 @@
         "subject": "quick question for Looking To re bmbuilderstn.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8850,7 +8850,7 @@
         "subject": "wallabyhomes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8873,7 +8873,7 @@
         "subject": "quick question for Designers re bostnbuilders.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8896,7 +8896,7 @@
         "subject": "quick question for Tyler re huttonhomesllc.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8919,7 +8919,7 @@
         "subject": "quick question for Hires re bestcsinc.org"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8942,7 +8942,7 @@
         "subject": "quick note for Occupied re 4-m.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8965,7 +8965,7 @@
         "subject": "quick question for Is Still re excelcleaningservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8988,7 +8988,7 @@
         "subject": "quick question for Alfonso Betts re bestwayservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9011,7 +9011,7 @@
         "subject": "saubermaintenance.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9034,7 +9034,7 @@
         "subject": "quick question re thecleaningleaders.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9057,7 +9057,7 @@
         "subject": "imperialcleaningsystems.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9083,7 +9083,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:49.617908+00:00"
+    "bounced_at": "2026-11-03T20:43:06.347656+00:00"
   },
   "FZ-US-1792634924-18": {
     "lead_id": "FZ-US-1792634924-18",
@@ -9104,7 +9104,7 @@
         "subject": "quick question for Providing re tristarnash.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9127,7 +9127,7 @@
         "subject": "quick question for Precision re precisionproservices.org"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9150,7 +9150,7 @@
         "subject": "quick question for View re natchezstone.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9173,7 +9173,7 @@
         "subject": "quick question re angelichandp.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9196,7 +9196,7 @@
         "subject": "fleetcleanusa.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9219,7 +9219,7 @@
         "subject": "camopressurewashing.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9242,7 +9242,7 @@
         "subject": "quick question for Owen re anchorpw.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9265,7 +9265,7 @@
         "subject": "quick question re bluebirdsoftwashtn.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9291,7 +9291,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:22:01.065566+00:00"
+    "bounced_at": "2026-11-03T20:46:42.138157+00:00"
   },
   "FZ-US-1792634966-7": {
     "lead_id": "FZ-US-1792634966-7",
@@ -9312,7 +9312,7 @@
         "subject": "quick question re nashvillebuildingservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9335,7 +9335,7 @@
         "subject": "quick question for Jdpetty re cpinash.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9358,7 +9358,7 @@
         "subject": "gonzalezpainting.co quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9381,7 +9381,7 @@
         "subject": "quick question for Ship re gopainting.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9404,7 +9404,7 @@
         "subject": "nashvilleluxuryautodetail.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9427,7 +9427,7 @@
         "subject": "housepaintersgta.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9450,7 +9450,7 @@
         "subject": "paintingdrywalltoronto.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9473,7 +9473,7 @@
         "subject": "quick question for Victor re highqualitypainting.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9496,7 +9496,7 @@
         "subject": "quick question for Built Different re brightestintheroom.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9519,7 +9519,7 @@
         "subject": "tpainters.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9542,7 +9542,7 @@
         "subject": "aluminumfencetoronto.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9565,7 +9565,7 @@
         "subject": "quick question re torontofencerepair.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9591,7 +9591,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:54.009995+00:00"
+    "bounced_at": "2026-11-03T20:43:10.669977+00:00"
   },
   "FZ-CA-1792636225-6": {
     "lead_id": "FZ-CA-1792636225-6",
@@ -9612,7 +9612,7 @@
         "subject": "quick question re elementfence.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9635,7 +9635,7 @@
         "subject": "wholesalefence.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9658,7 +9658,7 @@
         "subject": "quick question for Leads re cityfence.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9681,7 +9681,7 @@
         "subject": "chainlinkfencetoronto.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9704,7 +9704,7 @@
         "subject": "quick question for Swim re elitepooldesign.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9727,7 +9727,7 @@
         "subject": "seasidepools.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9750,7 +9750,7 @@
         "subject": "quick question for Artisian re artisian.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9773,7 +9773,7 @@
         "subject": "quick question re holidaypoolservice.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9796,7 +9796,7 @@
         "subject": "yorkstonepools.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9819,7 +9819,7 @@
         "subject": "quick question for Inception re mdpaconstruction.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9842,7 +9842,7 @@
         "subject": "egeinterlock.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9865,7 +9865,7 @@
         "subject": "quick question re pandalandscaping.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9888,7 +9888,7 @@
         "subject": "reliablehardscapes.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9911,7 +9911,7 @@
         "subject": "quick question re treeandravine.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9934,7 +9934,7 @@
         "subject": "ontree.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9957,7 +9957,7 @@
         "subject": "jaricoair.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9980,7 +9980,7 @@
         "subject": "quick question for As Wet re waterproofingdrain.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10003,7 +10003,7 @@
         "subject": "quick question for Washington re designagency.co"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10026,7 +10026,7 @@
         "subject": "quick question re brandbuilderstudios.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10049,7 +10049,7 @@
         "subject": "quick question for Careers re themintagency.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10072,7 +10072,7 @@
         "subject": "quick question re negliadesign.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10095,7 +10095,7 @@
         "subject": "quick question re cgroupdesign.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10118,7 +10118,7 @@
         "subject": "quick question for Ship re omaicreative.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:22:26.864070+00:00",
+    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10581,7 +10581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:04.993755+00:00"
+    "bounced_at": "2026-11-03T20:43:22.823439+00:00"
   },
   "FZ-CA-1792636728-2": {
     "lead_id": "FZ-CA-1792636728-2",
@@ -10927,7 +10927,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:22:16.736520+00:00"
+    "bounced_at": "2026-11-03T20:47:04.309997+00:00"
   },
   "FZ-US-1792638681-2": {
     "lead_id": "FZ-US-1792638681-2",
@@ -11664,7 +11664,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:26.388251+00:00"
+    "bounced_at": "2026-11-03T20:42:37.077565+00:00"
   },
   "FZ-US-1792639181-16": {
     "lead_id": "FZ-US-1792639181-16",
@@ -11803,7 +11803,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:11.554049+00:00"
+    "bounced_at": "2026-11-03T20:43:30.056687+00:00"
   },
   "FZ-US-1792703574-3": {
     "lead_id": "FZ-US-1792703574-3",
@@ -11919,7 +11919,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:32.331056+00:00"
+    "bounced_at": "2026-11-03T20:44:57.027645+00:00"
   },
   "FZ-US-1792703853-5": {
     "lead_id": "FZ-US-1792703853-5",
@@ -12242,7 +12242,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:25.233975+00:00"
+    "bounced_at": "2026-11-03T20:43:41.676918+00:00"
   },
   "FZ-US-1792718941-3": {
     "lead_id": "FZ-US-1792718941-3",
@@ -12611,7 +12611,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:38.614066+00:00"
+    "bounced_at": "2026-11-03T20:46:11.638567+00:00"
   },
   "FZ-CA-1792722171-5": {
     "lead_id": "FZ-CA-1792722171-5",
@@ -12635,7 +12635,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:15.782955+00:00"
+    "bounced_at": "2026-11-03T20:45:44.256941+00:00"
   },
   "FZ-CA-1792722320-3": {
     "lead_id": "FZ-CA-1792722320-3",
@@ -13510,7 +13510,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:22:06.115090+00:00"
+    "bounced_at": "2026-11-03T20:46:47.887821+00:00"
   },
   "FZ-US-1792787219-3": {
     "lead_id": "FZ-US-1792787219-3",
@@ -13557,7 +13557,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:35.421017+00:00"
+    "bounced_at": "2026-11-03T20:43:50.955943+00:00"
   },
   "FZ-US-1792787245-4": {
     "lead_id": "FZ-US-1792787245-4",
@@ -13581,7 +13581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:59.543103+00:00"
+    "bounced_at": "2026-11-03T20:43:15.543999+00:00"
   },
   "FZ-US-1792787247-5": {
     "lead_id": "FZ-US-1792787247-5",
@@ -13697,7 +13697,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:48.917082+00:00"
+    "bounced_at": "2026-11-03T20:43:05.212320+00:00"
   },
   "FZ-US-1792787401-1": {
     "lead_id": "FZ-US-1792787401-1",
@@ -13721,7 +13721,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:22:10.975426+00:00"
+    "bounced_at": "2026-11-03T20:46:54.449918+00:00"
   },
   "FZ-US-1792787415-1": {
     "lead_id": "FZ-US-1792787415-1",
@@ -13791,7 +13791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:14.802766+00:00"
+    "bounced_at": "2026-11-03T20:45:43.430198+00:00"
   },
   "FZ-US-1792787572-13": {
     "lead_id": "FZ-US-1792787572-13",
@@ -13999,7 +13999,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:57.643887+00:00"
+    "bounced_at": "2026-11-03T20:44:17.823616+00:00"
   },
   "FZ-US-1792799273-2": {
     "lead_id": "FZ-US-1792799273-2",
@@ -14345,7 +14345,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:45.609821+00:00"
+    "bounced_at": "2026-11-03T20:43:00.405796+00:00"
   },
   "FZ-US-1792799567-4": {
     "lead_id": "FZ-US-1792799567-4",
@@ -14553,7 +14553,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:24.891901+00:00"
+    "bounced_at": "2026-11-03T20:43:41.384440+00:00"
   },
   "FZ-US-1792799809-8": {
     "lead_id": "FZ-US-1792799809-8",
@@ -14577,7 +14577,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:20.481505+00:00"
+    "bounced_at": "2026-11-03T20:45:52.239812+00:00"
   },
   "FZ-US-1792799869-1": {
     "lead_id": "FZ-US-1792799869-1",
@@ -14624,7 +14624,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:30.458687+00:00"
+    "bounced_at": "2026-11-03T20:42:42.861765+00:00"
   },
   "FZ-US-1792799956-2": {
     "lead_id": "FZ-US-1792799956-2",
@@ -14786,7 +14786,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:17.904239+00:00"
+    "bounced_at": "2026-11-03T20:43:35.496218+00:00"
   },
   "FZ-US-1792800083-2": {
     "lead_id": "FZ-US-1792800083-2",
@@ -15017,7 +15017,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:45.524872+00:00"
+    "bounced_at": "2026-11-03T20:45:09.448073+00:00"
   },
   "FZ-US-1792815115-10": {
     "lead_id": "FZ-US-1792815115-10",
@@ -15064,7 +15064,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:22:00.714110+00:00"
+    "bounced_at": "2026-11-03T20:46:41.565487+00:00"
   },
   "FZ-US-1792815128-12": {
     "lead_id": "FZ-US-1792815128-12",
@@ -15157,7 +15157,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:37.316790+00:00"
+    "bounced_at": "2026-11-03T20:42:52.980705+00:00"
   },
   "FZ-US-1792815633-6": {
     "lead_id": "FZ-US-1792815633-6",
@@ -15319,7 +15319,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:17.960042+00:00"
+    "bounced_at": "2026-11-03T20:44:40.793686+00:00"
   },
   "FZ-US-1792819635-10": {
     "lead_id": "FZ-US-1792819635-10",
@@ -15619,7 +15619,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:30.794686+00:00"
+    "bounced_at": "2026-11-03T20:46:02.760661+00:00"
   },
   "FZ-US-1792820218-5": {
     "lead_id": "FZ-US-1792820218-5",
@@ -16011,7 +16011,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:49.270773+00:00"
+    "bounced_at": "2026-11-03T20:43:05.772638+00:00"
   },
   "FZ-US-1792850159-1": {
     "lead_id": "FZ-US-1792850159-1",
@@ -16242,7 +16242,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:06.078590+00:00"
+    "bounced_at": "2026-11-03T20:45:35.440425+00:00"
   },
   "FZ-US-1792850466-3": {
     "lead_id": "FZ-US-1792850466-3",
@@ -16381,7 +16381,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:51.249686+00:00"
+    "bounced_at": "2026-11-03T20:44:09.734199+00:00"
   },
   "FZ-US-1792850524-10": {
     "lead_id": "FZ-US-1792850524-10",
@@ -16612,7 +16612,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:24.033998+00:00"
+    "bounced_at": "2026-11-03T20:43:40.664295+00:00"
   },
   "FZ-US-1792854375-10": {
     "lead_id": "FZ-US-1792854375-10",
@@ -16797,7 +16797,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:25.802314+00:00"
+    "bounced_at": "2026-11-03T20:45:58.549806+00:00"
   },
   "FZ-US-1792854437-2": {
     "lead_id": "FZ-US-1792854437-2",
@@ -16867,7 +16867,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:23.692966+00:00"
+    "bounced_at": "2026-11-03T20:43:40.367536+00:00"
   },
   "FZ-US-1792854494-2": {
     "lead_id": "FZ-US-1792854494-2",
@@ -17443,7 +17443,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:16.885427+00:00"
+    "bounced_at": "2026-11-03T20:42:24.833675+00:00"
   },
   "FZ-US-1792726568-1": {
     "lead_id": "FZ-US-1792726568-1",
@@ -17513,7 +17513,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:04.652545+00:00"
+    "bounced_at": "2026-11-03T20:43:22.265542+00:00"
   },
   "FZ-US-1792726907-10": {
     "lead_id": "FZ-US-1792726907-10",
@@ -17790,7 +17790,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:48.217266+00:00"
+    "bounced_at": "2026-11-03T20:43:04.084144+00:00"
   },
   "FZ-CA-1792728942-3": {
     "lead_id": "FZ-CA-1792728942-3",
@@ -18021,7 +18021,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:24.540416+00:00"
+    "bounced_at": "2026-11-03T20:43:41.088693+00:00"
   },
   "FZ-US-1792731323-8": {
     "lead_id": "FZ-US-1792731323-8",
@@ -18137,7 +18137,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:05.997434+00:00"
+    "bounced_at": "2026-11-03T20:43:24.478870+00:00"
   },
   "FZ-US-1792731594-1": {
     "lead_id": "FZ-US-1792731594-1",
@@ -18414,7 +18414,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:15.446490+00:00"
+    "bounced_at": "2026-11-03T20:45:43.975521+00:00"
   },
   "FZ-US-1792794426-2": {
     "lead_id": "FZ-US-1792794426-2",
@@ -18737,7 +18737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:11.055221+00:00"
+    "bounced_at": "2026-11-03T20:43:29.625005+00:00"
   },
   "FZ-US-1792794996-4": {
     "lead_id": "FZ-US-1792794996-4",
@@ -18922,7 +18922,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:09.095396+00:00"
+    "bounced_at": "2026-11-03T20:44:32.827802+00:00"
   },
   "FZ-US-1792803665-6": {
     "lead_id": "FZ-US-1792803665-6",
@@ -18992,7 +18992,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:38.349814+00:00"
+    "bounced_at": "2026-11-03T20:42:53.907737+00:00"
   },
   "FZ-US-1792812902-15": {
     "lead_id": "FZ-US-1792812902-15",
@@ -19936,7 +19936,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:01.491508+00:00"
+    "bounced_at": "2026-11-03T20:44:21.165778+00:00"
   },
   "FZ-US-1792822343-3": {
     "lead_id": "FZ-US-1792822343-3",
@@ -20052,7 +20052,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:21.643330+00:00"
+    "bounced_at": "2026-11-03T20:44:45.624138+00:00"
   },
   "FZ-US-1792822397-4": {
     "lead_id": "FZ-US-1792822397-4",
@@ -20076,7 +20076,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:08.746817+00:00"
+    "bounced_at": "2026-11-03T20:44:32.269705+00:00"
   },
   "FZ-US-1792822413-2": {
     "lead_id": "FZ-US-1792822413-2",
@@ -20399,7 +20399,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:30.115532+00:00"
+    "bounced_at": "2026-11-03T20:42:42.304384+00:00"
   },
   "FZ-US-1792822633-5": {
     "lead_id": "FZ-US-1792822633-5",
@@ -20561,7 +20561,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:17.559661+00:00"
+    "bounced_at": "2026-11-03T20:43:35.195761+00:00"
   },
   "FZ-US-1792822755-2": {
     "lead_id": "FZ-US-1792822755-2",
@@ -20723,7 +20723,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:34.228256+00:00"
+    "bounced_at": "2026-11-03T20:46:07.221971+00:00"
   },
   "FZ-US-1792822897-6": {
     "lead_id": "FZ-US-1792822897-6",
@@ -20747,7 +20747,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:45.952573+00:00"
+    "bounced_at": "2026-11-03T20:43:00.703138+00:00"
   },
   "FZ-US-1792822920-7": {
     "lead_id": "FZ-US-1792822920-7",
@@ -20794,7 +20794,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:30.804432+00:00"
+    "bounced_at": "2026-11-03T20:42:43.425104+00:00"
   },
   "FZ-US-1792822929-9": {
     "lead_id": "FZ-US-1792822929-9",
@@ -21140,7 +21140,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:11.966699+00:00"
+    "bounced_at": "2026-11-03T20:42:20.485253+00:00"
   },
   "FZ-US-1792850343-2": {
     "lead_id": "FZ-US-1792850343-2",
@@ -21279,7 +21279,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:39.350726+00:00"
+    "bounced_at": "2026-11-03T20:42:54.831527+00:00"
   },
   "FZ-US-1792850567-3": {
     "lead_id": "FZ-US-1792850567-3",
@@ -21901,7 +21901,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:59.847976+00:00"
+    "bounced_at": "2026-11-03T20:45:25.428358+00:00"
   },
   "FZ-US-1792854976-2": {
     "lead_id": "FZ-US-1792854976-2",
@@ -21971,7 +21971,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:31.770777+00:00"
+    "bounced_at": "2026-11-03T20:43:47.816690+00:00"
   },
   "FZ-US-1792855037-6": {
     "lead_id": "FZ-US-1792855037-6",
@@ -22041,7 +22041,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:16.543677+00:00"
+    "bounced_at": "2026-11-03T20:42:24.527281+00:00"
   },
   "FZ-US-1792855104-3": {
     "lead_id": "FZ-US-1792855104-3",
@@ -22249,7 +22249,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:59.881282+00:00"
+    "bounced_at": "2026-11-03T20:43:15.843502+00:00"
   },
   "FZ-US-1792855221-19": {
     "lead_id": "FZ-US-1792855221-19",
@@ -22503,7 +22503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:21.792996+00:00"
+    "bounced_at": "2026-11-03T20:42:32.223624+00:00"
   },
   "FZ-US-1792859094-8": {
     "lead_id": "FZ-US-1792859094-8",
@@ -22987,7 +22987,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:38.685968+00:00"
+    "bounced_at": "2026-11-03T20:42:54.211728+00:00"
   },
   "FZ-CA-1792617003-8": {
     "lead_id": "FZ-CA-1792617003-8",
@@ -23126,7 +23126,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:03.291166+00:00"
+    "bounced_at": "2026-11-03T20:43:20.056748+00:00"
   },
   "FZ-CA-1792617030-6": {
     "lead_id": "FZ-CA-1792617030-6",
@@ -23863,7 +23863,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:29.775735+00:00"
+    "bounced_at": "2026-11-03T20:42:41.747843+00:00"
   },
   "FZ-US-1792628298-3": {
     "lead_id": "FZ-US-1792628298-3",
@@ -24002,7 +24002,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:11.621780+00:00"
+    "bounced_at": "2026-11-03T20:42:20.191468+00:00"
   },
   "FZ-CA-1792631077-1": {
     "lead_id": "FZ-CA-1792631077-1",
@@ -24049,7 +24049,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:23.875092+00:00"
+    "bounced_at": "2026-11-03T20:44:48.203711+00:00"
   },
   "FZ-CA-1792631086-4": {
     "lead_id": "FZ-CA-1792631086-4",
@@ -24740,7 +24740,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:19.473769+00:00"
+    "bounced_at": "2026-11-03T20:42:28.268379+00:00"
   },
   "FZ-CA-1792631358-5": {
     "lead_id": "FZ-CA-1792631358-5",
@@ -24879,7 +24879,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:25.474776+00:00"
+    "bounced_at": "2026-11-03T20:45:58.273762+00:00"
   },
   "FZ-CA-1792631418-1": {
     "lead_id": "FZ-CA-1792631418-1",
@@ -25248,7 +25248,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:48.569310+00:00"
+    "bounced_at": "2026-11-03T20:43:04.646064+00:00"
   },
   "FZ-CA-1792631659-13": {
     "lead_id": "FZ-CA-1792631659-13",
@@ -26307,7 +26307,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:11.273562+00:00"
+    "bounced_at": "2026-11-03T20:42:19.897700+00:00"
   },
   "FZ-US-1792634187-3": {
     "lead_id": "FZ-US-1792634187-3",
@@ -26492,7 +26492,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:59.496215+00:00"
+    "bounced_at": "2026-11-03T20:45:25.119131+00:00"
   },
   "FZ-US-1792634261-3": {
     "lead_id": "FZ-US-1792634261-3",
@@ -26631,7 +26631,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:04.254654+00:00"
+    "bounced_at": "2026-11-03T20:42:10.432300+00:00"
   },
   "FZ-US-1792634387-4": {
     "lead_id": "FZ-US-1792634387-4",
@@ -27414,7 +27414,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:07.237117+00:00"
+    "bounced_at": "2026-11-03T20:42:15.491179+00:00"
   },
   "FZ-US-1792634670-6": {
     "lead_id": "FZ-US-1792634670-6",
@@ -27438,7 +27438,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:00.219904+00:00"
+    "bounced_at": "2026-11-03T20:43:16.150734+00:00"
   },
   "FZ-US-1792634676-8": {
     "lead_id": "FZ-US-1792634676-8",
@@ -27922,7 +27922,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:54.865143+00:00"
+    "bounced_at": "2026-11-03T20:45:21.202361+00:00"
   },
   "FZ-US-1792641581-4": {
     "lead_id": "FZ-US-1792641581-4",
@@ -28613,7 +28613,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:54.351080+00:00"
+    "bounced_at": "2026-11-03T20:43:10.964773+00:00"
   },
   "FZ-US-1792641949-4": {
     "lead_id": "FZ-US-1792641949-4",
@@ -28913,7 +28913,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:15.876344+00:00"
+    "bounced_at": "2026-11-03T20:42:23.932863+00:00"
   },
   "FZ-US-1792642159-2": {
     "lead_id": "FZ-US-1792642159-2",
@@ -29397,7 +29397,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:15.240698+00:00"
+    "bounced_at": "2026-11-03T20:43:33.200649+00:00"
   },
   "FZ-US-1792642252-5": {
     "lead_id": "FZ-US-1792642252-5",
@@ -29444,7 +29444,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:36.116643+00:00"
+    "bounced_at": "2026-11-03T20:43:51.531518+00:00"
   },
   "FZ-US-1792642258-9": {
     "lead_id": "FZ-US-1792642258-9",
@@ -29790,7 +29790,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:34.580958+00:00"
+    "bounced_at": "2026-11-03T20:43:50.261767+00:00"
   },
   "FZ-US-1792642402-11": {
     "lead_id": "FZ-US-1792642402-11",
@@ -29837,7 +29837,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:34.577115+00:00"
+    "bounced_at": "2026-11-03T20:42:49.736446+00:00"
   },
   "FZ-US-1792643571-6": {
     "lead_id": "FZ-US-1792643571-6",
@@ -30482,7 +30482,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:44.635149+00:00"
+    "bounced_at": "2026-11-03T20:42:59.546741+00:00"
   },
   "FZ-US-1792643924-1": {
     "lead_id": "FZ-US-1792643924-1",
@@ -30506,7 +30506,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:22:14.145471+00:00"
+    "bounced_at": "2026-11-03T20:46:59.885702+00:00"
   },
   "FZ-US-1792643951-4": {
     "lead_id": "FZ-US-1792643951-4",
@@ -31818,7 +31818,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:53.142814+00:00"
+    "bounced_at": "2026-11-03T20:44:12.536831+00:00"
   },
   "FZ-US-1792648374-2": {
     "lead_id": "FZ-US-1792648374-2",
@@ -31842,7 +31842,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:22.144471+00:00"
+    "bounced_at": "2026-11-03T20:42:32.815746+00:00"
   },
   "FZ-US-1792648375-3": {
     "lead_id": "FZ-US-1792648375-3",
@@ -32050,7 +32050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:10.925794+00:00"
+    "bounced_at": "2026-11-03T20:42:19.599594+00:00"
   },
   "FZ-US-1792648493-7": {
     "lead_id": "FZ-US-1792648493-7",
@@ -32166,7 +32166,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:18.951938+00:00"
+    "bounced_at": "2026-11-03T20:44:41.642628+00:00"
   },
   "FZ-US-1792648522-2": {
     "lead_id": "FZ-US-1792648522-2",
@@ -32213,7 +32213,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:53.040123+00:00"
+    "bounced_at": "2026-11-03T20:43:09.823101+00:00"
   },
   "FZ-US-1792648540-3": {
     "lead_id": "FZ-US-1792648540-3",
@@ -32237,7 +32237,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:33.018083+00:00"
+    "bounced_at": "2026-11-03T20:44:58.113663+00:00"
   },
   "FZ-US-1792648553-9": {
     "lead_id": "FZ-US-1792648553-9",
@@ -32307,7 +32307,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:08.342506+00:00"
+    "bounced_at": "2026-11-03T20:44:31.687537+00:00"
   },
   "FZ-US-1792648630-1": {
     "lead_id": "FZ-US-1792648630-1",
@@ -32745,7 +32745,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:56.950532+00:00"
+    "bounced_at": "2026-11-03T20:43:13.216509+00:00"
   },
   "FZ-US-1792648799-2": {
     "lead_id": "FZ-US-1792648799-2",
@@ -32815,7 +32815,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:50.081706+00:00"
+    "bounced_at": "2026-11-03T20:45:16.879825+00:00"
   },
   "FZ-US-1792648835-1": {
     "lead_id": "FZ-US-1792648835-1",
@@ -33368,7 +33368,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:38.254930+00:00"
+    "bounced_at": "2026-11-03T20:46:11.351944+00:00"
   },
   "FZ-US-1792654925-19": {
     "lead_id": "FZ-US-1792654925-19",
@@ -33461,7 +33461,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:07.583106+00:00"
+    "bounced_at": "2026-11-03T20:42:16.065815+00:00"
   },
   "FZ-US-1792657561-3": {
     "lead_id": "FZ-US-1792657561-3",
@@ -33761,7 +33761,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:32.093615+00:00"
+    "bounced_at": "2026-11-03T20:43:48.100672+00:00"
   },
   "FZ-US-1792660046-11": {
     "lead_id": "FZ-US-1792660046-11",
@@ -33877,7 +33877,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:42.023015+00:00"
+    "bounced_at": "2026-11-03T20:42:57.253774+00:00"
   },
   "FZ-US-1792660194-4": {
     "lead_id": "FZ-US-1792660194-4",
@@ -33993,7 +33993,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:22:07.716532+00:00"
+    "bounced_at": "2026-11-03T20:46:49.311802+00:00"
   },
   "FZ-US-1792660501-10": {
     "lead_id": "FZ-US-1792660501-10",
@@ -34247,7 +34247,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:13.863586+00:00"
+    "bounced_at": "2026-11-03T20:44:37.353606+00:00"
   },
   "FZ-CA-1792663418-2": {
     "lead_id": "FZ-CA-1792663418-2",
@@ -34386,7 +34386,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:03.647758+00:00"
+    "bounced_at": "2026-11-03T20:43:20.619034+00:00"
   },
   "FZ-CA-1792663433-9": {
     "lead_id": "FZ-CA-1792663433-9",
@@ -34548,7 +34548,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:16.649301+00:00"
+    "bounced_at": "2026-11-03T20:44:39.673093+00:00"
   },
   "FZ-CA-1792663895-12": {
     "lead_id": "FZ-CA-1792663895-12",
@@ -34641,7 +34641,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:03.431699+00:00"
+    "bounced_at": "2026-11-03T20:45:31.025074+00:00"
   },
   "FZ-US-1792663961-2": {
     "lead_id": "FZ-US-1792663961-2",
@@ -34941,7 +34941,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:46.246160+00:00"
+    "bounced_at": "2026-11-03T20:44:05.532725+00:00"
   },
   "FZ-US-1792665838-1": {
     "lead_id": "FZ-US-1792665838-1",
@@ -35724,7 +35724,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:49.172024+00:00"
+    "bounced_at": "2026-11-03T20:46:24.517120+00:00"
   },
   "FZ-US-1792672994-4": {
     "lead_id": "FZ-US-1792672994-4",
@@ -35886,7 +35886,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:25.364879+00:00"
+    "bounced_at": "2026-11-03T20:42:36.166607+00:00"
   },
   "FZ-US-1792673138-2": {
     "lead_id": "FZ-US-1792673138-2",
@@ -36048,7 +36048,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:06.556803+00:00"
+    "bounced_at": "2026-11-03T20:42:14.352877+00:00"
   },
   "FZ-US-1792673182-10": {
     "lead_id": "FZ-US-1792673182-10",
@@ -36555,7 +36555,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:13.519807+00:00"
+    "bounced_at": "2026-11-03T20:44:37.056450+00:00"
   },
   "FZ-US-1792673629-6": {
     "lead_id": "FZ-US-1792673629-6",
@@ -36579,7 +36579,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:42.240275+00:00"
+    "bounced_at": "2026-11-03T20:46:14.636413+00:00"
   },
   "FZ-US-1792673631-7": {
     "lead_id": "FZ-US-1792673631-7",
@@ -36718,7 +36718,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:48.772988+00:00"
+    "bounced_at": "2026-11-03T20:45:14.657650+00:00"
   },
   "FZ-US-1792676514-15": {
     "lead_id": "FZ-US-1792676514-15",
@@ -36857,7 +36857,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:35.350776+00:00"
+    "bounced_at": "2026-11-03T20:45:00.720242+00:00"
   },
   "FZ-US-1792678796-4": {
     "lead_id": "FZ-US-1792678796-4",
@@ -36881,7 +36881,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:52.053220+00:00"
+    "bounced_at": "2026-11-03T20:43:08.980523+00:00"
   },
   "FZ-US-1792678809-7": {
     "lead_id": "FZ-US-1792678809-7",
@@ -37135,7 +37135,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:50.480476+00:00"
+    "bounced_at": "2026-11-03T20:44:09.079075+00:00"
   },
   "FZ-US-1792679241-7": {
     "lead_id": "FZ-US-1792679241-7",
@@ -37343,7 +37343,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:20.965559+00:00"
+    "bounced_at": "2026-11-03T20:44:44.508570+00:00"
   },
   "FZ-US-1792679600-6": {
     "lead_id": "FZ-US-1792679600-6",
@@ -38011,7 +38011,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:13.833088+00:00"
+    "bounced_at": "2026-11-03T20:45:42.628309+00:00"
   },
   "FZ-US-1792859534-6": {
     "lead_id": "FZ-US-1792859534-6",
@@ -38035,7 +38035,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:48.834865+00:00"
+    "bounced_at": "2026-11-03T20:46:23.920334+00:00"
   },
   "FZ-US-1792859537-7": {
     "lead_id": "FZ-US-1792859537-7",
@@ -38841,7 +38841,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:29.430597+00:00"
+    "bounced_at": "2026-11-03T20:42:41.189266+00:00"
   },
   "FZ-US-1792864068-3": {
     "lead_id": "FZ-US-1792864068-3",
@@ -39486,7 +39486,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:21:30.463755+00:00"
+    "bounced_at": "2026-11-03T20:46:02.481089+00:00"
   },
   "FZ-AU-1792615707-7": {
     "lead_id": "FZ-AU-1792615707-7",
@@ -40637,7 +40637,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:57.299209+00:00"
+    "bounced_at": "2026-11-03T20:43:13.532829+00:00"
   },
   "FZ-AU-1792651066-1": {
     "lead_id": "FZ-AU-1792651066-1",
@@ -41052,7 +41052,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:22:10.295153+00:00"
+    "bounced_at": "2026-11-03T20:46:53.368721+00:00"
   },
   "FZ-AU-1792651291-2": {
     "lead_id": "FZ-AU-1792651291-2",
@@ -41421,7 +41421,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:53.831026+00:00"
+    "bounced_at": "2026-11-03T20:45:20.293425+00:00"
   },
   "FZ-AU-1792651474-5": {
     "lead_id": "FZ-AU-1792651474-5",
@@ -41445,7 +41445,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:10.385366+00:00"
+    "bounced_at": "2026-11-03T20:43:29.065483+00:00"
   },
   "FZ-AU-1792651485-7": {
     "lead_id": "FZ-AU-1792651485-7",
@@ -42481,7 +42481,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:32.901864+00:00"
+    "bounced_at": "2026-11-03T20:42:46.944730+00:00"
   },
   "FZ-AU-1792670242-11": {
     "lead_id": "FZ-AU-1792670242-11",
@@ -42574,7 +42574,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:54.514474+00:00"
+    "bounced_at": "2026-11-03T20:45:20.907611+00:00"
   },
   "FZ-AU-1792670329-6": {
     "lead_id": "FZ-AU-1792670329-6",
@@ -42828,7 +42828,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:18:44.292008+00:00"
+    "bounced_at": "2026-11-03T20:42:59.250267+00:00"
   },
   "FZ-AU-1792670710-8": {
     "lead_id": "FZ-AU-1792670710-8",
@@ -44002,7 +44002,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:20:58.490718+00:00"
+    "bounced_at": "2026-11-03T20:45:24.260207+00:00"
   },
   "FZ-AU-1792797079-3": {
     "lead_id": "FZ-AU-1792797079-3",
@@ -44187,7 +44187,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-03T20:19:23.022304+00:00"
+    "bounced_at": "2026-11-03T20:43:39.789923+00:00"
   },
   "FZ-AU-1792797351-5": {
     "lead_id": "FZ-AU-1792797351-5",
