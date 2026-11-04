@@ -2806,5 +2806,85 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "No critical conversion leaks or severe visual flaws found.",
     "eliminated_at": "2026-11-03T17:19:24.763185+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931879-10",
+    "business_name": "Faceless Digital",
+    "website": "https://www.facelessdigital.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-04T18:40:05.490417+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931929-1",
+    "business_name": "Service1st Staffing & Commercial Cleaning",
+    "website": "http://www.service1staz.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-04T18:40:29.554091+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931968-5",
+    "business_name": "Complete Cleaners LLC",
+    "website": "https://www.completecleaners.co",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
+    "eliminated_at": "2026-11-04T18:40:37.975592+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931970-6",
+    "business_name": "Key Klean - Arizona",
+    "website": "http://key-klean.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-04T18:40:38.387332+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931978-7",
+    "business_name": "Arizona Superior Cleaning LLC",
+    "website": "https://superiorcleaningusa.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-04T18:40:39.213060+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792931986-8",
+    "business_name": "Affiliated Building Maintenance",
+    "website": "https://affiliatedbuildingmaintenance.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-04T18:40:44.763036+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792932025-11",
+    "business_name": "Young & Marketing",
+    "website": "http://www.janiservinc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-04T18:41:12.086066+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792932060-15",
+    "business_name": "Desert Pro Commercial Cleaning LLC",
+    "website": "http://www.tucsondesertpro.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-04T18:41:30.274792+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792956771-15",
+    "business_name": "Law Office of Eric Bjotvedt",
+    "website": "https://www.visitmylawyer.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.vi",
+    "eliminated_at": "2026-11-04T18:44:32.695673+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792957011-2",
+    "business_name": "Garage Door Services 27 Llc",
+    "website": "https://garagedoorservices27llc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://gara",
+    "eliminated_at": "2026-11-04T18:47:27.603822+00:00"
   }
 ]
