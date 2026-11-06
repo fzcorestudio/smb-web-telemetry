@@ -2886,5 +2886,85 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://gara",
     "eliminated_at": "2026-11-04T18:47:27.603822+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792957275-12",
+    "business_name": "JR Artisan Outdoors",
+    "website": "https://jrartisanoutdoors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-06T09:08:02.024513+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792957312-2",
+    "business_name": "Arrow Exterminators Pest Control",
+    "website": "http://www.arrowexterminators.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-06T09:08:14.286767+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792957401-4",
+    "business_name": "CDS Roofing Systems",
+    "website": "https://cdsroofing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-06T09:08:50.620553+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792957445-6",
+    "business_name": "Grier Roofing, LLC",
+    "website": "https://grierroofing.com/areas-we-serve/roofing-company-charlotte-nc",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-06T09:09:05.369285+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792957506-11",
+    "business_name": "All-Tite Exteriors LLC",
+    "website": "https://alltiteexteriors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-06T09:09:43.793678+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792957533-15",
+    "business_name": "The Roof Depot, LLC",
+    "website": "http://roofdepot.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-06T09:10:08.705756+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792966388-8",
+    "business_name": "Unlimited Paving",
+    "website": "https://www.unlimitedpaving.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-06T09:11:53.736619+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792966469-22",
+    "business_name": "NC Pavement Maintenance",
+    "website": "https://ncpavementmaintenance.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https:",
+    "eliminated_at": "2026-11-06T09:12:57.881490+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792966559-2",
+    "business_name": "Builders' Insulation",
+    "website": "http://www.insulation-holdings.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-06T09:13:59.355360+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792966724-13",
+    "business_name": "The Window Guyz",
+    "website": "https://www.thewindowguyz.com/franklin-tn-window-and-door-replacement",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 404",
+    "eliminated_at": "2026-11-06T09:15:45.730154+00:00"
   }
 ]
