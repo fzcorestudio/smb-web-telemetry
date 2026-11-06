@@ -2966,5 +2966,29 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 404",
     "eliminated_at": "2026-11-06T09:15:45.730154+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792967085-8",
+    "business_name": "Bright air duct and dryer vent cleaning",
+    "website": "https://www.brightairduct.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.brighta",
+    "eliminated_at": "2026-11-06T16:53:36.948477+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792967279-2",
+    "business_name": "Diamond Garage",
+    "website": "https://thediamondgarage.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-06T16:54:29.291228+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792967372-8",
+    "business_name": "Custom Addict - Car Window Tint",
+    "website": "https://carwindowtintlasvegas.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://carwindowti",
+    "eliminated_at": "2026-11-06T16:54:47.011598+00:00"
   }
 ]
