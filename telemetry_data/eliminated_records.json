@@ -2990,5 +2990,133 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://carwindowti",
     "eliminated_at": "2026-11-06T16:54:47.011598+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975204-6",
+    "business_name": "Rockside Roofing & Restoration",
+    "website": "http://rocksideroofing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-07T08:36:12.018713+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975225-9",
+    "business_name": "Americon Restoration of Cleveland",
+    "website": "http://www.americonrestoration.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-07T08:36:31.761211+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975270-13",
+    "business_name": "Sumy Roofing",
+    "website": "https://sumyroofing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-07T08:37:05.880036+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975305-1",
+    "business_name": "ACT Custom Pools",
+    "website": "https://actcustompools.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 504",
+    "eliminated_at": "2026-11-07T08:37:06.226598+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975355-5",
+    "business_name": "Pool & Spa Outlet - Warehouse",
+    "website": "http://www.pool-spaoutlet.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-07T08:37:43.880578+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975358-6",
+    "business_name": "Pro Pool Pittsburgh",
+    "website": "http://propoolpgh.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-07T08:37:55.952983+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975432-22",
+    "business_name": "Pool Nation USA",
+    "website": "http://www.poolnationusa.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.poolnati",
+    "eliminated_at": "2026-11-07T08:39:06.575377+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975544-7",
+    "business_name": "Donna Giguere Landscape Design",
+    "website": "http://www.giguerelandscapedesign.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-07T08:39:51.902974+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792975582-12",
+    "business_name": "Drake's 7 Dees Landscaping",
+    "website": "https://www.drakes7dees.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-07T08:40:18.129735+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792991952-11",
+    "business_name": "NextGen Epoxy LLC",
+    "website": "https://nextgen-epoxy.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-07T08:41:18.217671+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792991986-16",
+    "business_name": "DekoCrete",
+    "website": "https://dekocretegnp.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-07T08:41:46.817746+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792992005-1",
+    "business_name": "Quality Bellevue HVAC Repair",
+    "website": "https://qualitybellevuehvacrepair.site",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-07T08:41:58.875377+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792992027-4",
+    "business_name": "Fuse Service: Heating & Air Conditioning",
+    "website": "https://fusesea.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-07T08:42:23.067430+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792992071-8",
+    "business_name": "Holmberg Mechanical",
+    "website": "http://www.holmbergco.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-07T08:42:42.416571+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792992170-8",
+    "business_name": "Mountaintop Metal Roofing",
+    "website": "https://www.mountaintopmetalroofing.com/location/metal-roofing-tacoma-wa",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-07T08:43:43.621697+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792992214-1",
+    "business_name": "Happy Trees OKC",
+    "website": "https://happytreesokc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-07T08:44:04.545904+00:00"
   }
 ]
