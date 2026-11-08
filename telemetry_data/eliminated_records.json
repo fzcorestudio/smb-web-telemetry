@@ -3222,5 +3222,61 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://beacon",
     "eliminated_at": "2026-11-08T09:37:52.526140+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1793014384-15",
+    "business_name": "Consolid8",
+    "website": "https://www.consolid8.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 404",
+    "eliminated_at": "2026-11-08T16:24:43.861833+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1793014439-22",
+    "business_name": "LTN Accounting and Financial Services",
+    "website": "http://www.ltn.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.ltn.com.",
+    "eliminated_at": "2026-11-08T16:25:42.363696+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793051888-5",
+    "business_name": "Murphy Concrete Contractors",
+    "website": "https://www.murphyconcretecontractors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-08T16:27:41.927179+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793051925-9",
+    "business_name": "Lionscrete Concrete Contractors",
+    "website": "https://lionscrete.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-08T16:28:11.993718+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793051950-16",
+    "business_name": "Colt Concrete & Asphalt",
+    "website": "https://coltconcrete.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-08T16:28:39.179903+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793051959-17",
+    "business_name": "Greenville Concrete Contractors",
+    "website": "https://www.greenvilleproconcretecontractors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-11-08T16:28:44.094028+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793052024-5",
+    "business_name": "Premier Lake Dallas TX Pest Control",
+    "website": "https://safecarezone.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://safe",
+    "eliminated_at": "2026-11-08T16:29:07.613101+00:00"
   }
 ]
