@@ -3118,5 +3118,109 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-11-07T08:44:04.545904+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1792992426-10",
+    "business_name": "Clean Care Inc",
+    "website": "https://cleancare-va.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-08T09:29:42.965776+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792992552-6",
+    "business_name": "DS5 Construction LTD",
+    "website": "https://www.ds5construction.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-08T09:30:44.570257+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792992587-10",
+    "business_name": "Brompton Cross Construction",
+    "website": "http://www.bccsite.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-08T09:31:07.025637+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792992659-19",
+    "business_name": "Greyminster",
+    "website": "https://greyminster.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-08T09:31:58.974888+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792992704-1",
+    "business_name": "Custom Gates Cheshire",
+    "website": "https://www.electricgatescheshire.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.electri",
+    "eliminated_at": "2026-11-08T09:32:10.344335+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1792992851-13",
+    "business_name": "Signature Electric Gates and Fencing",
+    "website": "http://www.signaturegates.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-08T09:33:50.219656+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793013527-2",
+    "business_name": "InstaVolt Charging Station",
+    "website": "https://instavolt.co.uk/electric-vehicle-charging-station-birmingham-000337",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-08T09:34:05.011547+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793013606-4",
+    "business_name": "Leeds Plumbing Solutions",
+    "website": "https://leedsplumbingsolutions.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-08T09:35:20.548476+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793013613-5",
+    "business_name": "Leeds Drain Solutions",
+    "website": "https://leedsdrainsolutions.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-08T09:35:29.258293+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793013627-6",
+    "business_name": "Crossgates Leeds Plumbers",
+    "website": "https://crossgates-leedsplumbers.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-08T09:35:37.390187+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793013690-16",
+    "business_name": "L J B PLUMBING & HEATING LTD",
+    "website": "https://www.ljbplumbingheating.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-08T09:36:42.422736+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793013741-3",
+    "business_name": "911 Painters Toronto",
+    "website": "https://911painters.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-08T09:36:54.426237+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793013833-2",
+    "business_name": "The Beacon Design Collective Inc.",
+    "website": "https://beaconcollective.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://beacon",
+    "eliminated_at": "2026-11-08T09:37:52.526140+00:00"
   }
 ]
