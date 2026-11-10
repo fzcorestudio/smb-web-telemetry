@@ -3278,5 +3278,61 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://safe",
     "eliminated_at": "2026-11-08T16:29:07.613101+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793052239-18",
+    "business_name": "MRB Contractors",
+    "website": "http://www.mrbcontractors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 502",
+    "eliminated_at": "2026-11-10T08:08:43.900292+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793052244-19",
+    "business_name": "Alliance Roofing & Remodeling",
+    "website": "https://allianceroofingus.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-10T08:08:45.981565+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793052272-23",
+    "business_name": "Avid Roofing & Waterproofing",
+    "website": "http://www.avidroofing.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-10T08:09:06.697685+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793052627-4",
+    "business_name": "Keller Spray Foam Insulation",
+    "website": "https://www.kellersprayfoaminsulation.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-10T08:12:42.740919+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793052659-1",
+    "business_name": "Glass America - Auto Glass & Windshield Replacement",
+    "website": "https://www.glassusa.com/locations/tx",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-10T08:12:50.497987+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793064092-18",
+    "business_name": "Land Pro Excavation",
+    "website": "https://landproexcavation.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-10T08:14:31.203743+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793064406-4",
+    "business_name": "The Deluxe Details Car Detailing San Antonio",
+    "website": "https://thedeluxedetails.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-10T08:16:17.649539+00:00"
   }
 ]
