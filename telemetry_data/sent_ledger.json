@@ -27656,48 +27656,81 @@
     "state": "OH",
     "domain": "cabinetworkskitchens.com"
   },
-  "FZ-AU-1793014236-3": {
-    "sent_at": "2026-11-10T01:45:31.069154+00:00",
-    "recipient_email": "info@taxsolutionsbrisbane.com.au",
-    "recipient_name": "Tax Solutions Brisbane",
-    "sender_email": "charlotte@desk.fzcorestudio.com",
-    "business_name": "Tax Solutions Brisbane",
-    "subject": "quick question re taxsolutionsbrisbane.com.au",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "state": "QLD",
-    "domain": "taxsolutionsbrisbane.com.au"
-  },
-  "FZ-AU-1793014242-4": {
-    "sent_at": "2026-11-10T01:45:36.014174+00:00",
-    "recipient_email": "admin@taxadvisorystrategists.com.au",
-    "recipient_name": "Tax Advisory Strategists",
-    "sender_email": "preston@desk.fzcorestudio.com",
-    "business_name": "Tax Advisory Strategists",
-    "subject": "quick question for Ship re taxadvisorystrategists.com.au",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "state": "QLD",
-    "domain": "taxadvisorystrategists.com.au"
-  },
-  "FZ-AU-1793014341-13": {
-    "sent_at": "2026-11-10T01:47:30.838070+00:00",
-    "recipient_email": "info@elitetaxsolutions.com.au",
-    "recipient_name": "Elite Tax Solutions",
+  "FZ-AU-1793014156-2": {
+    "sent_at": "2026-11-10T02:36:34.453565+00:00",
+    "recipient_email": "info@spotzi.com.au",
+    "recipient_name": "Business Owner",
     "sender_email": "brooke@ops.fzcorestudio.com",
-    "business_name": "Elite Tax Solutions",
-    "subject": "quick question re elitetaxsolutions.com.au",
+    "business_name": "Spotzi Commercial Cleaning and Supplies Pyt Ltd",
+    "subject": "spotzi.com.au mobile call button",
     "angle": "1-Tap Call & Sticky Bottom Bar",
-    "state": "QLD",
-    "domain": "elitetaxsolutions.com.au"
+    "state": "NSW",
+    "domain": "spotzi.com.au"
   },
-  "FZ-AU-1793014406-18": {
-    "sent_at": "2026-11-10T01:47:51.509723+00:00",
-    "recipient_email": "enquiries@lspaccounting.com.au",
-    "recipient_name": "Enquiries",
+  "FZ-AU-1793014213-1": {
+    "sent_at": "2026-11-10T02:36:49.516858+00:00",
+    "recipient_email": "info@taxgem.com.au",
+    "recipient_name": "TaxGem Accountants",
     "sender_email": "fiona@ops.fzcorestudio.com",
-    "business_name": "LSP Accounting",
-    "subject": "quick question for Enquiries re lspaccounting.com.au",
+    "business_name": "TaxGem Accountants",
+    "subject": "taxgem.com.au quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "QLD",
+    "domain": "taxgem.com.au"
+  },
+  "FZ-AU-1793014252-5": {
+    "sent_at": "2026-11-10T02:37:55.945132+00:00",
+    "recipient_email": "info@ctbs.net.au",
+    "recipient_name": "Business Owner",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "business_name": "Confidential Tax & Business Services",
+    "subject": "ctbs.net.au quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "QLD",
+    "domain": "ctbs.net.au"
+  },
+  "FZ-AU-1793014302-10": {
+    "sent_at": "2026-11-10T02:39:01.739613+00:00",
+    "recipient_email": "support@yourtable.com.au",
+    "recipient_name": "Table Consulting",
+    "sender_email": "liam@team.fzcorestudio.com",
+    "business_name": "Table Consulting",
+    "subject": "quick question re yourtable.com.au",
     "angle": "1-Tap Call & Sticky Bottom Bar",
     "state": "QLD",
-    "domain": "lspaccounting.com.au"
+    "domain": "yourtable.com.au"
+  },
+  "FZ-AU-1793014458-23": {
+    "sent_at": "2026-11-10T02:40:44.834026+00:00",
+    "recipient_email": "teamgofiguredcomau@gofigured.com.au",
+    "recipient_name": "Director Extraordinaire",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "business_name": "Go Figured | Brisbane Bookkeepers",
+    "subject": "quick question for Director Extraordinaire re gofigured.com.au",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "QLD",
+    "domain": "gofigured.com.au"
+  },
+  "FZ-AU-1793014466-24": {
+    "sent_at": "2026-11-10T02:40:49.694494+00:00",
+    "recipient_email": "admin@cleave.com.au",
+    "recipient_name": "Cleave Accounting",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "business_name": "Cleave Accounting",
+    "subject": "cleave.com.au quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "QLD",
+    "domain": "cleave.com.au"
+  },
+  "FZ-AU-1793014477-25": {
+    "sent_at": "2026-11-10T02:40:53.565385+00:00",
+    "recipient_email": "info@ijnea.com.au",
+    "recipient_name": "Ivan Huang",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "business_name": "IJ & EA Accounting",
+    "subject": "quick question for Ivan re ijnea.com.au",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "QLD",
+    "domain": "ijnea.com.au"
   }
 }
