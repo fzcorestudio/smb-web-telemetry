@@ -533,7 +533,7 @@
   "FZ-US-1792615196-7": {
     "lead_id": "FZ-US-1792615196-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:53.957796+00:00",
+    "quarantined_at": "2026-11-09T23:12:53.901326+00:00",
     "domain": "",
     "email": "info@firstchoicecommercialcleaning.com",
     "business_name": "",
@@ -866,14 +866,14 @@
   "FZ-US-1792615480-2": {
     "lead_id": "FZ-US-1792615480-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:47.513033+00:00",
+    "quarantined_at": "2026-11-09T23:11:23.798872+00:00",
     "domain": "",
     "email": "hello@theresilienttaxgroup.com",
     "business_name": "",
     "city": "",
     "details": {
-      "bounce_subject": "Undeliverable: Re: quick note for Enrolled re\r\n theresilienttaxgroup.com",
-      "inbox": "brooke@ops.fzcorestudio.com"
+      "bounce_subject": "Undeliverable: quick question for Enrolled re\r\n theresilienttaxgroup.com",
+      "inbox": "charlotte@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792616122-3": {
@@ -1152,7 +1152,7 @@
   "FZ-US-1792615361-2": {
     "lead_id": "FZ-US-1792615361-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:49.692624+00:00",
+    "quarantined_at": "2026-11-09T23:12:46.242433+00:00",
     "domain": "",
     "email": "ales@sunnypaverus.com",
     "business_name": "",
@@ -1178,14 +1178,14 @@
   "FZ-US-1792615398-1": {
     "lead_id": "FZ-US-1792615398-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:31.891092+00:00",
+    "quarantined_at": "2026-11-09T23:10:53.312759+00:00",
     "domain": "",
     "email": "ales@flconcretecoating.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "audrey@client.fzcorestudio.com"
+      "inbox": "bennett@partner.fzcorestudio.com"
     }
   },
   "FZ-US-1792615464-2": {
@@ -1617,7 +1617,7 @@
   "FZ-US-1792616480-9": {
     "lead_id": "FZ-US-1792616480-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:59.666311+00:00",
+    "quarantined_at": "2026-11-09T23:11:21.513910+00:00",
     "domain": "",
     "email": "info@turkcustomhomes.com",
     "business_name": "",
@@ -1810,14 +1810,14 @@
   "FZ-US-1792616557-12": {
     "lead_id": "FZ-US-1792616557-12",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:56.172227+00:00",
+    "quarantined_at": "2026-11-09T23:15:11.917676+00:00",
     "domain": "",
     "email": "adam@floridaseo.net",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "carter@ops.fzcorestudio.com"
+      "inbox": "natalie@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792616558-13": {
@@ -1923,7 +1923,7 @@
   "FZ-US-1792616583-1": {
     "lead_id": "FZ-US-1792616583-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:43.574276+00:00",
+    "quarantined_at": "2026-11-09T23:12:36.216113+00:00",
     "domain": "",
     "email": "sales@galaxyfloorcoatings.com",
     "business_name": "",
@@ -1936,14 +1936,14 @@
   "FZ-US-1792616603-6": {
     "lead_id": "FZ-US-1792616603-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:56.876338+00:00",
+    "quarantined_at": "2026-11-09T23:12:12.293804+00:00",
     "domain": "",
     "email": "info@tampaepoxyelite.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "carter@ops.fzcorestudio.com"
+      "inbox": "elena@mail.fzcorestudio.com"
     }
   },
   "FZ-US-1792616615-7": {
@@ -1989,14 +1989,14 @@
   "FZ-US-1792616680-2": {
     "lead_id": "FZ-US-1792616680-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:30.498407+00:00",
+    "quarantined_at": "2026-11-09T23:10:42.726408+00:00",
     "domain": "",
     "email": "contact@taxprosadvisors.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "audrey@client.fzcorestudio.com"
+      "inbox": "ava@direct.fzcorestudio.com"
     }
   },
   "FZ-US-1792616681-3": {
@@ -2480,14 +2480,14 @@
   "FZ-US-1792618321-2": {
     "lead_id": "FZ-US-1792618321-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:40.548280+00:00",
+    "quarantined_at": "2026-11-09T23:11:50.756629+00:00",
     "domain": "",
     "email": "info@astrawatt.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "bennett@partner.fzcorestudio.com"
+      "inbox": "connor@hq.fzcorestudio.com"
     }
   },
   "FZ-US-1792618324-3": {
@@ -2953,7 +2953,7 @@
   "FZ-US-1792618569-2": {
     "lead_id": "FZ-US-1792618569-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:26.255164+00:00",
+    "quarantined_at": "2026-11-09T23:10:26.884202+00:00",
     "domain": "",
     "email": "u003einfo@beltwayclean.com",
     "business_name": "",
@@ -3339,7 +3339,7 @@
   "FZ-US-1792621199-1": {
     "lead_id": "FZ-US-1792621199-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:40.319840+00:00",
+    "quarantined_at": "2026-11-09T23:10:54.253099+00:00",
     "domain": "",
     "email": "info@armadaprowaterdamagerepair.pro",
     "business_name": "",
@@ -3352,7 +3352,7 @@
   "FZ-US-1792621200-2": {
     "lead_id": "FZ-US-1792621200-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:50.811398+00:00",
+    "quarantined_at": "2026-11-09T23:14:21.037957+00:00",
     "domain": "",
     "email": "info@stormsafewaterdamagerestoration.com",
     "business_name": "",
@@ -3365,7 +3365,7 @@
   "FZ-US-1792621201-3": {
     "lead_id": "FZ-US-1792621201-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:37.701511+00:00",
+    "quarantined_at": "2026-11-09T23:10:46.141118+00:00",
     "domain": "",
     "email": "contact@daxion.com",
     "business_name": "",
@@ -3378,7 +3378,7 @@
   "FZ-US-1792621228-6": {
     "lead_id": "FZ-US-1792621228-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:26.482623+00:00",
+    "quarantined_at": "2026-11-09T23:10:27.223568+00:00",
     "domain": "",
     "email": "info@waterdamageservicesinc.com",
     "business_name": "",
@@ -3709,14 +3709,14 @@
   "FZ-US-1792621458-5": {
     "lead_id": "FZ-US-1792621458-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:16.162727+00:00",
+    "quarantined_at": "2026-11-09T23:15:55.997984+00:00",
     "domain": "",
     "email": "info@concretepolishingmiamifl.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "hannah@get.fzcorestudio.com"
+      "inbox": "preston@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792621458-6": {
@@ -3882,7 +3882,7 @@
   "FZ-US-1792623346-7": {
     "lead_id": "FZ-US-1792623346-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:34.963975+00:00",
+    "quarantined_at": "2026-11-09T23:10:42.381709+00:00",
     "domain": "",
     "email": "nfo@intuitivecreate.com",
     "business_name": "",
@@ -3915,20 +3915,20 @@
   "FZ-US-1792623576-5": {
     "lead_id": "FZ-US-1792623576-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:31.635128+00:00",
+    "quarantined_at": "2026-11-09T23:13:09.325172+00:00",
     "domain": "",
     "email": "dispatch@water-damage-restoration-houston.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "elliott@client.fzcorestudio.com"
+      "inbox": "fiona@ops.fzcorestudio.com"
     }
   },
   "FZ-US-1792623578-6": {
     "lead_id": "FZ-US-1792623578-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:21.232317+00:00",
+    "quarantined_at": "2026-11-09T23:13:35.441677+00:00",
     "domain": "",
     "email": "help@flood--damage.net",
     "business_name": "",
@@ -3941,14 +3941,14 @@
   "FZ-US-1792623579-7": {
     "lead_id": "FZ-US-1792623579-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:31.400184+00:00",
+    "quarantined_at": "2026-11-09T23:15:00.892551+00:00",
     "domain": "",
     "email": "info@houston-mold-removal.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "elliott@client.fzcorestudio.com"
+      "inbox": "mia@reach.fzcorestudio.com"
     }
   },
   "FZ-US-1792623680-2": {
@@ -4480,7 +4480,7 @@
   "FZ-US-1792625066-3": {
     "lead_id": "FZ-US-1792625066-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:36.286912+00:00",
+    "quarantined_at": "2026-11-09T23:12:27.801034+00:00",
     "domain": "",
     "email": "michael@coatmyslab.com",
     "business_name": "",
@@ -4493,14 +4493,14 @@
   "FZ-US-1792625157-8": {
     "lead_id": "FZ-US-1792625157-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:19.624318+00:00",
+    "quarantined_at": "2026-11-09T23:12:35.695281+00:00",
     "domain": "",
     "email": "info@watercleanup.us",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "connor@hq.fzcorestudio.com"
+      "inbox": "ethan@direct.fzcorestudio.com"
     }
   },
   "FZ-US-1792625188-3": {
@@ -4526,14 +4526,14 @@
   "FZ-US-1792625249-4": {
     "lead_id": "FZ-US-1792625249-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:34.284633+00:00",
+    "quarantined_at": "2026-11-09T23:15:00.483073+00:00",
     "domain": "",
     "email": "info@pritchardindustries.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "elliott@client.fzcorestudio.com"
+      "inbox": "mia@reach.fzcorestudio.com"
     }
   },
   "FZ-US-1792625308-19": {
@@ -4819,7 +4819,7 @@
   "FZ-CA-1792625704-2": {
     "lead_id": "FZ-CA-1792625704-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:53.330301+00:00",
+    "quarantined_at": "2026-11-09T23:14:28.181725+00:00",
     "domain": "",
     "email": "info@frdetailing.ca",
     "business_name": "",
@@ -5505,14 +5505,14 @@
   "FZ-US-1792627386-1": {
     "lead_id": "FZ-US-1792627386-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:33.840661+00:00",
+    "quarantined_at": "2026-11-09T23:13:34.868653+00:00",
     "domain": "",
     "email": "hello@baileyandbearcleaning.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "elliott@client.fzcorestudio.com"
+      "inbox": "harrison@hq.fzcorestudio.com"
     }
   },
   "FZ-US-1792627387-2": {
@@ -5598,7 +5598,7 @@
   "FZ-US-1792627415-11": {
     "lead_id": "FZ-US-1792627415-11",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:00.328950+00:00",
+    "quarantined_at": "2026-11-09T23:11:22.483586+00:00",
     "domain": "",
     "email": "contact@texansunbuildingmaintenance.com",
     "business_name": "",
@@ -5851,7 +5851,7 @@
   "FZ-US-1792627479-13": {
     "lead_id": "FZ-US-1792627479-13",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:45.559842+00:00",
+    "quarantined_at": "2026-11-09T23:16:06.275058+00:00",
     "domain": "",
     "email": "info@taxesimpuestosymas.com",
     "business_name": "",
@@ -6184,7 +6184,7 @@
   "FZ-US-1792627591-13": {
     "lead_id": "FZ-US-1792627591-13",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:45.715232+00:00",
+    "quarantined_at": "2026-11-09T23:12:40.394928+00:00",
     "domain": "",
     "email": "info@austinpoolscapes.com",
     "business_name": "",
@@ -6237,7 +6237,7 @@
   "FZ-US-1792627611-5": {
     "lead_id": "FZ-US-1792627611-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:26.021950+00:00",
+    "quarantined_at": "2026-11-09T23:10:26.538281+00:00",
     "domain": "",
     "email": "hello@designallies.co",
     "business_name": "",
@@ -6396,7 +6396,7 @@
   "FZ-US-1792627676-4": {
     "lead_id": "FZ-US-1792627676-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:48.387359+00:00",
+    "quarantined_at": "2026-11-09T23:12:44.279785+00:00",
     "domain": "",
     "email": "info@atxtint.com",
     "business_name": "",
@@ -6749,14 +6749,14 @@
   "FZ-US-1792627854-5": {
     "lead_id": "FZ-US-1792627854-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:30.267461+00:00",
+    "quarantined_at": "2026-11-09T23:16:51.191502+00:00",
     "domain": "",
     "email": "info@soledadbuilders.com",
     "business_name": "",
     "city": "",
     "details": {
-      "bounce_subject": "Undeliverable: soledadbuilders.com mobile quote button",
-      "inbox": "audrey@client.fzcorestudio.com"
+      "bounce_subject": "Undeliverable: Re: soledadbuilders.com mobile quote button",
+      "inbox": "victoria@hq.fzcorestudio.com"
     }
   },
   "FZ-US-1792627857-8": {
@@ -6882,7 +6882,7 @@
   "FZ-US-1792627868-16": {
     "lead_id": "FZ-US-1792627868-16",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:27.559093+00:00",
+    "quarantined_at": "2026-11-09T23:10:28.957516+00:00",
     "domain": "",
     "email": "dream@senderohomes.com",
     "business_name": "",
@@ -7255,7 +7255,7 @@
   "FZ-US-1792634862-12": {
     "lead_id": "FZ-US-1792634862-12",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:07.076707+00:00",
+    "quarantined_at": "2026-11-09T23:13:15.569409+00:00",
     "domain": "",
     "email": "info@cadenceconstructiontn.com",
     "business_name": "",
@@ -8765,7 +8765,7 @@
   "FZ-CA-1792636715-3": {
     "lead_id": "FZ-CA-1792636715-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:56.862832+00:00",
+    "quarantined_at": "2026-11-09T23:14:36.423414+00:00",
     "domain": "",
     "email": "info@concretecrackrepair.ca",
     "business_name": "",
@@ -9691,14 +9691,14 @@
   "FZ-US-1792639181-15": {
     "lead_id": "FZ-US-1792639181-15",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:49.438100+00:00",
+    "quarantined_at": "2026-11-09T23:13:14.912099+00:00",
     "domain": "",
     "email": "teve@simpledesignwebsites.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "brooke@ops.fzcorestudio.com"
+      "inbox": "garrett@ops.fzcorestudio.com"
     }
   },
   "FZ-US-1792639181-16": {
@@ -10147,22 +10147,20 @@
   },
   "FZ-US-1792718920-4": {
     "lead_id": "FZ-US-1792718920-4",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-10-28T19:57:33.048328+00:00",
-    "domain": "orangecountypaintingservices.com",
+    "action": "CLIENT_REPLIED",
+    "quarantined_at": "2026-11-09T23:13:42.909781+00:00",
+    "domain": "",
     "email": "team@orangecountypaintingservices.com",
-    "business_name": "Orange County Painting Services",
-    "city": "Orange County",
+    "business_name": "",
+    "city": "",
     "details": {
-      "sent_at": "2026-10-28T19:57:33.033705+00:00",
-      "recipient_email": "team@orangecountypaintingservices.com",
-      "recipient_name": "Business Owner",
-      "sender_email": "leo@reach.fzcorestudio.com",
-      "business_name": "Orange County Painting Services",
-      "subject": "quick question re orangecountypaintingservices.com",
-      "angle": "60-Second Instant Quote Estimator",
-      "state": "CA",
-      "domain": "orangecountypaintingservices.com"
+      "lead_id": "FZ-US-1792718920-4",
+      "prospect_email": "team@orangecountypaintingservices.com",
+      "sender_header": "Orange County Painting Services Team <team@orangecountypaintingservices.com>",
+      "mailbox_received": "julian@mail.fzcorestudio.com",
+      "subject": "Meeting today — Orange County Painting Services",
+      "snippet": "Hi Julian, Are you and Faiz available for a 30-minute Google Meet today, Monday, November 9? I’m available after 11 a.m. Pacific. I’d like to cover: 1. How your team calls, qualifies and books homeowner inspections. 2. A real home-services client example and reference. 3. The remaining pricing, cancellation and contract questions from our earlier email. Please suggest two available times and send the meeting link once we confirm. If available, please send your written answers and complete proposed agreement beforehand. This is an evaluation call while we review the proposal. Best regards, *Dylan* [image: Dylan] *Orange County Painting Services* 17595 Harvard Ave Suite C #4074 Irvine, CA 92614 Licensed • Insured Lic #1157385 (C-33 Painting)",
+      "received_at": "2026-11-09T23:13:42.909774+00:00"
     }
   },
   "FZ-US-1792718922-5": {
@@ -10481,7 +10479,7 @@
   "FZ-CA-1792722102-13": {
     "lead_id": "FZ-CA-1792722102-13",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:38.492315+00:00",
+    "quarantined_at": "2026-11-09T23:15:55.296213+00:00",
     "domain": "",
     "email": "bldcollective@blacklabeldesigns.net",
     "business_name": "",
@@ -10494,7 +10492,7 @@
   "FZ-CA-1792722171-5": {
     "lead_id": "FZ-CA-1792722171-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:17.083791+00:00",
+    "quarantined_at": "2026-11-09T23:15:11.557805+00:00",
     "domain": "",
     "email": "jobs@kedaclean.com",
     "business_name": "",
@@ -11278,7 +11276,7 @@
   "FZ-US-1792787243-3": {
     "lead_id": "FZ-US-1792787243-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:48.150283+00:00",
+    "quarantined_at": "2026-11-09T23:12:43.939984+00:00",
     "domain": "",
     "email": "info@khalsacpa.com",
     "business_name": "",
@@ -11450,7 +11448,7 @@
   "FZ-US-1792787556-11": {
     "lead_id": "FZ-US-1792787556-11",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:16.361342+00:00",
+    "quarantined_at": "2026-11-09T23:15:10.475960+00:00",
     "domain": "",
     "email": "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
     "business_name": "",
@@ -11623,7 +11621,7 @@
   "FZ-US-1792790408-14": {
     "lead_id": "FZ-US-1792790408-14",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:08.437456+00:00",
+    "quarantined_at": "2026-11-09T23:13:17.645596+00:00",
     "domain": "",
     "email": "info@divergentcustomhomes.com",
     "business_name": "",
@@ -12567,7 +12565,7 @@
   "FZ-US-1792815632-5": {
     "lead_id": "FZ-US-1792815632-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:58.363488+00:00",
+    "quarantined_at": "2026-11-09T23:11:19.601334+00:00",
     "domain": "",
     "email": "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
     "business_name": "",
@@ -12700,7 +12698,7 @@
   "FZ-US-1792819628-9": {
     "lead_id": "FZ-US-1792819628-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:27.049363+00:00",
+    "quarantined_at": "2026-11-09T23:13:48.472547+00:00",
     "domain": "",
     "email": "ex@abc.xyz",
     "business_name": "",
@@ -12953,7 +12951,7 @@
   "FZ-US-1792819945-1": {
     "lead_id": "FZ-US-1792819945-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:30.932575+00:00",
+    "quarantined_at": "2026-11-09T23:15:35.752349+00:00",
     "domain": "",
     "email": "info@goldenwestepoxy.com",
     "business_name": "",
@@ -13479,14 +13477,14 @@
   "FZ-US-1792850432-5": {
     "lead_id": "FZ-US-1792850432-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:08.222579+00:00",
+    "quarantined_at": "2026-11-09T23:16:18.137195+00:00",
     "domain": "",
     "email": "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "maya@team.fzcorestudio.com"
+      "inbox": "spencer@partner.fzcorestudio.com"
     }
   },
   "FZ-US-1792850466-3": {
@@ -14484,7 +14482,7 @@
   "FZ-US-1792708294-6": {
     "lead_id": "FZ-US-1792708294-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:37.269083+00:00",
+    "quarantined_at": "2026-11-09T23:10:45.187231+00:00",
     "domain": "",
     "email": "no-reply@apps.farm",
     "business_name": "",
@@ -14770,7 +14768,7 @@
   "FZ-CA-1792728919-13": {
     "lead_id": "FZ-CA-1792728919-13",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:09.971692+00:00",
+    "quarantined_at": "2026-11-09T23:11:36.291972+00:00",
     "domain": "",
     "email": "amphoracleaners@rogers.com",
     "business_name": "",
@@ -15289,7 +15287,7 @@
   "FZ-US-1792732047-9": {
     "lead_id": "FZ-US-1792732047-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:16.834316+00:00",
+    "quarantined_at": "2026-11-09T23:15:11.196749+00:00",
     "domain": "",
     "email": "losangeles@construcfy.com",
     "business_name": "",
@@ -15562,14 +15560,14 @@
   "FZ-US-1792794963-2": {
     "lead_id": "FZ-US-1792794963-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:28.287136+00:00",
+    "quarantined_at": "2026-11-09T23:13:40.065478+00:00",
     "domain": "",
     "email": "you@company.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "elena@mail.fzcorestudio.com"
+      "inbox": "harrison@hq.fzcorestudio.com"
     }
   },
   "FZ-US-1792794996-4": {
@@ -15768,7 +15766,7 @@
   "FZ-US-1792808115-10": {
     "lead_id": "FZ-US-1792808115-10",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:59.884599+00:00",
+    "quarantined_at": "2026-11-09T23:11:21.836751+00:00",
     "domain": "",
     "email": "info@ndiscovered.com",
     "business_name": "",
@@ -16579,14 +16577,14 @@
   "FZ-US-1792822329-2": {
     "lead_id": "FZ-US-1792822329-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:12.205391+00:00",
+    "quarantined_at": "2026-11-09T23:13:48.115388+00:00",
     "domain": "",
     "email": "info@hardscapes-atlanta.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "graham@hq.fzcorestudio.com"
+      "inbox": "julian@mail.fzcorestudio.com"
     }
   },
   "FZ-US-1792822343-3": {
@@ -17089,14 +17087,14 @@
   "FZ-US-1792822749-1": {
     "lead_id": "FZ-US-1792822749-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:33.371565+00:00",
+    "quarantined_at": "2026-11-09T23:13:49.152404+00:00",
     "domain": "",
     "email": "info@icecoatepoxy.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "elliott@client.fzcorestudio.com"
+      "inbox": "julian@mail.fzcorestudio.com"
     }
   },
   "FZ-US-1792822755-2": {
@@ -17235,14 +17233,14 @@
   "FZ-US-1792822897-6": {
     "lead_id": "FZ-US-1792822897-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:08.078438+00:00",
+    "quarantined_at": "2026-11-09T23:16:09.627371+00:00",
     "domain": "",
     "email": "%20empirepools.build@gmail.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "chloe@get.fzcorestudio.com"
+      "inbox": "simon@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792822920-7": {
@@ -17268,14 +17266,14 @@
   "FZ-US-1792822921-8": {
     "lead_id": "FZ-US-1792822921-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:52.225632+00:00",
+    "quarantined_at": "2026-11-09T23:12:40.027443+00:00",
     "domain": "",
     "email": "8c4075d5481d476e945486754f783364@sentry.io",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Delivery Status Notification (Failure)",
-      "inbox": "caleb@reach.fzcorestudio.com"
+      "inbox": "ethan@direct.fzcorestudio.com"
     }
   },
   "FZ-US-1792822929-9": {
@@ -17674,7 +17672,7 @@
   "FZ-US-1792850360-8": {
     "lead_id": "FZ-US-1792850360-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:00.555795+00:00",
+    "quarantined_at": "2026-11-09T23:11:22.807918+00:00",
     "domain": "",
     "email": "%20info@inlayautomation.com",
     "business_name": "",
@@ -18207,14 +18205,14 @@
   "FZ-US-1792854943-1": {
     "lead_id": "FZ-US-1792854943-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:02.378777+00:00",
+    "quarantined_at": "2026-11-09T23:16:09.255247+00:00",
     "domain": "",
     "email": "info@thewindowstore.net",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "mason@get.fzcorestudio.com"
+      "inbox": "simon@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792854976-2": {
@@ -18260,7 +18258,7 @@
   "FZ-US-1792854983-5": {
     "lead_id": "FZ-US-1792854983-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:45.935021+00:00",
+    "quarantined_at": "2026-11-09T23:12:40.874723+00:00",
     "domain": "",
     "email": "sales@atlglasssolutions.com",
     "business_name": "",
@@ -18313,7 +18311,7 @@
   "FZ-US-1792855099-2": {
     "lead_id": "FZ-US-1792855099-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:37.034887+00:00",
+    "quarantined_at": "2026-11-09T23:10:44.842420+00:00",
     "domain": "",
     "email": "info@jjhaulingdemo.com",
     "business_name": "",
@@ -18486,14 +18484,14 @@
   "FZ-US-1792855205-18": {
     "lead_id": "FZ-US-1792855205-18",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:18.721856+00:00",
+    "quarantined_at": "2026-11-09T23:13:47.208502+00:00",
     "domain": "",
     "email": "5d1795a2db124a268f1e1bd88f503500@sentry.wixpress.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "connor@hq.fzcorestudio.com"
+      "inbox": "julian@mail.fzcorestudio.com"
     }
   },
   "FZ-US-1792855221-19": {
@@ -18699,14 +18697,14 @@
   "FZ-US-1792859087-7": {
     "lead_id": "FZ-US-1792859087-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:41.571783+00:00",
+    "quarantined_at": "2026-11-09T23:12:53.202041+00:00",
     "domain": "",
     "email": "teddy@mrlockllc.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "bennett@partner.fzcorestudio.com"
+      "inbox": "faiz@direct.fzcorestudio.com"
     }
   },
   "FZ-US-1792859094-8": {
@@ -19112,7 +19110,7 @@
   "FZ-CA-1792616989-4": {
     "lead_id": "FZ-CA-1792616989-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:00.109628+00:00",
+    "quarantined_at": "2026-11-09T23:11:22.160901+00:00",
     "domain": "",
     "email": "info@taylormadepools.com",
     "business_name": "",
@@ -19225,14 +19223,14 @@
   "FZ-CA-1792617027-5": {
     "lead_id": "FZ-CA-1792617027-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:16.695010+00:00",
+    "quarantined_at": "2026-11-09T23:15:36.292065+00:00",
     "domain": "",
     "email": "info@minyan-renovations.ca",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "hannah@get.fzcorestudio.com"
+      "inbox": "olivia@direct.fzcorestudio.com"
     }
   },
   "FZ-CA-1792617030-6": {
@@ -19969,14 +19967,14 @@
   "FZ-US-1792628331-12": {
     "lead_id": "FZ-US-1792628331-12",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:31.426864+00:00",
+    "quarantined_at": "2026-11-09T23:12:35.308417+00:00",
     "domain": "",
     "email": "sdcontact@landscapesusa.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "audrey@client.fzcorestudio.com"
+      "inbox": "ethan@direct.fzcorestudio.com"
     }
   },
   "FZ-CA-1792631077-1": {
@@ -20002,7 +20000,7 @@
   "FZ-CA-1792631085-3": {
     "lead_id": "FZ-CA-1792631085-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:34.893474+00:00",
+    "quarantined_at": "2026-11-09T23:14:02.413323+00:00",
     "domain": "",
     "email": "info@dreamvillehomes.ca",
     "business_name": "",
@@ -20595,7 +20593,7 @@
   "FZ-CA-1792631349-4": {
     "lead_id": "FZ-CA-1792631349-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:40.091697+00:00",
+    "quarantined_at": "2026-11-09T23:10:53.825006+00:00",
     "domain": "",
     "email": "info@esyclinicandsurgery.com",
     "business_name": "",
@@ -20708,14 +20706,14 @@
   "FZ-CA-1792631402-4": {
     "lead_id": "FZ-CA-1792631402-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:26.772382+00:00",
+    "quarantined_at": "2026-11-09T23:16:17.578793+00:00",
     "domain": "",
     "email": "info@primelineroofandgutters.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "noah@direct.fzcorestudio.com"
+      "inbox": "spencer@partner.fzcorestudio.com"
     }
   },
   "FZ-CA-1792631418-1": {
@@ -21021,7 +21019,7 @@
   "FZ-CA-1792631613-3": {
     "lead_id": "FZ-CA-1792631613-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:10.205705+00:00",
+    "quarantined_at": "2026-11-09T23:11:36.640450+00:00",
     "domain": "",
     "email": "wordpress@prioritybuildingservices.com",
     "business_name": "",
@@ -21934,14 +21932,14 @@
   "FZ-US-1792634185-2": {
     "lead_id": "FZ-US-1792634185-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:31.190963+00:00",
+    "quarantined_at": "2026-11-09T23:11:49.404586+00:00",
     "domain": "",
     "email": "info@legacy-hardscapes.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Delivery Status Notification (Failure)",
-      "inbox": "audrey@client.fzcorestudio.com"
+      "inbox": "connor@hq.fzcorestudio.com"
     }
   },
   "FZ-US-1792634187-3": {
@@ -22087,14 +22085,14 @@
   "FZ-US-1792634260-2": {
     "lead_id": "FZ-US-1792634260-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:02.136610+00:00",
+    "quarantined_at": "2026-11-09T23:15:10.837014+00:00",
     "domain": "",
     "email": "webmaster@paintingdenver.net",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "mason@get.fzcorestudio.com"
+      "inbox": "natalie@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792634261-3": {
@@ -22200,7 +22198,7 @@
   "FZ-US-1792634363-1": {
     "lead_id": "FZ-US-1792634363-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:25.790734+00:00",
+    "quarantined_at": "2026-11-09T23:10:26.200538+00:00",
     "domain": "",
     "email": "support@supercharge.earth",
     "business_name": "",
@@ -22871,7 +22869,7 @@
   "FZ-US-1792634668-4": {
     "lead_id": "FZ-US-1792634668-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:27.792616+00:00",
+    "quarantined_at": "2026-11-09T23:10:29.301873+00:00",
     "domain": "",
     "email": "team@thecoloradofenceco.com",
     "business_name": "",
@@ -22884,14 +22882,14 @@
   "FZ-US-1792634670-6": {
     "lead_id": "FZ-US-1792634670-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:18.959358+00:00",
+    "quarantined_at": "2026-11-09T23:12:33.438965+00:00",
     "domain": "",
     "email": "info@ajifence.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "connor@hq.fzcorestudio.com"
+      "inbox": "ethan@direct.fzcorestudio.com"
     }
   },
   "FZ-US-1792634676-8": {
@@ -23297,7 +23295,7 @@
   "FZ-US-1792641555-3": {
     "lead_id": "FZ-US-1792641555-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:58.791151+00:00",
+    "quarantined_at": "2026-11-09T23:14:43.819836+00:00",
     "domain": "",
     "email": "info@palmoexclusive.com",
     "business_name": "",
@@ -24143,7 +24141,7 @@
   "FZ-US-1792642133-9": {
     "lead_id": "FZ-US-1792642133-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:36.596880+00:00",
+    "quarantined_at": "2026-11-09T23:10:44.181441+00:00",
     "domain": "",
     "email": "nfo@scarborists.com",
     "business_name": "",
@@ -24556,7 +24554,7 @@
   "FZ-US-1792642245-4": {
     "lead_id": "FZ-US-1792642245-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:30.496215+00:00",
+    "quarantined_at": "2026-11-09T23:12:19.777562+00:00",
     "domain": "",
     "email": "orders@ocspecialtycoatings.com",
     "business_name": "",
@@ -24589,7 +24587,7 @@
   "FZ-US-1792642255-8": {
     "lead_id": "FZ-US-1792642255-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:48.626149+00:00",
+    "quarantined_at": "2026-11-09T23:12:44.625258+00:00",
     "domain": "",
     "email": "kory@everclearcustomgarage.com",
     "business_name": "",
@@ -24882,7 +24880,7 @@
   "FZ-US-1792642397-9": {
     "lead_id": "FZ-US-1792642397-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:47.183929+00:00",
+    "quarantined_at": "2026-11-09T23:12:42.491160+00:00",
     "domain": "",
     "email": "info@ctcservices.us",
     "business_name": "",
@@ -24915,14 +24913,14 @@
   "FZ-US-1792643547-3": {
     "lead_id": "FZ-US-1792643547-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:56.628301+00:00",
+    "quarantined_at": "2026-11-09T23:11:35.945762+00:00",
     "domain": "",
     "email": "info@concretepolishingsolutions.pro",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "carter@ops.fzcorestudio.com"
+      "inbox": "claire@client.fzcorestudio.com"
     }
   },
   "FZ-US-1792643571-6": {
@@ -25468,14 +25466,14 @@
   "FZ-US-1792643901-3": {
     "lead_id": "FZ-US-1792643901-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:07.190400+00:00",
+    "quarantined_at": "2026-11-09T23:15:02.371899+00:00",
     "domain": "",
     "email": "customersupport@down2shine.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "chloe@get.fzcorestudio.com"
+      "inbox": "mia@reach.fzcorestudio.com"
     }
   },
   "FZ-US-1792643924-1": {
@@ -26605,7 +26603,7 @@
   "FZ-US-1792647017-8": {
     "lead_id": "FZ-US-1792647017-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:04.380957+00:00",
+    "quarantined_at": "2026-11-09T23:13:08.197304+00:00",
     "domain": "",
     "email": "bids@whitewaterpools.us",
     "business_name": "",
@@ -26882,7 +26880,7 @@
   "FZ-US-1792648518-1": {
     "lead_id": "FZ-US-1792648518-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:27.701566+00:00",
+    "quarantined_at": "2026-11-09T23:13:49.507813+00:00",
     "domain": "",
     "email": "info@specialtyfoundationrepair.com",
     "business_name": "",
@@ -26915,27 +26913,27 @@
   "FZ-US-1792648525-6": {
     "lead_id": "FZ-US-1792648525-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:14.198336+00:00",
+    "quarantined_at": "2026-11-09T23:15:54.558114+00:00",
     "domain": "",
     "email": "jim@aquatechus.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "clara@team.fzcorestudio.com"
+      "inbox": "preston@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792648540-3": {
     "lead_id": "FZ-US-1792648540-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:41.587956+00:00",
+    "quarantined_at": "2026-11-09T23:15:10.118288+00:00",
     "domain": "",
     "email": "info@aquapoolsandoutdoorliving.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "liam@team.fzcorestudio.com"
+      "inbox": "natalie@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792648553-9": {
@@ -27354,7 +27352,7 @@
   "FZ-US-1792648767-3": {
     "lead_id": "FZ-US-1792648767-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:16.724729+00:00",
+    "quarantined_at": "2026-11-09T23:11:49.749006+00:00",
     "domain": "",
     "email": "brian@automotiveaddictions.com",
     "business_name": "",
@@ -27880,7 +27878,7 @@
   "FZ-US-1792654884-4": {
     "lead_id": "FZ-US-1792654884-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:38.235301+00:00",
+    "quarantined_at": "2026-11-09T23:15:54.926852+00:00",
     "domain": "",
     "email": "hello@1sthvacrepairdenver.com",
     "business_name": "",
@@ -27953,7 +27951,7 @@
   "FZ-US-1792657397-5": {
     "lead_id": "FZ-US-1792657397-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:28.031174+00:00",
+    "quarantined_at": "2026-11-09T23:10:29.653020+00:00",
     "domain": "",
     "email": "info@skygradeconcrete.com",
     "business_name": "",
@@ -28206,14 +28204,14 @@
   "FZ-US-1792660045-10": {
     "lead_id": "FZ-US-1792660045-10",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:46.154525+00:00",
+    "quarantined_at": "2026-11-09T23:13:46.776526+00:00",
     "domain": "",
     "email": "info@pembrokepinesepoxyfl.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "ethan@direct.fzcorestudio.com"
+      "inbox": "julian@mail.fzcorestudio.com"
     }
   },
   "FZ-US-1792660046-11": {
@@ -28603,7 +28601,7 @@
   "FZ-CA-1792663229-1": {
     "lead_id": "FZ-CA-1792663229-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:22.751239+00:00",
+    "quarantined_at": "2026-11-09T23:13:39.232187+00:00",
     "domain": "",
     "email": "info@westernwoodhomes.ca",
     "business_name": "",
@@ -28849,7 +28847,7 @@
   "FZ-CA-1792663853-11": {
     "lead_id": "FZ-CA-1792663853-11",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:24.783798+00:00",
+    "quarantined_at": "2026-11-09T23:13:44.106460+00:00",
     "domain": "",
     "email": "info@dranthonypapp.com",
     "business_name": "",
@@ -29175,7 +29173,7 @@
   "FZ-US-1792665813-11": {
     "lead_id": "FZ-US-1792665813-11",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:57.258864+00:00",
+    "quarantined_at": "2026-11-09T23:13:01.098718+00:00",
     "domain": "",
     "email": "info@jmmontoyacpa.com",
     "business_name": "",
@@ -29848,7 +29846,7 @@
   "FZ-US-1792672989-1": {
     "lead_id": "FZ-US-1792672989-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:46.933615+00:00",
+    "quarantined_at": "2026-11-09T23:16:08.729903+00:00",
     "domain": "",
     "email": "info@proepoxycoatings.com",
     "business_name": "",
@@ -29981,14 +29979,14 @@
   "FZ-US-1792673105-1": {
     "lead_id": "FZ-US-1792673105-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:48.731080+00:00",
+    "quarantined_at": "2026-11-09T23:12:32.012891+00:00",
     "domain": "",
     "email": "admin@legalbeeimmigration.com",
     "business_name": "",
     "city": "",
     "details": {
-      "bounce_subject": "Undeliverable: legalbeeimmigration.com mobile call button",
-      "inbox": "brooke@ops.fzcorestudio.com"
+      "bounce_subject": "Undeliverable: Re: question for the owner re legalbeeimmigration.com",
+      "inbox": "ethan@direct.fzcorestudio.com"
     }
   },
   "FZ-US-1792673138-2": {
@@ -30114,7 +30112,7 @@
   "FZ-US-1792673179-8": {
     "lead_id": "FZ-US-1792673179-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:27.329197+00:00",
+    "quarantined_at": "2026-11-09T23:10:28.618064+00:00",
     "domain": "",
     "email": "info@totalvalleysoftwash.com",
     "business_name": "",
@@ -30547,7 +30545,7 @@
   "FZ-US-1792673620-3": {
     "lead_id": "FZ-US-1792673620-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:22.515330+00:00",
+    "quarantined_at": "2026-11-09T23:13:38.805208+00:00",
     "domain": "",
     "email": "info@sonoranvalleyhomes.com",
     "business_name": "",
@@ -30560,7 +30558,7 @@
   "FZ-US-1792673629-6": {
     "lead_id": "FZ-US-1792673629-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:41.310997+00:00",
+    "quarantined_at": "2026-11-09T23:16:03.067100+00:00",
     "domain": "",
     "email": "info@phxhomebuilder.com",
     "business_name": "",
@@ -30786,27 +30784,27 @@
   "FZ-US-1792678778-1": {
     "lead_id": "FZ-US-1792678778-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:44.106065+00:00",
+    "quarantined_at": "2026-11-09T23:15:09.053843+00:00",
     "domain": "",
     "email": "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Undelivered Mail Returned to Sender",
-      "inbox": "lucas@team.fzcorestudio.com"
+      "inbox": "natalie@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792678796-4": {
     "lead_id": "FZ-US-1792678796-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:13.136898+00:00",
+    "quarantined_at": "2026-11-09T23:16:07.990927+00:00",
     "domain": "",
     "email": "partners@everysun.com",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Delivery Status Notification (Failure)",
-      "inbox": "clara@team.fzcorestudio.com"
+      "inbox": "simon@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792678809-7": {
@@ -31758,7 +31756,7 @@
   "FZ-US-1792859522-5": {
     "lead_id": "FZ-US-1792859522-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:15.674613+00:00",
+    "quarantined_at": "2026-11-09T23:15:09.420777+00:00",
     "domain": "",
     "email": "example@text.com",
     "business_name": "",
@@ -31771,7 +31769,7 @@
   "FZ-US-1792859534-6": {
     "lead_id": "FZ-US-1792859534-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:46.709411+00:00",
+    "quarantined_at": "2026-11-09T23:16:08.362743+00:00",
     "domain": "",
     "email": "%20admin@pikespeakent.com",
     "business_name": "",
@@ -32464,7 +32462,7 @@
   "FZ-US-1792864050-1": {
     "lead_id": "FZ-US-1792864050-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:51.290946+00:00",
+    "quarantined_at": "2026-11-09T23:11:09.605490+00:00",
     "domain": "",
     "email": "pools@swimmingpoolskc.com",
     "business_name": "",
@@ -33017,7 +33015,7 @@
   "FZ-AU-1792615704-6": {
     "lead_id": "FZ-AU-1792615704-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:30.709022+00:00",
+    "quarantined_at": "2026-11-09T23:15:35.317837+00:00",
     "domain": "",
     "email": "%20info@courtneykimstudio.com",
     "business_name": "",
@@ -34010,7 +34008,7 @@
   "FZ-AU-1792651014-2": {
     "lead_id": "FZ-AU-1792651014-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:16.982325+00:00",
+    "quarantined_at": "2026-11-09T23:11:50.102948+00:00",
     "domain": "",
     "email": "enquiries@immaculateexteriors.com.au",
     "business_name": "",
@@ -34676,7 +34674,7 @@
   "FZ-AU-1792651464-3": {
     "lead_id": "FZ-AU-1792651464-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:58.108265+00:00",
+    "quarantined_at": "2026-11-09T23:14:41.611220+00:00",
     "domain": "",
     "email": "hello@bonitapools.com.au",
     "business_name": "",
@@ -34689,14 +34687,14 @@
   "FZ-AU-1792651474-5": {
     "lead_id": "FZ-AU-1792651474-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:27.847338+00:00",
+    "quarantined_at": "2026-11-09T23:16:03.759363+00:00",
     "domain": "",
     "email": "info@yourlocalpoolbuilder.com.au",
     "business_name": "",
     "city": "",
     "details": {
       "bounce_subject": "Mail delivery failed: returning message to sender",
-      "inbox": "elena@mail.fzcorestudio.com"
+      "inbox": "russell@partner.fzcorestudio.com"
     }
   },
   "FZ-AU-1792651485-7": {
@@ -35582,7 +35580,7 @@
   "FZ-AU-1792651923-17": {
     "lead_id": "FZ-AU-1792651923-17",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:55.064727+00:00",
+    "quarantined_at": "2026-11-09T23:11:16.589529+00:00",
     "domain": "",
     "email": "sales@australianconcrete.com",
     "business_name": "",
@@ -35655,7 +35653,7 @@
   "FZ-AU-1792670297-2": {
     "lead_id": "FZ-AU-1792670297-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:58.555510+00:00",
+    "quarantined_at": "2026-11-09T23:14:42.935720+00:00",
     "domain": "",
     "email": "ninfo@australiantaxspecialists.com.au",
     "business_name": "",
@@ -37327,7 +37325,7 @@
   "FZ-US-1792864770-1": {
     "lead_id": "FZ-US-1792864770-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:53.248115+00:00",
+    "quarantined_at": "2026-11-09T23:16:30.841678+00:00",
     "domain": "",
     "email": "example@mysite.com",
     "business_name": "",
@@ -37713,7 +37711,7 @@
   "FZ-US-1792876356-7": {
     "lead_id": "FZ-US-1792876356-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:25.557897+00:00",
+    "quarantined_at": "2026-11-09T23:10:25.783009+00:00",
     "domain": "",
     "email": "info@exorironworks.com",
     "business_name": "",
@@ -38085,28 +38083,21 @@
   },
   "FZ-CA-1792884618-8": {
     "lead_id": "FZ-CA-1792884618-8",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-11-03T22:09:46.820201+00:00",
-    "domain": "all-starpaving.ca",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-11-09T23:11:18.984494+00:00",
+    "domain": "",
     "email": "office@all-starpaving.ca",
-    "business_name": "All-Star Paving Ltd",
-    "city": "Calgary",
+    "business_name": "",
+    "city": "",
     "details": {
-      "sent_at": "2026-11-03T22:09:46.777263+00:00",
-      "recipient_email": "office@all-starpaving.ca",
-      "recipient_name": "Will Pay",
-      "sender_email": "nathan@reach.fzcorestudio.com",
-      "business_name": "All-Star Paving Ltd",
-      "subject": "all-starpaving.ca quick estimate calculator",
-      "angle": "60-Second Instant Quote Estimator",
-      "state": "AB",
-      "domain": "all-starpaving.ca"
+      "bounce_subject": "Undelivered Mail Returned to Sender",
+      "inbox": "charlotte@desk.fzcorestudio.com"
     }
   },
   "FZ-CA-1792884621-9": {
     "lead_id": "FZ-CA-1792884621-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:10.083424+00:00",
+    "quarantined_at": "2026-11-09T23:14:59.728711+00:00",
     "domain": "",
     "email": "13e49d785d8d4f828038b6136f3b48ba@sentry.io",
     "business_name": "",
@@ -38119,7 +38110,7 @@
   "FZ-CA-1792884623-10": {
     "lead_id": "FZ-CA-1792884623-10",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:50.849430+00:00",
+    "quarantined_at": "2026-11-09T23:11:08.921071+00:00",
     "domain": "",
     "email": "contact@concretestar.ca",
     "business_name": "",
@@ -38132,7 +38123,7 @@
   "FZ-CA-1792884631-11": {
     "lead_id": "FZ-CA-1792884631-11",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:20.804333+00:00",
+    "quarantined_at": "2026-11-09T23:13:34.324230+00:00",
     "domain": "",
     "email": "ads@calgaryconcreteservices.ca",
     "business_name": "",
@@ -38305,7 +38296,7 @@
   "FZ-CA-1792884784-23": {
     "lead_id": "FZ-CA-1792884784-23",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:09.541261+00:00",
+    "quarantined_at": "2026-11-09T23:11:35.599469+00:00",
     "domain": "",
     "email": "service@homestars.com",
     "business_name": "",
@@ -38378,7 +38369,7 @@
   "FZ-CA-1792884814-28": {
     "lead_id": "FZ-CA-1792884814-28",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:14.268609+00:00",
+    "quarantined_at": "2026-11-09T23:15:07.217686+00:00",
     "domain": "",
     "email": "info@stallionconcrete.ca",
     "business_name": "",
@@ -38491,7 +38482,7 @@
   "FZ-US-1792892545-6": {
     "lead_id": "FZ-US-1792892545-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:49.974053+00:00",
+    "quarantined_at": "2026-11-09T23:16:17.224827+00:00",
     "domain": "",
     "email": "info@txatticfanatics.com",
     "business_name": "",
@@ -38504,7 +38495,7 @@
   "FZ-US-1792892591-7": {
     "lead_id": "FZ-US-1792892591-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:55.308973+00:00",
+    "quarantined_at": "2026-11-09T23:11:16.945281+00:00",
     "domain": "",
     "email": "info@hkinsulation.com",
     "business_name": "",
@@ -38557,7 +38548,7 @@
   "FZ-US-1792892622-12": {
     "lead_id": "FZ-US-1792892622-12",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:04.146518+00:00",
+    "quarantined_at": "2026-11-09T23:13:07.853416+00:00",
     "domain": "",
     "email": "463991d7bca24f02a0baf16f9e6eda73@sentry.wixpress.com",
     "business_name": "",
@@ -38610,7 +38601,7 @@
   "FZ-US-1792892657-16": {
     "lead_id": "FZ-US-1792892657-16",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:56.633316+00:00",
+    "quarantined_at": "2026-11-09T23:14:35.384958+00:00",
     "domain": "",
     "email": "235-2600info@ehshvac.comdallas",
     "business_name": "",
@@ -38623,7 +38614,7 @@
   "FZ-US-1792892658-17": {
     "lead_id": "FZ-US-1792892658-17",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:26.238790+00:00",
+    "quarantined_at": "2026-11-09T23:12:11.892820+00:00",
     "domain": "",
     "email": "wayne@123insulation.com",
     "business_name": "",
@@ -38636,7 +38627,7 @@
   "FZ-US-1792892676-19": {
     "lead_id": "FZ-US-1792892676-19",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:25.320776+00:00",
+    "quarantined_at": "2026-11-09T23:10:25.436935+00:00",
     "domain": "",
     "email": "contact@himprovement.com",
     "business_name": "",
@@ -38889,7 +38880,7 @@
   "FZ-US-1792892826-10": {
     "lead_id": "FZ-US-1792892826-10",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:42.894791+00:00",
+    "quarantined_at": "2026-11-09T23:12:34.930448+00:00",
     "domain": "",
     "email": "sales@abexcavation.com",
     "business_name": "",
@@ -39282,7 +39273,7 @@
   "FZ-US-1792911292-1": {
     "lead_id": "FZ-US-1792911292-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:58.829523+00:00",
+    "quarantined_at": "2026-11-09T23:11:20.266422+00:00",
     "domain": "",
     "email": "support@lmgdetailing.com",
     "business_name": "",
@@ -39375,7 +39366,7 @@
   "FZ-US-1792931363-4": {
     "lead_id": "FZ-US-1792931363-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:50.161960+00:00",
+    "quarantined_at": "2026-11-09T23:14:20.075867+00:00",
     "domain": "",
     "email": "service@waterdamagechamp.com",
     "business_name": "",
@@ -39488,7 +39479,7 @@
   "FZ-US-1792931425-12": {
     "lead_id": "FZ-US-1792931425-12",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:07.325596+00:00",
+    "quarantined_at": "2026-11-09T23:13:15.921427+00:00",
     "domain": "",
     "email": "martin@prs24-7.com",
     "business_name": "",
@@ -39885,7 +39876,7 @@
   "FZ-AU-1792884891-4": {
     "lead_id": "FZ-AU-1792884891-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:25.631433+00:00",
+    "quarantined_at": "2026-11-09T23:15:27.953827+00:00",
     "domain": "",
     "email": "nfo@integratedpcm.com.au",
     "business_name": "",
@@ -39978,7 +39969,7 @@
   "FZ-AU-1792884974-11": {
     "lead_id": "FZ-AU-1792884974-11",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:10.325032+00:00",
+    "quarantined_at": "2026-11-09T23:15:00.110161+00:00",
     "domain": "",
     "email": "info@propestcontrolsydney.com.au",
     "business_name": "",
@@ -40451,7 +40442,7 @@
   "FZ-AU-1792644482-7": {
     "lead_id": "FZ-AU-1792644482-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:35.137601+00:00",
+    "quarantined_at": "2026-11-09T23:14:02.772508+00:00",
     "domain": "",
     "email": "eddie@suncoastepoxy.com.au",
     "business_name": "",
@@ -41690,7 +41681,7 @@
   "FZ-AU-1792706955-2": {
     "lead_id": "FZ-AU-1792706955-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:25.403478+00:00",
+    "quarantined_at": "2026-11-09T23:15:27.588812+00:00",
     "domain": "",
     "email": "info@abcroofrestorationbrisbane.com.au",
     "business_name": "",
@@ -42356,7 +42347,7 @@
   "FZ-AU-1792782298-4": {
     "lead_id": "FZ-AU-1792782298-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:26.685742+00:00",
+    "quarantined_at": "2026-11-09T23:12:12.719012+00:00",
     "domain": "",
     "email": "info@completecreativeconstructions.com.au",
     "business_name": "",
@@ -42602,7 +42593,7 @@
   "FZ-AU-1792782802-7": {
     "lead_id": "FZ-AU-1792782802-7",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:51.353560+00:00",
+    "quarantined_at": "2026-11-09T23:12:49.211340+00:00",
     "domain": "",
     "email": "info@klmwaterproofing.com.au",
     "business_name": "",
@@ -42655,7 +42646,7 @@
   "FZ-AU-1792783025-3": {
     "lead_id": "FZ-AU-1792783025-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:25.171530+00:00",
+    "quarantined_at": "2026-11-09T23:15:27.220488+00:00",
     "domain": "",
     "email": "info@jtxscapes.com.au",
     "business_name": "",
@@ -42941,7 +42932,7 @@
   "FZ-US-1792864189-5": {
     "lead_id": "FZ-US-1792864189-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:41.061427+00:00",
+    "quarantined_at": "2026-11-09T23:16:02.704157+00:00",
     "domain": "",
     "email": "info@capehartlandscapeanddesign.com",
     "business_name": "",
@@ -43034,7 +43025,7 @@
   "FZ-US-1792864339-8": {
     "lead_id": "FZ-US-1792864339-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:06.431478+00:00",
+    "quarantined_at": "2026-11-09T23:13:14.559750+00:00",
     "domain": "",
     "email": "info@ohioepoxygaragesolutions.com",
     "business_name": "",
@@ -43047,7 +43038,7 @@
   "FZ-US-1792864354-10": {
     "lead_id": "FZ-US-1792864354-10",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:03.908178+00:00",
+    "quarantined_at": "2026-11-09T23:13:07.498156+00:00",
     "domain": "",
     "email": "info@tsecoating.com",
     "business_name": "",
@@ -43453,7 +43444,7 @@
   "FZ-US-1792876541-3": {
     "lead_id": "FZ-US-1792876541-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:34.735339+00:00",
+    "quarantined_at": "2026-11-09T23:10:42.042697+00:00",
     "domain": "",
     "email": "rembertomendez162@gmail.com",
     "business_name": "",
@@ -43684,7 +43675,7 @@
   "FZ-US-1792911470-1": {
     "lead_id": "FZ-US-1792911470-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:30.258900+00:00",
+    "quarantined_at": "2026-11-09T23:12:19.425110+00:00",
     "domain": "",
     "email": "maya@uncommons.pro",
     "business_name": "",
@@ -43737,7 +43728,7 @@
   "FZ-US-1792911480-5": {
     "lead_id": "FZ-US-1792911480-5",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:09.288643+00:00",
+    "quarantined_at": "2026-11-09T23:11:35.215551+00:00",
     "domain": "",
     "email": "design@bk-b.com",
     "business_name": "",
@@ -43930,7 +43921,7 @@
   "FZ-US-1792911589-14": {
     "lead_id": "FZ-US-1792911589-14",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:49.735266+00:00",
+    "quarantined_at": "2026-11-09T23:16:16.863302+00:00",
     "domain": "",
     "email": "info@blueprinthomerenovation.com",
     "business_name": "",
@@ -44389,7 +44380,7 @@
   "FZ-US-1792911939-10": {
     "lead_id": "FZ-US-1792911939-10",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:24.762255+00:00",
+    "quarantined_at": "2026-11-09T23:15:26.013891+00:00",
     "domain": "",
     "email": "info@waterscapespools.com",
     "business_name": "",
@@ -44782,7 +44773,7 @@
   "FZ-US-1792912198-9": {
     "lead_id": "FZ-US-1792912198-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:13.727225+00:00",
+    "quarantined_at": "2026-11-09T23:15:06.402828+00:00",
     "domain": "",
     "email": "tsales@sunshineconcretecoatings.com",
     "business_name": "",
@@ -44875,7 +44866,7 @@
   "FZ-US-1792931223-3": {
     "lead_id": "FZ-US-1792931223-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:56.299201+00:00",
+    "quarantined_at": "2026-11-09T23:16:37.383882+00:00",
     "domain": "",
     "email": "team@latofonts.com",
     "business_name": "",
@@ -44888,7 +44879,7 @@
   "FZ-US-1792931256-1": {
     "lead_id": "FZ-US-1792931256-1",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:49.495211+00:00",
+    "quarantined_at": "2026-11-09T23:16:16.468165+00:00",
     "domain": "",
     "email": "contact@kissimmeesolarcleaning.com",
     "business_name": "",
@@ -45307,7 +45298,7 @@
   "FZ-US-1792932125-3": {
     "lead_id": "FZ-US-1792932125-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:41.360609+00:00",
+    "quarantined_at": "2026-11-09T23:12:31.546567+00:00",
     "domain": "",
     "email": "contact@purewaterwindow.com",
     "business_name": "",
@@ -45520,7 +45511,7 @@
   "FZ-US-1792956713-8": {
     "lead_id": "FZ-US-1792956713-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:10.650406+00:00",
+    "quarantined_at": "2026-11-09T23:13:23.820315+00:00",
     "domain": "",
     "email": "info@ocphoeniximmigrationlawyer.com",
     "business_name": "",
@@ -45573,7 +45564,7 @@
   "FZ-US-1792956753-11": {
     "lead_id": "FZ-US-1792956753-11",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:29.911752+00:00",
+    "quarantined_at": "2026-11-09T23:10:36.735098+00:00",
     "domain": "",
     "email": "info@orangeimmgration.com",
     "business_name": "",
@@ -45706,7 +45697,7 @@
   "FZ-US-1792956828-8": {
     "lead_id": "FZ-US-1792956828-8",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:36.642779+00:00",
+    "quarantined_at": "2026-11-09T23:15:52.132932+00:00",
     "domain": "",
     "email": "vasb@eholpbgnk.pbz",
     "business_name": "",
@@ -45779,7 +45770,7 @@
   "FZ-US-1792956872-13": {
     "lead_id": "FZ-US-1792956872-13",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:49.922006+00:00",
+    "quarantined_at": "2026-11-09T23:14:19.726895+00:00",
     "domain": "",
     "email": "marketing@hblcpa.com",
     "business_name": "",
@@ -46731,7 +46722,7 @@
   "FZ-US-1792966375-3": {
     "lead_id": "FZ-US-1792966375-3",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:09.636032+00:00",
+    "quarantined_at": "2026-11-09T23:14:59.032183+00:00",
     "domain": "",
     "email": "%20%20jrpaving@yahoo.com",
     "business_name": "",
@@ -46804,7 +46795,7 @@
   "FZ-US-1792966392-9": {
     "lead_id": "FZ-US-1792966392-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:10.405822+00:00",
+    "quarantined_at": "2026-11-09T23:13:23.469737+00:00",
     "domain": "",
     "email": "rcannady@gemsealproducts.com",
     "business_name": "",
@@ -46916,22 +46907,15 @@
   },
   "FZ-US-1792966429-18": {
     "lead_id": "FZ-US-1792966429-18",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-11-06T20:13:47.510564+00:00",
-    "domain": "carolinastriping.net",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-11-09T23:16:27.719055+00:00",
+    "domain": "",
     "email": "estimates@carolinastriping.com",
-    "business_name": "Carolina Striping",
-    "city": "Raleigh",
+    "business_name": "",
+    "city": "",
     "details": {
-      "sent_at": "2026-11-06T20:13:47.470859+00:00",
-      "recipient_email": "estimates@carolinastriping.com",
-      "recipient_name": "Estimates",
-      "sender_email": "trevor@client.fzcorestudio.com",
-      "business_name": "Carolina Striping",
-      "subject": "carolinastriping.net quick estimate calculator",
-      "angle": "60-Second Instant Quote Estimator",
-      "state": "NC",
-      "domain": "carolinastriping.net"
+      "bounce_subject": "Undelivered Mail Returned to Sender",
+      "inbox": "trevor@client.fzcorestudio.com"
     }
   },
   "FZ-US-1792966442-19": {
@@ -46997,7 +46981,7 @@
   "FZ-US-1792966477-24": {
     "lead_id": "FZ-US-1792966477-24",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:35.870647+00:00",
+    "quarantined_at": "2026-11-09T23:15:50.949546+00:00",
     "domain": "",
     "email": "admin@jfasphaltservices.com",
     "business_name": "",
@@ -47009,22 +46993,15 @@
   },
   "FZ-US-1792966504-26": {
     "lead_id": "FZ-US-1792966504-26",
-    "action": "INITIAL_PITCH_DISPATCHED",
-    "quarantined_at": "2026-11-06T20:14:09.600655+00:00",
-    "domain": "parkerpavingnc.com",
+    "action": "HARD_BOUNCE",
+    "quarantined_at": "2026-11-09T23:15:04.984698+00:00",
+    "domain": "",
     "email": "parkerpavingnc@gmail.com",
-    "business_name": "parker paving",
-    "city": "Raleigh",
+    "business_name": "",
+    "city": "",
     "details": {
-      "sent_at": "2026-11-06T20:14:09.561695+00:00",
-      "recipient_email": "parkerpavingnc@gmail.com",
-      "recipient_name": "James Parker",
-      "sender_email": "natalie@desk.fzcorestudio.com",
-      "business_name": "parker paving",
-      "subject": "quick question for James re parkerpavingnc.com",
-      "angle": "1-Tap Call & Sticky Bottom Bar",
-      "state": "NC",
-      "domain": "parkerpavingnc.com"
+      "bounce_subject": "Undelivered Mail Returned to Sender",
+      "inbox": "natalie@desk.fzcorestudio.com"
     }
   },
   "FZ-US-1792966514-28": {
@@ -47130,7 +47107,7 @@
   "FZ-US-1792966595-9": {
     "lead_id": "FZ-US-1792966595-9",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:49.037100+00:00",
+    "quarantined_at": "2026-11-09T23:16:15.783040+00:00",
     "domain": "",
     "email": "info@iibec.org",
     "business_name": "",
@@ -47143,7 +47120,7 @@
   "FZ-US-1792966597-10": {
     "lead_id": "FZ-US-1792966597-10",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:53.546817+00:00",
+    "quarantined_at": "2026-11-09T23:11:14.254936+00:00",
     "domain": "",
     "email": "filler@godaddy.com",
     "business_name": "",
@@ -47236,7 +47213,7 @@
   "FZ-US-1792966736-14": {
     "lead_id": "FZ-US-1792966736-14",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:24:23.008353+00:00",
+    "quarantined_at": "2026-11-09T23:12:02.194748+00:00",
     "domain": "",
     "email": "support@mcautoglass.com",
     "business_name": "",
@@ -47269,7 +47246,7 @@
   "FZ-US-1792966786-2": {
     "lead_id": "FZ-US-1792966786-2",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:25:24.451176+00:00",
+    "quarantined_at": "2026-11-09T23:13:43.588739+00:00",
     "domain": "",
     "email": "quote@wilcodemo.com",
     "business_name": "",
@@ -47562,7 +47539,7 @@
   "FZ-US-1792966934-22": {
     "lead_id": "FZ-US-1792966934-22",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:33.072205+00:00",
+    "quarantined_at": "2026-11-09T23:10:39.168823+00:00",
     "domain": "",
     "email": "tcarver@eaitn.com",
     "business_name": "",
@@ -47775,7 +47752,7 @@
   "FZ-US-1792967064-4": {
     "lead_id": "FZ-US-1792967064-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:23:29.464996+00:00",
+    "quarantined_at": "2026-11-09T23:10:36.043318+00:00",
     "domain": "",
     "email": "nfo@innovacairductcleaning.com",
     "business_name": "",
@@ -47908,7 +47885,7 @@
   "FZ-US-1792967239-4": {
     "lead_id": "FZ-US-1792967239-4",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:35.610161+00:00",
+    "quarantined_at": "2026-11-09T23:15:50.570549+00:00",
     "domain": "",
     "email": "info@ckmobiledetailing.com",
     "business_name": "",
@@ -47921,7 +47898,7 @@
   "FZ-US-1792967242-6": {
     "lead_id": "FZ-US-1792967242-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:13.058262+00:00",
+    "quarantined_at": "2026-11-09T23:15:05.366017+00:00",
     "domain": "",
     "email": "bulletbiker1@gmail.com",
     "business_name": "",
@@ -47994,7 +47971,7 @@
   "FZ-US-1792967368-6": {
     "lead_id": "FZ-US-1792967368-6",
     "action": "HARD_BOUNCE",
-    "quarantined_at": "2026-11-06T22:26:40.175679+00:00",
+    "quarantined_at": "2026-11-09T23:16:01.337934+00:00",
     "domain": "",
     "email": "contact@ceramiccoatingslasvegas.com",
     "business_name": "",
