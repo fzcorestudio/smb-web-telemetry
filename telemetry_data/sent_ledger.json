@@ -27732,5 +27732,38 @@
     "angle": "1-Tap Call & Sticky Bottom Bar",
     "state": "QLD",
     "domain": "ijnea.com.au"
+  },
+  "FZ-US-1792641544-1": {
+    "sent_at": "2026-11-10T23:23:02.959443+00:00",
+    "recipient_email": "info@detailedconcierge.com",
+    "recipient_name": "Business Owner",
+    "sender_email": "elliott@client.fzcorestudio.com",
+    "business_name": "Detailed Concierge:paint protection film, window tint, ceramic coating, clear bra",
+    "subject": "detailedconcierge.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "CA",
+    "domain": "detailedconcierge.com"
+  },
+  "FZ-US-1792975486-2": {
+    "sent_at": "2026-11-10T23:23:07.071584+00:00",
+    "recipient_email": "terrasolland@gmail.com",
+    "recipient_name": "David Zimmerman",
+    "sender_email": "madeline@client.fzcorestudio.com",
+    "business_name": "Terra-Sol Landscaping",
+    "subject": "quick question for David Zimmerman re terrasollandscaping.com",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "OR",
+    "domain": "terrasollandscaping.com"
+  },
+  "FZ-US-1792975518-6": {
+    "sent_at": "2026-11-10T23:24:04.400577+00:00",
+    "recipient_email": "info@oregonlandscape.com",
+    "recipient_name": "Oregon Landscape",
+    "sender_email": "charlotte@desk.fzcorestudio.com",
+    "business_name": "Oregon Landscape",
+    "subject": "quick question re oregonlandscape.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OR",
+    "domain": "oregonlandscape.com"
   }
 }
