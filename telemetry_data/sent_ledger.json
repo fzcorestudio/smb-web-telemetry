@@ -27655,5 +27655,49 @@
     "angle": "60-Second Instant Quote Estimator",
     "state": "OH",
     "domain": "cabinetworkskitchens.com"
+  },
+  "FZ-AU-1793014236-3": {
+    "sent_at": "2026-11-10T01:45:31.069154+00:00",
+    "recipient_email": "info@taxsolutionsbrisbane.com.au",
+    "recipient_name": "Tax Solutions Brisbane",
+    "sender_email": "charlotte@desk.fzcorestudio.com",
+    "business_name": "Tax Solutions Brisbane",
+    "subject": "quick question re taxsolutionsbrisbane.com.au",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "QLD",
+    "domain": "taxsolutionsbrisbane.com.au"
+  },
+  "FZ-AU-1793014242-4": {
+    "sent_at": "2026-11-10T01:45:36.014174+00:00",
+    "recipient_email": "admin@taxadvisorystrategists.com.au",
+    "recipient_name": "Tax Advisory Strategists",
+    "sender_email": "preston@desk.fzcorestudio.com",
+    "business_name": "Tax Advisory Strategists",
+    "subject": "quick question for Ship re taxadvisorystrategists.com.au",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "QLD",
+    "domain": "taxadvisorystrategists.com.au"
+  },
+  "FZ-AU-1793014341-13": {
+    "sent_at": "2026-11-10T01:47:30.838070+00:00",
+    "recipient_email": "info@elitetaxsolutions.com.au",
+    "recipient_name": "Elite Tax Solutions",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "business_name": "Elite Tax Solutions",
+    "subject": "quick question re elitetaxsolutions.com.au",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "QLD",
+    "domain": "elitetaxsolutions.com.au"
+  },
+  "FZ-AU-1793014406-18": {
+    "sent_at": "2026-11-10T01:47:51.509723+00:00",
+    "recipient_email": "enquiries@lspaccounting.com.au",
+    "recipient_name": "Enquiries",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "business_name": "LSP Accounting",
+    "subject": "quick question for Enquiries re lspaccounting.com.au",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "QLD",
+    "domain": "lspaccounting.com.au"
   }
 }
