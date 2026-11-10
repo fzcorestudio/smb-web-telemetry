@@ -3334,5 +3334,29 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 403",
     "eliminated_at": "2026-11-10T08:16:17.649539+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793064485-4",
+    "business_name": "Blackout Window Tinting Miami",
+    "website": "https://blackoutwindowtintingmiami.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-10T16:29:33.800550+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793065016-25",
+    "business_name": "The McFarlane Construction Group Inc",
+    "website": "https://www.mcfarlaneconstructiongroup.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-10T16:34:25.258191+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793082962-13",
+    "business_name": "JP Landscaping & hardscape Inc",
+    "website": "https://jplandscaping-hardscape.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-11-10T16:37:55.692217+00:00"
   }
 ]
