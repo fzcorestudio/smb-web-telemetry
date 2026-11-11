@@ -27734,36 +27734,234 @@
     "domain": "ijnea.com.au"
   },
   "FZ-US-1792641544-1": {
-    "sent_at": "2026-11-10T23:23:02.959443+00:00",
+    "sent_at": "2026-11-11T00:24:30.911673+00:00",
     "recipient_email": "info@detailedconcierge.com",
     "recipient_name": "Business Owner",
-    "sender_email": "elliott@client.fzcorestudio.com",
+    "sender_email": "brooke@ops.fzcorestudio.com",
     "business_name": "Detailed Concierge:paint protection film, window tint, ceramic coating, clear bra",
     "subject": "detailedconcierge.com quick estimate calculator",
     "angle": "60-Second Instant Quote Estimator",
     "state": "CA",
     "domain": "detailedconcierge.com"
   },
-  "FZ-US-1792975486-2": {
-    "sent_at": "2026-11-10T23:23:07.071584+00:00",
-    "recipient_email": "terrasolland@gmail.com",
-    "recipient_name": "David Zimmerman",
-    "sender_email": "madeline@client.fzcorestudio.com",
-    "business_name": "Terra-Sol Landscaping",
-    "subject": "quick question for David Zimmerman re terrasollandscaping.com",
+  "FZ-US-1792975500-3": {
+    "sent_at": "2026-11-11T00:24:45.650831+00:00",
+    "recipient_email": "contact@yorkoe.com",
+    "recipient_name": "Very Satisfied",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "business_name": "York Outdoor Elements",
+    "subject": "yorkoe.com quick estimate calculator",
     "angle": "60-Second Instant Quote Estimator",
     "state": "OR",
-    "domain": "terrasollandscaping.com"
+    "domain": "yorkoe.com"
   },
-  "FZ-US-1792975518-6": {
-    "sent_at": "2026-11-10T23:24:04.400577+00:00",
-    "recipient_email": "info@oregonlandscape.com",
-    "recipient_name": "Oregon Landscape",
-    "sender_email": "charlotte@desk.fzcorestudio.com",
-    "business_name": "Oregon Landscape",
-    "subject": "quick question re oregonlandscape.com",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
+  "FZ-US-1792975548-9": {
+    "sent_at": "2026-11-11T00:25:51.739696+00:00",
+    "recipient_email": "jrpe1771@gmail.com",
+    "recipient_name": "Business Owner",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "business_name": "Junior Landscape Maintenance Inc.",
+    "subject": "quick question re junior-landscape.com",
+    "angle": "60-Second Instant Quote Estimator",
     "state": "OR",
-    "domain": "oregonlandscape.com"
+    "domain": "junior-landscape.com"
+  },
+  "FZ-US-1792975622-15": {
+    "sent_at": "2026-11-11T00:26:27.693984+00:00",
+    "recipient_email": "alanishsc@gmail.com",
+    "recipient_name": "Alanishsc",
+    "sender_email": "liam@team.fzcorestudio.com",
+    "business_name": "Alanis Hardscape Creations LLC",
+    "subject": "alanishardscapecreationsllc.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "OR",
+    "domain": "alanishardscapecreationsllc.com"
+  },
+  "FZ-US-1792991854-1": {
+    "sent_at": "2026-11-11T00:26:31.834882+00:00",
+    "recipient_email": "sales@epoxyfoxflooring.com",
+    "recipient_name": "Epoxy Fox Flooring",
+    "sender_email": "maya@team.fzcorestudio.com",
+    "business_name": "Epoxy Fox Flooring",
+    "subject": "epoxyfoxflooring.com mobile call button",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "WA",
+    "domain": "epoxyfoxflooring.com"
+  },
+  "FZ-US-1792991943-9": {
+    "sent_at": "2026-11-11T00:27:29.984707+00:00",
+    "recipient_email": "info@specialtycoatingsplus.com",
+    "recipient_name": "Coatings Plus",
+    "sender_email": "zoe@get.fzcorestudio.com",
+    "business_name": "Coatings Plus",
+    "subject": "specialtycoatingsplus.com mobile call button",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "WA",
+    "domain": "specialtycoatingsplus.com"
+  },
+  "FZ-US-1792991945-10": {
+    "sent_at": "2026-11-11T00:27:33.790512+00:00",
+    "recipient_email": "info@alixorcoatings.com",
+    "recipient_name": "ALIXOR Coatings",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "business_name": "ALIXOR Coatings",
+    "subject": "alixorcoatings.com mobile call button",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "WA",
+    "domain": "alixorcoatings.com"
+  },
+  "FZ-US-1792991959-12": {
+    "sent_at": "2026-11-11T00:27:38.420766+00:00",
+    "recipient_email": "concretefixllc@gmail.com",
+    "recipient_name": "Concretefixllc",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "business_name": "Concrete Fix LLC",
+    "subject": "concretefixllc.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "WA",
+    "domain": "concretefixllc.com"
+  },
+  "FZ-US-1792991969-14": {
+    "sent_at": "2026-11-11T00:27:42.206191+00:00",
+    "recipient_email": "sales@fluidfloorsnw.com",
+    "recipient_name": "Fluid Floors",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "business_name": "Fluid Floors",
+    "subject": "fluidfloorsnw.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "WA",
+    "domain": "fluidfloorsnw.com"
+  },
+  "FZ-US-1792992049-5": {
+    "sent_at": "2026-11-11T00:27:56.980087+00:00",
+    "recipient_email": "info@hvacmorgan.com",
+    "recipient_name": "Morgan Mechanical Inc",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "business_name": "Morgan Mechanical Inc",
+    "subject": "quick question re hvacmorgan.com",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "WA",
+    "domain": "hvacmorgan.com"
+  },
+  "FZ-US-1792992131-2": {
+    "sent_at": "2026-11-11T00:28:33.541201+00:00",
+    "recipient_email": "info@solargemco.com",
+    "recipient_name": "Ship",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "business_name": "Solar Gem Greenhouses",
+    "subject": "solargemgreenhouses.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "WA",
+    "domain": "solargemgreenhouses.com"
+  },
+  "FZ-US-1792992152-6": {
+    "sent_at": "2026-11-11T00:28:48.663735+00:00",
+    "recipient_email": "info@solx2.com",
+    "recipient_name": "Took",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "business_name": "SolX",
+    "subject": "quick question for Took re solx2.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "WA",
+    "domain": "solx2.com"
+  },
+  "FZ-US-1792992174-9": {
+    "sent_at": "2026-11-11T00:28:52.281158+00:00",
+    "recipient_email": "info@sunworksplus.com",
+    "recipient_name": "Used Sunworks",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "business_name": "Sunworks llc",
+    "subject": "quick question for Used re sunworksplus.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "WA",
+    "domain": "sunworksplus.com"
+  },
+  "FZ-AU-1793014180-1": {
+    "sent_at": "2026-11-11T00:29:07.872543+00:00",
+    "recipient_email": "contact@acemigration.com.au",
+    "recipient_name": "Business Owner",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "business_name": "ACE Migration and Visa Solutions",
+    "subject": "acemigration.com.au mobile call button",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "VIC",
+    "domain": "acemigration.com.au"
+  },
+  "FZ-US-1793082902-6": {
+    "sent_at": "2026-11-11T00:29:55.806232+00:00",
+    "recipient_email": "info@adamabuilders.com",
+    "recipient_name": "Cslb",
+    "sender_email": "trevor@client.fzcorestudio.com",
+    "business_name": "Adama Builders",
+    "subject": "quick question for Cslb re adamabuilders.com",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "CA",
+    "domain": "adamabuilders.com"
+  },
+  "FZ-US-1793082931-9": {
+    "sent_at": "2026-11-11T00:29:59.665171+00:00",
+    "recipient_email": "sandiego@triumphlandscaping.com",
+    "recipient_name": "Sandiego",
+    "sender_email": "claire@client.fzcorestudio.com",
+    "business_name": "Triumph Hardscaping & Landscaping Design",
+    "subject": "quick question for Sandiego re triumphlandscaping.com",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "CA",
+    "domain": "triumphlandscaping.com"
+  },
+  "FZ-US-1793082989-18": {
+    "sent_at": "2026-11-11T00:30:59.458431+00:00",
+    "recipient_email": "lghcservices@gmail.com",
+    "recipient_name": "Lghcservices",
+    "sender_email": "natalie@desk.fzcorestudio.com",
+    "business_name": "LGHC LANDSCAPING INC.",
+    "subject": "quick question for Lghcservices re lghc-services.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "CA",
+    "domain": "lghc-services.com"
+  },
+  "FZ-AU-1793014286-9": {
+    "sent_at": "2026-11-11T00:32:17.978569+00:00",
+    "recipient_email": "info@advivo.com.au",
+    "recipient_name": "With Other",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "business_name": "Advivo Business Advisors and Accountants",
+    "subject": "quick question for With re advivo.com.au",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "QLD",
+    "domain": "advivo.com.au"
+  },
+  "FZ-AU-1793014305-11": {
+    "sent_at": "2026-11-11T00:32:22.367750+00:00",
+    "recipient_email": "yeppoonkiosk@itpqld.com.au",
+    "recipient_name": "Yeppoonkiosk",
+    "sender_email": "garrett@ops.fzcorestudio.com",
+    "business_name": "ITP Income Tax Professionals Brisbane",
+    "subject": "itpqld.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "QLD",
+    "domain": "itpqld.com"
+  },
+  "FZ-AU-1793014335-12": {
+    "sent_at": "2026-11-11T00:32:26.319619+00:00",
+    "recipient_email": "admin@northernaccounting.com.au",
+    "recipient_name": "Business Owner",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "business_name": "Northern Accounting Solutions",
+    "subject": "quick question re northernaccounting.com.au",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "QLD",
+    "domain": "northernaccounting.com.au"
+  },
+  "FZ-AU-1793014374-14": {
+    "sent_at": "2026-11-11T00:33:04.476110+00:00",
+    "recipient_email": "info@changeaccountants.com.au",
+    "recipient_name": "What We",
+    "sender_email": "faiz@mail.fzcorestudio.com",
+    "business_name": "Change Accountants & Advisors",
+    "subject": "quick question for What re changeaccountants.com.au",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "QLD",
+    "domain": "changeaccountants.com.au"
   }
 }
