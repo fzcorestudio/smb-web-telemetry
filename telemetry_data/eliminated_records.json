@@ -3358,5 +3358,13 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
     "eliminated_at": "2026-11-10T16:37:55.692217+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793083117-10",
+    "business_name": "United Epoxy Floors",
+    "website": "http://unitedepoxyfloors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 404",
+    "eliminated_at": "2026-11-11T09:05:27.911192+00:00"
   }
 ]
