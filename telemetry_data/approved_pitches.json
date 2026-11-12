@@ -1,5 +1,72 @@
 [
   {
+    "lead_id": "FZ-US-1792975486-2",
+    "business_name": "Terra-Sol Landscaping",
+    "recipient_email": "terrasolland@gmail.com",
+    "recipient_name": "David Zimmerman",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "Portland",
+    "state": "OR",
+    "website": "http://www.terrasollandscaping.com",
+    "subject": "terrasollandscaping.com quick estimate calculator",
+    "body": "Hi David,\n\nWas checking out your hardscaping & pavers contractor projects in Portland, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In hardscaping & pavers contractor, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for Terra-Sol Landscaping that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
+    "angle": "60-Second Instant Quote Estimator",
+    "bleed_type": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "estimated_loss": "$3,500 – $8,750/mo",
+    "lead": {
+      "lead_id": "FZ-US-1792975486-2",
+      "estimated_rank": 33,
+      "business_name": "Terra-Sol Landscaping",
+      "category": "Hardscaping & Pavers Contractor",
+      "city": "Portland",
+      "state": "OR",
+      "country": "US",
+      "website": "http://www.terrasollandscaping.com",
+      "domain": "terrasollandscaping.com",
+      "reviews_count": 10,
+      "rating": 5.0,
+      "decision_maker": {
+        "name": "David Zimmerman",
+        "first_name": "David",
+        "title": "Decision Maker",
+        "verified_email": "terrasolland@gmail.com",
+        "tier": "TIER_2_NAMED_PERSONAL",
+        "tier_level": 2,
+        "email_status": "MX_DELIVERABLE_0_BOUNCE",
+        "mx_provider": "Custom / Private SMTP"
+      },
+      "audit_diagnostics": {
+        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+        "recommended_entry_price": "$99",
+        "turnaround": "12 Hours"
+      },
+      "gemini_context_snippet": "Target: David Zimmerman at Terra-Sol Landscaping (Portland, OR). Profile: Rank #33 on Google Maps (10 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+      "harvested_at": "2026-10-26T00:44:46.693302+00:00",
+      "forensic_audit": {
+        "audit_status": "QUALIFIED_HIGH_BLEED",
+        "primary_money_leak": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+        "estimated_monthly_loss": "$3,500 – $8,750/mo",
+        "average_ticket_value": "$3,500",
+        "financial_justification": "In the Hardscaping & Pavers Contractor sector, the average customer job value is approximately $3,500. Due to missing 60-second instant project cost estimator, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
+        "flaws_inventory": [
+          {
+            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
+            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
+            "severity": "HIGH",
+            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
+            "client_money_impact": "High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
+            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
+          }
+        ],
+        "total_flaws_count": 1,
+        "ai_copywriter_context": "TARGET: Terra-Sol Landscaping in Portland, OR (Website: terrasollandscaping.com, Category: Hardscaping & Pavers Contractor, Reviews: 10, Rating: 5.0). DECISION MAKER: David Zimmerman (Decision Maker), Email: terrasolland@gmail.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing 60-Second Instant Project Cost Estimator. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing 60-Second Instant Project Cost Estimator with zero pitch pressure."
+      },
+      "vetted_at": "2026-11-07T08:39:25.580709+00:00"
+    }
+  },
+  {
     "lead_id": "FZ-US-1792975503-4",
     "business_name": "Raya Landscape Maintenance",
     "recipient_email": "info@rayalm.com",
@@ -75,50 +142,50 @@
     }
   },
   {
-    "lead_id": "FZ-US-1792975518-6",
-    "business_name": "Oregon Landscape",
-    "recipient_email": "info@oregonlandscape.com",
-    "recipient_name": "operated company",
+    "lead_id": "FZ-US-1792975511-5",
+    "business_name": "Valencias Concrete & Hardscape",
+    "recipient_email": "valenciasconcretehrdscape@gmail.com",
+    "recipient_name": "Valenciasconcretehrdscape",
     "category": "Hardscaping & Pavers Contractor",
     "city": "Portland",
     "state": "OR",
-    "website": "http://www.oregonlandscape.com",
-    "subject": "quick question for Operated re oregonlandscape.com",
-    "body": "Hi Operated,\n\nCame across your hardscaping & pavers contractor work in Portland. Solid reputation with your 15 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Oregon Landscape on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
+    "website": "http://valenciasconcreteandhardscapellc.com",
+    "subject": "quick question for Valenciasconcretehrdscape re valenciasconcreteandhardscapellc.com",
+    "body": "Hi Valenciasconcretehrdscape,\n\nCame across your hardscaping & pavers contractor work in Portland. Solid reputation with your 26 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Valencias Concrete & Hardscape on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
     "angle": "1-Tap Call & Sticky Bottom Bar",
     "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "estimated_loss": "$3,500 – $8,750/mo",
     "lead": {
-      "lead_id": "FZ-US-1792975518-6",
-      "estimated_rank": 53,
-      "business_name": "Oregon Landscape",
+      "lead_id": "FZ-US-1792975511-5",
+      "estimated_rank": 50,
+      "business_name": "Valencias Concrete & Hardscape",
       "category": "Hardscaping & Pavers Contractor",
       "city": "Portland",
       "state": "OR",
       "country": "US",
-      "website": "http://www.oregonlandscape.com",
-      "domain": "oregonlandscape.com",
-      "reviews_count": 15,
-      "rating": 4.5,
+      "website": "http://valenciasconcreteandhardscapellc.com",
+      "domain": "valenciasconcreteandhardscapellc.com",
+      "reviews_count": 26,
+      "rating": 4.9,
       "decision_maker": {
-        "name": "operated company",
-        "first_name": "Operated",
-        "title": "Owner / Founder",
-        "verified_email": "info@oregonlandscape.com",
-        "tier": "TIER_4_GATEKEEPER_ROUTED",
-        "tier_level": 4,
+        "name": "Valenciasconcretehrdscape",
+        "first_name": "Valenciasconcretehrdscape",
+        "title": "Decision Maker",
+        "verified_email": "valenciasconcretehrdscape@gmail.com",
+        "tier": "TIER_2_NAMED_PERSONAL",
+        "tier_level": 2,
         "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Google Workspace"
+        "mx_provider": "Custom / Private SMTP"
       },
       "audit_diagnostics": {
-        "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
-        "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
-        "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
-        "recommended_entry_price": "$180",
-        "turnaround": "24 Hours"
+        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
+        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
+        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+        "recommended_entry_price": "$99",
+        "turnaround": "12 Hours"
       },
-      "gemini_context_snippet": "Target: operated company at Oregon Landscape (Portland, OR). Profile: Rank #53 on Google Maps (15 reviews, 4.5★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-26T00:45:18.365995+00:00",
+      "gemini_context_snippet": "Target: Valenciasconcretehrdscape at Valencias Concrete & Hardscape (Portland, OR). Profile: Rank #50 on Google Maps (26 reviews, 4.9★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+      "harvested_at": "2026-10-26T00:45:11.744373+00:00",
       "forensic_audit": {
         "audit_status": "QUALIFIED_HIGH_BLEED",
         "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
@@ -144,9 +211,9 @@
           }
         ],
         "total_flaws_count": 2,
-        "ai_copywriter_context": "TARGET: Oregon Landscape in Portland, OR (Website: oregonlandscape.com, Category: Hardscaping & Pavers Contractor, Reviews: 15, Rating: 4.5). DECISION MAKER: operated company (Owner / Founder), Email: info@oregonlandscape.com (Tier: TIER_4_GATEKEEPER_ROUTED). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
+        "ai_copywriter_context": "TARGET: Valencias Concrete & Hardscape in Portland, OR (Website: valenciasconcreteandhardscapellc.com, Category: Hardscaping & Pavers Contractor, Reviews: 26, Rating: 4.9). DECISION MAKER: Valenciasconcretehrdscape (Decision Maker), Email: valenciasconcretehrdscape@gmail.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
       },
-      "vetted_at": "2026-11-07T08:39:51.675602+00:00"
+      "vetted_at": "2026-11-07T08:39:48.513518+00:00"
     }
   },
   {
@@ -230,180 +297,6 @@
         "ai_copywriter_context": "TARGET: Multnomah Landscape in Portland, OR (Website: multnomahlandscape.com, Category: Hardscaping & Pavers Contractor, Reviews: 15, Rating: 4.9). DECISION MAKER: the Business Owner (Decision Maker), Email: info@multnomahlandscape.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: No Direct Phone Number Accessible on Mobile Fold. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [CRITICAL] No Direct Phone Number Accessible on Mobile Fold: Immediate loss of hot inbound emergency and estimate requests from mobile phone searches.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP: Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing No Direct Phone Number Accessible on Mobile Fold with zero pitch pressure."
       },
       "vetted_at": "2026-11-07T08:39:56.182299+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1792975551-10",
-    "business_name": "Third Rock Landscape construction",
-    "recipient_email": "thirdrocklandscape@gmail.com",
-    "recipient_name": "Thirdrocklandscape",
-    "category": "Hardscaping & Pavers Contractor",
-    "city": "Portland",
-    "state": "OR",
-    "website": "https://thirdrocklandscape.com",
-    "subject": "quick question for Thirdrocklandscape re thirdrocklandscape.com",
-    "body": "Hi Thirdrocklandscape,\n\nCame across your hardscaping & pavers contractor work in Portland. Solid reputation with your 16 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Third Rock Landscape construction on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$3,500 – $8,750/mo",
-    "lead": {
-      "lead_id": "FZ-US-1792975551-10",
-      "estimated_rank": 67,
-      "business_name": "Third Rock Landscape construction",
-      "category": "Hardscaping & Pavers Contractor",
-      "city": "Portland",
-      "state": "OR",
-      "country": "US",
-      "website": "https://thirdrocklandscape.com",
-      "domain": "thirdrocklandscape.com",
-      "reviews_count": 16,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Thirdrocklandscape",
-        "first_name": "Thirdrocklandscape",
-        "title": "Decision Maker",
-        "verified_email": "thirdrocklandscape@gmail.com",
-        "tier": "TIER_2_NAMED_PERSONAL",
-        "tier_level": 2,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Thirdrocklandscape at Third Rock Landscape construction (Portland, OR). Profile: Rank #67 on Google Maps (16 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-26T00:45:51.947219+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$3,500 – $8,750/mo",
-        "average_ticket_value": "$3,500",
-        "financial_justification": "In the Hardscaping & Pavers Contractor sector, the average customer job value is approximately $3,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (5 inputs) Causing High Drop-Off",
-            "severity": "HIGH",
-            "dom_evidence": "Detected static form with 5 fields (Enter your name *, Enter your email address *, Subject, Message, g-recaptcha-response).",
-            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
-            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          }
-        ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: Third Rock Landscape construction in Portland, OR (Website: thirdrocklandscape.com, Category: Hardscaping & Pavers Contractor, Reviews: 16, Rating: 5.0). DECISION MAKER: Thirdrocklandscape (Decision Maker), Email: thirdrocklandscape@gmail.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Excessive Form Fields (5 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-07T08:40:05.605165+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1792975571-11",
-    "business_name": "Rueda Landscape",
-    "recipient_email": "info@ruedalandscape.com",
-    "recipient_name": "Business Owner",
-    "category": "Hardscaping & Pavers Contractor",
-    "city": "Portland",
-    "state": "OR",
-    "website": "http://www.ruedalandscape.com",
-    "subject": "ruedalandscape.com mobile call button",
-    "body": "Hi there,\n\nCame across your hardscaping & pavers contractor work in Portland. Solid reputation with your 5 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Rueda Landscape on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$3,500 – $8,750/mo",
-    "lead": {
-      "lead_id": "FZ-US-1792975571-11",
-      "estimated_rank": 76,
-      "business_name": "Rueda Landscape",
-      "category": "Hardscaping & Pavers Contractor",
-      "city": "Portland",
-      "state": "OR",
-      "country": "US",
-      "website": "http://www.ruedalandscape.com",
-      "domain": "ruedalandscape.com",
-      "reviews_count": 5,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@ruedalandscape.com",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at Rueda Landscape (Portland, OR). Profile: Rank #76 on Google Maps (5 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-26T00:46:11.698760+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$3,500 – $8,750/mo",
-        "average_ticket_value": "$3,500",
-        "financial_justification": "In the Hardscaping & Pavers Contractor sector, the average customer job value is approximately $3,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "UNCOMPRESSED_HERO_IMAGE",
-            "flaw_title": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP",
-            "severity": "MEDIUM",
-            "dom_evidence": "Hero image 'https://i0.wp.com/ruedalandscape.com/wp-content/uploads/2026/03/Oregon' is not using next-gen WebP or modern responsive srcset.",
-            "client_money_impact": "Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.",
-            "recommended_fix": "Service 4: Mobile Speed & Core Web Vitals Optimization ($120 – $180)"
-          },
-          {
-            "flaw_id": "SMALL_TOUCH_TARGETS",
-            "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
-            "severity": "MEDIUM",
-            "dom_evidence": "Found 6 interactive buttons/links under 44x44px threshold.",
-            "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
-            "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
-          }
-        ],
-        "total_flaws_count": 4,
-        "ai_copywriter_context": "TARGET: Rueda Landscape in Portland, OR (Website: ruedalandscape.com, Category: Hardscaping & Pavers Contractor, Reviews: 5, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@ruedalandscape.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP: Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-07T08:40:16.376855+00:00"
     }
   },
   {
@@ -806,81 +699,6 @@
     }
   },
   {
-    "lead_id": "FZ-US-1792991984-15",
-    "business_name": "Ridgetop Epoxy & Renovations",
-    "recipient_email": "info@ridgetopepoxy.com",
-    "recipient_name": "OPERATOR",
-    "category": "Epoxy Flooring & Garage Coating",
-    "city": "Seattle",
-    "state": "WA",
-    "website": "http://www.ridgetopepoxy.com",
-    "subject": "ridgetopepoxy.com quick estimate calculator",
-    "body": "Hi Operator,\n\nWas checking out your epoxy flooring & garage coating projects in Seattle, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In epoxy flooring & garage coating, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for Ridgetop Epoxy & Renovations that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "estimated_loss": "$3,200 – $8,000/mo",
-    "lead": {
-      "lead_id": "FZ-US-1792991984-15",
-      "estimated_rank": 73,
-      "business_name": "Ridgetop Epoxy & Renovations",
-      "category": "Epoxy Flooring & Garage Coating",
-      "city": "Seattle",
-      "state": "WA",
-      "country": "US",
-      "website": "http://www.ridgetopepoxy.com",
-      "domain": "ridgetopepoxy.com",
-      "reviews_count": 23,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "OPERATOR",
-        "first_name": "Operator",
-        "title": "Owner / Founder",
-        "verified_email": "info@ridgetopepoxy.com",
-        "tier": "TIER_4_GATEKEEPER_ROUTED",
-        "tier_level": 4,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Operator at Ridgetop Epoxy & Renovations (Seattle, WA). Profile: Rank #73 on Google Maps (23 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-26T05:19:44.858074+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-        "estimated_monthly_loss": "$3,200 – $8,000/mo",
-        "average_ticket_value": "$3,200",
-        "financial_justification": "In the Epoxy Flooring & Garage Coating sector, the average customer job value is approximately $3,200. Due to missing 60-second instant project cost estimator, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $6,400 to $12,800 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for epoxy flooring & garage coating want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "UNCOMPRESSED_HERO_IMAGE",
-            "flaw_title": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP",
-            "severity": "MEDIUM",
-            "dom_evidence": "Hero image 'images/projects/hero-garage.jpg' is not using next-gen WebP or modern responsive srcset.",
-            "client_money_impact": "Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.",
-            "recommended_fix": "Service 4: Mobile Speed & Core Web Vitals Optimization ($120 – $180)"
-          }
-        ],
-        "total_flaws_count": 2,
-        "ai_copywriter_context": "TARGET: Ridgetop Epoxy & Renovations in Seattle, WA (Website: ridgetopepoxy.com, Category: Epoxy Flooring & Garage Coating, Reviews: 23, Rating: 5.0). DECISION MAKER: OPERATOR (Owner / Founder), Email: info@ridgetopepoxy.com (Tier: TIER_4_GATEKEEPER_ROUTED). PRIMARY MONEY LEAK: Missing 60-Second Instant Project Cost Estimator. REVENUE BLEED: Estimated $3,200 – $8,000/mo based on $3,200 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for epoxy flooring & garage coating want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP: Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing 60-Second Instant Project Cost Estimator with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-07T08:41:34.751844+00:00"
-    }
-  },
-  {
     "lead_id": "FZ-US-1792992079-9",
     "business_name": "United Refrigeration Inc",
     "recipient_email": "info@uri.com",
@@ -1039,38 +857,38 @@
     }
   },
   {
-    "lead_id": "FZ-US-1792992136-4",
-    "business_name": "Solora Solar",
-    "recipient_email": "contactus@solorasolar.com",
-    "recipient_name": "Contactus",
-    "category": "Solar Panel Installation",
-    "city": "Tacoma",
-    "state": "WA",
-    "website": "http://solorasolar.com",
-    "subject": "quick question for Contactus re solorasolar.com",
-    "body": "Hi Contactus,\n\nCame across your solar panel installation work in Tacoma. Solid reputation with your 16 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Solora Solar on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$15,000 – $37,500/mo",
+    "lead_id": "FZ-US-1793082831-1",
+    "business_name": "San Diego Landscape Remodeling",
+    "recipient_email": "office@sandiegolandscaperemodeling.com",
+    "recipient_name": "Access\n\nYou",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "San Diego",
+    "state": "CA",
+    "website": "https://sandiegolandscaperemodeling.com",
+    "subject": "quick note for Access re sandiegolandscaperemodeling.com",
+    "body": "Hi Access,\n\nWas looking over your hardscaping & pavers contractor projects in San Diego. Great reputation with your 26 reviews on Google.\n\nLooked at your site on mobile and noticed there's no sticky tap-to-call bar when scrolling, so mobile visitors have to scroll back up or zoom in to reach you. A lot of homeowners looking for quick estimates end up tapping the next contractor on Google Maps when that happens.\n\nI put together a clean mobile call bar and instant quote estimator preview for San Diego Landscape Remodeling. Would you be opposed to me sending over a short 20-second screen demo? (Zero pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
+    "angle": "Mobile Friction Reduction",
+    "bleed_type": "Mobile Tap Targets Below 44px (Misfire Hazard) (Found 17 interactive buttons/links under 44x44px threshold.)",
+    "estimated_loss": "$3,500 – $8,750/mo",
     "lead": {
-      "lead_id": "FZ-US-1792992136-4",
-      "estimated_rank": 34,
-      "business_name": "Solora Solar",
-      "category": "Solar Panel Installation",
-      "city": "Tacoma",
-      "state": "WA",
+      "lead_id": "FZ-US-1793082831-1",
+      "estimated_rank": 7,
+      "business_name": "San Diego Landscape Remodeling",
+      "category": "Hardscaping & Pavers Contractor",
+      "city": "San Diego",
+      "state": "CA",
       "country": "US",
-      "website": "http://solorasolar.com",
-      "domain": "solorasolar.com",
-      "reviews_count": 16,
-      "rating": 4.8,
+      "website": "https://sandiegolandscaperemodeling.com",
+      "domain": "sandiegolandscaperemodeling.com",
+      "reviews_count": 26,
+      "rating": 5.0,
       "decision_maker": {
-        "name": "Contactus",
-        "first_name": "Contactus",
-        "title": "Decision Maker",
-        "verified_email": "contactus@solorasolar.com",
-        "tier": "TIER_2_NAMED_PERSONAL",
-        "tier_level": 2,
+        "name": "Access\n\nYou",
+        "first_name": "Access",
+        "title": "Owner / Founder",
+        "verified_email": "office@sandiegolandscaperemodeling.com",
+        "tier": "TIER_4_GATEKEEPER_ROUTED",
+        "tier_level": 4,
         "email_status": "MX_DELIVERABLE_0_BOUNCE",
         "mx_provider": "Google Workspace"
       },
@@ -1081,178 +899,87 @@
         "recommended_entry_price": "$99",
         "turnaround": "12 Hours"
       },
-      "gemini_context_snippet": "Target: education at Solora Solar (Tacoma, WA). Profile: Rank #34 on Google Maps (16 reviews, 4.8★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-26T05:22:16.700764+00:00",
+      "gemini_context_snippet": "Target: Access   \nYou at San Diego Landscape Remodeling (San Diego, CA). Profile: Rank #7 on Google Maps (26 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+      "harvested_at": "2026-10-27T06:33:51.088015+00:00",
       "forensic_audit": {
         "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$15,000 – $37,500/mo",
-        "average_ticket_value": "$15,000",
-        "financial_justification": "In the Solar Panel Installation sector, the average customer job value is approximately $15,000. Due to missing sticky mobile bottom call/quote bar, losing just 1 to 2 qualified local customer(s) per month to competitors on Google Maps results in an estimated $15,000 to $30,000 monthly revenue bleed.",
+        "primary_money_leak": "Mobile Tap Targets Below 44px (Misfire Hazard) (Found 17 interactive buttons/links under 44x44px threshold.)",
+        "estimated_monthly_loss": "$3,500 – $8,750/mo",
+        "average_ticket_value": "$3,500",
+        "financial_justification": "In the Hardscaping & Pavers Contractor sector, the average customer job value is approximately $3,500. Due to mobile tap targets below 44px (misfire hazard), losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
         "flaws_inventory": [
           {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (11 inputs) Causing High Drop-Off",
-            "severity": "HIGH",
-            "dom_evidence": "Detected static form with 11 fields (wpforms[fields][1], wpforms[fields][4], wpforms[fields][2], wpforms[fields][3], wpforms[fields][5]).",
-            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
-            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
+            "flaw_id": "SMALL_TOUCH_TARGETS",
+            "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
+            "severity": "MEDIUM",
+            "dom_evidence": "Found 17 interactive buttons/links under 44x44px threshold.",
+            "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
+            "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
           }
         ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: Solora Solar in Tacoma, WA (Website: solorasolar.com, Category: Solar Panel Installation, Reviews: 16, Rating: 4.8). DECISION MAKER: Contactus (Decision Maker), Email: contactus@solorasolar.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $15,000 – $37,500/mo based on $15,000 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Excessive Form Fields (11 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
+        "total_flaws_count": 1,
+        "ai_copywriter_context": "TARGET: San Diego Landscape Remodeling in San Diego, CA (Website: sandiegolandscaperemodeling.com, Category: Hardscaping & Pavers Contractor, Reviews: 26, Rating: 5.0). DECISION MAKER: Access\n\nYou (Owner / Founder), Email: office@sandiegolandscaperemodeling.com (Tier: TIER_4_GATEKEEPER_ROUTED). PRIMARY MONEY LEAK: Mobile Tap Targets Below 44px (Misfire Hazard). REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [MEDIUM] Mobile Tap Targets Below 44px (Misfire Hazard): Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Mobile Tap Targets Below 44px (Misfire Hazard) with zero pitch pressure."
       },
-      "vetted_at": "2026-11-07T08:43:15.402792+00:00"
+      "vetted_at": "2026-11-10T16:37:06.646339+00:00"
     }
   },
   {
-    "lead_id": "FZ-AU-1793014139-1",
-    "business_name": "Shimmer Glass and Pressure Cleaning",
-    "recipient_email": "info@shimmerglass.com.au",
-    "recipient_name": "Business Owner",
-    "category": "Commercial Pressure Washing",
-    "city": "Sydney",
-    "state": "NSW",
-    "website": "https://www.shimmerglasscleaning.com.au",
-    "subject": "shimmerglasscleaning.com.au quick estimate calculator",
-    "body": "Hi there,\n\nWas checking out your commercial pressure washing projects in Sydney, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In commercial pressure washing, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for Shimmer Glass and Pressure Cleaning that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
+    "lead_id": "FZ-US-1793082869-2",
+    "business_name": "Kan Builders",
+    "recipient_email": "office@kanbuildersinc.com",
+    "recipient_name": "CAN CHECK",
+    "category": "Hardscaping & Pavers Contractor",
+    "city": "San Diego",
+    "state": "CA",
+    "website": "https://kanbuildersinc.com",
+    "subject": "kanbuildersinc.com quick estimate calculator",
+    "body": "Hi Can,\n\nWas checking out your hardscaping & pavers contractor projects in San Diego, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In hardscaping & pavers contractor, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for Kan Builders that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
     "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Excessive Form Fields (15 inputs) Causing High Drop-Off (Detected static form with 15 fields (honeypot-field, First Name, Last Name, Business Name, Address).)",
+    "bleed_type": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (name, (619) 555-0123, email, zip, kans_hpx).)",
     "estimated_loss": "$3,500 – $8,750/mo",
     "lead": {
-      "lead_id": "FZ-AU-1793014139-1",
-      "estimated_rank": 58,
-      "business_name": "Shimmer Glass and Pressure Cleaning",
-      "category": "Commercial Pressure Washing",
-      "city": "Sydney",
-      "state": "NSW",
-      "country": "AU",
-      "website": "https://www.shimmerglasscleaning.com.au",
-      "domain": "shimmerglasscleaning.com.au",
-      "reviews_count": 18,
-      "rating": 4.9,
+      "lead_id": "FZ-US-1793082869-2",
+      "estimated_rank": 33,
+      "business_name": "Kan Builders",
+      "category": "Hardscaping & Pavers Contractor",
+      "city": "San Diego",
+      "state": "CA",
+      "country": "US",
+      "website": "https://kanbuildersinc.com",
+      "domain": "kanbuildersinc.com",
+      "reviews_count": 21,
+      "rating": 5.0,
       "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@shimmerglass.com.au",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
+        "name": "CAN CHECK",
+        "first_name": "Can",
+        "title": "Owner / Founder",
+        "verified_email": "office@kanbuildersinc.com",
+        "tier": "TIER_4_GATEKEEPER_ROUTED",
+        "tier_level": 4,
         "email_status": "MX_DELIVERABLE_0_BOUNCE",
         "mx_provider": "Google Workspace"
       },
       "audit_diagnostics": {
-        "primary_flaw": "Missing Interactive Cost Estimator / Instant Quote Calculator",
-        "concrete_observation": "Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range.",
-        "matched_fzcore_service": "Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge",
-        "recommended_entry_price": "$180",
-        "turnaround": "24 Hours"
-      },
-      "gemini_context_snippet": "Target: their discovery at Shimmer Glass and Pressure Cleaning (Sydney, NSW). Profile: Rank #58 on Google Maps (18 reviews, 4.9★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Website requires visitors to wait 24h for a phone estimate instead of providing an instant 60-second interactive price range. Pitch Offer: Service 1: 60-Second Instant Quote Estimator & SMS Booking Bridge for $180 (24 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-26T11:28:59.404823+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Excessive Form Fields (15 inputs) Causing High Drop-Off (Detected static form with 15 fields (honeypot-field, First Name, Last Name, Business Name, Address).)",
-        "estimated_monthly_loss": "$3,500 – $8,750/mo",
-        "average_ticket_value": "$3,500",
-        "financial_justification": "In the Commercial Pressure Washing sector, the average customer job value is approximately $3,500. Due to excessive form fields (15 inputs) causing high drop-off, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (15 inputs) Causing High Drop-Off",
-            "severity": "HIGH",
-            "dom_evidence": "Detected static form with 15 fields (honeypot-field, First Name, Last Name, Business Name, Address).",
-            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
-            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for commercial pressure washing want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          }
-        ],
-        "total_flaws_count": 2,
-        "ai_copywriter_context": "TARGET: Shimmer Glass and Pressure Cleaning in Sydney, NSW (Website: shimmerglasscleaning.com.au, Category: Commercial Pressure Washing, Reviews: 18, Rating: 4.9). DECISION MAKER: the Business Owner (Decision Maker), Email: info@shimmerglass.com.au (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Excessive Form Fields (15 inputs) Causing High Drop-Off. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Excessive Form Fields (15 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for commercial pressure washing want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Excessive Form Fields (15 inputs) Causing High Drop-Off with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-08T16:22:40.449495+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-AU-1793014257-6",
-    "business_name": "Bell & Co - Wilston Grange Tax and Accounting Service",
-    "recipient_email": "vanessa@bellandco.com.au",
-    "recipient_name": "Vanessa",
-    "category": "Tax Resolution & CPA Services",
-    "city": "Brisbane",
-    "state": "QLD",
-    "website": "http://www.bellandco.com.au",
-    "subject": "bellandco.com.au quick estimate calculator",
-    "body": "Hi Vanessa,\n\nWas checking out your tax resolution & cpa services projects in Brisbane, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In tax resolution & cpa services, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for Bell & Co - Wilston Grange Tax and Accounting Service that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (fname, lname, INPUT, INPUT, INPUT).)",
-    "estimated_loss": "$3,500 – $8,750/mo",
-    "lead": {
-      "lead_id": "FZ-AU-1793014257-6",
-      "estimated_rank": 69,
-      "business_name": "Bell & Co - Wilston Grange Tax and Accounting Service",
-      "category": "Tax Resolution & CPA Services",
-      "city": "Brisbane",
-      "state": "QLD",
-      "country": "AU",
-      "website": "http://www.bellandco.com.au",
-      "domain": "bellandco.com.au",
-      "reviews_count": 12,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Vanessa",
-        "first_name": "Vanessa",
-        "title": "Decision Maker",
-        "verified_email": "vanessa@bellandco.com.au",
-        "tier": "TIER_2_NAMED_PERSONAL",
-        "tier_level": 2,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Microsoft 365"
-      },
-      "audit_diagnostics": {
         "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
         "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
         "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
         "recommended_entry_price": "$99",
         "turnaround": "12 Hours"
       },
-      "gemini_context_snippet": "Target: Vanessa at Bell & Co - Wilston Grange Tax and Accounting Service (Brisbane, QLD). Profile: Rank #69 on Google Maps (12 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
-      "harvested_at": "2026-10-26T11:30:57.700106+00:00",
+      "gemini_context_snippet": "Target: Can Check at Kan Builders (San Diego, CA). Profile: Rank #33 on Google Maps (21 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+      "harvested_at": "2026-10-27T06:34:29.051240+00:00",
       "forensic_audit": {
         "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (fname, lname, INPUT, INPUT, INPUT).)",
+        "primary_money_leak": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (name, (619) 555-0123, email, zip, kans_hpx).)",
         "estimated_monthly_loss": "$3,500 – $8,750/mo",
         "average_ticket_value": "$3,500",
-        "financial_justification": "In the Tax Resolution & CPA Services sector, the average customer job value is approximately $3,500. Due to excessive form fields (7 inputs) causing high drop-off, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
+        "financial_justification": "In the Hardscaping & Pavers Contractor sector, the average customer job value is approximately $3,500. Due to excessive form fields (5 inputs) causing high drop-off, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
         "flaws_inventory": [
           {
             "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (7 inputs) Causing High Drop-Off",
+            "flaw_title": "Excessive Form Fields (5 inputs) Causing High Drop-Off",
             "severity": "HIGH",
-            "dom_evidence": "Detected static form with 7 fields (fname, lname, INPUT, INPUT, INPUT).",
+            "dom_evidence": "Detected static form with 5 fields (name, (619) 555-0123, email, zip, kans_hpx).",
             "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
             "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
           },
@@ -1261,196 +988,22 @@
             "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
             "severity": "HIGH",
             "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "UNCOMPRESSED_HERO_IMAGE",
-            "flaw_title": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP",
-            "severity": "MEDIUM",
-            "dom_evidence": "Hero image 'https://images.squarespace-cdn.com/content/v1/5c620d7001232c405d7e93ee' is not using next-gen WebP or modern responsive srcset.",
-            "client_money_impact": "Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.",
-            "recommended_fix": "Service 4: Mobile Speed & Core Web Vitals Optimization ($120 – $180)"
-          }
-        ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: Bell & Co - Wilston Grange Tax and Accounting Service in Brisbane, QLD (Website: bellandco.com.au, Category: Tax Resolution & CPA Services, Reviews: 12, Rating: 5.0). DECISION MAKER: Vanessa (Decision Maker), Email: vanessa@bellandco.com.au (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Excessive Form Fields (7 inputs) Causing High Drop-Off. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Excessive Form Fields (7 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP: Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Excessive Form Fields (7 inputs) Causing High Drop-Off with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-08T16:23:32.917301+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-AU-1793014260-8",
-    "business_name": "Platinum Tax & Advisory",
-    "recipient_email": "info@platinumtaxadvice.com.au",
-    "recipient_name": "Business Owner",
-    "category": "Tax Resolution & CPA Services",
-    "city": "Brisbane",
-    "state": "QLD",
-    "website": "https://platinumtaxadvice.com.au",
-    "subject": "platinumtaxadvice.com.au mobile call button",
-    "body": "Hi there,\n\nCame across your tax resolution & cpa services work in Brisbane. Solid reputation with your 14 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Platinum Tax & Advisory on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$3,500 – $8,750/mo",
-    "lead": {
-      "lead_id": "FZ-AU-1793014260-8",
-      "estimated_rank": 71,
-      "business_name": "Platinum Tax & Advisory",
-      "category": "Tax Resolution & CPA Services",
-      "city": "Brisbane",
-      "state": "QLD",
-      "country": "AU",
-      "website": "https://platinumtaxadvice.com.au",
-      "domain": "platinumtaxadvice.com.au",
-      "reviews_count": 14,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@platinumtaxadvice.com.au",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Microsoft 365"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Non-Clickable Phone Number on Mobile",
-        "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
-        "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at Platinum Tax & Advisory (Brisbane, QLD). Profile: Rank #71 on Google Maps (14 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
-      "harvested_at": "2026-10-26T11:31:00.180502+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$3,500 – $8,750/mo",
-        "average_ticket_value": "$3,500",
-        "financial_justification": "In the Tax Resolution & CPA Services sector, the average customer job value is approximately $3,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
+            "client_money_impact": "High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
             "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
           },
           {
             "flaw_id": "SMALL_TOUCH_TARGETS",
             "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
             "severity": "MEDIUM",
-            "dom_evidence": "Found 7 interactive buttons/links under 44x44px threshold.",
+            "dom_evidence": "Found 25 interactive buttons/links under 44x44px threshold.",
             "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
             "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
           }
         ],
         "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: Platinum Tax & Advisory in Brisbane, QLD (Website: platinumtaxadvice.com.au, Category: Tax Resolution & CPA Services, Reviews: 14, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@platinumtaxadvice.com.au (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Mobile Tap Targets Below 44px (Misfire Hazard): Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
+        "ai_copywriter_context": "TARGET: Kan Builders in San Diego, CA (Website: kanbuildersinc.com, Category: Hardscaping & Pavers Contractor, Reviews: 21, Rating: 5.0). DECISION MAKER: CAN CHECK (Owner / Founder), Email: office@kanbuildersinc.com (Tier: TIER_4_GATEKEEPER_ROUTED). PRIMARY MONEY LEAK: Excessive Form Fields (5 inputs) Causing High Drop-Off. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Excessive Form Fields (5 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Mobile Tap Targets Below 44px (Misfire Hazard): Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Excessive Form Fields (5 inputs) Causing High Drop-Off with zero pitch pressure."
       },
-      "vetted_at": "2026-11-08T16:23:37.861469+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-AU-1793014436-21",
-    "business_name": "businessDEPOT Brisbane",
-    "recipient_email": "oneplace@businessdepot.com.au",
-    "recipient_name": "makes",
-    "category": "Tax Resolution & CPA Services",
-    "city": "Brisbane",
-    "state": "QLD",
-    "website": "http://www.businessdepot.com.au",
-    "subject": "quick question for Makes re businessdepot.com.au",
-    "body": "Hi Makes,\n\nCame across your tax resolution & cpa services work in Brisbane. Solid reputation with your 19 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for businessDEPOT Brisbane on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$3,500 – $8,750/mo",
-    "lead": {
-      "lead_id": "FZ-AU-1793014436-21",
-      "estimated_rank": 110,
-      "business_name": "businessDEPOT Brisbane",
-      "category": "Tax Resolution & CPA Services",
-      "city": "Brisbane",
-      "state": "QLD",
-      "country": "AU",
-      "website": "http://www.businessdepot.com.au",
-      "domain": "businessdepot.com.au",
-      "reviews_count": 19,
-      "rating": 4.8,
-      "decision_maker": {
-        "name": "makes",
-        "first_name": "Makes",
-        "title": "Decision Maker",
-        "verified_email": "oneplace@businessdepot.com.au",
-        "tier": "TIER_2_NAMED_PERSONAL",
-        "tier_level": 2,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: dentist at businessDEPOT Brisbane (Brisbane, QLD). Profile: Rank #110 on Google Maps (19 reviews, 4.8★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-26T11:33:56.343336+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$3,500 – $8,750/mo",
-        "average_ticket_value": "$3,500",
-        "financial_justification": "In the Tax Resolution & CPA Services sector, the average customer job value is approximately $3,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (29 inputs) Causing High Drop-Off",
-            "severity": "HIGH",
-            "dom_evidence": "Detected static form with 29 fields (email, firstname, lastname, also_sign_me_up_for_extra_insights_on_, also_sign_me_up_for_extra_insights_on_).",
-            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
-            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "SMALL_TOUCH_TARGETS",
-            "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
-            "severity": "MEDIUM",
-            "dom_evidence": "Found 8 interactive buttons/links under 44x44px threshold.",
-            "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
-            "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
-          }
-        ],
-        "total_flaws_count": 4,
-        "ai_copywriter_context": "TARGET: businessDEPOT Brisbane in Brisbane, QLD (Website: businessdepot.com.au, Category: Tax Resolution & CPA Services, Reviews: 19, Rating: 4.8). DECISION MAKER: makes (Decision Maker), Email: oneplace@businessdepot.com.au (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Excessive Form Fields (29 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-08T16:25:40.918636+00:00"
+      "vetted_at": "2026-11-10T16:37:13.610620+00:00"
     }
   },
   {
@@ -1609,89 +1162,6 @@
         "ai_copywriter_context": "TARGET: Golden Roots Landscape & Design in San Diego, CA (Website: goldenrootslandscapedesign.com, Category: Hardscaping & Pavers Contractor, Reviews: 20, Rating: 5.0). DECISION MAKER: Whitney Watson (Owner / Founder), Email: whitney@goldenrootslandscapedesign.com (Tier: TIER_1_NAMED_OWNER). PRIMARY MONEY LEAK: Missing 60-Second Instant Project Cost Estimator. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing 60-Second Instant Project Cost Estimator with zero pitch pressure."
       },
       "vetted_at": "2026-11-10T16:37:48.257250+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1793082938-11",
-    "business_name": "Pacific Pavers & Walls",
-    "recipient_email": "info@pacificpaversandwalls.com",
-    "recipient_name": "Business Owner",
-    "category": "Hardscaping & Pavers Contractor",
-    "city": "San Diego",
-    "state": "CA",
-    "website": "http://pacificpaversandwalls.com",
-    "subject": "pacificpaversandwalls.com quick estimate calculator",
-    "body": "Hi there,\n\nWas checking out your hardscaping & pavers contractor projects in San Diego, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In hardscaping & pavers contractor, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for Pacific Pavers & Walls that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Name, Email, Phone, Address, Subject).)",
-    "estimated_loss": "$3,500 – $8,750/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793082938-11",
-      "estimated_rank": 97,
-      "business_name": "Pacific Pavers & Walls",
-      "category": "Hardscaping & Pavers Contractor",
-      "city": "San Diego",
-      "state": "CA",
-      "country": "US",
-      "website": "http://pacificpaversandwalls.com",
-      "domain": "pacificpaversandwalls.com",
-      "reviews_count": 5,
-      "rating": 3.4,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@pacificpaversandwalls.com",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Non-Clickable Phone Number on Mobile",
-        "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
-        "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at Pacific Pavers & Walls (San Diego, CA). Profile: Rank #97 on Google Maps (5 reviews, 3.4★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-27T06:35:38.355204+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Name, Email, Phone, Address, Subject).)",
-        "estimated_monthly_loss": "$3,500 – $8,750/mo",
-        "average_ticket_value": "$3,500",
-        "financial_justification": "In the Hardscaping & Pavers Contractor sector, the average customer job value is approximately $3,500. Due to excessive form fields (6 inputs) causing high drop-off, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (6 inputs) Causing High Drop-Off",
-            "severity": "HIGH",
-            "dom_evidence": "Detected static form with 6 fields (Name, Email, Phone, Address, Subject).",
-            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
-            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "OUTDATED_COPYRIGHT_ERA",
-            "flaw_title": "Stale 2020 Copyright & Legacy Visual Layout",
-            "severity": "HIGH",
-            "dom_evidence": "Footer contains stale copyright '© 2020'.",
-            "client_money_impact": "Subconsciously signals to clients that the company is inactive, neglected, or behind on modern standards.",
-            "recommended_fix": "Service 10: Complete Turnkey Bento Redesign Architecture ($450 – $650, 72-Hour Turnaround)"
-          }
-        ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: Pacific Pavers & Walls in San Diego, CA (Website: pacificpaversandwalls.com, Category: Hardscaping & Pavers Contractor, Reviews: 5, Rating: 3.4). DECISION MAKER: the Business Owner (Decision Maker), Email: info@pacificpaversandwalls.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Excessive Form Fields (6 inputs) Causing High Drop-Off. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Excessive Form Fields (6 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for hardscaping & pavers contractor want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [HIGH] Stale 2020 Copyright & Legacy Visual Layout: Subconsciously signals to clients that the company is inactive, neglected, or behind on modern standards.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Excessive Form Fields (6 inputs) Causing High Drop-Off with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-10T16:37:51.741989+00:00"
     }
   },
   {
@@ -2110,73 +1580,6 @@
     }
   },
   {
-    "lead_id": "FZ-US-1793083073-5",
-    "business_name": "3G Concrete Solutions",
-    "recipient_email": "info@3gconcretesolutions.com",
-    "recipient_name": "Business Owner",
-    "category": "Epoxy Flooring & Garage Coating",
-    "city": "Orange County",
-    "state": "CA",
-    "website": "https://3gconcretesolutions.com",
-    "subject": "3gconcretesolutions.com quick estimate calculator",
-    "body": "Hi there,\n\nWas checking out your epoxy flooring & garage coating projects in Orange County, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In epoxy flooring & garage coating, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for 3G Concrete Solutions that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "estimated_loss": "$3,200 – $8,000/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083073-5",
-      "estimated_rank": 53,
-      "business_name": "3G Concrete Solutions",
-      "category": "Epoxy Flooring & Garage Coating",
-      "city": "Orange County",
-      "state": "CA",
-      "country": "US",
-      "website": "https://3gconcretesolutions.com",
-      "domain": "3gconcretesolutions.com",
-      "reviews_count": 6,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@3gconcretesolutions.com",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Google Workspace"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at 3G Concrete Solutions (Orange County, CA). Profile: Rank #53 on Google Maps (6 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-27T06:37:53.928992+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-        "estimated_monthly_loss": "$3,200 – $8,000/mo",
-        "average_ticket_value": "$3,200",
-        "financial_justification": "In the Epoxy Flooring & Garage Coating sector, the average customer job value is approximately $3,200. Due to missing 60-second instant project cost estimator, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $6,400 to $12,800 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for epoxy flooring & garage coating want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          }
-        ],
-        "total_flaws_count": 1,
-        "ai_copywriter_context": "TARGET: 3G Concrete Solutions in Orange County, CA (Website: 3gconcretesolutions.com, Category: Epoxy Flooring & Garage Coating, Reviews: 6, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@3gconcretesolutions.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Missing 60-Second Instant Project Cost Estimator. REVENUE BLEED: Estimated $3,200 – $8,000/mo based on $3,200 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for epoxy flooring & garage coating want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing 60-Second Instant Project Cost Estimator with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:05:11.154350+00:00"
-    }
-  },
-  {
     "lead_id": "FZ-US-1793083078-6",
     "business_name": "Supreme Epoxy Coatings",
     "recipient_email": "info@supremeepoxycoatings.com",
@@ -2493,231 +1896,6 @@
     }
   },
   {
-    "lead_id": "FZ-US-1793083140-1",
-    "business_name": "Zenith Irvine HVAC Services",
-    "recipient_email": "info@zenithirvinehvacservices.site",
-    "recipient_name": "Business Owner",
-    "category": "Commercial HVAC Air Conditioning",
-    "city": "Irvine",
-    "state": "CA",
-    "website": "https://zenithirvinehvacservices.site",
-    "subject": "zenithirvinehvacservices.site mobile call button",
-    "body": "Hi there,\n\nCame across your commercial hvac air conditioning work in Irvine. Solid reputation with your 7 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Zenith Irvine HVAC Services on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$5,500 – $13,750/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083140-1",
-      "estimated_rank": 8,
-      "business_name": "Zenith Irvine HVAC Services",
-      "category": "Commercial HVAC Air Conditioning",
-      "city": "Irvine",
-      "state": "CA",
-      "country": "US",
-      "website": "https://zenithirvinehvacservices.site",
-      "domain": "zenithirvinehvacservices.site",
-      "reviews_count": 7,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@zenithirvinehvacservices.site",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at Zenith Irvine HVAC Services (Irvine, CA). Profile: Rank #8 on Google Maps (7 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-27T06:39:00.280202+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$5,500 – $13,750/mo",
-        "average_ticket_value": "$5,500",
-        "financial_justification": "In the Commercial HVAC Air Conditioning sector, the average customer job value is approximately $5,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $11,000 to $22,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for commercial hvac air conditioning want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          }
-        ],
-        "total_flaws_count": 2,
-        "ai_copywriter_context": "TARGET: Zenith Irvine HVAC Services in Irvine, CA (Website: zenithirvinehvacservices.site, Category: Commercial HVAC Air Conditioning, Reviews: 7, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@zenithirvinehvacservices.site (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $5,500 – $13,750/mo based on $5,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for commercial hvac air conditioning want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:05:30.153115+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1793083171-4",
-    "business_name": "Central Air",
-    "recipient_email": "info@centralair.com",
-    "recipient_name": "Business Owner",
-    "category": "Commercial HVAC Air Conditioning",
-    "city": "Irvine",
-    "state": "CA",
-    "website": "https://www.centralair.com",
-    "subject": "centralair.com quick estimate calculator",
-    "body": "Hi there,\n\nWas checking out your commercial hvac air conditioning projects in Irvine, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In commercial hvac air conditioning, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for Central Air that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (website, name, phone, email, property_type).)",
-    "estimated_loss": "$5,500 – $13,750/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083171-4",
-      "estimated_rank": 21,
-      "business_name": "Central Air",
-      "category": "Commercial HVAC Air Conditioning",
-      "city": "Irvine",
-      "state": "CA",
-      "country": "US",
-      "website": "https://www.centralair.com",
-      "domain": "centralair.com",
-      "reviews_count": 21,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@centralair.com",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Google Workspace"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at Central Air (Irvine, CA). Profile: Rank #21 on Google Maps (21 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-27T06:39:31.224186+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (website, name, phone, email, property_type).)",
-        "estimated_monthly_loss": "$5,500 – $13,750/mo",
-        "average_ticket_value": "$5,500",
-        "financial_justification": "In the Commercial HVAC Air Conditioning sector, the average customer job value is approximately $5,500. Due to excessive form fields (9 inputs) causing high drop-off, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $11,000 to $22,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (9 inputs) Causing High Drop-Off",
-            "severity": "HIGH",
-            "dom_evidence": "Detected static form with 9 fields (website, name, phone, email, property_type).",
-            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
-            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for commercial hvac air conditioning want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "SMALL_TOUCH_TARGETS",
-            "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
-            "severity": "MEDIUM",
-            "dom_evidence": "Found 9 interactive buttons/links under 44x44px threshold.",
-            "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
-            "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
-          }
-        ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: Central Air in Irvine, CA (Website: centralair.com, Category: Commercial HVAC Air Conditioning, Reviews: 21, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@centralair.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Excessive Form Fields (9 inputs) Causing High Drop-Off. REVENUE BLEED: Estimated $5,500 – $13,750/mo based on $5,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Excessive Form Fields (9 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for commercial hvac air conditioning want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Mobile Tap Targets Below 44px (Misfire Hazard): Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Excessive Form Fields (9 inputs) Causing High Drop-Off with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:05:51.174498+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1793083187-6",
-    "business_name": "ColdLink Engineering Services, Inc",
-    "recipient_email": "info@thecoldlink.com",
-    "recipient_name": "Business Owner",
-    "category": "Commercial HVAC Air Conditioning",
-    "city": "Irvine",
-    "state": "CA",
-    "website": "https://www.thecoldlink.com",
-    "subject": "thecoldlink.com quick estimate calculator",
-    "body": "Hi there,\n\nWas checking out your commercial hvac air conditioning projects in Irvine, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In commercial hvac air conditioning, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for ColdLink Engineering Services, Inc that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "estimated_loss": "$5,500 – $13,750/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083187-6",
-      "estimated_rank": 32,
-      "business_name": "ColdLink Engineering Services, Inc",
-      "category": "Commercial HVAC Air Conditioning",
-      "city": "Irvine",
-      "state": "CA",
-      "country": "US",
-      "website": "https://www.thecoldlink.com",
-      "domain": "thecoldlink.com",
-      "reviews_count": 6,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@thecoldlink.com",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Google Workspace"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at ColdLink Engineering Services, Inc (Irvine, CA). Profile: Rank #32 on Google Maps (6 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-27T06:39:47.925568+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-        "estimated_monthly_loss": "$5,500 – $13,750/mo",
-        "average_ticket_value": "$5,500",
-        "financial_justification": "In the Commercial HVAC Air Conditioning sector, the average customer job value is approximately $5,500. Due to missing 60-second instant project cost estimator, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $11,000 to $22,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for commercial hvac air conditioning want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          }
-        ],
-        "total_flaws_count": 1,
-        "ai_copywriter_context": "TARGET: ColdLink Engineering Services, Inc in Irvine, CA (Website: thecoldlink.com, Category: Commercial HVAC Air Conditioning, Reviews: 6, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@thecoldlink.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Missing 60-Second Instant Project Cost Estimator. REVENUE BLEED: Estimated $5,500 – $13,750/mo based on $5,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for commercial hvac air conditioning want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing 60-Second Instant Project Cost Estimator with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:05:58.603309+00:00"
-    }
-  },
-  {
     "lead_id": "FZ-US-1793083204-7",
     "business_name": "Cooling & Heating Repair",
     "recipient_email": "support@coolingandheat.com",
@@ -2793,86 +1971,86 @@
     }
   },
   {
-    "lead_id": "FZ-US-1793083229-8",
-    "business_name": "AmTech Heating & Air Conditioning",
-    "recipient_email": "contact@amtech-hvac.com",
-    "recipient_name": "Business Owner",
-    "category": "Commercial HVAC Air Conditioning",
-    "city": "Irvine",
+    "lead_id": "FZ-US-1793083314-2",
+    "business_name": "SunShine Energy",
+    "recipient_email": "info@sunshineenergy.org",
+    "recipient_name": "ship",
+    "category": "Solar Panel Installation",
+    "city": "Sacramento",
     "state": "CA",
-    "website": "http://www.amtech-hvac.com",
-    "subject": "amtech-hvac.com quick estimate calculator",
-    "body": "Hi there,\n\nWas checking out your commercial hvac air conditioning projects in Irvine, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In commercial hvac air conditioning, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for AmTech Heating & Air Conditioning that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (First and last name, (___) ___-____, you@email.com, Irvine, 92614, form_fields[field_8404fa2]).)",
-    "estimated_loss": "$5,500 – $13,750/mo",
+    "website": "https://www.sunshineenergy.org",
+    "subject": "quick question for Ship re sunshineenergy.org",
+    "body": "Hi Ship,\n\nCame across your solar panel installation work in Sacramento. Solid reputation with your 21 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for SunShine Energy on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "bleed_type": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(916) 900-0994' found in plain text without an href='tel:' link.)",
+    "estimated_loss": "$15,000 – $37,500/mo",
     "lead": {
-      "lead_id": "FZ-US-1793083229-8",
-      "estimated_rank": 49,
-      "business_name": "AmTech Heating & Air Conditioning",
-      "category": "Commercial HVAC Air Conditioning",
-      "city": "Irvine",
+      "lead_id": "FZ-US-1793083314-2",
+      "estimated_rank": 23,
+      "business_name": "SunShine Energy",
+      "category": "Solar Panel Installation",
+      "city": "Sacramento",
       "state": "CA",
       "country": "US",
-      "website": "http://www.amtech-hvac.com",
-      "domain": "amtech-hvac.com",
-      "reviews_count": 5,
-      "rating": 5.0,
+      "website": "https://www.sunshineenergy.org",
+      "domain": "sunshineenergy.org",
+      "reviews_count": 21,
+      "rating": 4.8,
       "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "contact@amtech-hvac.com",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
+        "name": "ship",
+        "first_name": "Ship",
+        "title": "Owner / Founder",
+        "verified_email": "info@sunshineenergy.org",
+        "tier": "TIER_4_GATEKEEPER_ROUTED",
+        "tier_level": 4,
         "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Google Workspace"
+        "mx_provider": "Custom / Private SMTP"
       },
       "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
+        "primary_flaw": "Non-Clickable Phone Number on Mobile",
+        "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+        "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
         "recommended_entry_price": "$99",
         "turnaround": "12 Hours"
       },
-      "gemini_context_snippet": "Target: Business Owner at AmTech Heating & Air Conditioning (Irvine, CA). Profile: Rank #49 on Google Maps (5 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-27T06:40:29.508794+00:00",
+      "gemini_context_snippet": "Target: ship at SunShine Energy (Sacramento, CA). Profile: Rank #23 on Google Maps (21 reviews, 4.8★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+      "harvested_at": "2026-10-27T06:41:54.219058+00:00",
       "forensic_audit": {
         "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (First and last name, (___) ___-____, you@email.com, Irvine, 92614, form_fields[field_8404fa2]).)",
-        "estimated_monthly_loss": "$5,500 – $13,750/mo",
-        "average_ticket_value": "$5,500",
-        "financial_justification": "In the Commercial HVAC Air Conditioning sector, the average customer job value is approximately $5,500. Due to excessive form fields (7 inputs) causing high drop-off, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $11,000 to $22,000 monthly revenue bleed.",
+        "primary_money_leak": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(916) 900-0994' found in plain text without an href='tel:' link.)",
+        "estimated_monthly_loss": "$15,000 – $37,500/mo",
+        "average_ticket_value": "$15,000",
+        "financial_justification": "In the Solar Panel Installation sector, the average customer job value is approximately $15,000. Due to phone number not 1-tap clickable on mobile, losing just 1 to 2 qualified local customer(s) per month to competitors on Google Maps results in an estimated $15,000 to $30,000 monthly revenue bleed.",
         "flaws_inventory": [
           {
-            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (7 inputs) Causing High Drop-Off",
+            "flaw_id": "NO_TAP_TO_CALL_LINK",
+            "flaw_title": "Phone Number Not 1-Tap Clickable on Mobile",
+            "severity": "CRITICAL",
+            "dom_evidence": "Phone '(916) 900-0994' found in plain text without an href='tel:' link.",
+            "client_money_impact": "Mobile visitors searching on phones cannot tap to call immediately; they must memorize or copy-paste into dialer. Over 65% bounce to the next solar panel installation on Google Maps.",
+            "recommended_fix": "Service 1: Instant Tap-to-Call Conversion Header & Sticky Thumb Bar ($120, 12-Hour Turnaround)"
+          },
+          {
+            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
+            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
             "severity": "HIGH",
-            "dom_evidence": "Detected static form with 7 fields (First and last name, (___) ___-____, you@email.com, Irvine, 92614, form_fields[field_8404fa2]).",
-            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
-            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
+            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
+            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
+            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
           },
           {
             "flaw_id": "MISSING_INSTANT_ESTIMATOR",
             "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
             "severity": "HIGH",
             "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for commercial hvac air conditioning want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
+            "client_money_impact": "High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
             "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "SMALL_TOUCH_TARGETS",
-            "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
-            "severity": "MEDIUM",
-            "dom_evidence": "Found 5 interactive buttons/links under 44x44px threshold.",
-            "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
-            "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
           }
         ],
         "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: AmTech Heating & Air Conditioning in Irvine, CA (Website: amtech-hvac.com, Category: Commercial HVAC Air Conditioning, Reviews: 5, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: contact@amtech-hvac.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Excessive Form Fields (7 inputs) Causing High Drop-Off. REVENUE BLEED: Estimated $5,500 – $13,750/mo based on $5,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Excessive Form Fields (7 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for commercial hvac air conditioning want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Mobile Tap Targets Below 44px (Misfire Hazard): Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Excessive Form Fields (7 inputs) Causing High Drop-Off with zero pitch pressure."
+        "ai_copywriter_context": "TARGET: SunShine Energy in Sacramento, CA (Website: sunshineenergy.org, Category: Solar Panel Installation, Reviews: 21, Rating: 4.8). DECISION MAKER: ship (Owner / Founder), Email: info@sunshineenergy.org (Tier: TIER_4_GATEKEEPER_ROUTED). PRIMARY MONEY LEAK: Phone Number Not 1-Tap Clickable on Mobile. REVENUE BLEED: Estimated $15,000 – $37,500/mo based on $15,000 average ticket size. EVIDENCE & IMPACT: [CRITICAL] Phone Number Not 1-Tap Clickable on Mobile: Mobile visitors searching on phones cannot tap to call immediately; they must memorize or copy-paste into dialer. Over 65% bounce to the next solar panel installation on Google Maps.; [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Phone Number Not 1-Tap Clickable on Mobile with zero pitch pressure."
       },
-      "vetted_at": "2026-11-11T09:06:44.087353+00:00"
+      "vetted_at": "2026-11-11T09:07:18.688733+00:00"
     }
   },
   {
@@ -2951,40 +2129,214 @@
     }
   },
   {
-    "lead_id": "FZ-US-1793083343-7",
-    "business_name": "Renewable Solutions Inc.",
-    "recipient_email": "jeffw@renewablesolutionsusa.com",
-    "recipient_name": "Testimonials\nContact",
+    "lead_id": "FZ-US-1793083337-5",
+    "business_name": "California Sunlight",
+    "recipient_email": "info@california-sunlight.com",
+    "recipient_name": "Business Owner",
     "category": "Solar Panel Installation",
     "city": "Sacramento",
     "state": "CA",
-    "website": "https://www.renewablesolutionsusa.com",
-    "subject": "renewablesolutionsusa.com quick estimate calculator",
-    "body": "Hi Testimonials,\n\nWas checking out your solar panel installation projects in Sacramento, your portfolio looks great.\n\nLooked at your site on mobile and noticed there's a static contact form with no quick pricing guide, so visitors have to wait for a manual callback. In solar panel installation, most homeowners want a fast ballpark in under a minute; otherwise they usually submit quote requests on 3 competitor sites instead.\n\nI put together an interactive 60-second instant project estimator built specifically for Renewable Solutions Inc. that lets mobile visitors get a ballpark range and texts you their project details instantly. Mind if I send over a 20-second preview link to see how it looks?\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "60-Second Instant Quote Estimator",
-    "bleed_type": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "website": "http://www.california-sunlight.com",
+    "subject": "california-sunlight.com mobile call button",
+    "body": "Hi there,\n\nCame across your solar panel installation work in Sacramento. Solid reputation with your 9 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for California Sunlight on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "bleed_type": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
     "estimated_loss": "$15,000 – $37,500/mo",
     "lead": {
-      "lead_id": "FZ-US-1793083343-7",
-      "estimated_rank": 55,
-      "business_name": "Renewable Solutions Inc.",
+      "lead_id": "FZ-US-1793083337-5",
+      "estimated_rank": 40,
+      "business_name": "California Sunlight",
       "category": "Solar Panel Installation",
       "city": "Sacramento",
       "state": "CA",
       "country": "US",
-      "website": "https://www.renewablesolutionsusa.com",
-      "domain": "renewablesolutionsusa.com",
-      "reviews_count": 23,
+      "website": "http://www.california-sunlight.com",
+      "domain": "california-sunlight.com",
+      "reviews_count": 9,
       "rating": 5.0,
       "decision_maker": {
-        "name": "Testimonials\nContact",
-        "first_name": "Testimonials",
+        "name": "Business Owner",
+        "first_name": null,
         "title": "Decision Maker",
-        "verified_email": "jeffw@renewablesolutionsusa.com",
+        "verified_email": "info@california-sunlight.com",
+        "tier": "TIER_5_GENERIC",
+        "tier_level": 5,
+        "email_status": "MX_DELIVERABLE_0_BOUNCE",
+        "mx_provider": "Google Workspace"
+      },
+      "audit_diagnostics": {
+        "primary_flaw": "Non-Clickable Phone Number on Mobile",
+        "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+        "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+        "recommended_entry_price": "$99",
+        "turnaround": "12 Hours"
+      },
+      "gemini_context_snippet": "Target: Business Owner at California Sunlight (Sacramento, CA). Profile: Rank #40 on Google Maps (9 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
+      "harvested_at": "2026-10-27T06:42:17.675234+00:00",
+      "forensic_audit": {
+        "audit_status": "QUALIFIED_HIGH_BLEED",
+        "primary_money_leak": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+        "estimated_monthly_loss": "$15,000 – $37,500/mo",
+        "average_ticket_value": "$15,000",
+        "financial_justification": "In the Solar Panel Installation sector, the average customer job value is approximately $15,000. Due to no direct phone number accessible on mobile fold, losing just 1 to 2 qualified local customer(s) per month to competitors on Google Maps results in an estimated $15,000 to $30,000 monthly revenue bleed.",
+        "flaws_inventory": [
+          {
+            "flaw_id": "MISSING_PHONE_ABOVE_FOLD",
+            "flaw_title": "No Direct Phone Number Accessible on Mobile Fold",
+            "severity": "CRITICAL",
+            "dom_evidence": "Zero tel: links or phone numbers detected in header or hero section.",
+            "client_money_impact": "Immediate loss of hot inbound emergency and estimate requests from mobile phone searches.",
+            "recommended_fix": "Service 1: Instant Tap-to-Call Conversion Header ($120, 12-Hour Turnaround)"
+          },
+          {
+            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
+            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
+            "severity": "HIGH",
+            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
+            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
+            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
+          },
+          {
+            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
+            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
+            "severity": "HIGH",
+            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
+            "client_money_impact": "High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
+            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
+          },
+          {
+            "flaw_id": "UNCOMPRESSED_HERO_IMAGE",
+            "flaw_title": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP",
+            "severity": "MEDIUM",
+            "dom_evidence": "Hero image 'https://images.squarespace-cdn.com/content/v1/5c620d7001232c405d7e93ee' is not using next-gen WebP or modern responsive srcset.",
+            "client_money_impact": "Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.",
+            "recommended_fix": "Service 4: Mobile Speed & Core Web Vitals Optimization ($120 – $180)"
+          }
+        ],
+        "total_flaws_count": 3,
+        "ai_copywriter_context": "TARGET: Bell & Co - Wilston Grange Tax and Accounting Service in Brisbane, QLD (Website: bellandco.com.au, Category: Tax Resolution & CPA Services, Reviews: 12, Rating: 5.0). DECISION MAKER: Vanessa (Decision Maker), Email: vanessa@bellandco.com.au (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Excessive Form Fields (7 inputs) Causing High Drop-Off. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Excessive Form Fields (7 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP: Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Excessive Form Fields (7 inputs) Causing High Drop-Off with zero pitch pressure."
+      },
+      "vetted_at": "2026-11-08T16:23:32.917301+00:00"
+    }
+  },
+  {
+    "lead_id": "FZ-AU-1793014260-8",
+    "business_name": "Platinum Tax & Advisory",
+    "recipient_email": "info@platinumtaxadvice.com.au",
+    "recipient_name": "Business Owner",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Brisbane",
+    "state": "QLD",
+    "website": "https://platinumtaxadvice.com.au",
+    "subject": "platinumtaxadvice.com.au mobile call button",
+    "body": "Hi there,\n\nCame across your tax resolution & cpa services work in Brisbane. Solid reputation with your 14 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Platinum Tax & Advisory on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "estimated_loss": "$3,500 – $8,750/mo",
+    "lead": {
+      "lead_id": "FZ-AU-1793014260-8",
+      "estimated_rank": 71,
+      "business_name": "Platinum Tax & Advisory",
+      "category": "Tax Resolution & CPA Services",
+      "city": "Brisbane",
+      "state": "QLD",
+      "country": "AU",
+      "website": "https://platinumtaxadvice.com.au",
+      "domain": "platinumtaxadvice.com.au",
+      "reviews_count": 14,
+      "rating": 5.0,
+      "decision_maker": {
+        "name": "Business Owner",
+        "first_name": null,
+        "title": "Decision Maker",
+        "verified_email": "info@platinumtaxadvice.com.au",
+        "tier": "TIER_5_GENERIC",
+        "tier_level": 5,
+        "email_status": "MX_DELIVERABLE_0_BOUNCE",
+        "mx_provider": "Microsoft 365"
+      },
+      "audit_diagnostics": {
+        "primary_flaw": "Non-Clickable Phone Number on Mobile",
+        "concrete_observation": "Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits.",
+        "matched_fzcore_service": "Service 2: Mobile Speed & 1-Tap Click-to-Call Fix",
+        "recommended_entry_price": "$99",
+        "turnaround": "12 Hours"
+      },
+      "gemini_context_snippet": "Target: Business Owner at Platinum Tax & Advisory (Brisbane, QLD). Profile: Rank #71 on Google Maps (14 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Hero section displays phone numbers in plain text without 'tel:' action links, forcing mobile visitors to copy-paste digits. Pitch Offer: Service 2: Mobile Speed & 1-Tap Click-to-Call Fix for $99 (12 Hours turnaround). Deliverability: MX verified via Microsoft 365.",
+      "harvested_at": "2026-10-26T11:31:00.180502+00:00",
+      "forensic_audit": {
+        "audit_status": "QUALIFIED_HIGH_BLEED",
+        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+        "estimated_monthly_loss": "$3,500 – $8,750/mo",
+        "average_ticket_value": "$3,500",
+        "financial_justification": "In the Tax Resolution & CPA Services sector, the average customer job value is approximately $3,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
+        "flaws_inventory": [
+          {
+            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
+            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
+            "severity": "HIGH",
+            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
+            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
+            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
+          },
+          {
+            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
+            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
+            "severity": "HIGH",
+            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
+            "client_money_impact": "High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
+            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
+          },
+          {
+            "flaw_id": "SMALL_TOUCH_TARGETS",
+            "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
+            "severity": "MEDIUM",
+            "dom_evidence": "Found 7 interactive buttons/links under 44x44px threshold.",
+            "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
+            "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
+          }
+        ],
+        "total_flaws_count": 3,
+        "ai_copywriter_context": "TARGET: Platinum Tax & Advisory in Brisbane, QLD (Website: platinumtaxadvice.com.au, Category: Tax Resolution & CPA Services, Reviews: 14, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@platinumtaxadvice.com.au (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Mobile Tap Targets Below 44px (Misfire Hazard): Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
+      },
+      "vetted_at": "2026-11-08T16:23:37.861469+00:00"
+    }
+  },
+  {
+    "lead_id": "FZ-AU-1793014436-21",
+    "business_name": "businessDEPOT Brisbane",
+    "recipient_email": "oneplace@businessdepot.com.au",
+    "recipient_name": "makes",
+    "category": "Tax Resolution & CPA Services",
+    "city": "Brisbane",
+    "state": "QLD",
+    "website": "http://www.businessdepot.com.au",
+    "subject": "quick question for Makes re businessdepot.com.au",
+    "body": "Hi Makes,\n\nCame across your tax resolution & cpa services work in Brisbane. Solid reputation with your 19 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for businessDEPOT Brisbane on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "estimated_loss": "$3,500 – $8,750/mo",
+    "lead": {
+      "lead_id": "FZ-AU-1793014436-21",
+      "estimated_rank": 110,
+      "business_name": "businessDEPOT Brisbane",
+      "category": "Tax Resolution & CPA Services",
+      "city": "Brisbane",
+      "state": "QLD",
+      "country": "AU",
+      "website": "http://www.businessdepot.com.au",
+      "domain": "businessdepot.com.au",
+      "reviews_count": 19,
+      "rating": 4.8,
+      "decision_maker": {
+        "name": "makes",
+        "first_name": "Makes",
+        "title": "Decision Maker",
+        "verified_email": "oneplace@businessdepot.com.au",
         "tier": "TIER_2_NAMED_PERSONAL",
         "tier_level": 2,
         "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Google Workspace"
+        "mx_provider": "Custom / Private SMTP"
       },
       "audit_diagnostics": {
         "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
@@ -2993,36 +2345,52 @@
         "recommended_entry_price": "$99",
         "turnaround": "12 Hours"
       },
-      "gemini_context_snippet": "Target: Jeffw at Renewable Solutions Inc. (Sacramento, CA). Profile: Rank #55 on Google Maps (23 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-27T06:42:23.228143+00:00",
+      "gemini_context_snippet": "Target: dentist at businessDEPOT Brisbane (Brisbane, QLD). Profile: Rank #110 on Google Maps (19 reviews, 4.8★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
+      "harvested_at": "2026-10-26T11:33:56.343336+00:00",
       "forensic_audit": {
         "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-        "estimated_monthly_loss": "$15,000 – $37,500/mo",
-        "average_ticket_value": "$15,000",
-        "financial_justification": "In the Solar Panel Installation sector, the average customer job value is approximately $15,000. Due to missing 60-second instant project cost estimator, losing just 1 to 2 qualified local customer(s) per month to competitors on Google Maps results in an estimated $15,000 to $30,000 monthly revenue bleed.",
+        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+        "estimated_monthly_loss": "$3,500 – $8,750/mo",
+        "average_ticket_value": "$3,500",
+        "financial_justification": "In the Tax Resolution & CPA Services sector, the average customer job value is approximately $3,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
         "flaws_inventory": [
+          {
+            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
+            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
+            "severity": "HIGH",
+            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
+            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
+            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
+          },
+          {
+            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
+            "flaw_title": "Excessive Form Fields (29 inputs) Causing High Drop-Off",
+            "severity": "HIGH",
+            "dom_evidence": "Detected static form with 29 fields (email, firstname, lastname, also_sign_me_up_for_extra_insights_on_, also_sign_me_up_for_extra_insights_on_).",
+            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
+            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
+          },
           {
             "flaw_id": "MISSING_INSTANT_ESTIMATOR",
             "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
             "severity": "HIGH",
             "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
+            "client_money_impact": "High-end homeowners shopping for tax resolution & cpa services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
             "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
           },
           {
-            "flaw_id": "UNCOMPRESSED_HERO_IMAGE",
-            "flaw_title": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP",
+            "flaw_id": "SMALL_TOUCH_TARGETS",
+            "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
             "severity": "MEDIUM",
-            "dom_evidence": "Hero image 'https://irp.cdn-website.com/049d84d9/dms3rep/multi/opt/Renewable+Logo+' is not using next-gen WebP or modern responsive srcset.",
-            "client_money_impact": "Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.",
-            "recommended_fix": "Service 4: Mobile Speed & Core Web Vitals Optimization ($120 – $180)"
+            "dom_evidence": "Found 8 interactive buttons/links under 44x44px threshold.",
+            "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
+            "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
           }
         ],
-        "total_flaws_count": 2,
-        "ai_copywriter_context": "TARGET: Renewable Solutions Inc. in Sacramento, CA (Website: renewablesolutionsusa.com, Category: Solar Panel Installation, Reviews: 23, Rating: 5.0). DECISION MAKER: Testimonials\nContact (Decision Maker), Email: jeffw@renewablesolutionsusa.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing 60-Second Instant Project Cost Estimator. REVENUE BLEED: Estimated $15,000 – $37,500/mo based on $15,000 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP: Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing 60-Second Instant Project Cost Estimator with zero pitch pressure."
+        "total_flaws_count": 4,
+        "ai_copywriter_context": "TARGET: California Sunlight in Sacramento, CA (Website: california-sunlight.com, Category: Solar Panel Installation, Reviews: 9, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@california-sunlight.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: No Direct Phone Number Accessible on Mobile Fold. REVENUE BLEED: Estimated $15,000 – $37,500/mo based on $15,000 average ticket size. EVIDENCE & IMPACT: [CRITICAL] No Direct Phone Number Accessible on Mobile Fold: Immediate loss of hot inbound emergency and estimate requests from mobile phone searches.; [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing No Direct Phone Number Accessible on Mobile Fold with zero pitch pressure."
       },
-      "vetted_at": "2026-11-11T09:07:43.173250+00:00"
+      "vetted_at": "2026-11-11T09:07:36.640712+00:00"
     }
   },
   {
@@ -3090,330 +2458,6 @@
         "ai_copywriter_context": "TARGET: Under The Sun Solar And Electric in Sacramento, CA (Website: underthesunelectric.com, Category: Solar Panel Installation, Reviews: 18, Rating: 4.8). DECISION MAKER: Underthesunelectric (Decision Maker), Email: underthesunelectric@gmail.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing 60-Second Instant Project Cost Estimator. REVENUE BLEED: Estimated $15,000 – $37,500/mo based on $15,000 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing 60-Second Instant Project Cost Estimator with zero pitch pressure."
       },
       "vetted_at": "2026-11-11T09:07:53.874031+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1793083369-11",
-    "business_name": "Energy Initiative",
-    "recipient_email": "info@energy-initiative.com",
-    "recipient_name": "ship of",
-    "category": "Solar Panel Installation",
-    "city": "Sacramento",
-    "state": "CA",
-    "website": "https://energy-initiative.com",
-    "subject": "quick question for Ship re energy-initiative.com",
-    "body": "Hi Ship,\n\nCame across your solar panel installation work in Sacramento. Solid reputation with your 4 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Energy Initiative on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$15,000 – $37,500/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083369-11",
-      "estimated_rank": 70,
-      "business_name": "Energy Initiative",
-      "category": "Solar Panel Installation",
-      "city": "Sacramento",
-      "state": "CA",
-      "country": "US",
-      "website": "https://energy-initiative.com",
-      "domain": "energy-initiative.com",
-      "reviews_count": 4,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "ship of",
-        "first_name": "Ship",
-        "title": "Owner / Founder",
-        "verified_email": "info@energy-initiative.com",
-        "tier": "TIER_4_GATEKEEPER_ROUTED",
-        "tier_level": 4,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Google Workspace"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at Energy Initiative (Sacramento, CA). Profile: Rank #70 on Google Maps (4 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Google Workspace.",
-      "harvested_at": "2026-10-27T06:42:49.010420+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$15,000 – $37,500/mo",
-        "average_ticket_value": "$15,000",
-        "financial_justification": "In the Solar Panel Installation sector, the average customer job value is approximately $15,000. Due to missing sticky mobile bottom call/quote bar, losing just 1 to 2 qualified local customer(s) per month to competitors on Google Maps results in an estimated $15,000 to $30,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          }
-        ],
-        "total_flaws_count": 2,
-        "ai_copywriter_context": "TARGET: Energy Initiative in Sacramento, CA (Website: energy-initiative.com, Category: Solar Panel Installation, Reviews: 4, Rating: 5.0). DECISION MAKER: ship of (Owner / Founder), Email: info@energy-initiative.com (Tier: TIER_4_GATEKEEPER_ROUTED). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $15,000 – $37,500/mo based on $15,000 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:08:15.792801+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1793083403-14",
-    "business_name": "Sun Up Electric Inc.",
-    "recipient_email": "info@sunupelectric.com",
-    "recipient_name": "Business Owner",
-    "category": "Solar Panel Installation",
-    "city": "Sacramento",
-    "state": "CA",
-    "website": "https://sunupelectric.com",
-    "subject": "sunupelectric.com mobile call button",
-    "body": "Hi there,\n\nCame across your solar panel installation work in Sacramento. Solid reputation with your 21 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Sun Up Electric Inc. on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$15,000 – $37,500/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083403-14",
-      "estimated_rank": 78,
-      "business_name": "Sun Up Electric Inc.",
-      "category": "Solar Panel Installation",
-      "city": "Sacramento",
-      "state": "CA",
-      "country": "US",
-      "website": "https://sunupelectric.com",
-      "domain": "sunupelectric.com",
-      "reviews_count": 21,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@sunupelectric.com",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: resources at Sun Up Electric Inc. (Sacramento, CA). Profile: Rank #78 on Google Maps (21 reviews, 5.0★). Decision Maker: TIER_4_GATEKEEPER_ROUTED (Priority 4). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-27T06:43:23.533652+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$15,000 – $37,500/mo",
-        "average_ticket_value": "$15,000",
-        "financial_justification": "In the Solar Panel Installation sector, the average customer job value is approximately $15,000. Due to missing sticky mobile bottom call/quote bar, losing just 1 to 2 qualified local customer(s) per month to competitors on Google Maps results in an estimated $15,000 to $30,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "OUTDATED_COPYRIGHT_ERA",
-            "flaw_title": "Stale 2020 Copyright & Legacy Visual Layout",
-            "severity": "HIGH",
-            "dom_evidence": "Footer contains stale copyright '© 2020'.",
-            "client_money_impact": "Subconsciously signals to clients that the company is inactive, neglected, or behind on modern standards.",
-            "recommended_fix": "Service 10: Complete Turnkey Bento Redesign Architecture ($450 – $650, 72-Hour Turnaround)"
-          }
-        ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: Sun Up Electric Inc. in Sacramento, CA (Website: sunupelectric.com, Category: Solar Panel Installation, Reviews: 21, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@sunupelectric.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $15,000 – $37,500/mo based on $15,000 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [HIGH] Stale 2020 Copyright & Legacy Visual Layout: Subconsciously signals to clients that the company is inactive, neglected, or behind on modern standards.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:08:28.288933+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1793083449-17",
-    "business_name": "Vertex Electric Sun",
-    "recipient_email": "joe@vertexelectricsun.com",
-    "recipient_name": "Vertex Electric",
-    "category": "Solar Panel Installation",
-    "city": "Sacramento",
-    "state": "CA",
-    "website": "http://vertexelectricsolar.com",
-    "subject": "quick question for Vertex re vertexelectricsolar.com",
-    "body": "Hi Vertex,\n\nCame across your solar panel installation work in Sacramento. Solid reputation with your 14 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for Vertex Electric Sun on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$15,000 – $37,500/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083449-17",
-      "estimated_rank": 94,
-      "business_name": "Vertex Electric Sun",
-      "category": "Solar Panel Installation",
-      "city": "Sacramento",
-      "state": "CA",
-      "country": "US",
-      "website": "http://vertexelectricsolar.com",
-      "domain": "vertexelectricsolar.com",
-      "reviews_count": 14,
-      "rating": 3.6,
-      "decision_maker": {
-        "name": "Vertex Electric",
-        "first_name": "Vertex",
-        "title": "Decision Maker",
-        "verified_email": "joe@vertexelectricsun.com",
-        "tier": "TIER_2_NAMED_PERSONAL",
-        "tier_level": 2,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Vertex Electric at Vertex Electric Sun (Sacramento, CA). Profile: Rank #94 on Google Maps (14 reviews, 3.6★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-27T06:44:09.983863+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$15,000 – $37,500/mo",
-        "average_ticket_value": "$15,000",
-        "financial_justification": "In the Solar Panel Installation sector, the average customer job value is approximately $15,000. Due to missing sticky mobile bottom call/quote bar, losing just 1 to 2 qualified local customer(s) per month to competitors on Google Maps results in an estimated $15,000 to $30,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          },
-          {
-            "flaw_id": "UNCOMPRESSED_HERO_IMAGE",
-            "flaw_title": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP",
-            "severity": "MEDIUM",
-            "dom_evidence": "Hero image 'https://i0.wp.com/vertexelectricsolar.com/wp-content/uploads/2022/01/S' is not using next-gen WebP or modern responsive srcset.",
-            "client_money_impact": "Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.",
-            "recommended_fix": "Service 4: Mobile Speed & Core Web Vitals Optimization ($120 – $180)"
-          }
-        ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: Vertex Electric Sun in Sacramento, CA (Website: vertexelectricsolar.com, Category: Solar Panel Installation, Reviews: 14, Rating: 3.6). DECISION MAKER: Vertex Electric (Decision Maker), Email: joe@vertexelectricsun.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $15,000 – $37,500/mo based on $15,000 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for solar panel installation want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.; [MEDIUM] Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP: Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:08:51.345070+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1793083490-3",
-    "business_name": "A1 Stump & Tree Service",
-    "recipient_email": "estimates@aonestump.com",
-    "recipient_name": "Estimates",
-    "category": "Tree Removal & Arborist Services",
-    "city": "San Jose",
-    "state": "CA",
-    "website": "https://www.aonestump.com",
-    "subject": "quick question for Estimates re aonestump.com",
-    "body": "Hi Estimates,\n\nCame across your tree removal & arborist services work in San Jose. Solid reputation with your 7 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for A1 Stump & Tree Service on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$3,500 – $8,750/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083490-3",
-      "estimated_rank": 28,
-      "business_name": "A1 Stump & Tree Service",
-      "category": "Tree Removal & Arborist Services",
-      "city": "San Jose",
-      "state": "CA",
-      "country": "US",
-      "website": "https://www.aonestump.com",
-      "domain": "aonestump.com",
-      "reviews_count": 7,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Estimates",
-        "first_name": "Estimates",
-        "title": "Decision Maker",
-        "verified_email": "estimates@aonestump.com",
-        "tier": "TIER_2_NAMED_PERSONAL",
-        "tier_level": 2,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Estimates at A1 Stump & Tree Service (San Jose, CA). Profile: Rank #28 on Google Maps (7 reviews, 5.0★). Decision Maker: TIER_2_NAMED_PERSONAL (Priority 2). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-27T06:44:50.761344+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$3,500 – $8,750/mo",
-        "average_ticket_value": "$3,500",
-        "financial_justification": "In the Tree Removal & Arborist Services sector, the average customer job value is approximately $3,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "UNCOMPRESSED_HERO_IMAGE",
-            "flaw_title": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP",
-            "severity": "MEDIUM",
-            "dom_evidence": "Hero image '/_next/image?url=%2Fimages%2Fwork%2Fhero-crew.jpg&w=3840&q=60' is not using next-gen WebP or modern responsive srcset.",
-            "client_money_impact": "Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.",
-            "recommended_fix": "Service 4: Mobile Speed & Core Web Vitals Optimization ($120 – $180)"
-          },
-          {
-            "flaw_id": "SMALL_TOUCH_TARGETS",
-            "flaw_title": "Mobile Tap Targets Below 44px (Misfire Hazard)",
-            "severity": "MEDIUM",
-            "dom_evidence": "Found 17 interactive buttons/links under 44x44px threshold.",
-            "client_money_impact": "Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.",
-            "recommended_fix": "Service 2: Mobile Touch Optimization ($99)"
-          }
-        ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: A1 Stump & Tree Service in San Jose, CA (Website: aonestump.com, Category: Tree Removal & Arborist Services, Reviews: 7, Rating: 5.0). DECISION MAKER: Estimates (Decision Maker), Email: estimates@aonestump.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [MEDIUM] Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP: Slow 3G/4G mobile loads cause 53% of mobile visitors to bounce if page takes over 3 seconds.; [MEDIUM] Mobile Tap Targets Below 44px (Misfire Hazard): Causes mis-taps on mobile phones, frustrating prospects attempting to navigate services.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:09:20.447519+00:00"
     }
   },
   {
@@ -3663,89 +2707,6 @@
         "ai_copywriter_context": "TARGET: West Coast Arborists in San Jose, CA (Website: westcoastarborists.com, Category: Tree Removal & Arborist Services, Reviews: 22, Rating: 4.8). DECISION MAKER: Corporate (Decision Maker), Email: corporate@wcainc.com (Tier: TIER_2_NAMED_PERSONAL). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for tree removal & arborist services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
       },
       "vetted_at": "2026-11-11T09:09:39.441109+00:00"
-    }
-  },
-  {
-    "lead_id": "FZ-US-1793083534-12",
-    "business_name": "MGA Tree Services | Affordable Price",
-    "recipient_email": "info@mgatreeservices.com",
-    "recipient_name": "Business Owner",
-    "category": "Tree Removal & Arborist Services",
-    "city": "San Jose",
-    "state": "CA",
-    "website": "https://mgatreeservices.com",
-    "subject": "mgatreeservices.com mobile call button",
-    "body": "Hi there,\n\nCame across your tree removal & arborist services work in San Jose. Solid reputation with your 3 reviews on Google.\n\nPulled up your site on my iPhone this morning and noticed the phone number isn't 1-tap clickable, and when you scroll down to check your past projects, the contact option disappears off the screen. Most homeowners shopping on mobile want to call with one tap; when they have to memorize or copy-paste digits, a lot of them just tap back to the next contractor on Google Maps.\n\nI mocked up a fast, brand-matched tap-to-call bar and sticky quote button for MGA Tree Services | Affordable Price on mobile. Would you be opposed to me sending over a short 20-second screen demo? (No pitch or pressure either way).\n\nBest,\nFaiz Majeed\nFZCORE Studio",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "bleed_type": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "estimated_loss": "$3,500 – $8,750/mo",
-    "lead": {
-      "lead_id": "FZ-US-1793083534-12",
-      "estimated_rank": 62,
-      "business_name": "MGA Tree Services | Affordable Price",
-      "category": "Tree Removal & Arborist Services",
-      "city": "San Jose",
-      "state": "CA",
-      "country": "US",
-      "website": "https://mgatreeservices.com",
-      "domain": "mgatreeservices.com",
-      "reviews_count": 3,
-      "rating": 5.0,
-      "decision_maker": {
-        "name": "Business Owner",
-        "first_name": null,
-        "title": "Decision Maker",
-        "verified_email": "info@mgatreeservices.com",
-        "tier": "TIER_5_GENERIC",
-        "tier_level": 5,
-        "email_status": "MX_DELIVERABLE_0_BOUNCE",
-        "mx_provider": "Custom / Private SMTP"
-      },
-      "audit_diagnostics": {
-        "primary_flaw": "Missing Sticky Mobile Bottom Call Bar",
-        "concrete_observation": "Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers.",
-        "matched_fzcore_service": "Service 13: High-Converting Sticky Mobile Bottom Bar",
-        "recommended_entry_price": "$99",
-        "turnaround": "12 Hours"
-      },
-      "gemini_context_snippet": "Target: Business Owner at MGA Tree Services | Affordable Price (San Jose, CA). Profile: Rank #62 on Google Maps (3 reviews, 5.0★). Decision Maker: TIER_5_GENERIC (Priority 5). Audit Flaw: Mobile view requires scrolling back to the very top to find contact options, losing instant hot callers. Pitch Offer: Service 13: High-Converting Sticky Mobile Bottom Bar for $99 (12 Hours turnaround). Deliverability: MX verified via Custom / Private SMTP.",
-      "harvested_at": "2026-10-27T06:45:34.852208+00:00",
-      "forensic_audit": {
-        "audit_status": "QUALIFIED_HIGH_BLEED",
-        "primary_money_leak": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-        "estimated_monthly_loss": "$3,500 – $8,750/mo",
-        "average_ticket_value": "$3,500",
-        "financial_justification": "In the Tree Removal & Arborist Services sector, the average customer job value is approximately $3,500. Due to missing sticky mobile bottom call/quote bar, losing just 2 to 4 qualified local customer(s) per month to competitors on Google Maps results in an estimated $7,000 to $14,000 monthly revenue bleed.",
-        "flaws_inventory": [
-          {
-            "flaw_id": "MISSING_STICKY_BOTTOM_BAR",
-            "flaw_title": "Missing Sticky Mobile Bottom Call/Quote Bar",
-            "severity": "HIGH",
-            "dom_evidence": "No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).",
-            "client_money_impact": "When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.",
-            "recommended_fix": "Service 13: High-Converting Sticky Mobile Bottom Bar ($99, 12-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "HIGH_FRICTION_STATIC_FORM",
-            "flaw_title": "Excessive Form Fields (7 inputs) Causing High Drop-Off",
-            "severity": "HIGH",
-            "dom_evidence": "Detected static form with 7 fields (input_18, input_2, input_5, input_3, input_16).",
-            "client_money_impact": "Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.",
-            "recommended_fix": "Service 8: 60-Second Instant Quote Estimator Funnel ($250 – $350, 48-Hour Turnaround)"
-          },
-          {
-            "flaw_id": "MISSING_INSTANT_ESTIMATOR",
-            "flaw_title": "Missing 60-Second Instant Project Cost Estimator",
-            "severity": "HIGH",
-            "dom_evidence": "Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.",
-            "client_money_impact": "High-end homeowners shopping for tree removal & arborist services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.",
-            "recommended_fix": "Service 8: Interactive Instant Quote Estimator ($250 – $350)"
-          }
-        ],
-        "total_flaws_count": 3,
-        "ai_copywriter_context": "TARGET: MGA Tree Services | Affordable Price in San Jose, CA (Website: mgatreeservices.com, Category: Tree Removal & Arborist Services, Reviews: 3, Rating: 5.0). DECISION MAKER: the Business Owner (Decision Maker), Email: info@mgatreeservices.com (Tier: TIER_5_GENERIC). PRIMARY MONEY LEAK: Missing Sticky Mobile Bottom Call/Quote Bar. REVENUE BLEED: Estimated $3,500 – $8,750/mo based on $3,500 average ticket size. EVIDENCE & IMPACT: [HIGH] Missing Sticky Mobile Bottom Call/Quote Bar: When visitors scroll past the hero to inspect services, the contact CTA disappears. Users abandon without reaching the footer.; [HIGH] Excessive Form Fields (7 inputs) Causing High Drop-Off: Contractor forms with more than 4 fields suffer a 70%+ abandonment rate on mobile devices.; [HIGH] Missing 60-Second Instant Project Cost Estimator: High-end homeowners shopping for tree removal & arborist services want fast ballparks. Without one, they submit quotes on 3 competitor websites instead.. RECOMMENDED HOOK: Offer a quick 30-second screen preview fixing Missing Sticky Mobile Bottom Call/Quote Bar with zero pitch pressure."
-      },
-      "vetted_at": "2026-11-11T09:10:17.688072+00:00"
     }
   },
   {
