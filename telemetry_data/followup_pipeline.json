@@ -715,7 +715,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:40.749197+00:00"
+    "bounced_at": "2026-11-12T21:08:57.235254+00:00"
   },
   "FZ-US-1792615202-9": {
     "lead_id": "FZ-US-1792615202-9",
@@ -1015,7 +1015,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:35.427075+00:00"
+    "bounced_at": "2026-11-12T21:08:51.914715+00:00"
   },
   "FZ-US-1792615385-4": {
     "lead_id": "FZ-US-1792615385-4",
@@ -1720,8 +1720,8 @@
     "state": "FL",
     "domain": "mackprorenovations.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -1730,7 +1730,7 @@
         "subject": "quick question for Vlad re mackprorenovations.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1766,8 +1766,8 @@
     "state": "FL",
     "domain": "steamcleaning.us",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -1776,7 +1776,7 @@
         "subject": "quick question for Operated Deep re steamcleaning.us"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1812,8 +1812,8 @@
     "state": "FL",
     "domain": "ssifacilityservices.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -1822,7 +1822,7 @@
         "subject": "quick question re ssifacilityservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -1951,8 +1951,8 @@
     "state": "FL",
     "domain": "zmcbuild.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -1961,7 +1961,7 @@
         "subject": "zmcbuild.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2010,7 +2010,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:35.200405+00:00"
+    "bounced_at": "2026-11-12T21:08:51.674006+00:00"
   },
   "FZ-US-1792616485-10": {
     "lead_id": "FZ-US-1792616485-10",
@@ -2380,7 +2380,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:29.170226+00:00"
+    "bounced_at": "2026-11-12T21:08:44.837637+00:00"
   },
   "FZ-US-1792616603-6": {
     "lead_id": "FZ-US-1792616603-6",
@@ -2474,7 +2474,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:34.282428+00:00"
+    "bounced_at": "2026-11-12T21:07:45.655842+00:00"
   },
   "FZ-US-1792616681-3": {
     "lead_id": "FZ-US-1792616681-3",
@@ -2554,8 +2554,8 @@
     "state": "FL",
     "domain": "odi-tampa.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -2564,7 +2564,7 @@
         "subject": "quick question for Ship re odi-tampa.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2669,8 +2669,8 @@
     "state": "TX",
     "domain": "texasfenceandiron.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '281-955-2050' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -2679,7 +2679,7 @@
         "subject": "quick question for Jobs re texasfenceandiron.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -2853,8 +2853,8 @@
     "state": "TX",
     "domain": "mpiredesigngroup.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -2863,7 +2863,7 @@
         "subject": "quick question re mpiredesigngroup.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3014,8 +3014,8 @@
     "state": "TX",
     "domain": "invisishield.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '713-539-6700' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3024,7 +3024,7 @@
         "subject": "quick question for Steve re invisishield.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3050,7 +3050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:44.164579+00:00"
+    "bounced_at": "2026-11-12T21:10:06.217843+00:00"
   },
   "FZ-US-1792618324-3": {
     "lead_id": "FZ-US-1792618324-3",
@@ -3084,8 +3084,8 @@
     "state": "TX",
     "domain": "solarsandhu.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3094,7 +3094,7 @@
         "subject": "quick question re solarsandhu.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3130,8 +3130,8 @@
     "state": "TX",
     "domain": "crvhomes.com",
     "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (Name, Email, Phone, SELECT, SELECT).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3140,7 +3140,7 @@
         "subject": "crvhomes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3176,8 +3176,8 @@
     "state": "TX",
     "domain": "craftedhome.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(713) 664-7131' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3186,7 +3186,7 @@
         "subject": "quick question for Jeff re craftedhome.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3360,8 +3360,8 @@
     "state": "TX",
     "domain": "zanderhomes.net",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '281.330.9893' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3370,7 +3370,7 @@
         "subject": "quick question for Everyone Seems re zanderhomes.net"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3475,8 +3475,8 @@
     "state": "TX",
     "domain": "tommystrees.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3485,7 +3485,7 @@
         "subject": "tommystrees.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3729,8 +3729,8 @@
     "state": "FL",
     "domain": "watermoldfire.net",
     "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (Your First Name, Your Last Name, Your Phone Number, Your Zip Code, What are you interested in?).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3739,7 +3739,7 @@
         "subject": "watermoldfire.net quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3775,8 +3775,8 @@
     "state": "FL",
     "domain": "reliancecpa.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(813) 931-7258' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3785,7 +3785,7 @@
         "subject": "quick question for On re reliancecpa.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3798,8 +3798,8 @@
     "state": "FL",
     "domain": "shamrockrc.net",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(339) 793-1426' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3808,7 +3808,7 @@
         "subject": "quick question for Zbsmith re shamrockrc.net"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -3937,8 +3937,8 @@
     "state": "FL",
     "domain": "dashcg.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -3947,7 +3947,7 @@
         "subject": "dashcg.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4065,7 +4065,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:59.383504+00:00"
+    "bounced_at": "2026-11-12T21:10:25.021872+00:00"
   },
   "FZ-US-1792621200-2": {
     "lead_id": "FZ-US-1792621200-2",
@@ -4113,7 +4113,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:36.370254+00:00"
+    "bounced_at": "2026-11-12T21:07:47.900634+00:00"
   },
   "FZ-US-1792621228-6": {
     "lead_id": "FZ-US-1792621228-6",
@@ -4355,8 +4355,8 @@
     "state": "FL",
     "domain": "cps-outdoors.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -4365,7 +4365,7 @@
         "subject": "cps-outdoors.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4424,8 +4424,8 @@
     "state": "FL",
     "domain": "dreamcleanmiami.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -4434,7 +4434,7 @@
         "subject": "quick question re dreamcleanmiami.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4447,8 +4447,8 @@
     "state": "FL",
     "domain": "parkslopecleaning.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -4457,7 +4457,7 @@
         "subject": "quick question for How re parkslopecleaning.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -4737,7 +4737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:34.051821+00:00"
+    "bounced_at": "2026-11-12T21:07:45.408769+00:00"
   },
   "FZ-US-1792623373-3": {
     "lead_id": "FZ-US-1792623373-3",
@@ -4784,7 +4784,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:49.138760+00:00"
+    "bounced_at": "2026-11-12T21:09:06.899319+00:00"
   },
   "FZ-US-1792623578-6": {
     "lead_id": "FZ-US-1792623578-6",
@@ -4808,7 +4808,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:02.329302+00:00"
+    "bounced_at": "2026-11-12T21:09:21.211817+00:00"
   },
   "FZ-US-1792623579-7": {
     "lead_id": "FZ-US-1792623579-7",
@@ -4832,7 +4832,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:43.098926+00:00"
+    "bounced_at": "2026-11-12T21:10:05.074082+00:00"
   },
   "FZ-US-1792623680-2": {
     "lead_id": "FZ-US-1792623680-2",
@@ -5479,7 +5479,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:34.973031+00:00"
+    "bounced_at": "2026-11-12T21:08:51.431053+00:00"
   },
   "FZ-US-1792625157-8": {
     "lead_id": "FZ-US-1792625157-8",
@@ -5503,7 +5503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:28.824862+00:00"
+    "bounced_at": "2026-11-12T21:08:44.360366+00:00"
   },
   "FZ-US-1792625188-3": {
     "lead_id": "FZ-US-1792625188-3",
@@ -5550,7 +5550,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:42.869072+00:00"
+    "bounced_at": "2026-11-12T21:10:04.826800+00:00"
   },
   "FZ-US-1792625308-19": {
     "lead_id": "FZ-US-1792625308-19",
@@ -5607,8 +5607,8 @@
     "state": "TX",
     "domain": "designagencyhouston.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -5617,7 +5617,7 @@
         "subject": "designagencyhouston.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5653,8 +5653,8 @@
     "state": "TX",
     "domain": "rivalroofingco.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -5663,7 +5663,7 @@
         "subject": "quick question for Alex re rivalroofingco.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5722,8 +5722,8 @@
     "state": "TX",
     "domain": "gracepaintingremodeling.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -5732,7 +5732,7 @@
         "subject": "quick question re gracepaintingremodeling.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5745,8 +5745,8 @@
     "state": "ON",
     "domain": "mrtreeman.ca",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '416-996-4822' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -5755,7 +5755,7 @@
         "subject": "mrtreeman.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5768,8 +5768,8 @@
     "state": "ON",
     "domain": "diamondshieldepoxy.site",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -5778,7 +5778,7 @@
         "subject": "diamondshieldepoxy.site mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -5814,8 +5814,8 @@
     "state": "ON",
     "domain": "prolayercoatings.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -5824,7 +5824,7 @@
         "subject": "prolayercoatings.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6575,8 +6575,8 @@
     "state": "ON",
     "domain": "elviano.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -6585,7 +6585,7 @@
         "subject": "quick question for Arman re elviano.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6703,7 +6703,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:02.101824+00:00"
+    "bounced_at": "2026-11-12T21:09:20.967733+00:00"
   },
   "FZ-US-1792627387-2": {
     "lead_id": "FZ-US-1792627387-2",
@@ -6714,8 +6714,8 @@
     "state": "TX",
     "domain": "proserveinc.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(512) 326-2811' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -6724,7 +6724,7 @@
         "subject": "quick question re proserveinc.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6968,8 +6968,8 @@
     "state": "TX",
     "domain": "mytaxprofessionals.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -6978,7 +6978,7 @@
         "subject": "quick question re mytaxprofessionals.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -6991,8 +6991,8 @@
     "state": "TX",
     "domain": "adscpafirm.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -7001,7 +7001,7 @@
         "subject": "quick question for Ship re adscpafirm.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -7314,8 +7314,8 @@
     "state": "TX",
     "domain": "fairfieldinnovations.com",
     "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (bot-field, John, Smith, john@youremail.com, (512) 123-4567).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -7324,7 +7324,7 @@
         "subject": "fairfieldinnovations.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -7511,7 +7511,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:31.614198+00:00"
+    "bounced_at": "2026-11-12T21:08:47.777406+00:00"
   },
   "FZ-US-1792627593-14": {
     "lead_id": "FZ-US-1792627593-14",
@@ -7545,8 +7545,8 @@
     "state": "TX",
     "domain": "livingproofcreative.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -7555,7 +7555,7 @@
         "subject": "quick question re livingproofcreative.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -7581,7 +7581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:35.009543+00:00"
+    "bounced_at": "2026-11-12T21:07:46.436552+00:00"
   },
   "FZ-US-1792627617-6": {
     "lead_id": "FZ-US-1792627617-6",
@@ -7791,7 +7791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:34.101781+00:00"
+    "bounced_at": "2026-11-12T21:08:50.499684+00:00"
   },
   "FZ-US-1792627691-1": {
     "lead_id": "FZ-US-1792627691-1",
@@ -7825,8 +7825,8 @@
     "state": "TX",
     "domain": "emeraldtreellc.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -7835,7 +7835,7 @@
         "subject": "emeraldtreellc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8101,8 +8101,8 @@
     "state": "TX",
     "domain": "highlinehomes.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -8111,7 +8111,7 @@
         "subject": "highlinehomes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8379,8 +8379,8 @@
     "state": "TX",
     "domain": "riversidehomesaustin.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '512.473.9930' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -8389,7 +8389,7 @@
         "subject": "riversidehomesaustin.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8448,8 +8448,8 @@
     "state": "TX",
     "domain": "texpainting.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -8458,7 +8458,7 @@
         "subject": "texpainting.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -8632,8 +8632,8 @@
     "state": "TX",
     "domain": "crspackout.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -8642,7 +8642,7 @@
         "subject": "crspackout.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T22:32:03.031733+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9602,8 +9602,8 @@
     "state": "ON",
     "domain": "elementfence.ca",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '416-231-6333' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -9612,7 +9612,7 @@
         "subject": "quick question re elementfence.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -9648,8 +9648,8 @@
     "state": "ON",
     "domain": "cityfence.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -9658,7 +9658,7 @@
         "subject": "quick question for Leads re cityfence.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T20:47:13.991843+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10292,8 +10292,8 @@
     "state": "ON",
     "domain": "guttergang.ca",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -10302,7 +10302,7 @@
         "subject": "guttergang.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10430,8 +10430,8 @@
     "state": "ON",
     "domain": "cruzsmaintenance.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -10440,7 +10440,7 @@
         "subject": "cruzsmaintenance.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10476,8 +10476,8 @@
     "state": "ON",
     "domain": "revivalautocare.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -10486,7 +10486,7 @@
         "subject": "revivalautocare.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10545,8 +10545,8 @@
     "state": "ON",
     "domain": "strongbasements.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -10555,7 +10555,7 @@
         "subject": "strongbasements.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10592,8 +10592,8 @@
     "state": "ON",
     "domain": "rvltaxsolutions.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -10602,7 +10602,7 @@
         "subject": "quick question re rvltaxsolutions.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10638,8 +10638,8 @@
     "state": "ON",
     "domain": "tataxacc.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(416) 391 4646' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -10648,7 +10648,7 @@
         "subject": "tataxacc.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10891,8 +10891,8 @@
     "state": "ON",
     "domain": "mcjanitorialsystems.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -10901,7 +10901,7 @@
         "subject": "quick question for Blog re mcjanitorialsystems.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -10938,8 +10938,8 @@
     "state": "TN",
     "domain": "mikedoddcpa.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -10948,7 +10948,7 @@
         "subject": "mikedoddcpa.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -11076,8 +11076,8 @@
     "state": "TN",
     "domain": "turarenovation.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -11086,7 +11086,7 @@
         "subject": "quick question for Specialized re turarenovation.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -11237,8 +11237,8 @@
     "state": "TN",
     "domain": "performancewaterproofingllc.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -11247,7 +11247,7 @@
         "subject": "quick question for Was Preparing re performancewaterproofingllc.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -11490,8 +11490,8 @@
     "state": "TN",
     "domain": "tgggarage.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -11500,7 +11500,7 @@
         "subject": "tgggarage.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -11536,8 +11536,8 @@
     "state": "TN",
     "domain": "nashvilleinteractive.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -11546,7 +11546,7 @@
         "subject": "quick question for Cbradshaw re nashvilleinteractive.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -11559,8 +11559,8 @@
     "state": "TN",
     "domain": "1bigwebdesign.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -11569,7 +11569,7 @@
         "subject": "1bigwebdesign.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -11605,8 +11605,8 @@
     "state": "TN",
     "domain": "st8mnt.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -11615,7 +11615,7 @@
         "subject": "st8mnt.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -13557,7 +13557,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:33.873546+00:00"
+    "bounced_at": "2026-11-12T21:08:50.257974+00:00"
   },
   "FZ-US-1792787245-4": {
     "lead_id": "FZ-US-1792787245-4",
@@ -15157,7 +15157,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:40.502161+00:00"
+    "bounced_at": "2026-11-12T21:08:57.010755+00:00"
   },
   "FZ-US-1792815633-6": {
     "lead_id": "FZ-US-1792815633-6",
@@ -15619,7 +15619,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:58.883071+00:00"
+    "bounced_at": "2026-11-12T21:10:24.417947+00:00"
   },
   "FZ-US-1792820218-5": {
     "lead_id": "FZ-US-1792820218-5",
@@ -17085,8 +17085,8 @@
     "state": "AZ",
     "domain": "proofpest.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17095,7 +17095,7 @@
         "subject": "quick question re proofpest.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:57:10.525703+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -17108,8 +17108,8 @@
     "state": "AZ",
     "domain": "rushpest.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17118,7 +17118,7 @@
         "subject": "quick question for Mail re rushpest.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:57:10.525703+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -17443,7 +17443,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:35.939030+00:00"
+    "bounced_at": "2026-11-12T21:07:47.440056+00:00"
   },
   "FZ-US-1792726568-1": {
     "lead_id": "FZ-US-1792726568-1",
@@ -17477,8 +17477,8 @@
     "state": "FL",
     "domain": "madisonavegraphics.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17487,7 +17487,7 @@
         "subject": "quick question for Mtiger re madisonavegraphics.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -17524,8 +17524,8 @@
     "state": "FL",
     "domain": "tailormadebranding.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17534,7 +17534,7 @@
         "subject": "quick question re tailormadebranding.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -17639,8 +17639,8 @@
     "state": "FL",
     "domain": "solidfoundationrepairofwintersprings.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17649,7 +17649,7 @@
         "subject": "quick question re solidfoundationrepairofwintersprings.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -17731,8 +17731,8 @@
     "state": "ON",
     "domain": "unitedproservice.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17741,7 +17741,7 @@
         "subject": "quick question for Occupied Buildings re unitedproservice.ca"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -17870,8 +17870,8 @@
     "state": "ON",
     "domain": "albaitalia-renovation-ltd.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17880,7 +17880,7 @@
         "subject": "albaitalia-renovation-ltd.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -17916,8 +17916,8 @@
     "state": "ON",
     "domain": "jjwindowfilms.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17926,7 +17926,7 @@
         "subject": "jjwindowfilms.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -17939,8 +17939,8 @@
     "state": "ON",
     "domain": "torontoepoxy.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -17949,7 +17949,7 @@
         "subject": "quick question re torontoepoxy.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18171,8 +18171,8 @@
     "state": "FL",
     "domain": "bdcreativestudio.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '786-393-8945' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18181,7 +18181,7 @@
         "subject": "bdcreativestudio.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18240,8 +18240,8 @@
     "state": "FL",
     "domain": "thestalker.miami",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18250,7 +18250,7 @@
         "subject": "quick question for Daniela re thestalker.miami"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18263,8 +18263,8 @@
     "state": "FL",
     "domain": "andersoncollaborative.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18273,7 +18273,7 @@
         "subject": "quick question for Trevor Anderson re andersoncollaborative.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18286,8 +18286,8 @@
     "state": "FL",
     "domain": "lanpdt.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18296,7 +18296,7 @@
         "subject": "quick question for Interview re lanpdt.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18309,8 +18309,8 @@
     "state": "FL",
     "domain": "leakexpertsmiami.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18319,7 +18319,7 @@
         "subject": "quick question for Leakexpertsmiami re leakexpertsmiami.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18332,8 +18332,8 @@
     "state": "FL",
     "domain": "diamondcleanandservice.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18342,7 +18342,7 @@
         "subject": "quick question re diamondcleanandservice.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18517,8 +18517,8 @@
     "state": "NC",
     "domain": "varenzadesignbuild.com",
     "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (Jane, Doe, jane@email.com, (980) 000-0000, Street, city, ZIP).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18527,7 +18527,7 @@
         "subject": "varenzadesignbuild.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18563,8 +18563,8 @@
     "state": "NC",
     "domain": "whitlockbuilders.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18573,7 +18573,7 @@
         "subject": "quick question for Hubert Whitlock re whitlockbuilders.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18586,8 +18586,8 @@
     "state": "NC",
     "domain": "astraplumbing.com",
     "flaw_summary": "Mobile Tap Targets Below 44px (Misfire Hazard) (Found 7 interactive buttons/links under 44x44px threshold.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18596,7 +18596,7 @@
         "subject": "quick question re astraplumbing.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18632,8 +18632,8 @@
     "state": "NC",
     "domain": "charlottetaxguy.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18642,7 +18642,7 @@
         "subject": "quick question for Regdavies re charlottetaxguy.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18701,8 +18701,8 @@
     "state": "NC",
     "domain": "theplaidpenguin.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '704 919 1726' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18711,7 +18711,7 @@
         "subject": "quick question re theplaidpenguin.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18737,7 +18737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:04.305133+00:00"
+    "bounced_at": "2026-11-12T21:09:23.304265+00:00"
   },
   "FZ-US-1792794996-4": {
     "lead_id": "FZ-US-1792794996-4",
@@ -18748,8 +18748,8 @@
     "state": "NC",
     "domain": "witgroupagency.com",
     "flaw_summary": "Excessive Form Fields (13 inputs) Causing High Drop-Off (Detected static form with 13 fields (ak_hp_textarea, input_20, Name*, First Name, Last Name).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18758,7 +18758,7 @@
         "subject": "quick question for Delarkin Mattress re witgroupagency.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -18933,8 +18933,8 @@
     "state": "TN",
     "domain": "ocsconcretesolutions.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -18943,7 +18943,7 @@
         "subject": "quick question for Matt re ocsconcretesolutions.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19325,8 +19325,8 @@
     "state": "GA",
     "domain": "titanarbor.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -19335,7 +19335,7 @@
         "subject": "titanarbor.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19371,8 +19371,8 @@
     "state": "GA",
     "domain": "northsidebuilders.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -19381,7 +19381,7 @@
         "subject": "quick question for Throughout Your re northsidebuilders.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19486,8 +19486,8 @@
     "state": "GA",
     "domain": "craftbuilt.net",
     "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (your-name, your-email, tel-900, text-457, text-91).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -19496,7 +19496,7 @@
         "subject": "craftbuilt.net quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19509,8 +19509,8 @@
     "state": "GA",
     "domain": "macallanhomes.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -19519,7 +19519,7 @@
         "subject": "macallanhomes.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19532,8 +19532,8 @@
     "state": "GA",
     "domain": "360c-d.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -19542,7 +19542,7 @@
         "subject": "quick question for Infoatl re 360c-d.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19555,8 +19555,8 @@
     "state": "GA",
     "domain": "jrmcdowellhomes.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -19565,7 +19565,7 @@
         "subject": "jrmcdowellhomes.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19716,8 +19716,8 @@
     "state": "GA",
     "domain": "gusojanitorialservices.com",
     "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (input_7, Your Name(*), Email Address(*), Phone Number(*), Message).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -19726,7 +19726,7 @@
         "subject": "quick question for Gusojanitorial re gusojanitorialservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19970,8 +19970,8 @@
     "state": "GA",
     "domain": "rpmlandscapeandpavers.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -19980,7 +19980,7 @@
         "subject": "quick question re rpmlandscapeandpavers.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -19993,8 +19993,8 @@
     "state": "GA",
     "domain": "solarsupersonic.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -20003,7 +20003,7 @@
         "subject": "solarsupersonic.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -20133,8 +20133,8 @@
     "state": "GA",
     "domain": "atlantatint.com",
     "flaw_summary": "Excessive Form Fields (14 inputs) Causing High Drop-Off (Detected static form with 14 fields (dmform-0, dmform-1, dmform-2, dmform-4, dmform-5).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -20143,7 +20143,7 @@
         "subject": "atlantatint.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -20410,8 +20410,8 @@
     "state": "GA",
     "domain": "atlgroup.biz",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (Name, Email, Phone, Comments, INPUT).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -20420,7 +20420,7 @@
         "subject": "quick question re atlgroup.biz"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -20525,8 +20525,8 @@
     "state": "GA",
     "domain": "myfenceman.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -20535,7 +20535,7 @@
         "subject": "quick question for Michael re myfenceman.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -20572,8 +20572,8 @@
     "state": "GA",
     "domain": "grindkingsflooring.com",
     "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (INPUT, INPUT, INPUT, TEXTAREA, SELECT).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -20582,7 +20582,7 @@
         "subject": "grindkingsflooring.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -20595,8 +20595,8 @@
     "state": "GA",
     "domain": "liquidepoxyschool.co",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -20605,7 +20605,7 @@
         "subject": "liquidepoxyschool.co quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -20618,8 +20618,8 @@
     "state": "GA",
     "domain": "atlanticsurfacecoatings.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -20628,7 +20628,7 @@
         "subject": "atlanticsurfacecoatings.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -20664,8 +20664,8 @@
     "state": "GA",
     "domain": "hslpools.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -20674,7 +20674,7 @@
         "subject": "quick question for Home re hslpools.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -20794,7 +20794,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:31.576956+00:00"
+    "bounced_at": "2026-11-12T21:07:42.792125+00:00"
   },
   "FZ-US-1792822929-9": {
     "lead_id": "FZ-US-1792822929-9",
@@ -21451,8 +21451,8 @@
     "state": "IN",
     "domain": "indypropowerwashing.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -21461,7 +21461,7 @@
         "subject": "indypropowerwashing.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -21497,8 +21497,8 @@
     "state": "IN",
     "domain": "newpointservices.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '317-255-7275' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -21507,7 +21507,7 @@
         "subject": "quick question re newpointservices.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -21520,8 +21520,8 @@
     "state": "IN",
     "domain": "mopitlikeitshot.net",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -21530,7 +21530,7 @@
         "subject": "mopitlikeitshot.net mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -21589,8 +21589,8 @@
     "state": "OH",
     "domain": "jnimmigration.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -21599,7 +21599,7 @@
         "subject": "quick question re jnimmigration.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -21658,8 +21658,8 @@
     "state": "OH",
     "domain": "lawfirm4immigrants.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -21668,7 +21668,7 @@
         "subject": "quick question for Richard re lawfirm4immigrants.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -21681,8 +21681,8 @@
     "state": "OH",
     "domain": "tanglawoffice.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -21691,7 +21691,7 @@
         "subject": "quick question for Tangming re tanglawoffice.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -21704,8 +21704,8 @@
     "state": "OH",
     "domain": "attorneyjanelee.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -21714,7 +21714,7 @@
         "subject": "quick question for Trump re attorneyjanelee.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -21750,8 +21750,8 @@
     "state": "OH",
     "domain": "jabelawoffice.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '614-636-4926' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -21760,7 +21760,7 @@
         "subject": "quick question for Teresa Parsons re jabelawoffice.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -21971,7 +21971,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:31.862507+00:00"
+    "bounced_at": "2026-11-12T21:08:48.057559+00:00"
   },
   "FZ-US-1792855037-6": {
     "lead_id": "FZ-US-1792855037-6",
@@ -22041,7 +22041,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:35.705702+00:00"
+    "bounced_at": "2026-11-12T21:07:47.188695+00:00"
   },
   "FZ-US-1792855104-3": {
     "lead_id": "FZ-US-1792855104-3",
@@ -22121,8 +22121,8 @@
     "state": "GA",
     "domain": "vortexga.com",
     "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (Your name, you@example.com, Best number to reach you, City, county or address, service).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -22131,7 +22131,7 @@
         "subject": "vortexga.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -22144,8 +22144,8 @@
     "state": "GA",
     "domain": "finlonenterprisesinc.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '770-271-4474' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -22154,7 +22154,7 @@
         "subject": "quick question re finlonenterprisesinc.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -22167,8 +22167,8 @@
     "state": "GA",
     "domain": "demolition-dawgs.net",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -22177,7 +22177,7 @@
         "subject": "demolition-dawgs.net quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -22213,8 +22213,8 @@
     "state": "GA",
     "domain": "knightperimeter.com",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (Your Name *, Email Address *, Phone Number, service, Tell us about your project... *).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -22223,7 +22223,7 @@
         "subject": "knightperimeter.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:19:52.654175+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -22329,8 +22329,8 @@
     "state": "GA",
     "domain": "sdremodelingatl.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -22339,7 +22339,7 @@
         "subject": "quick question for Amanda Speciale re sdremodelingatl.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -22375,8 +22375,8 @@
     "state": "GA",
     "domain": "aldridgeexcavation.com",
     "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Name, Email, Phone, Address, Subject).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -22385,7 +22385,7 @@
         "subject": "aldridgeexcavation.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -22398,8 +22398,8 @@
     "state": "GA",
     "domain": "alpha-omegainc.com",
     "flaw_summary": "Excessive Form Fields (13 inputs) Causing High Drop-Off (Detected static form with 13 fields (First Name, Last Name, Email Address, Phone, Street Address).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -22408,7 +22408,7 @@
         "subject": "alpha-omegainc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -22444,8 +22444,8 @@
     "state": "NC",
     "domain": "fortmilllocksmith.net",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -22454,7 +22454,7 @@
         "subject": "fortmilllocksmith.net mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -22503,7 +22503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:40.255328+00:00"
+    "bounced_at": "2026-11-12T21:08:56.776408+00:00"
   },
   "FZ-US-1792859094-8": {
     "lead_id": "FZ-US-1792859094-8",
@@ -23126,7 +23126,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:59.133882+00:00"
+    "bounced_at": "2026-11-12T21:10:24.698726+00:00"
   },
   "FZ-CA-1792617030-6": {
     "lead_id": "FZ-CA-1792617030-6",
@@ -24002,7 +24002,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:28.581064+00:00"
+    "bounced_at": "2026-11-12T21:08:44.071567+00:00"
   },
   "FZ-CA-1792631077-1": {
     "lead_id": "FZ-CA-1792631077-1",
@@ -24566,8 +24566,8 @@
     "state": "BC",
     "domain": "curvecommunications.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(604) 684-3170' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -24576,7 +24576,7 @@
         "subject": "quick question for Curve re curvecommunications.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:57:10.525703+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -24681,8 +24681,8 @@
     "state": "BC",
     "domain": "ironforgeindustrialpainting.ca",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -24691,7 +24691,7 @@
         "subject": "ironforgeindustrialpainting.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:57:10.525703+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -24774,8 +24774,8 @@
     "state": "BC",
     "domain": "vancouverfacialplasticsurgery.com",
     "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (Full Name*, WC How to Help *, Phone Number*, Email Address*, ProcedureOfInterest).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -24784,7 +24784,7 @@
         "subject": "vancouverfacialplasticsurgery.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:57:10.525703+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -25650,8 +25650,8 @@
     "state": "BC",
     "domain": "nuconceptgarage.ca",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -25660,7 +25660,7 @@
         "subject": "nuconceptgarage.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:57:10.525703+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -25673,8 +25673,8 @@
     "state": "BC",
     "domain": "titanwindowfilms.com",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (sd_contact_extra, text_input_0, email_1, 123-456-7890, textarea_3).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -25683,7 +25683,7 @@
         "subject": "titanwindowfilms.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:57:10.525703+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -25742,8 +25742,8 @@
     "state": "BC",
     "domain": "eurocanpools.ca",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (first-name, last-name, email, phone, TEXTAREA).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -25752,7 +25752,7 @@
         "subject": "eurocanpools.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T22:57:10.525703+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -26572,8 +26572,8 @@
     "state": "CO",
     "domain": "coloradoimmigrant.org",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '844-864-8341' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -26582,7 +26582,7 @@
         "subject": "quick question for Has re coloradoimmigrant.org"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -26631,7 +26631,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:35.475878+00:00"
+    "bounced_at": "2026-11-12T21:07:46.939919+00:00"
   },
   "FZ-US-1792634387-4": {
     "lead_id": "FZ-US-1792634387-4",
@@ -27414,7 +27414,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:33.643306+00:00"
+    "bounced_at": "2026-11-12T21:08:50.011122+00:00"
   },
   "FZ-US-1792634670-6": {
     "lead_id": "FZ-US-1792634670-6",
@@ -27438,7 +27438,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:27.633445+00:00"
+    "bounced_at": "2026-11-12T21:08:42.849042+00:00"
   },
   "FZ-US-1792634676-8": {
     "lead_id": "FZ-US-1792634676-8",
@@ -27702,8 +27702,8 @@
     "state": "CA",
     "domain": "moralesdesign.net",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -27712,7 +27712,7 @@
         "subject": "moralesdesign.net quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -27771,8 +27771,8 @@
     "state": "CA",
     "domain": "thecreativebrandarchitects.com",
     "flaw_summary": "Excessive Form Fields (17 inputs) Causing High Drop-Off (Detected static form with 17 fields (YOUR FULL NAME *, YOUR BUSINESS NAME *, YOUR EMAIL ADDRESS, YOUR WEBSITE OR INSTAGRAM HANDLE *, HOW LONG HAVE YOU BEEN IN THE BUSINESS? *).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -27781,7 +27781,7 @@
         "subject": "quick question for From re thecreativebrandarchitects.com"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -28025,8 +28025,8 @@
     "state": "CA",
     "domain": "evergreen-solar.net",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -28035,7 +28035,7 @@
         "subject": "quick question for Bryan re evergreen-solar.net"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -28913,7 +28913,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:35.242845+00:00"
+    "bounced_at": "2026-11-12T21:07:46.690810+00:00"
   },
   "FZ-US-1792642159-2": {
     "lead_id": "FZ-US-1792642159-2",
@@ -29154,8 +29154,8 @@
     "state": "TN",
     "domain": "watermarkpools.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -29164,7 +29164,7 @@
         "subject": "watermarkpools.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -29223,8 +29223,8 @@
     "state": "TN",
     "domain": "vettints.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -29233,7 +29233,7 @@
         "subject": "vettints.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -29246,8 +29246,8 @@
     "state": "TN",
     "domain": "e3innovate.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -29256,7 +29256,7 @@
         "subject": "e3innovate.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -29269,8 +29269,8 @@
     "state": "FL",
     "domain": "jwoodcpa.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -29279,7 +29279,7 @@
         "subject": "quick question for Tax re jwoodcpa.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -29292,8 +29292,8 @@
     "state": "FL",
     "domain": "sullivancpatampa.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '813-559-9934' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -29302,7 +29302,7 @@
         "subject": "quick question for Bsullivan re sullivancpatampa.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -29315,8 +29315,8 @@
     "state": "FL",
     "domain": "frankartz.com",
     "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (name, phone, email, need, message).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -29325,7 +29325,7 @@
         "subject": "frankartz.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -29397,7 +29397,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:40.002915+00:00"
+    "bounced_at": "2026-11-12T21:08:56.546318+00:00"
   },
   "FZ-US-1792642252-5": {
     "lead_id": "FZ-US-1792642252-5",
@@ -29444,7 +29444,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:34.335233+00:00"
+    "bounced_at": "2026-11-12T21:08:50.748967+00:00"
   },
   "FZ-US-1792642258-9": {
     "lead_id": "FZ-US-1792642258-9",
@@ -29639,8 +29639,8 @@
     "state": "AZ",
     "domain": "palabramedia.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -29649,7 +29649,7 @@
         "subject": "palabramedia.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -29790,7 +29790,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:32.923765+00:00"
+    "bounced_at": "2026-11-12T21:08:49.246192+00:00"
   },
   "FZ-US-1792642402-11": {
     "lead_id": "FZ-US-1792642402-11",
@@ -30147,8 +30147,8 @@
     "state": "CA",
     "domain": "sevenhomeimprovement.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -30157,7 +30157,7 @@
         "subject": "sevenhomeimprovement.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -30193,8 +30193,8 @@
     "state": "CA",
     "domain": "modernconcept-int.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -30203,7 +30203,7 @@
         "subject": "modernconcept-int.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -30285,8 +30285,8 @@
     "state": "CA",
     "domain": "sd-cpa.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -30295,7 +30295,7 @@
         "subject": "quick question for Shawn re sd-cpa.com"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -30482,7 +30482,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:43.928736+00:00"
+    "bounced_at": "2026-11-12T21:10:05.973730+00:00"
   },
   "FZ-US-1792643924-1": {
     "lead_id": "FZ-US-1792643924-1",
@@ -31552,8 +31552,8 @@
     "state": "FL",
     "domain": "devoecustomhomes.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '407-234-5709' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -31562,7 +31562,7 @@
         "subject": "devoecustomhomes.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -31598,8 +31598,8 @@
     "state": "FL",
     "domain": "kustomhomesfl.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(407)-590-2581' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -31608,7 +31608,7 @@
         "subject": "kustomhomesfl.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -31690,8 +31690,8 @@
     "state": "FL",
     "domain": "mintbuildersllc.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -31700,7 +31700,7 @@
         "subject": "quick question for La re mintbuildersllc.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -31713,8 +31713,8 @@
     "state": "FL",
     "domain": "drydentaxres.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -31723,7 +31723,7 @@
         "subject": "drydentaxres.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -31760,8 +31760,8 @@
     "state": "FL",
     "domain": "paintez.com",
     "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (input_20, input_1.3, input_1.6, input_4, input_3).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -31770,7 +31770,7 @@
         "subject": "paintez.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -31783,8 +31783,8 @@
     "state": "FL",
     "domain": "shepardcontractors.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -31793,7 +31793,7 @@
         "subject": "quick question re shepardcontractors.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -31819,7 +31819,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:48.410780+00:00"
+    "bounced_at": "2026-11-12T21:09:06.089015+00:00"
   },
   "FZ-US-1792648374-2": {
     "lead_id": "FZ-US-1792648374-2",
@@ -32108,8 +32108,8 @@
     "state": "NC",
     "domain": "brandrpm.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '704-225-1800' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32118,7 +32118,7 @@
         "subject": "quick question re brandrpm.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32131,8 +32131,8 @@
     "state": "NC",
     "domain": "goodbrandcompany.com",
     "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (Name*, Email*, Phone, Subject*, Message*).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32141,7 +32141,7 @@
         "subject": "quick question re goodbrandcompany.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32178,8 +32178,8 @@
     "state": "NC",
     "domain": "piedmontfoundationrepair.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32188,7 +32188,7 @@
         "subject": "piedmontfoundationrepair.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32272,8 +32272,8 @@
     "state": "NC",
     "domain": "southcharlottemobiledetailing.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(704) 389-0360' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32282,7 +32282,7 @@
         "subject": "quick question for Johnathan re southcharlottemobiledetailing.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32388,8 +32388,8 @@
     "state": "NC",
     "domain": "marcello.homes",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32398,7 +32398,7 @@
         "subject": "quick question for Viktor re marcello.homes"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32411,8 +32411,8 @@
     "state": "NC",
     "domain": "carolinacraftsmanbuilders.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32421,7 +32421,7 @@
         "subject": "quick question re carolinacraftsmanbuilders.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32434,8 +32434,8 @@
     "state": "NC",
     "domain": "kingerhomes.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32444,7 +32444,7 @@
         "subject": "quick question for Login re kingerhomes.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32457,8 +32457,8 @@
     "state": "NC",
     "domain": "chelseadesignbuild.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32467,7 +32467,7 @@
         "subject": "chelseadesignbuild.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32503,8 +32503,8 @@
     "state": "NC",
     "domain": "thrdesignbuild.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '704.595.3573' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32513,7 +32513,7 @@
         "subject": "quick question for As re thrdesignbuild.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32919,8 +32919,8 @@
     "state": "NC",
     "domain": "antoniocc.com",
     "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (INPUT, INPUT, INPUT, INPUT, INPUT).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32929,7 +32929,7 @@
         "subject": "antoniocc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32965,8 +32965,8 @@
     "state": "NC",
     "domain": "royalecleaningservice.com",
     "flaw_summary": "Uncompressed Above-The-Fold Hero Image Slowing Mobile LCP (Hero image 'https://static.wixstatic.com/media/a1a9b6_932ea9f8a4c64ff79cf3bb313cd9' is not using next-gen WebP or modern responsive srcset.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32975,7 +32975,7 @@
         "subject": "quick question for Contactsales re royalecleaningservice.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -32988,8 +32988,8 @@
     "state": "NC",
     "domain": "gcscleaningservicesllc.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -32998,7 +32998,7 @@
         "subject": "quick question for Commercialmanager re gcscleaningservicesllc.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33011,8 +33011,8 @@
     "state": "NC",
     "domain": "umcclean.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33021,7 +33021,7 @@
         "subject": "quick question for Ship re umcclean.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33080,8 +33080,8 @@
     "state": "NC",
     "domain": "matoroconsulting.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '+1 (704) 576-6761' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33090,7 +33090,7 @@
         "subject": "quick question for Latinos re matoroconsulting.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33126,8 +33126,8 @@
     "state": "FL",
     "domain": "fence4u.biz",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33136,7 +33136,7 @@
         "subject": "quick question for Long re fence4u.biz"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33149,8 +33149,8 @@
     "state": "FL",
     "domain": "chappellroberts.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33159,7 +33159,7 @@
         "subject": "chappellroberts.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33172,8 +33172,8 @@
     "state": "FL",
     "domain": "thebcprgroup.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33182,7 +33182,7 @@
         "subject": "quick question re thebcprgroup.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33565,8 +33565,8 @@
     "state": "ON",
     "domain": "bfr.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33575,7 +33575,7 @@
         "subject": "quick question for Calling re bfr.ca"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33588,8 +33588,8 @@
     "state": "ON",
     "domain": "clean-way.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33598,7 +33598,7 @@
         "subject": "clean-way.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33611,8 +33611,8 @@
     "state": "ON",
     "domain": "lqconsultants.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33621,7 +33621,7 @@
         "subject": "lqconsultants.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33657,8 +33657,8 @@
     "state": "ON",
     "domain": "poolboysinc.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '647 401-7665' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33667,7 +33667,7 @@
         "subject": "quick question for Ship re poolboysinc.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33773,8 +33773,8 @@
     "state": "FL",
     "domain": "epoxyfloorspremium.com",
     "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (INPUT, INPUT, INPUT, INPUT, INPUT).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33783,7 +33783,7 @@
         "subject": "epoxyfloorspremium.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33819,8 +33819,8 @@
     "state": "FL",
     "domain": "discounttreeservicemiami.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(305) 859-3745' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33829,7 +33829,7 @@
         "subject": "quick question re discounttreeservicemiami.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33842,8 +33842,8 @@
     "state": "FL",
     "domain": "cocotreeservice.com",
     "flaw_summary": "Excessive Form Fields (15 inputs) Causing High Drop-Off (Detected static form with 15 fields (name-1, email-1, phone-1, e.g. 33142, checkbox-1[]).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33852,7 +33852,7 @@
         "subject": "quick question for Coco re cocotreeservice.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -33912,8 +33912,8 @@
     "state": "FL",
     "domain": "adonayinc.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -33922,7 +33922,7 @@
         "subject": "adonayinc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -34248,7 +34248,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:03.850003+00:00"
+    "bounced_at": "2026-11-12T21:09:22.839149+00:00"
   },
   "FZ-CA-1792663418-2": {
     "lead_id": "FZ-CA-1792663418-2",
@@ -34328,8 +34328,8 @@
     "state": "BC",
     "domain": "vlandscaping.ca",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -34338,7 +34338,7 @@
         "subject": "quick question re vlandscaping.ca"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -34676,8 +34676,8 @@
     "state": "AZ",
     "domain": "canyonsunriseroofing.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -34686,7 +34686,7 @@
         "subject": "quick question for Canyon Sunrise re canyonsunriseroofing.com"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -34999,8 +34999,8 @@
     "state": "FL",
     "domain": "agenciadelpueblo.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '+1 813 815 4466' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -35009,7 +35009,7 @@
         "subject": "quick question for Jessica re agenciadelpueblo.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -35252,8 +35252,8 @@
     "state": "TX",
     "domain": "trendimarketing.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -35262,7 +35262,7 @@
         "subject": "trendimarketing.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -35413,8 +35413,8 @@
     "state": "TX",
     "domain": "tannerhomesdfw.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '214.264.6874' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -35423,7 +35423,7 @@
         "subject": "quick question for Tanner re tannerhomesdfw.com"
       }
     ],
-    "next_followup_due": "2026-11-07T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -35666,8 +35666,8 @@
     "state": "TX",
     "domain": "earthgreenlands.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -35676,7 +35676,7 @@
         "subject": "quick question for Rafael re earthgreenlands.com"
       }
     ],
-    "next_followup_due": "2026-11-07T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -35736,8 +35736,8 @@
     "state": "AZ",
     "domain": "8acoatings.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -35746,7 +35746,7 @@
         "subject": "8acoatings.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-06T23:17:07.831775+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -35887,7 +35887,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:26.839756+00:00"
+    "bounced_at": "2026-11-12T21:08:41.928675+00:00"
   },
   "FZ-US-1792673138-2": {
     "lead_id": "FZ-US-1792673138-2",
@@ -36556,7 +36556,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:03.611687+00:00"
+    "bounced_at": "2026-11-12T21:09:22.583766+00:00"
   },
   "FZ-US-1792673629-6": {
     "lead_id": "FZ-US-1792673629-6",
@@ -37216,8 +37216,8 @@
     "state": "CA",
     "domain": "goduo.co",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37226,7 +37226,7 @@
         "subject": "goduo.co quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T00:06:17.415391+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37401,8 +37401,8 @@
     "state": "CA",
     "domain": "legourmetkitchen.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37411,7 +37411,7 @@
         "subject": "quick question for Senior Designers re legourmetkitchen.com"
       }
     ],
-    "next_followup_due": "2026-11-07T00:06:17.415391+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37493,8 +37493,8 @@
     "state": "TX",
     "domain": "cesarpressurewashing.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37503,7 +37503,7 @@
         "subject": "cesarpressurewashing.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37539,8 +37539,8 @@
     "state": "TX",
     "domain": "unicreteflooring.com",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (Your Name, Your E-mail, Phone:, Your Comment, INPUT).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37549,7 +37549,7 @@
         "subject": "unicreteflooring.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37700,8 +37700,8 @@
     "state": "NC",
     "domain": "key.me",
     "flaw_summary": "Mobile Viewport Overflows Screen by 16px (Document scrollWidth (406px) exceeds device viewport (390px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37710,7 +37710,7 @@
         "subject": "quick note for In re key.me"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37723,8 +37723,8 @@
     "state": "NC",
     "domain": "tclockandkey.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(803) 325-7999' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37733,7 +37733,7 @@
         "subject": "quick question re tclockandkey.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37746,8 +37746,8 @@
     "state": "NC",
     "domain": "concordlocksmithservice.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37756,7 +37756,7 @@
         "subject": "quick question re concordlocksmithservice.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37792,8 +37792,8 @@
     "state": "NC",
     "domain": "prestigeprotected.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37802,7 +37802,7 @@
         "subject": "quick question for Satisfaction re prestigeprotected.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37838,8 +37838,8 @@
     "state": "NC",
     "domain": "triangle-shine.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37848,7 +37848,7 @@
         "subject": "triangle-shine.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37861,8 +37861,8 @@
     "state": "TN",
     "domain": "davidsondetail.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37871,7 +37871,7 @@
         "subject": "quick question for Leading re davidsondetail.com"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -37907,8 +37907,8 @@
     "state": "TN",
     "domain": "86autolab.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -37917,7 +37917,7 @@
         "subject": "86autolab.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-08T20:37:52.775688+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -38783,8 +38783,8 @@
     "state": "MO",
     "domain": "d1roofingco.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -38793,7 +38793,7 @@
         "subject": "quick question re d1roofingco.com"
       }
     ],
-    "next_followup_due": "2026-11-07T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -39487,7 +39487,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:58.635057+00:00"
+    "bounced_at": "2026-11-12T21:10:24.152951+00:00"
   },
   "FZ-AU-1792615707-7": {
     "lead_id": "FZ-AU-1792615707-7",
@@ -40638,7 +40638,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:58.377584+00:00"
+    "bounced_at": "2026-11-12T21:10:23.702463+00:00"
   },
   "FZ-AU-1792651066-1": {
     "lead_id": "FZ-AU-1792651066-1",
@@ -42516,8 +42516,8 @@
     "state": "NSW",
     "domain": "solargraphglasstinting.com.au",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -42526,7 +42526,7 @@
         "subject": "solargraphglasstinting.com.au mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T00:06:17.415391+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -42632,8 +42632,8 @@
     "state": "NSW",
     "domain": "trbs.com.au",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -42642,7 +42642,7 @@
         "subject": "trbs.com.au quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T00:06:17.415391+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -43806,8 +43806,8 @@
     "state": "NSW",
     "domain": "lovelandscapes.com.au",
     "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (Name*, Phone*, Email*, Suburb*, whatservice).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -43816,7 +43816,7 @@
         "subject": "quick question re lovelandscapes.com.au"
       }
     ],
-    "next_followup_due": "2026-11-07T22:02:22.780390+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -45458,7 +45458,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:42.401759+00:00"
+    "bounced_at": "2026-11-12T21:10:04.314907+00:00"
   },
   "FZ-CA-1792884623-10": {
     "lead_id": "FZ-CA-1792884623-10",
@@ -45506,7 +45506,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:01.866360+00:00"
+    "bounced_at": "2026-11-12T21:09:20.722521+00:00"
   },
   "FZ-CA-1792884655-12": {
     "lead_id": "FZ-CA-1792884655-12",
@@ -45517,8 +45517,8 @@
     "state": "AB",
     "domain": "lionheartcontractorsltd.ca",
     "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Your Name, Phone Number, Email Address, Your Project Details, g-recaptcha-response).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -45527,7 +45527,7 @@
         "subject": "quick question for Looking To re lionheartcontractorsltd.ca"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -45586,8 +45586,8 @@
     "state": "AB",
     "domain": "lgpconstructioninc.ca",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -45596,7 +45596,7 @@
         "subject": "quick question for Saverioaiello re lgpconstructioninc.ca"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -45632,8 +45632,8 @@
     "state": "AB",
     "domain": "edgeconcrete.ca",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -45642,7 +45642,7 @@
         "subject": "edgeconcrete.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -45678,8 +45678,8 @@
     "state": "AB",
     "domain": "sf2concrete.com",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (first-name, last-name, email, phone, zip-code).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -45688,7 +45688,7 @@
         "subject": "sf2concrete.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -45841,7 +45841,7 @@
     "state": "AB",
     "domain": "rodeocutting.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -45851,7 +45851,7 @@
         "subject": "quick question for Rodeo re rodeocutting.com"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -46040,7 +46040,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:48.175255+00:00"
+    "bounced_at": "2026-11-12T21:09:05.833811+00:00"
   },
   "FZ-US-1792892641-13": {
     "lead_id": "FZ-US-1792892641-13",
@@ -46284,8 +46284,8 @@
     "state": "TX",
     "domain": "lifestyleconstructionsupplies.com",
     "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (dmform-0, dmform-4, dmform-1, dmform-2, dmform-3).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -46294,7 +46294,7 @@
         "subject": "quick question re lifestyleconstructionsupplies.com"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -46330,8 +46330,8 @@
     "state": "TX",
     "domain": "dfwexcavation.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -46340,7 +46340,7 @@
         "subject": "quick question for Led re dfwexcavation.com"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -46422,8 +46422,8 @@
     "state": "TX",
     "domain": "legendarydemolitiondallas.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -46432,7 +46432,7 @@
         "subject": "legendarydemolitiondallas.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -46458,7 +46458,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:28.333906+00:00"
+    "bounced_at": "2026-11-12T21:08:43.647654+00:00"
   },
   "FZ-US-1792892833-11": {
     "lead_id": "FZ-US-1792892833-11",
@@ -46492,8 +46492,8 @@
     "state": "TX",
     "domain": "vistaearthworks.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -46502,7 +46502,7 @@
         "subject": "vistaearthworks.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -47369,8 +47369,8 @@
     "state": "CA",
     "domain": "sosfencing.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -47379,7 +47379,7 @@
         "subject": "quick question for Looking re sosfencing.com"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -47509,8 +47509,8 @@
     "state": "CA",
     "domain": "pacificparadisepools.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -47519,7 +47519,7 @@
         "subject": "quick question for Rich re pacificparadisepools.com"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -47555,8 +47555,8 @@
     "state": "CA",
     "domain": "drainrooterservice.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(669) 232-7086' found in plain text without an href='tel:' link.)",
-    "current_step": 2,
-    "status": "WAITING_REPLY",
+    "current_step": 3,
+    "status": "COMPLETED_UNRESPONSIVE",
     "step_history": [
       {
         "step": 1,
@@ -47565,7 +47565,7 @@
         "subject": "quick question for Drainrooterservice re drainrooterservice.com"
       }
     ],
-    "next_followup_due": "2026-11-10T22:27:20.637636+00:00",
+    "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null
   },
@@ -47776,7 +47776,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:42.640439+00:00"
+    "bounced_at": "2026-11-12T21:10:04.569330+00:00"
   },
   "FZ-AU-1792885039-2": {
     "lead_id": "FZ-AU-1792885039-2",
@@ -47833,7 +47833,7 @@
     "state": "VIC",
     "domain": "vicmetalroofing.com.au",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -47843,7 +47843,7 @@
         "subject": "quick question re vicmetalroofing.com.au"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -47948,7 +47948,7 @@
     "state": "VIC",
     "domain": "roofrestorationwarehouse.au",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -47958,7 +47958,7 @@
         "subject": "quick question re roofrestorationwarehouse.au"
       }
     ],
-    "next_followup_due": "2026-11-06T22:02:22.780390+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -50866,7 +50866,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:37.644710+00:00"
+    "bounced_at": "2026-11-12T21:08:54.256892+00:00"
   },
   "FZ-AU-1792782901-8": {
     "lead_id": "FZ-AU-1792782901-8",
@@ -51423,7 +51423,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:47.935226+00:00"
+    "bounced_at": "2026-11-12T21:09:05.572546+00:00"
   },
   "FZ-US-1792864371-11": {
     "lead_id": "FZ-US-1792864371-11",
@@ -51908,7 +51908,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:33.823677+00:00"
+    "bounced_at": "2026-11-12T21:07:45.168363+00:00"
   },
   "FZ-US-1792876564-8": {
     "lead_id": "FZ-US-1792876564-8",
@@ -53792,7 +53792,7 @@
     "state": "AZ",
     "domain": "webbart.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -53802,7 +53802,7 @@
         "subject": "quick question for James re webbart.com"
       }
     ],
-    "next_followup_due": "2026-11-07T20:37:52.775688+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -53815,7 +53815,7 @@
     "state": "AZ",
     "domain": "avintivmedia.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -53825,7 +53825,7 @@
         "subject": "quick question re avintivmedia.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -53838,7 +53838,7 @@
     "state": "AZ",
     "domain": "edcagency.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -53848,7 +53848,7 @@
         "subject": "quick question for Meet re edcagency.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -53861,7 +53861,7 @@
     "state": "AZ",
     "domain": "whitewolfbranding.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -53871,7 +53871,7 @@
         "subject": "quick question for Beautymarks Sean re whitewolfbranding.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -53931,7 +53931,7 @@
     "state": "AZ",
     "domain": "jlcoates.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -53941,7 +53941,7 @@
         "subject": "jlcoates.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -53954,7 +53954,7 @@
     "state": "AZ",
     "domain": "karinashouseandoffice.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(480) 560-6637' found in plain text without an href='tel:' link.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -53964,7 +53964,7 @@
         "subject": "quick question for Karinashouseandoffice re karinashouseandoffice.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -54151,7 +54151,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:14:26.535057+00:00"
+    "bounced_at": "2026-11-12T21:08:41.451876+00:00"
   },
   "FZ-US-1792932138-6": {
     "lead_id": "FZ-US-1792932138-6",
@@ -54162,7 +54162,7 @@
     "state": "AZ",
     "domain": "swcoatings.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -54172,7 +54172,7 @@
         "subject": "swcoatings.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -54185,7 +54185,7 @@
     "state": "AZ",
     "domain": "paragonwashaz.com",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (name, phone, email, subject, TEXTAREA).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -54195,7 +54195,7 @@
         "subject": "paragonwashaz.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -54208,7 +54208,7 @@
     "state": "AZ",
     "domain": "sunstateshineaz.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '480-973-1214' found in plain text without an href='tel:' link.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -54218,7 +54218,7 @@
         "subject": "sunstateshineaz.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -54254,7 +54254,7 @@
     "state": "AZ",
     "domain": "powerwash.pro",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -54264,7 +54264,7 @@
         "subject": "powerwash.pro quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -54346,7 +54346,7 @@
     "state": "AZ",
     "domain": "disantoimmigrationlaw.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -54356,7 +54356,7 @@
         "subject": "disantoimmigrationlaw.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -54416,7 +54416,7 @@
     "state": "AZ",
     "domain": "breljelaw.com",
     "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (First Name, Last Name, Phone Number, Email Address, Message).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -54426,7 +54426,7 @@
         "subject": "breljelaw.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -54439,7 +54439,7 @@
     "state": "AZ",
     "domain": "mivozlaw.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(480) 866-1111' found in plain text without an href='tel:' link.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -54449,7 +54449,7 @@
         "subject": "mivozlaw.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -54578,7 +54578,7 @@
     "state": "AZ",
     "domain": "pinpointeaccounting.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -54588,7 +54588,7 @@
         "subject": "quick question for Or re pinpointeaccounting.com"
       }
     ],
-    "next_followup_due": "2026-11-07T21:01:17.755575+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -55861,7 +55861,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:15:41.963841+00:00"
+    "bounced_at": "2026-11-12T21:10:03.831056+00:00"
   },
   "FZ-US-1792966379-4": {
     "lead_id": "FZ-US-1792966379-4",
@@ -56882,7 +56882,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-12T00:13:32.163019+00:00"
+    "bounced_at": "2026-11-12T21:07:43.408389+00:00"
   },
   "FZ-US-1792966939-23": {
     "lead_id": "FZ-US-1792966939-23",
@@ -57170,7 +57170,7 @@
     "state": "CO",
     "domain": "aclassautodetail.com",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (First name here , Last name here , Add email , INPUT, Comments ).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -57180,7 +57180,7 @@
         "subject": "aclassautodetail.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-09T20:10:40.847425+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -57239,7 +57239,7 @@
     "state": "CO",
     "domain": "popshopgarage.com",
     "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -57249,7 +57249,7 @@
         "subject": "popshopgarage.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-09T20:10:40.847425+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -57333,7 +57333,7 @@
     "state": "UT",
     "domain": "titanmobiledetailing.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '385-251-3852' found in plain text without an href='tel:' link.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -57343,7 +57343,7 @@
         "subject": "titanmobiledetailing.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-09T20:10:40.847425+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -57472,7 +57472,7 @@
     "state": "KS",
     "domain": "amedspakc.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -57482,7 +57482,7 @@
         "subject": "amedspakc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-09T20:10:40.847425+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -57495,7 +57495,7 @@
     "state": "KS",
     "domain": "cortezfacialplasticsurgery.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -57505,7 +57505,7 @@
         "subject": "cortezfacialplasticsurgery.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-09T20:10:40.847425+00:00",
+    "next_followup_due": "2026-11-16T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -59383,7 +59383,7 @@
     "domain": "energy-initiative.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -59392,9 +59392,10 @@
         "subject": "quick question for Ship re energy-initiative.com"
       }
     ],
-    "next_followup_due": "2026-11-15T00:16:42.482706+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-12T21:09:20.045284+00:00"
   },
   "FZ-US-1793083403-14": {
     "lead_id": "FZ-US-1793083403-14",
@@ -59577,6 +59578,857 @@
       }
     ],
     "next_followup_due": "2026-11-15T00:16:42.482706+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792991935-8": {
+    "lead_id": "FZ-US-1792991935-8",
+    "business_name": "C2 Coatings Polyaspartic Floors",
+    "owner_name": "Surface Prep",
+    "recipient_email": "info@c2coatings.com",
+    "sender_email": "mason@get.fzcorestudio.com",
+    "state": "WA",
+    "domain": "c2coatings.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:10:53.406998+00:00",
+        "sender": "mason@get.fzcorestudio.com",
+        "subject": "c2coatings.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792992119-1": {
+    "lead_id": "FZ-US-1792992119-1",
+    "business_name": "Strong Solar Solutions",
+    "owner_name": "Brandontoman",
+    "recipient_email": "brandontoman@strong-solar.com",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "state": "WA",
+    "domain": "strong-solar.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:11:07.430683+00:00",
+        "sender": "faiz@direct.fzcorestudio.com",
+        "subject": "strong-solar.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792992232-2": {
+    "lead_id": "FZ-US-1792992232-2",
+    "business_name": "Latak Arborists Supply",
+    "owner_name": "Latak Arborists Supply",
+    "recipient_email": "jeremy.latak@yahoo.com",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "state": "OK",
+    "domain": "latakarboristsupply.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:11:11.576091+00:00",
+        "sender": "ethan@direct.fzcorestudio.com",
+        "subject": "latakarboristsupply.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792992246-3": {
+    "lead_id": "FZ-US-1792992246-3",
+    "business_name": "Eden Tree Company",
+    "owner_name": "Eden Tree Company",
+    "recipient_email": "info@edentreecompany.com",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "state": "OK",
+    "domain": "edentreeco.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:11:15.695403+00:00",
+        "sender": "olivia@direct.fzcorestudio.com",
+        "subject": "edentreeco.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792992276-5": {
+    "lead_id": "FZ-US-1792992276-5",
+    "business_name": "Sooner State Tree Service",
+    "owner_name": "Grew Up",
+    "recipient_email": "soonerstatetreeservice@yahoo.com",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "state": "OK",
+    "domain": "soonerstatetreeservice.com",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (bot-trap, Jane Smith, (555) 123-4567, Describe your project…, consent).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:11:29.236532+00:00",
+        "sender": "ava@direct.fzcorestudio.com",
+        "subject": "quick question for Grew Up re soonerstatetreeservice.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1792992277-6": {
+    "lead_id": "FZ-US-1792992277-6",
+    "business_name": "Professional Tree Care",
+    "owner_name": "Professional Tree Care",
+    "recipient_email": "protree-enid@ionet.net",
+    "sender_email": "leo@reach.fzcorestudio.com",
+    "state": "OK",
+    "domain": "protreecareok.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:11:33.068320+00:00",
+        "sender": "leo@reach.fzcorestudio.com",
+        "subject": "protreecareok.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-CA-1793013844-3": {
+    "lead_id": "FZ-CA-1793013844-3",
+    "business_name": "Pendo – Brand & Creative Agency",
+    "owner_name": "Business Owner",
+    "recipient_email": "hello@pendo.ca",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "state": "BC",
+    "domain": "pendo.ca",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '604.398.8822' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:11:55.942835+00:00",
+        "sender": "mia@reach.fzcorestudio.com",
+        "subject": "pendo.ca mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-CA-1793013869-6": {
+    "lead_id": "FZ-CA-1793013869-6",
+    "business_name": "Takt",
+    "owner_name": "Takt",
+    "recipient_email": "hello@takt.com",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "state": "BC",
+    "domain": "takt.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:12:10.002660+00:00",
+        "sender": "harrison@hq.fzcorestudio.com",
+        "subject": "takt.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-CA-1793013886-8": {
+    "lead_id": "FZ-CA-1793013886-8",
+    "business_name": "Another Blank Page",
+    "owner_name": "Sean Rainey",
+    "recipient_email": "hello@anotherblankpage.com",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "state": "BC",
+    "domain": "anotherblankpage.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:12:13.238614+00:00",
+        "sender": "victoria@hq.fzcorestudio.com",
+        "subject": "quick question for Sean Rainey re anotherblankpage.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-CA-1793013899-11": {
+    "lead_id": "FZ-CA-1793013899-11",
+    "business_name": "Vive Social + PR",
+    "owner_name": "Denim Pioneer",
+    "recipient_email": "info@vivesocialpr.com",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "state": "BC",
+    "domain": "vivesocialpr.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:12:26.508618+00:00",
+        "sender": "evelyn@hq.fzcorestudio.com",
+        "subject": "quick question for Denim re vivesocialpr.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-CA-1793014001-9": {
+    "lead_id": "FZ-CA-1793014001-9",
+    "business_name": "Alberta Janitorial Ltd",
+    "owner_name": "Lwaunch",
+    "recipient_email": "lwaunch@albertajanitorial.com",
+    "sender_email": "charlotte@desk.fzcorestudio.com",
+    "state": "AB",
+    "domain": "albertajanitorial.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:13:55.474394+00:00",
+        "sender": "charlotte@desk.fzcorestudio.com",
+        "subject": "quick question for Lwaunch re albertajanitorial.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-CA-1793014098-22": {
+    "lead_id": "FZ-CA-1793014098-22",
+    "business_name": "ServeGreen Cleaning Services Ltd.",
+    "owner_name": "Business Owner",
+    "recipient_email": "contact@cleanmate.com",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "state": "AB",
+    "domain": "servegreencleaning.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:15:25.556720+00:00",
+        "sender": "brooke@ops.fzcorestudio.com",
+        "subject": "servegreencleaning.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793051802-4": {
+    "lead_id": "FZ-US-1793051802-4",
+    "business_name": "Garage Door Dallas",
+    "owner_name": "Garage Door Dallas",
+    "recipient_email": "garagedoordallas595@gmail.com",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "state": "TX",
+    "domain": "garagedoor-dallas.com",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (fname, lname, Your phone number, service, Example: door opens a few inches and stops, loud bang last night).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:15:38.236346+00:00",
+        "sender": "fiona@ops.fzcorestudio.com",
+        "subject": "garagedoor-dallas.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793051862-1": {
+    "lead_id": "FZ-US-1793051862-1",
+    "business_name": "Plano Concrete",
+    "owner_name": "Sebastian",
+    "recipient_email": "sebastian@aldusleaf.org",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "state": "TX",
+    "domain": "planoconcreteservices.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:16:46.094365+00:00",
+        "sender": "adrian@mail.fzcorestudio.com",
+        "subject": "quick question for Sebastian re planoconcreteservices.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793051876-3": {
+    "lead_id": "FZ-US-1793051876-3",
+    "business_name": "Newnan Driveway Repair Service",
+    "owner_name": "Business Owner",
+    "recipient_email": "admin@newnandrivewayrepair.com",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "state": "TX",
+    "domain": "newnandrivewayrepair.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:16:50.704227+00:00",
+        "sender": "julian@mail.fzcorestudio.com",
+        "subject": "quick question re newnandrivewayrepair.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793051880-4": {
+    "lead_id": "FZ-US-1793051880-4",
+    "business_name": "Skye Asphalt",
+    "owner_name": "Skye Asphalt",
+    "recipient_email": "admin@planoasphaltpaving.info",
+    "sender_email": "lucas@team.fzcorestudio.com",
+    "state": "TX",
+    "domain": "planoasphaltpaving.info",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:16:54.956632+00:00",
+        "sender": "lucas@team.fzcorestudio.com",
+        "subject": "quick question re planoasphaltpaving.info"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793051910-6": {
+    "lead_id": "FZ-US-1793051910-6",
+    "business_name": "M Concrete Group LLC",
+    "owner_name": "M Concrete Group LLC",
+    "recipient_email": "info@mconcretegroup.com",
+    "sender_email": "clara@team.fzcorestudio.com",
+    "state": "TX",
+    "domain": "mconcretegroup.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:16:59.170476+00:00",
+        "sender": "clara@team.fzcorestudio.com",
+        "subject": "quick question re mconcretegroup.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793051916-7": {
+    "lead_id": "FZ-US-1793051916-7",
+    "business_name": "Sam The Concrete Man Tyler",
+    "owner_name": "Or",
+    "recipient_email": "info@samtheconcreteman.com",
+    "sender_email": "liam@team.fzcorestudio.com",
+    "state": "TX",
+    "domain": "samtheconcreteman.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:17:03.805475+00:00",
+        "sender": "liam@team.fzcorestudio.com",
+        "subject": "quick question for Or re samtheconcreteman.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052015-2": {
+    "lead_id": "FZ-US-1793052015-2",
+    "business_name": "Five Star Pest Control The Colony",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@fivestarpestcontrolthecolony.site",
+    "sender_email": "zoe@get.fzcorestudio.com",
+    "state": "TX",
+    "domain": "fivestarpestcontrolthecolony.site",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:18:05.487381+00:00",
+        "sender": "zoe@get.fzcorestudio.com",
+        "subject": "quick question re fivestarpestcontrolthecolony.site"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052021-3": {
+    "lead_id": "FZ-US-1793052021-3",
+    "business_name": "Ace Plano Pest Control TX",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@aceplanopestcontroltx.site",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "state": "TX",
+    "domain": "aceplanopestcontroltx.site",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:18:09.140535+00:00",
+        "sender": "faiz@direct.fzcorestudio.com",
+        "subject": "aceplanopestcontroltx.site quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052027-7": {
+    "lead_id": "FZ-US-1793052027-7",
+    "business_name": "Prime Plano Pest Defense",
+    "owner_name": "To Verify",
+    "recipient_email": "info@easysafesolution.com",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "state": "TX",
+    "domain": "easysafesolution.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:18:12.983048+00:00",
+        "sender": "ethan@direct.fzcorestudio.com",
+        "subject": "easysafesolution.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052032-10": {
+    "lead_id": "FZ-US-1793052032-10",
+    "business_name": "Plano Elite Pest Control",
+    "owner_name": "To Verify",
+    "recipient_email": "info@brightguardservice.com",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "state": "TX",
+    "domain": "brightguardservice.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:18:16.292693+00:00",
+        "sender": "olivia@direct.fzcorestudio.com",
+        "subject": "quick question for To Verify re brightguardservice.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052088-1": {
+    "lead_id": "FZ-US-1793052088-1",
+    "business_name": "Roadrunner Roofing Supply",
+    "owner_name": "Chris",
+    "recipient_email": "chris.rains@srsbuildingproducts.com",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "state": "TX",
+    "domain": "roadrunnerroofingsupply.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:18:29.958102+00:00",
+        "sender": "ava@direct.fzcorestudio.com",
+        "subject": "quick question for Chris re roadrunnerroofingsupply.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052131-7": {
+    "lead_id": "FZ-US-1793052131-7",
+    "business_name": "All American Roof Shield",
+    "owner_name": "All American Roof Shield",
+    "recipient_email": "%20admin@freshroofusa.com",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "state": "TX",
+    "domain": "freshroofusa.com",
+    "flaw_summary": "Excessive Form Fields (16 inputs) Causing High Drop-Off (Detected static form with 16 fields (form_fields[name], form_fields[field_6403523], form_fields[email], form_fields[message], form_fields[field_8e49efe]).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:19:02.583856+00:00",
+        "sender": "mia@reach.fzcorestudio.com",
+        "subject": "quick question re freshroofusa.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052143-9": {
+    "lead_id": "FZ-US-1793052143-9",
+    "business_name": "Old Pro Roofing",
+    "owner_name": "Their Efforts",
+    "recipient_email": "info@oldproroofing.com",
+    "sender_email": "caleb@reach.fzcorestudio.com",
+    "state": "TX",
+    "domain": "oldproroofing.com",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (cp_set_hp, Name, Email, Phone Number, Address).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:19:06.276556+00:00",
+        "sender": "caleb@reach.fzcorestudio.com",
+        "subject": "quick question for Their Efforts re oldproroofing.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052158-10": {
+    "lead_id": "FZ-US-1793052158-10",
+    "business_name": "King of Texas Roofing",
+    "owner_name": "King of Texas Roofing",
+    "recipient_email": "invoices@kingoftexas.com",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "state": "TX",
+    "domain": "kingoftexas.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:19:09.671063+00:00",
+        "sender": "harrison@hq.fzcorestudio.com",
+        "subject": "quick question re kingoftexas.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052172-11": {
+    "lead_id": "FZ-US-1793052172-11",
+    "business_name": "Tarrant Fabrication",
+    "owner_name": "Orders",
+    "recipient_email": "orders@tarrantfabrication.com",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "state": "TX",
+    "domain": "tarrantfabrication.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:19:12.853293+00:00",
+        "sender": "victoria@hq.fzcorestudio.com",
+        "subject": "quick question for Orders re tarrantfabrication.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052207-14": {
+    "lead_id": "FZ-US-1793052207-14",
+    "business_name": "Cool Roofs",
+    "owner_name": "Facebook",
+    "recipient_email": "info@coolroofs.co",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "state": "TX",
+    "domain": "coolroofs.co",
+    "flaw_summary": "Mobile Tap Targets Below 44px (Misfire Hazard) (Found 10 interactive buttons/links under 44x44px threshold.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:19:26.430451+00:00",
+        "sender": "evelyn@hq.fzcorestudio.com",
+        "subject": "quick question for Facebook re coolroofs.co"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052263-22": {
+    "lead_id": "FZ-US-1793052263-22",
+    "business_name": "Boyd Bone Dry",
+    "owner_name": "Boyd Bone Dry",
+    "recipient_email": "contactus@boydbonedry.com",
+    "sender_email": "trevor@client.fzcorestudio.com",
+    "state": "TX",
+    "domain": "boydbonedry.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:20:09.072039+00:00",
+        "sender": "trevor@client.fzcorestudio.com",
+        "subject": "boydbonedry.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052277-24": {
+    "lead_id": "FZ-US-1793052277-24",
+    "business_name": "Dallas Elite Metal Roofing",
+    "owner_name": "Dallasmetalroofingco",
+    "recipient_email": "dallasmetalroofingco@gmail.com",
+    "sender_email": "claire@client.fzcorestudio.com",
+    "state": "TX",
+    "domain": "dallasmetalroofingco.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:20:13.152725+00:00",
+        "sender": "claire@client.fzcorestudio.com",
+        "subject": "quick question for Dallasmetalroofingco re dallasmetalroofingco.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052362-10": {
+    "lead_id": "FZ-US-1793052362-10",
+    "business_name": "PMP Parking Lot Striping & Sealcoating",
+    "owner_name": "It Was",
+    "recipient_email": "estimating@pmpstriping.com",
+    "sender_email": "lydia@partner.fzcorestudio.com",
+    "state": "TX",
+    "domain": "pmpstriping.com",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (Name *, Phone *, Email *, Address *, Project Details *).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:21:31.471035+00:00",
+        "sender": "lydia@partner.fzcorestudio.com",
+        "subject": "pmpstriping.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052459-20": {
+    "lead_id": "FZ-US-1793052459-20",
+    "business_name": "Reliable Paving, Inc",
+    "owner_name": "Jose Madiena",
+    "recipient_email": "jose@reliablepaving.com",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "state": "TX",
+    "domain": "reliablepaving.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:22:14.695899+00:00",
+        "sender": "brooke@ops.fzcorestudio.com",
+        "subject": "quick question for Jose re reliablepaving.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052497-23": {
+    "lead_id": "FZ-US-1793052497-23",
+    "business_name": "Hi-Tek Paving",
+    "owner_name": "Led Accountability",
+    "recipient_email": "kevin@hi-tekpaving.com",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "state": "TX",
+    "domain": "hi-tekpaving.com",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (dmform-0, dmform-1, dmform-2, dmform-5, dmform-4).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:22:27.693015+00:00",
+        "sender": "fiona@ops.fzcorestudio.com",
+        "subject": "hi-tekpaving.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052517-26": {
+    "lead_id": "FZ-US-1793052517-26",
+    "business_name": "Texas Pavement Management",
+    "owner_name": "Webmaster",
+    "recipient_email": "webmaster@texaspave.com",
+    "sender_email": "faiz@mail.fzcorestudio.com",
+    "state": "TX",
+    "domain": "texaspave.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:23:11.733083+00:00",
+        "sender": "faiz@mail.fzcorestudio.com",
+        "subject": "quick question for Webmaster re texaspave.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052524-29": {
+    "lead_id": "FZ-US-1793052524-29",
+    "business_name": "DFW Paving, LLC",
+    "owner_name": "Brenda",
+    "recipient_email": "brenda@dfwpaving.com",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "state": "TX",
+    "domain": "dfwpaving.com",
+    "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (Name, Email, Phone, Message, submit).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:23:25.010350+00:00",
+        "sender": "elena@mail.fzcorestudio.com",
+        "subject": "dfwpaving.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052560-1": {
+    "lead_id": "FZ-US-1793052560-1",
+    "business_name": "Attic Zone Insulation",
+    "owner_name": "Attic Zone Insulation",
+    "recipient_email": "info@atticzoneinsulation.com",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "state": "TX",
+    "domain": "atticzoneinsulation.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:23:38.208458+00:00",
+        "sender": "julian@mail.fzcorestudio.com",
+        "subject": "atticzoneinsulation.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793052700-5": {
+    "lead_id": "FZ-US-1793052700-5",
+    "business_name": "HRS Window Cleaning LLC",
+    "owner_name": "Austin",
+    "recipient_email": "austin@hrswindowcleaning.com",
+    "sender_email": "hannah@get.fzcorestudio.com",
+    "state": "TX",
+    "domain": "hrswindowcleaning.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-12T22:24:29.601669+00:00",
+        "sender": "hannah@get.fzcorestudio.com",
+        "subject": "quick question for Austin re hrswindowcleaning.com"
+      }
+    ],
+    "next_followup_due": "2026-11-15T21:11:11.320767+00:00",
     "replied_at": null,
     "reply_snippet": null
   }
