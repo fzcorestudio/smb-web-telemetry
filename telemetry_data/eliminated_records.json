@@ -3366,5 +3366,37 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 404",
     "eliminated_at": "2026-11-11T09:05:27.911192+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793105479-1",
+    "business_name": "Veridian Cleaning Services",
+    "website": "https://veridiancleaningservices.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-12T12:57:21.837573+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793105500-4",
+    "business_name": "Cleanstar Commercial Cleaning Solutions",
+    "website": "https://www.cleanstarnational.com/marietta",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-12T12:57:51.545554+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793105569-21",
+    "business_name": "JBM Janitorial",
+    "website": "https://www.jbmjanitorial.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-12T12:58:47.942374+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793105600-24",
+    "business_name": "Janitorial Services Atlanta",
+    "website": "http://janitorialservicesatlanta.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-12T12:58:56.696435+00:00"
   }
 ]
