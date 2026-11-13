@@ -28350,10 +28350,10 @@
     "domain": "mgatreeservices.com"
   },
   "FZ-US-1792975503-4": {
-    "sent_at": "2026-11-12T22:54:59.666024+00:00",
+    "sent_at": "2026-11-12T23:25:08.501439+00:00",
     "recipient_email": "info@rayalm.com",
     "recipient_name": "Ship Family",
-    "sender_email": "maya@team.fzcorestudio.com",
+    "sender_email": "faiz@direct.fzcorestudio.com",
     "business_name": "Raya Landscape Maintenance",
     "subject": "rayalm.com quick estimate calculator",
     "angle": "60-Second Instant Quote Estimator",
@@ -28460,10 +28460,10 @@
     "domain": "j-letcleaningservices.com"
   },
   "FZ-US-1793082831-1": {
-    "sent_at": "2026-11-12T23:01:04.631759+00:00",
+    "sent_at": "2026-11-12T23:26:26.184516+00:00",
     "recipient_email": "office@sandiegolandscaperemodeling.com",
     "recipient_name": "Access You",
-    "sender_email": "brooke@ops.fzcorestudio.com",
+    "sender_email": "victoria@hq.fzcorestudio.com",
     "business_name": "San Diego Landscape Remodeling",
     "subject": "quick question for Access You re sandiegolandscaperemodeling.com",
     "angle": "Mobile Friction Reduction",
@@ -28482,10 +28482,10 @@
     "domain": "kanbuildersinc.com"
   },
   "FZ-US-1793082885-3": {
-    "sent_at": "2026-11-12T23:01:12.717775+00:00",
+    "sent_at": "2026-11-12T23:26:41.149318+00:00",
     "recipient_email": "ecodesignsd@me.com",
     "recipient_name": "An Architectural",
-    "sender_email": "fiona@ops.fzcorestudio.com",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
     "business_name": "EcoDesignSD, INC",
     "subject": "quick question for An re ecodesignsd.com",
     "angle": "1-Tap Call & Sticky Bottom Bar",
@@ -28547,17 +28547,6 @@
     "state": "TX",
     "domain": "hrswindowcleaning.com"
   },
-  "FZ-US-1792975503-4": {
-    "sent_at": "2026-11-12T23:25:08.501439+00:00",
-    "recipient_email": "info@rayalm.com",
-    "recipient_name": "Ship Family",
-    "sender_email": "faiz@direct.fzcorestudio.com",
-    "business_name": "Raya Landscape Maintenance",
-    "subject": "rayalm.com quick estimate calculator",
-    "angle": "60-Second Instant Quote Estimator",
-    "state": "OR",
-    "domain": "rayalm.com"
-  },
   "FZ-US-1792975511-5": {
     "sent_at": "2026-11-12T23:25:12.002712+00:00",
     "recipient_email": "valenciasconcretehrdscape@gmail.com",
@@ -28612,28 +28601,6 @@
     "angle": "1-Tap Call & Sticky Bottom Bar",
     "state": "BC",
     "domain": "talkshopmedia.com"
-  },
-  "FZ-US-1793082831-1": {
-    "sent_at": "2026-11-12T23:26:26.184516+00:00",
-    "recipient_email": "office@sandiegolandscaperemodeling.com",
-    "recipient_name": "Access You",
-    "sender_email": "victoria@hq.fzcorestudio.com",
-    "business_name": "San Diego Landscape Remodeling",
-    "subject": "quick question for Access You re sandiegolandscaperemodeling.com",
-    "angle": "Mobile Friction Reduction",
-    "state": "CA",
-    "domain": "sandiegolandscaperemodeling.com"
-  },
-  "FZ-US-1793082885-3": {
-    "sent_at": "2026-11-12T23:26:41.149318+00:00",
-    "recipient_email": "ecodesignsd@me.com",
-    "recipient_name": "An Architectural",
-    "sender_email": "evelyn@hq.fzcorestudio.com",
-    "business_name": "EcoDesignSD, INC",
-    "subject": "quick question for An re ecodesignsd.com",
-    "angle": "1-Tap Call & Sticky Bottom Bar",
-    "state": "CA",
-    "domain": "ecodesignsd.com"
   },
   "FZ-US-1793083499-4": {
     "sent_at": "2026-11-12T23:29:51.729866+00:00",
@@ -28832,5 +28799,412 @@
     "angle": "60-Second Instant Quote Estimator",
     "state": "AZ",
     "domain": "independencepainting.com"
+  },
+  "FZ-US-1792975064-18": {
+    "sent_at": "2026-11-13T21:35:13.630914+00:00",
+    "recipient_email": "ross@fivedaughtersconstruction.com",
+    "recipient_name": "We Take",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "business_name": "Five Daughters Construction",
+    "subject": "quick question for We Take re fivedaughtersconstruction.com",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "OH",
+    "domain": "fivedaughtersconstruction.com"
+  },
+  "FZ-US-1792975065-19": {
+    "sent_at": "2026-11-13T21:35:18.907095+00:00",
+    "recipient_email": "info@buildwithhighpointe.com",
+    "recipient_name": "Business Owner",
+    "sender_email": "garrett@ops.fzcorestudio.com",
+    "business_name": "High Pointe Custom Homes LLC",
+    "subject": "buildwithhighpointe.com mobile call button",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OH",
+    "domain": "buildwithhighpointe.com"
+  },
+  "FZ-US-1792975067-20": {
+    "sent_at": "2026-11-13T21:35:23.546224+00:00",
+    "recipient_email": "marketing@toddhomesllc.comtelephone",
+    "recipient_name": "Todd Homes, LLC",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "business_name": "Todd Homes, LLC",
+    "subject": "toddhomesllc.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "OH",
+    "domain": "toddhomesllc.com"
+  },
+  "FZ-US-1792975097-24": {
+    "sent_at": "2026-11-13T21:36:07.574585+00:00",
+    "recipient_email": "csteinbrunner@wplandcompany.com",
+    "recipient_name": "Csteinbrunner",
+    "sender_email": "marcus@mail.fzcorestudio.com",
+    "business_name": "WP Land Company",
+    "subject": "quick question for Csteinbrunner re wplandcompany.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OH",
+    "domain": "wplandcompany.com"
+  },
+  "FZ-US-1792975109-26": {
+    "sent_at": "2026-11-13T21:36:11.889691+00:00",
+    "recipient_email": "adam@showcasebuilding.com",
+    "recipient_name": "With",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "business_name": "Showcase Building & Design Inc",
+    "subject": "quick question for With re showcasebuilding.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OH",
+    "domain": "showcasebuilding.com"
+  },
+  "FZ-US-1792975110-27": {
+    "sent_at": "2026-11-13T21:36:16.099607+00:00",
+    "recipient_email": "info@paragoncustombuilders.com",
+    "recipient_name": "Cincinnati Native",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "business_name": "Paragon Custom Builders",
+    "subject": "quick question for Cincinnati Native re paragoncustombuilders.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OH",
+    "domain": "paragoncustombuilders.com"
+  },
+  "FZ-US-1792975123-28": {
+    "sent_at": "2026-11-13T21:36:20.138165+00:00",
+    "recipient_email": "john@mccanncustomremodeling.com",
+    "recipient_name": "Patrick Mccann",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "business_name": "McCann Custom Remodeling",
+    "subject": "quick question for Patrick Mccann re mccanncustomremodeling.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OH",
+    "domain": "mccanncustomremodeling.com"
+  },
+  "FZ-US-1792975143-30": {
+    "sent_at": "2026-11-13T21:36:24.085102+00:00",
+    "recipient_email": "info@joshuaone.com",
+    "recipient_name": "Joshua One Custom Homes",
+    "sender_email": "lucas@team.fzcorestudio.com",
+    "business_name": "Joshua One Custom Homes",
+    "subject": "quick question re joshuaone.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OH",
+    "domain": "joshuaone.com"
+  },
+  "FZ-US-1792975175-1": {
+    "sent_at": "2026-11-13T21:36:28.310301+00:00",
+    "recipient_email": "david@goldstarroofing.com",
+    "recipient_name": "How We",
+    "sender_email": "clara@team.fzcorestudio.com",
+    "business_name": "Gold Star Roofing LLC",
+    "subject": "quick question for How We re goldstarcommercialroofing.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OH",
+    "domain": "goldstarcommercialroofing.com"
+  },
+  "FZ-US-1792975388-11": {
+    "sent_at": "2026-11-13T21:38:04.553926+00:00",
+    "recipient_email": "info@alleghenypoolservices.com",
+    "recipient_name": "Business Owner",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "business_name": "Allegheny Pool Services Co.",
+    "subject": "quick question re alleghenypoolservices.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "PA",
+    "domain": "alleghenypoolservices.com"
+  },
+  "FZ-US-1792975395-12": {
+    "sent_at": "2026-11-13T21:38:08.839386+00:00",
+    "recipient_email": "contact@coolpoolspa.com",
+    "recipient_name": "Jeff Culp",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "business_name": "Cool Pools Pennsylvania",
+    "subject": "quick question for Jeff re coolpoolspa.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "PA",
+    "domain": "coolpoolspa.com"
+  },
+  "FZ-US-1792975408-13": {
+    "sent_at": "2026-11-13T21:38:12.998557+00:00",
+    "recipient_email": "info@splashscapes.net",
+    "recipient_name": "Featuring Fire",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "business_name": "SplashScapes",
+    "subject": "quick question for Featuring re splashscapes.net",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "PA",
+    "domain": "splashscapes.net"
+  },
+  "FZ-US-1792975413-16": {
+    "sent_at": "2026-11-13T21:38:28.692218+00:00",
+    "recipient_email": "phillipspoolscapes@gmail.com",
+    "recipient_name": "On Every",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "business_name": "Phillips Poolscapes",
+    "subject": "quick note for On re phillipspoolscapes.com",
+    "angle": "Mobile Friction Reduction",
+    "state": "PA",
+    "domain": "phillipspoolscapes.com"
+  },
+  "FZ-US-1792975429-21": {
+    "sent_at": "2026-11-13T21:39:07.756370+00:00",
+    "recipient_email": "info@cedarcreekla.com",
+    "recipient_name": "Adam Elias",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "business_name": "Cedar Creek Design, Inc.",
+    "subject": "quick question for Adam re cedarcreekla.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "PA",
+    "domain": "cedarcreekla.com"
+  },
+  "FZ-US-1792975616-14": {
+    "sent_at": "2026-11-13T21:39:22.981965+00:00",
+    "recipient_email": "erinw@wagnerdesigngroup.com",
+    "recipient_name": "Erinw",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "business_name": "Wagner Design Group",
+    "subject": "quick question for Erinw re wagnerdesigngroup.com",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "OR",
+    "domain": "wagnerdesigngroup.com"
+  },
+  "FZ-US-1792991919-5": {
+    "sent_at": "2026-11-13T21:39:27.154616+00:00",
+    "recipient_email": "info@epoxynorthwest.com",
+    "recipient_name": "Epoxy Northwest",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "business_name": "Epoxy Northwest",
+    "subject": "epoxynorthwest.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "WA",
+    "domain": "epoxynorthwest.com"
+  },
+  "FZ-US-1792991927-6": {
+    "sent_at": "2026-11-13T21:39:31.254935+00:00",
+    "recipient_email": "nwcoatings@live.com",
+    "recipient_name": "Nwcoatings",
+    "sender_email": "graham@hq.fzcorestudio.com",
+    "business_name": "NW Coatings & Contracting LLC",
+    "subject": "nwcoatings.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "WA",
+    "domain": "nwcoatings.com"
+  },
+  "FZ-US-1792992232-2": {
+    "sent_at": "2026-11-13T21:39:35.314401+00:00",
+    "recipient_email": "jeremy.latak@yahoo.com",
+    "recipient_name": "Latak Arborists Supply",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "business_name": "Latak Arborists Supply",
+    "subject": "latakarboristsupply.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "OK",
+    "domain": "latakarboristsupply.com"
+  },
+  "FZ-US-1792992261-4": {
+    "sent_at": "2026-11-13T21:39:39.532220+00:00",
+    "recipient_email": "okietreeman@hotmail.com",
+    "recipient_name": "Brian Eshleman",
+    "sender_email": "connor@hq.fzcorestudio.com",
+    "business_name": "Eshleman Tree Care LLC",
+    "subject": "quick question for Brian re eshlemantreecare.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OK",
+    "domain": "eshlemantreecare.com"
+  },
+  "FZ-US-1792992276-5": {
+    "sent_at": "2026-11-13T21:39:44.161928+00:00",
+    "recipient_email": "soonerstatetreeservice@yahoo.com",
+    "recipient_name": "Grew Up",
+    "sender_email": "audrey@client.fzcorestudio.com",
+    "business_name": "Sooner State Tree Service",
+    "subject": "quick question for Grew Up re soonerstatetreeservice.com",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "OK",
+    "domain": "soonerstatetreeservice.com"
+  },
+  "FZ-US-1792992277-6": {
+    "sent_at": "2026-11-13T21:39:48.364779+00:00",
+    "recipient_email": "protree-enid@ionet.net",
+    "recipient_name": "Professional Tree Care",
+    "sender_email": "elliott@client.fzcorestudio.com",
+    "business_name": "Professional Tree Care",
+    "subject": "protreecareok.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "OK",
+    "domain": "protreecareok.com"
+  },
+  "FZ-CA-1793013775-9": {
+    "sent_at": "2026-11-13T21:42:56.595021+00:00",
+    "recipient_email": "jeremy@sarsonpainting.com",
+    "recipient_name": "Facebook",
+    "sender_email": "brooke@ops.fzcorestudio.com",
+    "business_name": "Sarson Painting and Wallcoverings",
+    "subject": "quick question for Facebook re sarsonpainting.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "ON",
+    "domain": "sarsonpainting.com"
+  },
+  "FZ-CA-1793013795-11": {
+    "sent_at": "2026-11-13T21:43:12.869615+00:00",
+    "recipient_email": "info@cleanfinishpainters.ca",
+    "recipient_name": "Clean Finish Painters",
+    "sender_email": "fiona@ops.fzcorestudio.com",
+    "business_name": "Clean Finish Painters",
+    "subject": "cleanfinishpainters.ca quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "ON",
+    "domain": "cleanfinishpainters.ca"
+  },
+  "FZ-CA-1793013899-11": {
+    "sent_at": "2026-11-13T21:43:50.542120+00:00",
+    "recipient_email": "info@vivesocialpr.com",
+    "recipient_name": "Denim Pioneer",
+    "sender_email": "faiz@mail.fzcorestudio.com",
+    "business_name": "Vive Social + PR",
+    "subject": "quick question for Denim re vivesocialpr.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "BC",
+    "domain": "vivesocialpr.com"
+  },
+  "FZ-CA-1793013958-1": {
+    "sent_at": "2026-11-13T21:43:55.594278+00:00",
+    "recipient_email": "info@pristinejanitorialservices.ca",
+    "recipient_name": "Business Owner",
+    "sender_email": "marcus@mail.fzcorestudio.com",
+    "business_name": "Pristine Janitorial Services | Commercial Cleaning services calgary",
+    "subject": "quick question re pristinejanitorialservices.ca",
+    "angle": "Mobile Friction Reduction",
+    "state": "AB",
+    "domain": "pristinejanitorialservices.ca"
+  },
+  "FZ-CA-1793013966-2": {
+    "sent_at": "2026-11-13T21:43:59.287868+00:00",
+    "recipient_email": "info@janicocleaning.ca",
+    "recipient_name": "Business Owner",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "business_name": "Janico Cleaning Ltd | Commercial Cleaning Services | Pressure Wash Services Calgary",
+    "subject": "janicocleaning.ca mobile call button",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "AB",
+    "domain": "janicocleaning.ca"
+  },
+  "FZ-CA-1793013971-3": {
+    "sent_at": "2026-11-13T21:44:03.953088+00:00",
+    "recipient_email": "info@smalberta.com",
+    "recipient_name": "Malcolm Sykes",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "business_name": "ServiceMaster Clean of Calgary Janitorial",
+    "subject": "quick question for Malcolm re smcleancalgaryjanitorial.ca",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "AB",
+    "domain": "smcleancalgaryjanitorial.ca"
+  },
+  "FZ-CA-1793013976-4": {
+    "sent_at": "2026-11-13T21:44:08.908000+00:00",
+    "recipient_email": "info@cleanmaxservices.ca",
+    "recipient_name": "Business Owner",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "business_name": "Cleanmax Janitorial Services",
+    "subject": "quick question re cleanmaxservices.ca",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "AB",
+    "domain": "cleanmaxservices.ca"
+  },
+  "FZ-CA-1793013979-5": {
+    "sent_at": "2026-11-13T21:44:13.942699+00:00",
+    "recipient_email": "lotus_janitorial@hotmail.com",
+    "recipient_name": "Lotus",
+    "sender_email": "lucas@team.fzcorestudio.com",
+    "business_name": "Lotus Janitorial Services Ltd",
+    "subject": "quick question for Lotus re lotusjanitorialservices.ca",
+    "angle": "Mobile Friction Reduction",
+    "state": "AB",
+    "domain": "lotusjanitorialservices.ca"
+  },
+  "FZ-CA-1793013987-6": {
+    "sent_at": "2026-11-13T21:44:18.137897+00:00",
+    "recipient_email": "%20info@suretycleaning.com",
+    "recipient_name": "Thank You",
+    "sender_email": "clara@team.fzcorestudio.com",
+    "business_name": "Surety Cleaning Corp.",
+    "subject": "quick question for Thank re suretycleaning.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "AB",
+    "domain": "suretycleaning.com"
+  },
+  "FZ-CA-1793014001-9": {
+    "sent_at": "2026-11-13T21:44:33.840695+00:00",
+    "recipient_email": "lwaunch@albertajanitorial.com",
+    "recipient_name": "Lwaunch",
+    "sender_email": "maya@team.fzcorestudio.com",
+    "business_name": "Alberta Janitorial Ltd",
+    "subject": "quick question for Lwaunch re albertajanitorial.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "AB",
+    "domain": "albertajanitorial.com"
+  },
+  "FZ-CA-1793014011-11": {
+    "sent_at": "2026-11-13T21:44:49.465670+00:00",
+    "recipient_email": "support@allcanadianjanitorial.ca",
+    "recipient_name": "Business Owner",
+    "sender_email": "hannah@get.fzcorestudio.com",
+    "business_name": "All Canadian Janitorial Ltd.",
+    "subject": "quick note about allcanadianjanitorial.ca",
+    "angle": "Mobile Friction Reduction",
+    "state": "AB",
+    "domain": "allcanadianjanitorial.ca"
+  },
+  "FZ-CA-1793014020-12": {
+    "sent_at": "2026-11-13T21:44:54.073262+00:00",
+    "recipient_email": "info@regencycleaning.ca",
+    "recipient_name": "Business Owner",
+    "sender_email": "owen@get.fzcorestudio.com",
+    "business_name": "Regency Cleaning Services Inc.",
+    "subject": "regencycleaning.ca quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "AB",
+    "domain": "regencycleaning.ca"
+  },
+  "FZ-CA-1793014031-15": {
+    "sent_at": "2026-11-13T21:45:09.610802+00:00",
+    "recipient_email": "clean@cleanmeansclean.com",
+    "recipient_name": "Clean",
+    "sender_email": "mason@get.fzcorestudio.com",
+    "business_name": "Clean Means Clean",
+    "subject": "quick question for Clean re cleanmeansclean.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "AB",
+    "domain": "cleanmeansclean.com"
+  },
+  "FZ-CA-1793014073-18": {
+    "sent_at": "2026-11-13T21:45:25.560833+00:00",
+    "recipient_email": "calgary@servicespro.ca",
+    "recipient_name": "Alpesh Mevada",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "business_name": "Services Pro - Cleaning Company",
+    "subject": "quick question for Alpesh Mevada re servicespro.ca",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "AB",
+    "domain": "servicespro.ca"
+  },
+  "FZ-CA-1793014084-20": {
+    "sent_at": "2026-11-13T21:45:29.660192+00:00",
+    "recipient_email": "admin@pcsclean.ca",
+    "recipient_name": "Haroun",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "business_name": "PCS Cleaning Services Ltd.",
+    "subject": "quick question for Haroun re pcsclean.ca",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "AB",
+    "domain": "pcsclean.ca"
+  },
+  "FZ-CA-1793014098-22": {
+    "sent_at": "2026-11-13T21:45:34.221043+00:00",
+    "recipient_email": "contact@cleanmate.com",
+    "recipient_name": "Business Owner",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "business_name": "ServeGreen Cleaning Services Ltd.",
+    "subject": "servegreencleaning.com mobile call button",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "AB",
+    "domain": "servegreencleaning.com"
   }
 }
