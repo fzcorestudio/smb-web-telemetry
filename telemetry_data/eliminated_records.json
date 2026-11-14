@@ -3454,5 +3454,77 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
     "eliminated_at": "2026-11-13T09:28:08.950307+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793152061-2",
+    "business_name": "KC Window Film",
+    "website": "http://kcwindowfilm.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-14T10:06:40.870186+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793152067-3",
+    "business_name": "Day Break Tint",
+    "website": "http://daybreaktint.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-14T10:06:41.101766+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793152269-6",
+    "business_name": "Dr. Francis R. Johns",
+    "website": "http://artisan-plasticsurgery.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-14T10:07:22.717491+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793152456-18",
+    "business_name": "Luna Kitchen and Bath",
+    "website": "https://www.lunakitchenandbath.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
+    "eliminated_at": "2026-11-14T10:09:18.523748+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793152597-4",
+    "business_name": "Everton Homes",
+    "website": "https://evertonhomes.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-14T10:10:25.743839+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793152647-13",
+    "business_name": "RT Signature Homes Design & Build - Kitchen & Bathroom Remodeling",
+    "website": "https://rtsignaturehomes.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-14T10:11:12.515491+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793152687-19",
+    "business_name": "Pacent Construction",
+    "website": "https://www.pacentconstruction.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-14T10:11:45.661203+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793152711-21",
+    "business_name": "Hazelwood Community - New Murray Franklyn Luxury Homes",
+    "website": "http://yourallstarteam.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at http://yourallstart",
+    "eliminated_at": "2026-11-14T10:11:53.324138+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793200540-10",
+    "business_name": "Grotto Pool Designs",
+    "website": "http://grottopools.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-14T10:13:59.371132+00:00"
   }
 ]
