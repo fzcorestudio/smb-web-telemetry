@@ -3526,5 +3526,45 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
     "eliminated_at": "2026-11-14T10:13:59.371132+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793200667-10",
+    "business_name": "Virginia Hardscape & Restoration",
+    "website": "http://www.vhrva.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 503",
+    "eliminated_at": "2026-11-15T07:46:15.057518+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793200681-14",
+    "business_name": "T&C Outdoor Specialists",
+    "website": "http://tandcoutdoors.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-15T07:46:26.511541+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793200739-23",
+    "business_name": "Schultz Lawnscapes Richmond VA",
+    "website": "https://schultzlawnscapes.com/richmondva",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-15T07:47:28.365257+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793200927-11",
+    "business_name": "Floortrak UK Ltd",
+    "website": "https://floortrak.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-15T07:49:28.253507+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793219068-4",
+    "business_name": "Lightwork Tree Services",
+    "website": "https://lightworktreeservices.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://lightw",
+    "eliminated_at": "2026-11-15T07:56:49.447757+00:00"
   }
 ]
