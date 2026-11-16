@@ -3606,5 +3606,61 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://thewaterboy",
     "eliminated_at": "2026-11-15T15:36:31.726864+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793233708-2",
+    "business_name": "Dallas Janitorial Services",
+    "website": "https://dallasjanitorialservices.com/cities/plano-janitorial-commercial-cleaning-services-tx",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-16T07:18:08.153702+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793233722-3",
+    "business_name": "Care Cleaning Solutions",
+    "website": "https://www.carecleaningsolutions.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-16T07:18:10.062162+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793233826-18",
+    "business_name": "RicSan Enterprise, Office Cleaning & Facility Services",
+    "website": "https://www.ricsancleaning.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
+    "eliminated_at": "2026-11-16T07:19:09.957533+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793233849-2",
+    "business_name": "BluLadder",
+    "website": "https://bluladder.com/dfw/frisco",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-16T07:19:17.016899+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793233856-5",
+    "business_name": "Sterling Clean Power Washing",
+    "website": "https://www.sterlingcleanpowerwashing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.st",
+    "eliminated_at": "2026-11-16T07:19:20.605594+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793233906-12",
+    "business_name": "On Point Pressure Washing Dallas",
+    "website": "https://www.onpointpressurewash.com/dallas-landing-page",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-16T07:20:07.686638+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793233998-11",
+    "business_name": "Law Office of Randi Megan Otwell",
+    "website": "https://dfwimmigrationlawhelp.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-16T07:21:16.895336+00:00"
   }
 ]
