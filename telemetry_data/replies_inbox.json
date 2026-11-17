@@ -160,5 +160,14 @@
     "subject": "Return Message from RedSun",
     "snippet": "Request for tax/accounting/payroll information will be answered. We do not need website work done and we do not need any new employees. No SPAM please!",
     "received_at": "2026-11-13T22:37:59.166412+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793233796-15",
+    "prospect_email": "usasupport@amcclean.us",
+    "sender_header": "USA SUPPORT <usasupport@amcclean.us>",
+    "mailbox_received": "lucas@team.fzcorestudio.com",
+    "subject": "AMC Commercial Cleaning user activation",
+    "snippet": "Hi Faiz Majeed, A new AMC Commercial Cleaning account has been created for you. Click the url below to activate your account and select a password! https://amccleaning.freshdesk.com/register/JmVSsoGvfHHwzPj8cyPd If the above URL does not work try copying and pasting it into your browser. If you continue to have problems, please feel free to contact us. Regards, AMC Commercial Cleaning",
+    "received_at": "2026-11-17T22:43:24.459367+00:00"
   }
 ]
