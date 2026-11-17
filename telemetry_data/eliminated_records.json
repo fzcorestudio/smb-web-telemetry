@@ -3726,5 +3726,53 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 403",
     "eliminated_at": "2026-11-17T09:04:55.508106+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793302606-8",
+    "business_name": "Greater Pacific Construction General Contractor in Orange County",
+    "website": "http://www.greaterpacificconstruction.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-17T18:27:07.094492+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793302840-8",
+    "business_name": "Roofing of Sacramento",
+    "website": "http://www.roofingofsacramento.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 530",
+    "eliminated_at": "2026-11-17T18:29:37.851189+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793302895-17",
+    "business_name": "Alex Perez's Roofing",
+    "website": "http://alexperezroofing.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-17T18:30:18.946572+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793302897-18",
+    "business_name": "Ironstone Roofing",
+    "website": "https://www.ironstoneroofing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-17T18:30:19.104750+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793302986-7",
+    "business_name": "AGUILAR POOL",
+    "website": "https://aguilarpool.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-17T18:31:30.816232+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793303030-14",
+    "business_name": "Top Notch Pool & Spa INC",
+    "website": "https://topnotchpool-spainc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-17T18:32:05.569301+00:00"
   }
 ]
