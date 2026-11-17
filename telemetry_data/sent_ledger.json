@@ -30339,5 +30339,38 @@
     "angle": "60-Second Instant Quote Estimator",
     "state": "QLD",
     "domain": "floropainting.com.au"
+  },
+  "FZ-US-1793152328-3": {
+    "sent_at": "2026-11-17T00:32:47.393730+00:00",
+    "recipient_email": "remodelfox@gmail.com",
+    "recipient_name": "Remodelfox",
+    "sender_email": "marcus@mail.fzcorestudio.com",
+    "business_name": "Fox Bath",
+    "subject": "fox-bath.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "WA",
+    "domain": "fox-bath.com"
+  },
+  "FZ-US-1793152776-1": {
+    "sent_at": "2026-11-17T00:32:50.961872+00:00",
+    "recipient_email": "contact@hawksroofingwa.com",
+    "recipient_name": "Hawks Roofing & Gutter",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "business_name": "Hawks Roofing & Gutter",
+    "subject": "quick question re hawksroofingwa.com",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "WA",
+    "domain": "hawksroofingwa.com"
+  },
+  "FZ-AU-1793220059-10": {
+    "sent_at": "2026-11-17T00:32:54.331831+00:00",
+    "recipient_email": "mo@paintingproteam.com.au",
+    "recipient_name": "Painting Pro Team",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "business_name": "Painting Pro Team",
+    "subject": "quick question re paintingproteam.com.au",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "QLD",
+    "domain": "paintingproteam.com.au"
   }
 }
