@@ -3662,5 +3662,69 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "HTTP Error 403",
     "eliminated_at": "2026-11-16T07:21:16.895336+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793255274-2",
+    "business_name": "Heart of Texas Pest Control, Inc.",
+    "website": "http://www.heartoftexaspestcontrol.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.inner_text: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body\")\n",
+    "eliminated_at": "2026-11-17T08:56:43.986721+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793255451-20",
+    "business_name": "Structure Roof & Wall Solutions",
+    "website": "http://structurerws.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-17T08:58:51.926977+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793255504-27",
+    "business_name": "Strategic Roofing Solutions",
+    "website": "http://strategicroofing.net",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-17T08:59:36.023319+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793255775-9",
+    "business_name": "Flash Demolition",
+    "website": "http://flashdemolition.com/contacts",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-17T09:02:36.274059+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793255939-2",
+    "business_name": "Amazon Air Duct & Dryer Vent Cleaning Fort Lauderdale",
+    "website": "http://amazonairductfl.pro",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://amazonairduc",
+    "eliminated_at": "2026-11-17T09:03:52.475558+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793256027-4",
+    "business_name": "Krytex™",
+    "website": "https://krytexgroup.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-17T09:04:18.226974+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793256027-5",
+    "business_name": "RAD - Ceramic Coatings & Paint Restoration",
+    "website": "https://www.reflectauto.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-17T09:04:18.716602+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793256129-1",
+    "business_name": "Gorilla Wraps and PPF",
+    "website": "https://gorillawrapsandppf.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-17T09:04:55.508106+00:00"
   }
 ]
