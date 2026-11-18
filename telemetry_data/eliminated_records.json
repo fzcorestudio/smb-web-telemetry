@@ -3774,5 +3774,109 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-11-17T18:32:05.569301+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793316964-1",
+    "business_name": "Rock N Block - Turf N Hardscapes Phoenix",
+    "website": "https://rocknblocklandscape.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-11-18T08:40:08.478907+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317146-4",
+    "business_name": "Baseline Mechanical LLC",
+    "website": "http://www.baselinemechanical.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-18T08:41:09.992537+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317159-6",
+    "business_name": "Fiat Mechanical Inc.",
+    "website": "https://fiatmechanical.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-18T08:41:15.824882+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317231-7",
+    "business_name": "Arizona Energy Services",
+    "website": "https://arizonaenergyservices.net/#!contact-us",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-18T08:42:01.747436+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317314-2",
+    "business_name": "Power Ranch Arborists",
+    "website": "http://www.powerranchtreeservice.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CONNECTION_RESET at http://www.powerranc",
+    "eliminated_at": "2026-11-18T08:42:54.454068+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317325-8",
+    "business_name": "Gods Green Earth",
+    "website": "https://www.godsgreenearthllc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.godsgre",
+    "eliminated_at": "2026-11-18T08:43:05.665148+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317358-2",
+    "business_name": "HC Environmental LLC",
+    "website": "http://www.hcenvironmental.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-18T08:43:28.978435+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317417-11",
+    "business_name": "Sonoran Valley Restoration",
+    "website": "https://sonoranvalleyrestoration.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-18T08:44:17.205187+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317500-8",
+    "business_name": "Wet Seal Waterproofing",
+    "website": "https://wetsealwaterproofing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-18T08:45:17.159962+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317548-15",
+    "business_name": "Iker's Concrete LLC",
+    "website": "https://ikerconcrete.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://ikerconcre",
+    "eliminated_at": "2026-11-18T08:46:09.067395+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317573-20",
+    "business_name": "All-Pro Waterproofing & Drainage Solutions",
+    "website": "https://www.duluthwaterproofingcompany.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-18T08:46:31.943556+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317682-13",
+    "business_name": "New Georgia Fence Company",
+    "website": "http://www.newgeorgiafence.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-18T08:47:28.399092+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793317798-2",
+    "business_name": "ADS Painting And Cleaning Company",
+    "website": "http://adspaintingandcleaningnc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-11-18T08:48:07.699861+00:00"
   }
 ]
