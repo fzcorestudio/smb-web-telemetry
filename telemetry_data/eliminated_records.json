@@ -3878,5 +3878,93 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
     "eliminated_at": "2026-11-18T08:48:07.699861+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329143-9",
+    "business_name": "Viget Durham",
+    "website": "http://www.viget.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 429",
+    "eliminated_at": "2026-11-19T13:54:02.265463+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329358-4",
+    "business_name": "Ascent Cleaning Solutions, LLC",
+    "website": "https://www.ascentcleaningsolutions.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-19T13:57:00.557259+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329412-11",
+    "business_name": "C&G Cleaning Services",
+    "website": "https://www.cgcleaning.net",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-19T13:57:33.749332+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329490-2",
+    "business_name": "Three Exterior",
+    "website": "https://threestonewash.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://thre",
+    "eliminated_at": "2026-11-19T13:58:16.978845+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329498-3",
+    "business_name": "Pressures On LLC Power Washing Industrial/ Commercial",
+    "website": "http://www.pressuresonllc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at http://www.p",
+    "eliminated_at": "2026-11-19T13:58:17.236607+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329531-5",
+    "business_name": "WaterWorx Pro Wash of Smyrna",
+    "website": "http://waterworxprowash.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-19T13:58:29.499359+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329718-9",
+    "business_name": "Raynor Door Authority of Denver",
+    "website": "https://raynordoorauthority.com/locations/denver",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-19T14:00:18.028422+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329764-1",
+    "business_name": "CrestStone Concrete",
+    "website": "https://creststoneconcrete.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-19T14:00:41.937818+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329766-2",
+    "business_name": "Rome In A Day Concrete Contractors",
+    "website": "https://romeinadayconcretecontractors.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-19T14:00:44.004459+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329782-7",
+    "business_name": "Asphalt Concrete Recycling",
+    "website": "https://asphaltconcreterecycling.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-19T14:01:13.406239+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793329807-9",
+    "business_name": "Urban Concrete Contractors",
+    "website": "https://coloradospringsconcretepro.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://colo",
+    "eliminated_at": "2026-11-19T14:01:19.138180+00:00"
   }
 ]
