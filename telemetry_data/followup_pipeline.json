@@ -715,7 +715,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:57.189219+00:00"
+    "bounced_at": "2026-11-20T22:23:37.062409+00:00"
   },
   "FZ-US-1792615202-9": {
     "lead_id": "FZ-US-1792615202-9",
@@ -1015,7 +1015,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:51.537328+00:00"
+    "bounced_at": "2026-11-20T22:23:27.701272+00:00"
   },
   "FZ-US-1792615385-4": {
     "lead_id": "FZ-US-1792615385-4",
@@ -2010,7 +2010,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:51.305666+00:00"
+    "bounced_at": "2026-11-20T22:23:27.337319+00:00"
   },
   "FZ-US-1792616485-10": {
     "lead_id": "FZ-US-1792616485-10",
@@ -2380,7 +2380,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:46.278238+00:00"
+    "bounced_at": "2026-11-20T22:23:19.634217+00:00"
   },
   "FZ-US-1792616603-6": {
     "lead_id": "FZ-US-1792616603-6",
@@ -2474,7 +2474,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:41.203498+00:00"
+    "bounced_at": "2026-11-20T22:21:47.335114+00:00"
   },
   "FZ-US-1792616681-3": {
     "lead_id": "FZ-US-1792616681-3",
@@ -3050,7 +3050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:10.988137+00:00"
+    "bounced_at": "2026-11-20T22:25:30.993959+00:00"
   },
   "FZ-US-1792618324-3": {
     "lead_id": "FZ-US-1792618324-3",
@@ -4065,7 +4065,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:28.714881+00:00"
+    "bounced_at": "2026-11-20T22:25:59.436862+00:00"
   },
   "FZ-US-1792621200-2": {
     "lead_id": "FZ-US-1792621200-2",
@@ -4113,7 +4113,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:43.414812+00:00"
+    "bounced_at": "2026-11-20T22:21:50.626801+00:00"
   },
   "FZ-US-1792621228-6": {
     "lead_id": "FZ-US-1792621228-6",
@@ -4737,7 +4737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:40.969643+00:00"
+    "bounced_at": "2026-11-20T22:21:46.971437+00:00"
   },
   "FZ-US-1792623373-3": {
     "lead_id": "FZ-US-1792623373-3",
@@ -4784,7 +4784,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:07.267959+00:00"
+    "bounced_at": "2026-11-20T22:23:52.479349+00:00"
   },
   "FZ-US-1792623578-6": {
     "lead_id": "FZ-US-1792623578-6",
@@ -4808,7 +4808,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:22.934339+00:00"
+    "bounced_at": "2026-11-20T22:24:16.920289+00:00"
   },
   "FZ-US-1792623579-7": {
     "lead_id": "FZ-US-1792623579-7",
@@ -4832,7 +4832,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:09.885383+00:00"
+    "bounced_at": "2026-11-20T22:25:29.021835+00:00"
   },
   "FZ-US-1792623680-2": {
     "lead_id": "FZ-US-1792623680-2",
@@ -5479,7 +5479,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:51.073865+00:00"
+    "bounced_at": "2026-11-20T22:23:26.971224+00:00"
   },
   "FZ-US-1792625157-8": {
     "lead_id": "FZ-US-1792625157-8",
@@ -5503,7 +5503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:45.917368+00:00"
+    "bounced_at": "2026-11-20T22:23:19.002766+00:00"
   },
   "FZ-US-1792625188-3": {
     "lead_id": "FZ-US-1792625188-3",
@@ -5550,7 +5550,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:09.652253+00:00"
+    "bounced_at": "2026-11-20T22:25:28.649287+00:00"
   },
   "FZ-US-1792625308-19": {
     "lead_id": "FZ-US-1792625308-19",
@@ -6703,7 +6703,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:22.700909+00:00"
+    "bounced_at": "2026-11-20T22:24:16.563806+00:00"
   },
   "FZ-US-1792627387-2": {
     "lead_id": "FZ-US-1792627387-2",
@@ -7581,7 +7581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:41.994528+00:00"
+    "bounced_at": "2026-11-20T22:21:48.494923+00:00"
   },
   "FZ-US-1792627617-6": {
     "lead_id": "FZ-US-1792627617-6",
@@ -7791,7 +7791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:50.182967+00:00"
+    "bounced_at": "2026-11-20T22:23:25.564662+00:00"
   },
   "FZ-US-1792627691-1": {
     "lead_id": "FZ-US-1792627691-1",
@@ -13557,7 +13557,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:49.946331+00:00"
+    "bounced_at": "2026-11-20T22:23:25.197999+00:00"
   },
   "FZ-US-1792787245-4": {
     "lead_id": "FZ-US-1792787245-4",
@@ -15157,7 +15157,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:56.959952+00:00"
+    "bounced_at": "2026-11-20T22:23:36.687805+00:00"
   },
   "FZ-US-1792815633-6": {
     "lead_id": "FZ-US-1792815633-6",
@@ -15619,7 +15619,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:28.209096+00:00"
+    "bounced_at": "2026-11-20T22:25:58.717029+00:00"
   },
   "FZ-US-1792820218-5": {
     "lead_id": "FZ-US-1792820218-5",
@@ -17443,7 +17443,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:42.961685+00:00"
+    "bounced_at": "2026-11-20T22:21:49.950399+00:00"
   },
   "FZ-US-1792726568-1": {
     "lead_id": "FZ-US-1792726568-1",
@@ -18484,7 +18484,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:44.573055+00:00"
+    "bounced_at": "2026-11-20T22:26:24.620798+00:00"
   },
   "FZ-US-1792794467-4": {
     "lead_id": "FZ-US-1792794467-4",
@@ -18738,7 +18738,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:24.922889+00:00"
+    "bounced_at": "2026-11-20T22:24:19.976963+00:00"
   },
   "FZ-US-1792794996-4": {
     "lead_id": "FZ-US-1792794996-4",
@@ -20795,7 +20795,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:38.231771+00:00"
+    "bounced_at": "2026-11-20T22:21:42.798267+00:00"
   },
   "FZ-US-1792822929-9": {
     "lead_id": "FZ-US-1792822929-9",
@@ -22042,7 +22042,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:42.720982+00:00"
+    "bounced_at": "2026-11-20T22:21:49.588479+00:00"
   },
   "FZ-US-1792855104-3": {
     "lead_id": "FZ-US-1792855104-3",
@@ -22504,7 +22504,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:56.732778+00:00"
+    "bounced_at": "2026-11-20T22:23:36.309059+00:00"
   },
   "FZ-US-1792859094-8": {
     "lead_id": "FZ-US-1792859094-8",
@@ -23127,7 +23127,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:28.464145+00:00"
+    "bounced_at": "2026-11-20T22:25:59.080054+00:00"
   },
   "FZ-CA-1792617030-6": {
     "lead_id": "FZ-CA-1792617030-6",
@@ -24003,7 +24003,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:45.663179+00:00"
+    "bounced_at": "2026-11-20T22:23:18.626079+00:00"
   },
   "FZ-CA-1792631077-1": {
     "lead_id": "FZ-CA-1792631077-1",
@@ -26632,7 +26632,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:42.473408+00:00"
+    "bounced_at": "2026-11-20T22:21:49.224661+00:00"
   },
   "FZ-US-1792634387-4": {
     "lead_id": "FZ-US-1792634387-4",
@@ -27415,7 +27415,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:49.709875+00:00"
+    "bounced_at": "2026-11-20T22:23:24.831143+00:00"
   },
   "FZ-US-1792634670-6": {
     "lead_id": "FZ-US-1792634670-6",
@@ -27439,7 +27439,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:44.660955+00:00"
+    "bounced_at": "2026-11-20T22:23:17.156792+00:00"
   },
   "FZ-US-1792634676-8": {
     "lead_id": "FZ-US-1792634676-8",
@@ -28914,7 +28914,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:42.235411+00:00"
+    "bounced_at": "2026-11-20T22:21:48.856992+00:00"
   },
   "FZ-US-1792642159-2": {
     "lead_id": "FZ-US-1792642159-2",
@@ -29398,7 +29398,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:56.497446+00:00"
+    "bounced_at": "2026-11-20T22:23:35.931105+00:00"
   },
   "FZ-US-1792642252-5": {
     "lead_id": "FZ-US-1792642252-5",
@@ -29445,7 +29445,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:50.420334+00:00"
+    "bounced_at": "2026-11-20T22:23:25.932210+00:00"
   },
   "FZ-US-1792642258-9": {
     "lead_id": "FZ-US-1792642258-9",
@@ -29791,7 +29791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:48.956801+00:00"
+    "bounced_at": "2026-11-20T22:23:23.647837+00:00"
   },
   "FZ-US-1792642402-11": {
     "lead_id": "FZ-US-1792642402-11",
@@ -30368,7 +30368,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:52.921470+00:00"
+    "bounced_at": "2026-11-20T22:23:29.920812+00:00"
   },
   "FZ-US-1792643848-2": {
     "lead_id": "FZ-US-1792643848-2",
@@ -30484,7 +30484,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:10.750230+00:00"
+    "bounced_at": "2026-11-20T22:25:30.622418+00:00"
   },
   "FZ-US-1792643924-1": {
     "lead_id": "FZ-US-1792643924-1",
@@ -31821,7 +31821,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:06.516736+00:00"
+    "bounced_at": "2026-11-20T22:23:51.330734+00:00"
   },
   "FZ-US-1792648374-2": {
     "lead_id": "FZ-US-1792648374-2",
@@ -34250,7 +34250,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:24.480201+00:00"
+    "bounced_at": "2026-11-20T22:24:19.298835+00:00"
   },
   "FZ-CA-1792663418-2": {
     "lead_id": "FZ-CA-1792663418-2",
@@ -35889,7 +35889,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:43.837004+00:00"
+    "bounced_at": "2026-11-20T22:23:15.958604+00:00"
   },
   "FZ-US-1792673138-2": {
     "lead_id": "FZ-US-1792673138-2",
@@ -36558,7 +36558,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:24.240083+00:00"
+    "bounced_at": "2026-11-20T22:24:18.932096+00:00"
   },
   "FZ-US-1792673629-6": {
     "lead_id": "FZ-US-1792673629-6",
@@ -39489,7 +39489,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:27.957021+00:00"
+    "bounced_at": "2026-11-20T22:25:58.348701+00:00"
   },
   "FZ-AU-1792615707-7": {
     "lead_id": "FZ-AU-1792615707-7",
@@ -40640,7 +40640,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:27.633292+00:00"
+    "bounced_at": "2026-11-20T22:25:57.971452+00:00"
   },
   "FZ-AU-1792651066-1": {
     "lead_id": "FZ-AU-1792651066-1",
@@ -45460,7 +45460,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:09.167074+00:00"
+    "bounced_at": "2026-11-20T22:25:27.893432+00:00"
   },
   "FZ-CA-1792884623-10": {
     "lead_id": "FZ-CA-1792884623-10",
@@ -45508,7 +45508,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:22.467248+00:00"
+    "bounced_at": "2026-11-20T22:24:16.204203+00:00"
   },
   "FZ-CA-1792884655-12": {
     "lead_id": "FZ-CA-1792884655-12",
@@ -46042,7 +46042,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:06.275571+00:00"
+    "bounced_at": "2026-11-20T22:23:50.968584+00:00"
   },
   "FZ-US-1792892641-13": {
     "lead_id": "FZ-US-1792892641-13",
@@ -46460,7 +46460,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:45.404133+00:00"
+    "bounced_at": "2026-11-20T22:23:18.245825+00:00"
   },
   "FZ-US-1792892833-11": {
     "lead_id": "FZ-US-1792892833-11",
@@ -47778,7 +47778,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:09.414739+00:00"
+    "bounced_at": "2026-11-20T22:25:28.276345+00:00"
   },
   "FZ-AU-1792885039-2": {
     "lead_id": "FZ-AU-1792885039-2",
@@ -50868,7 +50868,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:54.288364+00:00"
+    "bounced_at": "2026-11-20T22:23:32.199923+00:00"
   },
   "FZ-AU-1792782901-8": {
     "lead_id": "FZ-AU-1792782901-8",
@@ -51425,7 +51425,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:06.021045+00:00"
+    "bounced_at": "2026-11-20T22:23:50.602205+00:00"
   },
   "FZ-US-1792864371-11": {
     "lead_id": "FZ-US-1792864371-11",
@@ -51910,7 +51910,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:40.578926+00:00"
+    "bounced_at": "2026-11-20T22:21:46.614651+00:00"
   },
   "FZ-US-1792876564-8": {
     "lead_id": "FZ-US-1792876564-8",
@@ -52882,7 +52882,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:07.463989+00:00"
+    "bounced_at": "2026-11-20T22:25:25.142636+00:00"
   },
   "FZ-US-1792911854-2": {
     "lead_id": "FZ-US-1792911854-2",
@@ -54154,7 +54154,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:43.535065+00:00"
+    "bounced_at": "2026-11-20T22:23:15.528520+00:00"
   },
   "FZ-US-1792932138-6": {
     "lead_id": "FZ-US-1792932138-6",
@@ -55864,7 +55864,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:08.709755+00:00"
+    "bounced_at": "2026-11-20T22:25:27.169503+00:00"
   },
   "FZ-US-1792966379-4": {
     "lead_id": "FZ-US-1792966379-4",
@@ -56885,7 +56885,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:38.824262+00:00"
+    "bounced_at": "2026-11-20T22:21:43.761562+00:00"
   },
   "FZ-US-1792966939-23": {
     "lead_id": "FZ-US-1792966939-23",
@@ -59398,7 +59398,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:21.812384+00:00"
+    "bounced_at": "2026-11-20T22:24:15.201882+00:00"
   },
   "FZ-US-1793083403-14": {
     "lead_id": "FZ-US-1793083403-14",
@@ -60389,7 +60389,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:21.552268+00:00"
+    "bounced_at": "2026-11-20T22:24:14.827806+00:00"
   },
   "FZ-US-1793083499-4": {
     "lead_id": "FZ-US-1793083499-4",
@@ -61839,7 +61839,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:41.647450+00:00"
+    "bounced_at": "2026-11-20T22:23:12.710630+00:00"
   },
   "FZ-US-1793083320-4": {
     "lead_id": "FZ-US-1793083320-4",
@@ -61909,7 +61909,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:28.856798+00:00"
+    "bounced_at": "2026-11-20T22:21:29.823910+00:00"
   },
   "FZ-US-1793104971-5": {
     "lead_id": "FZ-US-1793104971-5",
@@ -62784,7 +62784,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:36.813746+00:00"
+    "bounced_at": "2026-11-20T22:23:05.568769+00:00"
   },
   "FZ-US-1793151941-2": {
     "lead_id": "FZ-US-1793151941-2",
@@ -63518,7 +63518,7 @@
         "subject": "quick question re pugetsoundadubuilders.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -63774,7 +63774,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:12.990193+00:00"
+    "bounced_at": "2026-11-20T22:24:01.767595+00:00"
   },
   "FZ-AU-1793219817-4": {
     "lead_id": "FZ-AU-1793219817-4",
@@ -64278,7 +64278,7 @@
         "subject": "takt.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64301,7 +64301,7 @@
         "subject": "quick question for Denim re vivesocialpr.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64324,7 +64324,7 @@
         "subject": "quick question re pristinejanitorialservices.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64337,7 +64337,7 @@
     "state": "AB",
     "domain": "janicocleaning.ca",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '403 280 5033' found in plain text without an href='tel:' link.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -64347,7 +64347,7 @@
         "subject": "janicocleaning.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-20T22:01:02.160173+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64370,7 +64370,7 @@
         "subject": "quick question for Malcolm re smcleancalgaryjanitorial.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64393,7 +64393,7 @@
         "subject": "quick question re cleanmaxservices.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64416,7 +64416,7 @@
         "subject": "quick question for Lotus re lotusjanitorialservices.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64439,7 +64439,7 @@
         "subject": "quick question for Lwaunch re albertajanitorial.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64462,7 +64462,7 @@
         "subject": "skywardcleaning.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64485,7 +64485,7 @@
         "subject": "quick note about allcanadianjanitorial.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64508,7 +64508,7 @@
         "subject": "regencycleaning.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64531,7 +64531,7 @@
         "subject": "quick question for Clean re cleanmeansclean.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64554,7 +64554,7 @@
         "subject": "quick question for Managers re cleanbritecanada.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64577,7 +64577,7 @@
         "subject": "quick question for Alpesh Mevada re servicespro.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64600,7 +64600,7 @@
         "subject": "servegreencleaning.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64623,7 +64623,7 @@
         "subject": "quick question re mconcretegroup.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64646,7 +64646,7 @@
         "subject": "quick question re dfwconcretepros.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64672,7 +64672,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:12.350409+00:00"
+    "bounced_at": "2026-11-20T22:25:33.128122+00:00"
   },
   "FZ-US-1793052032-10": {
     "lead_id": "FZ-US-1793052032-10",
@@ -64693,7 +64693,7 @@
         "subject": "quick question for To Verify re brightguardservice.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64716,7 +64716,7 @@
         "subject": "quick question for Chris re roadrunnerroofingsupply.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64739,7 +64739,7 @@
         "subject": "quick question for Orders re tarrantfabrication.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64762,7 +64762,7 @@
         "subject": "quick question for Facebook re coolroofs.co"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64785,7 +64785,7 @@
         "subject": "quick question for Shane Hesters re anchor-roofs.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64808,7 +64808,7 @@
         "subject": "quick question for Patrick re flynncompanies.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64831,7 +64831,7 @@
         "subject": "quick question for Ship re cardinalroofinginc.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64854,7 +64854,7 @@
         "subject": "quick question re kbfamilyroofing.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64877,7 +64877,7 @@
         "subject": "boydbonedry.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64900,7 +64900,7 @@
         "subject": "quick question for Dallasmetalroofingco re dallasmetalroofingco.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64923,7 +64923,7 @@
         "subject": "quick question for Pave re andersonpaving.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64946,7 +64946,7 @@
         "subject": "quick question for One Dedicated re jbgconstructionllc.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64969,7 +64969,7 @@
         "subject": "quick question re alignmarkpavement.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -64992,7 +64992,7 @@
         "subject": "texasmaterials.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65015,7 +65015,7 @@
         "subject": "pmpstriping.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65038,7 +65038,7 @@
         "subject": "hi-tekpaving.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65061,7 +65061,7 @@
         "subject": "areawidepaving.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65107,7 +65107,7 @@
         "subject": "quick question re fastglassservice.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65130,7 +65130,7 @@
         "subject": "quick question for Austin re hrswindowcleaning.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65153,7 +65153,7 @@
         "subject": "totalglassworks.net quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65176,7 +65176,7 @@
         "subject": "cornerstoness.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65189,7 +65189,7 @@
     "state": "TX",
     "domain": "austindemolitionservice.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(512) 298-4167' found in plain text without an href='tel:' link.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -65199,7 +65199,7 @@
         "subject": "quick question re austindemolitionservice.com"
       }
     ],
-    "next_followup_due": "2026-11-20T22:01:02.160173+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65222,7 +65222,7 @@
         "subject": "quick question for David re dardemolition.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65245,7 +65245,7 @@
         "subject": "ductspring.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65268,7 +65268,7 @@
         "subject": "quick question re atcairductservice.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65291,7 +65291,7 @@
         "subject": "quick question for Verna re coralairductcleaners.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65314,7 +65314,7 @@
         "subject": "quick question re qualityductcareteam.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65340,7 +65340,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:04:20.134402+00:00"
+    "bounced_at": "2026-11-20T22:25:46.233234+00:00"
   },
   "FZ-US-1793064301-1": {
     "lead_id": "FZ-US-1793064301-1",
@@ -65361,7 +65361,7 @@
         "subject": "quick question re uppfstudio.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65384,7 +65384,7 @@
         "subject": "uppf-usa.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65407,7 +65407,7 @@
         "subject": "autobahnwindowfilms.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65453,7 +65453,7 @@
         "subject": "cavalloautosalon.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65476,7 +65476,7 @@
         "subject": "texasmobiledetailing.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65499,7 +65499,7 @@
         "subject": "getdetailedsa.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65522,7 +65522,7 @@
         "subject": "quick question for Chris re greensidecarwash.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65535,7 +65535,7 @@
     "state": "AZ",
     "domain": "landmarkiron.com",
     "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '480-888-7196' found in plain text without an href='tel:' link.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -65545,7 +65545,7 @@
         "subject": "quick question for Landmark re landmarkiron.com"
       }
     ],
-    "next_followup_due": "2026-11-20T22:01:02.160173+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65568,7 +65568,7 @@
         "subject": "quick question for Saul re sgfabricationllc.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65591,7 +65591,7 @@
         "subject": "quick question re fencebuildersaz.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65614,7 +65614,7 @@
         "subject": "rhinoshieldaz.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65637,7 +65637,7 @@
         "subject": "quick question re hqasphaltconcrete.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65660,7 +65660,7 @@
         "subject": "quick question for Todd re pikespeakasphalt.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65683,7 +65683,7 @@
         "subject": "quick question for Coaffordablesealing re affordablesealingandstriping.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65706,7 +65706,7 @@
         "subject": "quick note for Ship re zenwindows.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65729,7 +65729,7 @@
         "subject": "rocketwindowsco.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65752,7 +65752,7 @@
         "subject": "quick question for Zmidwest re midwestexcavatinginc.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65775,7 +65775,7 @@
         "subject": "quick question for Diana Hilderbrand re precisecontractingllc.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65798,7 +65798,7 @@
         "subject": "quick question for Who Owns re utahdemolitionpros.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65821,7 +65821,7 @@
         "subject": "quick question re mothershipdetail.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65844,7 +65844,7 @@
         "subject": "caredetailing.net quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65867,7 +65867,7 @@
         "subject": "quick question for Donotreply re clearvisionautoprotection.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65890,7 +65890,7 @@
         "subject": "centerxautodetailing.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65913,7 +65913,7 @@
         "subject": "oklahomawaterscapes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65936,7 +65936,7 @@
         "subject": "oceanpoolsokc.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65959,7 +65959,7 @@
         "subject": "quick question for Long re hydroscapesok.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -65982,7 +65982,7 @@
         "subject": "nelsonpoolsokc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66005,7 +66005,7 @@
         "subject": "leospoolsok.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66028,7 +66028,7 @@
         "subject": "quick question re commanderpools.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66051,7 +66051,7 @@
         "subject": "antlerpools.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66074,7 +66074,7 @@
         "subject": "quick question for Jeff re zoepoolsok.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66097,7 +66097,7 @@
         "subject": "quick question re jbpoolslandscaping.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66120,7 +66120,7 @@
         "subject": "stanleyfoundationrepair.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66143,7 +66143,7 @@
         "subject": "pacificcoastconcrete.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66166,7 +66166,7 @@
         "subject": "quick question re concretecontractorsvancouver.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66189,7 +66189,7 @@
         "subject": "quick question re clearconstruction.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66212,7 +66212,7 @@
         "subject": "quick question for Founder re konrex.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66235,7 +66235,7 @@
         "subject": "quick question re mariconstruction.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66281,7 +66281,7 @@
         "subject": "quick question for Msc re box.construction"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66304,7 +66304,7 @@
         "subject": "quick question re northmarkconstruction.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66327,7 +66327,7 @@
         "subject": "jadeprojects.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66350,7 +66350,7 @@
         "subject": "ddworkz.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66363,7 +66363,7 @@
     "state": "AB",
     "domain": "builtritefence.ca",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -66373,7 +66373,7 @@
         "subject": "builtritefence.ca quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-20T22:01:02.160173+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66396,7 +66396,7 @@
         "subject": "quick question for Iqbal Maan re archandbow.ca"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66419,7 +66419,7 @@
         "subject": "quick question re lawnenforcementofficers.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66442,7 +66442,7 @@
         "subject": "borettafence.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66488,7 +66488,7 @@
         "subject": "newdesignfencing.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66511,7 +66511,7 @@
         "subject": "securefencing.ca mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66534,7 +66534,7 @@
         "subject": "quick question re texasbrandingagency.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66557,7 +66557,7 @@
         "subject": "matchboxstudio.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66603,7 +66603,7 @@
         "subject": "monsterdesign.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66626,7 +66626,7 @@
         "subject": "quick question re brandhatchery.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66649,7 +66649,7 @@
         "subject": "quick question re theoldstate.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66672,7 +66672,7 @@
         "subject": "adpopdesign.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66685,7 +66685,7 @@
     "state": "TX",
     "domain": "crookscs.com",
     "flaw_summary": "Excessive Form Fields (19 inputs) Causing High Drop-Off (Detected static form with 19 fields (svc, svc, svc, svc, svc).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -66695,7 +66695,7 @@
         "subject": "crookscs.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-20T22:01:02.160173+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66718,7 +66718,7 @@
         "subject": "oilonitdesign.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66741,7 +66741,7 @@
         "subject": "quick question re brandalchemymarketing.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66764,7 +66764,7 @@
         "subject": "quick question for Bryn re brandrichstudio.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66787,7 +66787,7 @@
         "subject": "quick question re thenix.co"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66810,7 +66810,7 @@
         "subject": "quick question for Lori Swanson re thebarbershopmarketing.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66833,7 +66833,7 @@
         "subject": "quick question for Marshall re clarissascreativeconsulting.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66856,7 +66856,7 @@
         "subject": "quick question for Me re xtxcreative.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66879,7 +66879,7 @@
         "subject": "quick question for Brittney re brittneybrands.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66902,7 +66902,7 @@
         "subject": "createethos.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66925,7 +66925,7 @@
         "subject": "quick question for Mallard re mallardagency.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66948,7 +66948,7 @@
         "subject": "madmonkey.media quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66971,7 +66971,7 @@
         "subject": "quick question for Jeff Sinelli re thepowergroup.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -66994,7 +66994,7 @@
         "subject": "logo-design-dallas.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67040,7 +67040,7 @@
         "subject": "quick question for Malcolmmann re cherishcommercialcleaning.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67066,7 +67066,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:48.586801+00:00"
+    "bounced_at": "2026-11-20T22:21:58.375936+00:00"
   },
   "FZ-US-1793233728-6": {
     "lead_id": "FZ-US-1793233728-6",
@@ -67087,7 +67087,7 @@
         "subject": "quick question for Bushra re snipclean.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67110,7 +67110,7 @@
         "subject": "allneedscovered.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67133,7 +67133,7 @@
         "subject": "supersudscs.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67156,7 +67156,7 @@
         "subject": "primeshine-cleaning.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67179,7 +67179,7 @@
         "subject": "quick question for Some re environmentalcleaning.net"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67202,7 +67202,7 @@
         "subject": "strategicjanitorial.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67225,7 +67225,7 @@
         "subject": "carrancocleaning.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67271,7 +67271,7 @@
         "subject": "quick question for Same re propertyzeus.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67294,7 +67294,7 @@
         "subject": "quick question for Len re starservicescompany.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67317,7 +67317,7 @@
         "subject": "214pressurewashing.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67340,7 +67340,7 @@
         "subject": "quick question for Xtreme re xtremewashing.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67363,7 +67363,7 @@
         "subject": "quick question re dallaspowerwash.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67386,7 +67386,7 @@
         "subject": "allredpowerwashing.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67409,7 +67409,7 @@
         "subject": "quick question for Gary re apwservices.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67432,7 +67432,7 @@
         "subject": "nexgenmigrant.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67478,7 +67478,7 @@
         "subject": "hobberman.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67501,7 +67501,7 @@
         "subject": "quick question for Abogadoaaron re abogadoaaron.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67524,7 +67524,7 @@
         "subject": "monirmehranlaw.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67547,7 +67547,7 @@
         "subject": "lonnierobin.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67560,7 +67560,7 @@
     "state": "TX",
     "domain": "dmcausa.com",
     "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (input_3, input_3, Name, Email, Phone).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -67570,7 +67570,7 @@
         "subject": "dmcausa.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-20T22:01:02.160173+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67593,7 +67593,7 @@
         "subject": "quick question for Cpa re meredithcpas.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67616,7 +67616,7 @@
         "subject": "quick question for Taxpro re taxtimefs.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67639,7 +67639,7 @@
         "subject": "quick question for Ship re malikcpaandadvisor.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67662,7 +67662,7 @@
         "subject": "gettaxresolution.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67685,7 +67685,7 @@
         "subject": "texastaxes-insurance.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67708,7 +67708,7 @@
         "subject": "quick question for Contactus re precisiontaxpros.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67731,7 +67731,7 @@
         "subject": "quick question for Ahmer re htaxadvisory.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67754,7 +67754,7 @@
         "subject": "quick question for Tu Socio re confiablemultiservices.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67800,7 +67800,7 @@
         "subject": "quick question re jdtax.law"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67823,7 +67823,7 @@
         "subject": "quick question for Usa re usatax.live"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67846,7 +67846,7 @@
         "subject": "mrstorisadvisors.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67869,7 +67869,7 @@
         "subject": "quick question for Mohsin re taxsq.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67882,7 +67882,7 @@
     "state": "TX",
     "domain": "samedaygaragedoor.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -67892,7 +67892,7 @@
         "subject": "samedaygaragedoor.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-20T22:01:02.160173+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67915,7 +67915,7 @@
         "subject": "midcitiesgaragedoor.repair mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67938,7 +67938,7 @@
         "subject": "accessoverheaddoor.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67961,7 +67961,7 @@
         "subject": "quick question re centurygaragedoorservice.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -67984,7 +67984,7 @@
         "subject": "texanpaving.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68007,7 +68007,7 @@
         "subject": "quick question for In re rocksolidconcretecon.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68030,7 +68030,7 @@
         "subject": "austinpavementco.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68053,7 +68053,7 @@
         "subject": "quick question for Primaryconcrete re primaryconcrete.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68076,7 +68076,7 @@
         "subject": "panapaving.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68099,7 +68099,7 @@
         "subject": "quick question re aplusasphaltandconcrete.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68122,7 +68122,7 @@
         "subject": "quick question for Ship re prestigeasphaltaustin.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68145,7 +68145,7 @@
         "subject": "austinpremierpaving.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68168,7 +68168,7 @@
         "subject": "uspave.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68191,7 +68191,7 @@
         "subject": "quick question re stallionpaving.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68214,7 +68214,7 @@
         "subject": "quick question for Brian re ausconcrete.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68237,7 +68237,7 @@
         "subject": "quick question re thelonghornpestcontrol.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68260,7 +68260,7 @@
         "subject": "beeremovalusa.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68283,7 +68283,7 @@
         "subject": "quick question for All re beatingbugsbetter.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68306,7 +68306,7 @@
         "subject": "quick question re primetxmetalroofs.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68329,7 +68329,7 @@
         "subject": "quick question for Professionals Who re tridomroofing.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68352,7 +68352,7 @@
         "subject": "quick question re texaselitecommercialroofing.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68375,7 +68375,7 @@
         "subject": "quick question for Susie Garza re brazoscommercialroofing.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68398,7 +68398,7 @@
         "subject": "quick question re aboutmetalroofs.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68421,7 +68421,7 @@
         "subject": "quick question for Absolute re marketmakersinc.com"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68444,7 +68444,7 @@
         "subject": "houtexsheetmetal.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68467,7 +68467,7 @@
         "subject": "voglermetals.com mobile call button"
       }
     ],
-    "next_followup_due": "2026-11-24T22:05:16.027240+00:00",
+    "next_followup_due": "2026-11-24T22:27:12.719284+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -68907,7 +68907,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:36.549157+00:00"
+    "bounced_at": "2026-11-20T22:23:05.184251+00:00"
   },
   "FZ-US-1793255577-7": {
     "lead_id": "FZ-US-1793255577-7",
@@ -69437,7 +69437,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:58.278191+00:00"
+    "bounced_at": "2026-11-20T22:22:13.652364+00:00"
   },
   "FZ-US-1793255811-14": {
     "lead_id": "FZ-US-1793255811-14",
@@ -69668,7 +69668,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:15.909793+00:00"
+    "bounced_at": "2026-11-20T22:22:38.076680+00:00"
   },
   "FZ-US-1793302550-4": {
     "lead_id": "FZ-US-1793302550-4",
@@ -70888,7 +70888,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:02:26.826592+00:00"
+    "bounced_at": "2026-11-20T22:22:52.948045+00:00"
   },
   "FZ-US-1793317033-4": {
     "lead_id": "FZ-US-1793317033-4",
@@ -71050,7 +71050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:30.660407+00:00"
+    "bounced_at": "2026-11-20T22:24:29.361333+00:00"
   },
   "FZ-US-1793317210-2": {
     "lead_id": "FZ-US-1793317210-2",
@@ -71074,7 +71074,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:03:17.034438+00:00"
+    "bounced_at": "2026-11-20T22:24:08.205408+00:00"
   },
   "FZ-US-1793317214-3": {
     "lead_id": "FZ-US-1793317214-3",
@@ -71282,7 +71282,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-20T22:01:37.692075+00:00"
+    "bounced_at": "2026-11-20T22:21:41.939803+00:00"
   },
   "FZ-US-1793317324-7": {
     "lead_id": "FZ-US-1793317324-7",
@@ -73479,7 +73479,7 @@
     "domain": "surgerycenterwc.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -73488,9 +73488,10 @@
         "subject": "surgerycenterwc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-23T21:38:50.317949+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-20T22:24:28.755541+00:00"
   },
   "FZ-US-1793064686-3": {
     "lead_id": "FZ-US-1793064686-3",
@@ -74100,7 +74101,7 @@
     "domain": "nexgenhomesfl.com",
     "flaw_summary": "Excessive Form Fields (11 inputs) Causing High Drop-Off (Detected static form with 11 fields (la, lt, INPUT, INPUT, ir).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -74109,9 +74110,10 @@
         "subject": "nexgenhomesfl.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-23T21:38:50.317949+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-20T22:26:08.075262+00:00"
   },
   "FZ-US-1793065013-24": {
     "lead_id": "FZ-US-1793065013-24",
@@ -74215,7 +74217,7 @@
     "domain": "kissimmeeroofingcompany.com",
     "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -74224,9 +74226,10 @@
         "subject": "quick question for Doing Their re kissimmeeroofingcompany.com"
       }
     ],
-    "next_followup_due": "2026-11-23T21:38:50.317949+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-20T22:26:14.261197+00:00"
   },
   "FZ-US-1793082636-6": {
     "lead_id": "FZ-US-1793082636-6",
@@ -76584,7 +76587,7 @@
     "domain": "premieroutdoorhardscapes.com",
     "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Full Name, Email Address, Phone Number, service, Project Details).)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -76593,9 +76596,10 @@
         "subject": "premieroutdoorhardscapes.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-23T21:38:50.317949+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-20T22:23:39.006757+00:00"
   },
   "FZ-US-1793200629-3": {
     "lead_id": "FZ-US-1793200629-3",
@@ -77136,7 +77140,7 @@
     "domain": "ont-restoration.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -77145,9 +77149,10 @@
         "subject": "ont-restoration.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-23T21:38:50.317949+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-20T22:22:07.113748+00:00"
   },
   "FZ-CA-1793219267-5": {
     "lead_id": "FZ-CA-1793219267-5",
@@ -77642,7 +77647,7 @@
     "domain": "producedautostudio.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -77651,9 +77656,10 @@
         "subject": "producedautostudio.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-23T21:38:50.317949+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-20T22:23:54.461498+00:00"
   },
   "FZ-US-1793256149-4": {
     "lead_id": "FZ-US-1793256149-4",
