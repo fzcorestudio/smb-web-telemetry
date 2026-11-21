@@ -3966,5 +3966,85 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://colo",
     "eliminated_at": "2026-11-19T14:01:19.138180+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793378288-13",
+    "business_name": "Vegas Hardscape, LLC",
+    "website": "http://vegashardscape.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-21T09:29:23.024305+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793378544-13",
+    "business_name": "Dirt Cheap LLC",
+    "website": "https://ilovedirtcheap.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://ilov",
+    "eliminated_at": "2026-11-21T09:31:26.313022+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793378559-14",
+    "business_name": "CRM Excavating",
+    "website": "http://crmexc.com/home/crm/crm-excavating",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-21T09:31:38.373726+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793378566-16",
+    "business_name": "DELTA Services, Inc.",
+    "website": "http://www.deltaservicesinc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_EMPTY_RESPONSE at http://www.deltaservic",
+    "eliminated_at": "2026-11-21T09:31:38.956304+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793378569-17",
+    "business_name": "Elevation Excavation, Inc.",
+    "website": "https://elevationexcavation.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at https://elevationex",
+    "eliminated_at": "2026-11-21T09:31:39.381917+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793378734-2",
+    "business_name": "COLUMBUS LOCKSMITH & GARAGE LLC",
+    "website": "http://columbuslocksmithgarage.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-21T09:32:39.376500+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793378982-9",
+    "business_name": "Pittsburgh Vinyl Graphics",
+    "website": "http://www.pittsburghvinylgraphics.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-21T09:34:20.615409+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793379091-8",
+    "business_name": "Forever Young Mobile Detailing LLC",
+    "website": "https://foreveryoungmobiledetailing.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-21T09:34:48.358406+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793379224-5",
+    "business_name": "Rainier Film Solutions, LLC.",
+    "website": "http://www.rainierfilmsolutions.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-21T09:35:14.710344+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793379234-7",
+    "business_name": "HH Seattle City Glass",
+    "website": "https://www.hhseattlecityglass.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
+    "eliminated_at": "2026-11-21T09:35:24.511784+00:00"
   }
 ]
