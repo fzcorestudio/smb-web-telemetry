@@ -4046,5 +4046,101 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.",
     "eliminated_at": "2026-11-21T09:35:24.511784+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793394408-12",
+    "business_name": "AesthetiX Skin Lounge",
+    "website": "http://aesthetixokc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-21T16:58:38.477255+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793394410-13",
+    "business_name": "Advanced Clinics of Oklahoma",
+    "website": "https://www.advancedclinicsok.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-21T16:58:38.777558+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793394458-1",
+    "business_name": "Level London",
+    "website": "http://www.levellondon.co.uk",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-21T16:58:54.968267+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793394595-13",
+    "business_name": "Refresh Renovations - South West London",
+    "website": "https://www.refreshrenovations.co.uk/people/saleem-jalil",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-21T17:01:10.161257+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793394620-18",
+    "business_name": "Home Renovation London",
+    "website": "https://www.homerenovationlondon.co.uk",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-21T17:01:37.291748+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793394704-30",
+    "business_name": "D London Bathroom fitters",
+    "website": "http://www.london-bathroomfitters.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "eliminated_at": "2026-11-21T17:03:00.256454+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793394879-7",
+    "business_name": "Blue Sky Guttering West Midlands",
+    "website": "https://blueskyguttering.co.uk/locations/midlands/birmingham",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-21T17:05:07.637594+00:00"
+  },
+  {
+    "lead_id": "FZ-UK-1793395077-17",
+    "business_name": "Beaver International Ltd",
+    "website": "http://www.beaverinternational.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-21T17:07:44.207979+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793395151-1",
+    "business_name": "Valley Landscaping Toronto",
+    "website": "https://valleylandscapingtoronto.shop",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 503",
+    "eliminated_at": "2026-11-21T17:08:49.313315+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793395172-4",
+    "business_name": "Dream Makers Hardscaping",
+    "website": "http://gtadreammakers.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-21T17:08:59.532088+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793395179-5",
+    "business_name": "DIANYA LANDSCAPING",
+    "website": "https://dianyalandscaping.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-21T17:09:11.595949+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793395183-6",
+    "business_name": "Precision pavers inc",
+    "website": "https://precisionpavers.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-11-21T17:09:14.261346+00:00"
   }
 ]
