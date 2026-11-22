@@ -4142,5 +4142,85 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
     "eliminated_at": "2026-11-21T17:09:14.261346+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793408029-3",
+    "business_name": "IRONCLAD COMMERCIAL FLOORS",
+    "website": "https://ironcladcommercialfloors.ca",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-22T17:57:30.322018+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793408153-12",
+    "business_name": "Concrete Coatings Plus",
+    "website": "http://www.concretecoatingsplus.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_DATE_INVALID at http://www.concrete",
+    "eliminated_at": "2026-11-22T17:58:35.230400+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793408270-8",
+    "business_name": "Western Air & Power Ltd",
+    "website": "http://www.westernair.ca",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-22T17:59:54.668090+00:00"
+  },
+  {
+    "lead_id": "FZ-CA-1793408305-16",
+    "business_name": "Universal Ventilation Ltd",
+    "website": "http://universalventilation.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at http://unive",
+    "eliminated_at": "2026-11-22T18:00:28.847877+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1793408537-3",
+    "business_name": "Elite Restoration",
+    "website": "https://eliterestoration.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-22T18:03:11.674158+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1793408570-7",
+    "business_name": "Moisture Control Services",
+    "website": "https://www.moisturecontrol.com.au",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.mo",
+    "eliminated_at": "2026-11-22T18:03:26.722986+00:00"
+  },
+  {
+    "lead_id": "FZ-AU-1793408581-8",
+    "business_name": "Restoniq Restoration",
+    "website": "https://restoniq.com.au",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-22T18:03:28.557347+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793408875-8",
+    "business_name": "Duck Fence & Deck, LLC",
+    "website": "https://www.duckfence.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-22T18:06:44.490284+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793408898-12",
+    "business_name": "AB Fence Pros",
+    "website": "https://www.abfencepros.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-22T18:06:57.818950+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793429456-2",
+    "business_name": "The Plumbing Service",
+    "website": "http://www.theplumbingservice.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-22T18:07:51.980491+00:00"
   }
 ]
