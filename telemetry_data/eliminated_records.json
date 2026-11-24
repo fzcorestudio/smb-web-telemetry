@@ -4222,5 +4222,69 @@
     "status": "ELIMINATED_DEAD_SITE",
     "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
     "eliminated_at": "2026-11-22T18:07:51.980491+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793429558-5",
+    "business_name": "Paint Theory",
+    "website": "https://paint-theory.com/dallas",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://pain",
+    "eliminated_at": "2026-11-24T12:14:05.447212+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793429561-6",
+    "business_name": "GMP PAINTING SOLUTIONS LLC",
+    "website": "https://gmppainting.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://gmpp",
+    "eliminated_at": "2026-11-24T12:14:05.642953+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793429870-5",
+    "business_name": "GB Cleaning Services Company",
+    "website": "http://gb-cleaning-service-company.negocio.si",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-24T12:17:21.306376+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793430040-5",
+    "business_name": "BrightWorks Facility Services",
+    "website": "https://brightworksfs.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-24T12:18:09.375499+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793430053-7",
+    "business_name": "BB's Pressure Washing Services LLC",
+    "website": "http://bbspws.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-24T12:18:18.895169+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793430085-1",
+    "business_name": "Total Visa Solutions",
+    "website": "https://tvspassports.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-24T12:18:20.633193+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793430210-10",
+    "business_name": "The Tax Resolution Institute",
+    "website": "http://www.taxresolutioninstitute.org",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-24T12:19:52.082423+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793469465-9",
+    "business_name": "Houston Walkways",
+    "website": "https://www.houstonwalkways.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "No critical conversion leaks or severe visual flaws found.",
+    "eliminated_at": "2026-11-24T12:22:48.822931+00:00"
   }
 ]
