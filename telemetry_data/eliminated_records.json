@@ -4286,5 +4286,37 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "No critical conversion leaks or severe visual flaws found.",
     "eliminated_at": "2026-11-24T12:22:48.822931+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793469971-4",
+    "business_name": "Patriotic Glass",
+    "website": "https://www.acmeheightsglass.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.ac",
+    "eliminated_at": "2026-11-26T08:41:09.429122+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793469985-6",
+    "business_name": "The Window Source of Tampa Bay",
+    "website": "https://windowsourcetampa.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-26T08:41:14.439600+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793481585-4",
+    "business_name": "Paradym Performance",
+    "website": "http://www.paradymperformance.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: Timeout 12000ms exceeded.\nCall log:\n  - navigatin",
+    "eliminated_at": "2026-11-26T08:45:06.500094+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793481864-13",
+    "business_name": "Dr. Richard T. Nguyen, FACS, FACOS, with Lifetime Surgical",
+    "website": "https://www.lifetimesurgical.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-26T08:46:44.528137+00:00"
   }
 ]
