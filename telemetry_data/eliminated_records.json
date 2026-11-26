@@ -4318,5 +4318,61 @@
     "status": "ELIMINATED_ESTABLISHED",
     "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
     "eliminated_at": "2026-11-26T08:46:44.528137+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793482012-15",
+    "business_name": "Reece Bath+Kitchen",
+    "website": "https://www.reece.com/bath-and-kitchen",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.content: Unable to retrieve content because the page is navigating and changing the content.",
+    "eliminated_at": "2026-11-26T18:39:54.922860+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793482036-19",
+    "business_name": "Alongi Construction AZ",
+    "website": "https://alcongroupllc.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://alco",
+    "eliminated_at": "2026-11-26T18:40:09.775744+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793482340-3",
+    "business_name": "AZ Pool Concepts LLC",
+    "website": "https://www.azpoolconcepts.com",
+    "status": "ELIMINATED_ESTABLISHED",
+    "reason": "Modern tech stack, clean responsive layout, 2025+ copyright, and sticky mobile conversion bar.",
+    "eliminated_at": "2026-11-26T18:42:25.052481+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793482354-7",
+    "business_name": "Lucid Pools LLC",
+    "website": "https://lucidpools.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Timeout/Load Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://lucidpoo",
+    "eliminated_at": "2026-11-26T18:42:42.853526+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793492143-10",
+    "business_name": "Arizona LandShapes",
+    "website": "https://azlandshapes.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 404",
+    "eliminated_at": "2026-11-26T18:44:06.306722+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793492286-12",
+    "business_name": "Epoxy Evolution",
+    "website": "https://epoxyevolutionga.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "HTTP Error 403",
+    "eliminated_at": "2026-11-26T18:44:56.230599+00:00"
+  },
+  {
+    "lead_id": "FZ-US-1793492495-5",
+    "business_name": "Landis+Gyr",
+    "website": "https://www.landisgyr.com",
+    "status": "ELIMINATED_DEAD_SITE",
+    "reason": "Evaluation Crash: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at ",
+    "eliminated_at": "2026-11-26T18:46:38.466952+00:00"
   }
 ]
