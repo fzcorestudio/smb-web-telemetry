@@ -715,7 +715,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:27.101647+00:00"
+    "bounced_at": "2026-11-26T23:21:56.558540+00:00"
   },
   "FZ-US-1792615202-9": {
     "lead_id": "FZ-US-1792615202-9",
@@ -1015,7 +1015,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:21.386020+00:00"
+    "bounced_at": "2026-11-26T23:21:47.808565+00:00"
   },
   "FZ-US-1792615385-4": {
     "lead_id": "FZ-US-1792615385-4",
@@ -2010,7 +2010,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:21.129759+00:00"
+    "bounced_at": "2026-11-26T23:21:47.472121+00:00"
   },
   "FZ-US-1792616485-10": {
     "lead_id": "FZ-US-1792616485-10",
@@ -2380,7 +2380,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:15.387253+00:00"
+    "bounced_at": "2026-11-26T23:21:40.087254+00:00"
   },
   "FZ-US-1792616603-6": {
     "lead_id": "FZ-US-1792616603-6",
@@ -2474,7 +2474,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:13.046125+00:00"
+    "bounced_at": "2026-11-26T23:20:16.072424+00:00"
   },
   "FZ-US-1792616681-3": {
     "lead_id": "FZ-US-1792616681-3",
@@ -3050,7 +3050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:42.131925+00:00"
+    "bounced_at": "2026-11-26T23:23:40.457904+00:00"
   },
   "FZ-US-1792618324-3": {
     "lead_id": "FZ-US-1792618324-3",
@@ -4065,7 +4065,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:40:00.939323+00:00"
+    "bounced_at": "2026-11-26T23:24:06.531716+00:00"
   },
   "FZ-US-1792621200-2": {
     "lead_id": "FZ-US-1792621200-2",
@@ -4737,7 +4737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:12.805570+00:00"
+    "bounced_at": "2026-11-26T23:20:15.739211+00:00"
   },
   "FZ-US-1792623373-3": {
     "lead_id": "FZ-US-1792623373-3",
@@ -4808,7 +4808,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:53.603549+00:00"
+    "bounced_at": "2026-11-26T23:22:32.461941+00:00"
   },
   "FZ-US-1792623579-7": {
     "lead_id": "FZ-US-1792623579-7",
@@ -4832,7 +4832,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:40.990732+00:00"
+    "bounced_at": "2026-11-26T23:23:38.939976+00:00"
   },
   "FZ-US-1792623680-2": {
     "lead_id": "FZ-US-1792623680-2",
@@ -5479,7 +5479,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:20.871337+00:00"
+    "bounced_at": "2026-11-26T23:21:47.139497+00:00"
   },
   "FZ-US-1792625157-8": {
     "lead_id": "FZ-US-1792625157-8",
@@ -5503,7 +5503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:15.026706+00:00"
+    "bounced_at": "2026-11-26T23:21:39.648289+00:00"
   },
   "FZ-US-1792625188-3": {
     "lead_id": "FZ-US-1792625188-3",
@@ -5550,7 +5550,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:40.750179+00:00"
+    "bounced_at": "2026-11-26T23:23:38.611156+00:00"
   },
   "FZ-US-1792625308-19": {
     "lead_id": "FZ-US-1792625308-19",
@@ -6703,7 +6703,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:53.254522+00:00"
+    "bounced_at": "2026-11-26T23:22:32.133978+00:00"
   },
   "FZ-US-1792627387-2": {
     "lead_id": "FZ-US-1792627387-2",
@@ -7581,7 +7581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:13.820189+00:00"
+    "bounced_at": "2026-11-26T23:20:17.215865+00:00"
   },
   "FZ-US-1792627617-6": {
     "lead_id": "FZ-US-1792627617-6",
@@ -7791,7 +7791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:19.888966+00:00"
+    "bounced_at": "2026-11-26T23:21:45.843241+00:00"
   },
   "FZ-US-1792627691-1": {
     "lead_id": "FZ-US-1792627691-1",
@@ -13557,7 +13557,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:19.636036+00:00"
+    "bounced_at": "2026-11-26T23:21:45.509052+00:00"
   },
   "FZ-US-1792787245-4": {
     "lead_id": "FZ-US-1792787245-4",
@@ -15157,7 +15157,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:26.877727+00:00"
+    "bounced_at": "2026-11-26T23:21:56.211108+00:00"
   },
   "FZ-US-1792815633-6": {
     "lead_id": "FZ-US-1792815633-6",
@@ -15619,7 +15619,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:40:00.483166+00:00"
+    "bounced_at": "2026-11-26T23:24:05.842138+00:00"
   },
   "FZ-US-1792820218-5": {
     "lead_id": "FZ-US-1792820218-5",
@@ -17443,7 +17443,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:14.809275+00:00"
+    "bounced_at": "2026-11-26T23:20:18.551931+00:00"
   },
   "FZ-US-1792726568-1": {
     "lead_id": "FZ-US-1792726568-1",
@@ -18484,7 +18484,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:40:17.436003+00:00"
+    "bounced_at": "2026-11-26T23:24:29.071481+00:00"
   },
   "FZ-US-1792794467-4": {
     "lead_id": "FZ-US-1792794467-4",
@@ -18738,7 +18738,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:55.651931+00:00"
+    "bounced_at": "2026-11-26T23:22:35.231519+00:00"
   },
   "FZ-US-1792794996-4": {
     "lead_id": "FZ-US-1792794996-4",
@@ -20795,7 +20795,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:10.160898+00:00"
+    "bounced_at": "2026-11-26T23:20:12.234902+00:00"
   },
   "FZ-US-1792822929-9": {
     "lead_id": "FZ-US-1792822929-9",
@@ -22042,7 +22042,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:14.563464+00:00"
+    "bounced_at": "2026-11-26T23:20:18.219544+00:00"
   },
   "FZ-US-1792855104-3": {
     "lead_id": "FZ-US-1792855104-3",
@@ -22504,7 +22504,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:26.649307+00:00"
+    "bounced_at": "2026-11-26T23:21:55.862368+00:00"
   },
   "FZ-US-1792859094-8": {
     "lead_id": "FZ-US-1792859094-8",
@@ -23127,7 +23127,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:40:00.712944+00:00"
+    "bounced_at": "2026-11-26T23:24:06.189194+00:00"
   },
   "FZ-CA-1792617030-6": {
     "lead_id": "FZ-CA-1792617030-6",
@@ -24003,7 +24003,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:14.771855+00:00"
+    "bounced_at": "2026-11-26T23:21:39.338296+00:00"
   },
   "FZ-CA-1792631077-1": {
     "lead_id": "FZ-CA-1792631077-1",
@@ -26632,7 +26632,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:14.312669+00:00"
+    "bounced_at": "2026-11-26T23:20:17.883862+00:00"
   },
   "FZ-US-1792634387-4": {
     "lead_id": "FZ-US-1792634387-4",
@@ -27415,7 +27415,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:19.383062+00:00"
+    "bounced_at": "2026-11-26T23:21:45.163604+00:00"
   },
   "FZ-US-1792634670-6": {
     "lead_id": "FZ-US-1792634670-6",
@@ -27439,7 +27439,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:13.780849+00:00"
+    "bounced_at": "2026-11-26T23:21:38.140289+00:00"
   },
   "FZ-US-1792634676-8": {
     "lead_id": "FZ-US-1792634676-8",
@@ -28914,7 +28914,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:14.065383+00:00"
+    "bounced_at": "2026-11-26T23:20:17.550408+00:00"
   },
   "FZ-US-1792642159-2": {
     "lead_id": "FZ-US-1792642159-2",
@@ -29398,7 +29398,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:26.418265+00:00"
+    "bounced_at": "2026-11-26T23:21:55.512639+00:00"
   },
   "FZ-US-1792642252-5": {
     "lead_id": "FZ-US-1792642252-5",
@@ -29445,7 +29445,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:20.150940+00:00"
+    "bounced_at": "2026-11-26T23:21:46.207497+00:00"
   },
   "FZ-US-1792642258-9": {
     "lead_id": "FZ-US-1792642258-9",
@@ -29791,7 +29791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:18.559796+00:00"
+    "bounced_at": "2026-11-26T23:21:44.090141+00:00"
   },
   "FZ-US-1792642402-11": {
     "lead_id": "FZ-US-1792642402-11",
@@ -30368,7 +30368,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:22.938787+00:00"
+    "bounced_at": "2026-11-26T23:21:50.137545+00:00"
   },
   "FZ-US-1792643848-2": {
     "lead_id": "FZ-US-1792643848-2",
@@ -30484,7 +30484,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:41.887145+00:00"
+    "bounced_at": "2026-11-26T23:23:40.132050+00:00"
   },
   "FZ-US-1792643924-1": {
     "lead_id": "FZ-US-1792643924-1",
@@ -31821,7 +31821,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:37.016001+00:00"
+    "bounced_at": "2026-11-26T23:22:09.893155+00:00"
   },
   "FZ-US-1792648374-2": {
     "lead_id": "FZ-US-1792648374-2",
@@ -34250,7 +34250,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:55.194144+00:00"
+    "bounced_at": "2026-11-26T23:22:34.613629+00:00"
   },
   "FZ-CA-1792663418-2": {
     "lead_id": "FZ-CA-1792663418-2",
@@ -35889,7 +35889,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:12.937837+00:00"
+    "bounced_at": "2026-11-26T23:21:37.161269+00:00"
   },
   "FZ-US-1792673138-2": {
     "lead_id": "FZ-US-1792673138-2",
@@ -36558,7 +36558,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:54.944724+00:00"
+    "bounced_at": "2026-11-26T23:22:34.277684+00:00"
   },
   "FZ-US-1792673629-6": {
     "lead_id": "FZ-US-1792673629-6",
@@ -39489,7 +39489,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:40:00.256555+00:00"
+    "bounced_at": "2026-11-26T23:24:05.493670+00:00"
   },
   "FZ-AU-1792615707-7": {
     "lead_id": "FZ-AU-1792615707-7",
@@ -40640,7 +40640,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:40:00.001161+00:00"
+    "bounced_at": "2026-11-26T23:24:05.138669+00:00"
   },
   "FZ-AU-1792651066-1": {
     "lead_id": "FZ-AU-1792651066-1",
@@ -45460,7 +45460,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:40.254156+00:00"
+    "bounced_at": "2026-11-26T23:23:37.949875+00:00"
   },
   "FZ-CA-1792884623-10": {
     "lead_id": "FZ-CA-1792884623-10",
@@ -45508,7 +45508,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:53.013779+00:00"
+    "bounced_at": "2026-11-26T23:22:31.804332+00:00"
   },
   "FZ-CA-1792884655-12": {
     "lead_id": "FZ-CA-1792884655-12",
@@ -46042,7 +46042,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:36.774257+00:00"
+    "bounced_at": "2026-11-26T23:22:09.560651+00:00"
   },
   "FZ-US-1792892641-13": {
     "lead_id": "FZ-US-1792892641-13",
@@ -46460,7 +46460,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:14.515022+00:00"
+    "bounced_at": "2026-11-26T23:21:39.024410+00:00"
   },
   "FZ-US-1792892833-11": {
     "lead_id": "FZ-US-1792892833-11",
@@ -47778,7 +47778,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:40.508187+00:00"
+    "bounced_at": "2026-11-26T23:23:38.286164+00:00"
   },
   "FZ-AU-1792885039-2": {
     "lead_id": "FZ-AU-1792885039-2",
@@ -50868,7 +50868,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:24.267362+00:00"
+    "bounced_at": "2026-11-26T23:21:52.192967+00:00"
   },
   "FZ-AU-1792782901-8": {
     "lead_id": "FZ-AU-1792782901-8",
@@ -51425,7 +51425,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:36.527960+00:00"
+    "bounced_at": "2026-11-26T23:22:09.225683+00:00"
   },
   "FZ-US-1792864371-11": {
     "lead_id": "FZ-US-1792864371-11",
@@ -51910,7 +51910,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:12.564848+00:00"
+    "bounced_at": "2026-11-26T23:20:15.410387+00:00"
   },
   "FZ-US-1792876564-8": {
     "lead_id": "FZ-US-1792876564-8",
@@ -52882,7 +52882,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:38.512207+00:00"
+    "bounced_at": "2026-11-26T23:23:35.607686+00:00"
   },
   "FZ-US-1792911854-2": {
     "lead_id": "FZ-US-1792911854-2",
@@ -54154,7 +54154,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:12.635260+00:00"
+    "bounced_at": "2026-11-26T23:21:36.807201+00:00"
   },
   "FZ-US-1792932138-6": {
     "lead_id": "FZ-US-1792932138-6",
@@ -55864,7 +55864,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:39.783915+00:00"
+    "bounced_at": "2026-11-26T23:23:37.326608+00:00"
   },
   "FZ-US-1792966379-4": {
     "lead_id": "FZ-US-1792966379-4",
@@ -56885,7 +56885,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:10.772917+00:00"
+    "bounced_at": "2026-11-26T23:20:13.039238+00:00"
   },
   "FZ-US-1792966939-23": {
     "lead_id": "FZ-US-1792966939-23",
@@ -59398,7 +59398,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:52.336089+00:00"
+    "bounced_at": "2026-11-26T23:22:30.893653+00:00"
   },
   "FZ-US-1793083403-14": {
     "lead_id": "FZ-US-1793083403-14",
@@ -60389,7 +60389,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:52.053807+00:00"
+    "bounced_at": "2026-11-26T23:22:30.548484+00:00"
   },
   "FZ-US-1793083499-4": {
     "lead_id": "FZ-US-1793083499-4",
@@ -61839,7 +61839,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:10.765254+00:00"
+    "bounced_at": "2026-11-26T23:21:34.567304+00:00"
   },
   "FZ-US-1793083320-4": {
     "lead_id": "FZ-US-1793083320-4",
@@ -61909,7 +61909,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:01.144532+00:00"
+    "bounced_at": "2026-11-26T23:19:59.722127+00:00"
   },
   "FZ-US-1793104971-5": {
     "lead_id": "FZ-US-1793104971-5",
@@ -62784,7 +62784,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:05.962899+00:00"
+    "bounced_at": "2026-11-26T23:21:28.375493+00:00"
   },
   "FZ-US-1793151941-2": {
     "lead_id": "FZ-US-1793151941-2",
@@ -63590,7 +63590,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:38.664409+00:00"
+    "bounced_at": "2026-11-26T23:20:51.227241+00:00"
   },
   "FZ-US-1793152724-24": {
     "lead_id": "FZ-US-1793152724-24",
@@ -63775,7 +63775,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:43.285161+00:00"
+    "bounced_at": "2026-11-26T23:22:18.404964+00:00"
   },
   "FZ-AU-1793219817-4": {
     "lead_id": "FZ-AU-1793219817-4",
@@ -64673,7 +64673,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:43.971300+00:00"
+    "bounced_at": "2026-11-26T23:23:42.929698+00:00"
   },
   "FZ-US-1793052032-10": {
     "lead_id": "FZ-US-1793052032-10",
@@ -65341,7 +65341,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:52.799735+00:00"
+    "bounced_at": "2026-11-26T23:23:55.110002+00:00"
   },
   "FZ-US-1793064301-1": {
     "lead_id": "FZ-US-1793064301-1",
@@ -67067,7 +67067,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:20.240718+00:00"
+    "bounced_at": "2026-11-26T23:20:25.925403+00:00"
   },
   "FZ-US-1793233728-6": {
     "lead_id": "FZ-US-1793233728-6",
@@ -68908,7 +68908,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:05.700224+00:00"
+    "bounced_at": "2026-11-26T23:21:28.032333+00:00"
   },
   "FZ-US-1793255577-7": {
     "lead_id": "FZ-US-1793255577-7",
@@ -69438,7 +69438,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:30.695281+00:00"
+    "bounced_at": "2026-11-26T23:20:40.258263+00:00"
   },
   "FZ-US-1793255811-14": {
     "lead_id": "FZ-US-1793255811-14",
@@ -69669,7 +69669,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:47.377879+00:00"
+    "bounced_at": "2026-11-26T23:21:03.351777+00:00"
   },
   "FZ-US-1793302550-4": {
     "lead_id": "FZ-US-1793302550-4",
@@ -70889,7 +70889,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:57.683423+00:00"
+    "bounced_at": "2026-11-26T23:21:16.817516+00:00"
   },
   "FZ-US-1793317033-4": {
     "lead_id": "FZ-US-1793317033-4",
@@ -71051,7 +71051,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:01.873835+00:00"
+    "bounced_at": "2026-11-26T23:22:44.068518+00:00"
   },
   "FZ-US-1793317210-2": {
     "lead_id": "FZ-US-1793317210-2",
@@ -71075,7 +71075,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:47.280590+00:00"
+    "bounced_at": "2026-11-26T23:22:23.914018+00:00"
   },
   "FZ-US-1793317214-3": {
     "lead_id": "FZ-US-1793317214-3",
@@ -71283,7 +71283,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:09.608007+00:00"
+    "bounced_at": "2026-11-26T23:20:11.483136+00:00"
   },
   "FZ-US-1793317324-7": {
     "lead_id": "FZ-US-1793317324-7",
@@ -73492,7 +73492,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:01.463718+00:00"
+    "bounced_at": "2026-11-26T23:22:43.518779+00:00"
   },
   "FZ-US-1793064686-3": {
     "lead_id": "FZ-US-1793064686-3",
@@ -74114,7 +74114,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:40:06.575164+00:00"
+    "bounced_at": "2026-11-26T23:24:13.968130+00:00"
   },
   "FZ-US-1793065013-24": {
     "lead_id": "FZ-US-1793065013-24",
@@ -74230,7 +74230,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:40:10.701535+00:00"
+    "bounced_at": "2026-11-26T23:24:19.732495+00:00"
   },
   "FZ-US-1793082636-6": {
     "lead_id": "FZ-US-1793082636-6",
@@ -76600,7 +76600,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:28.568978+00:00"
+    "bounced_at": "2026-11-26T23:21:58.420600+00:00"
   },
   "FZ-US-1793200629-3": {
     "lead_id": "FZ-US-1793200629-3",
@@ -77153,7 +77153,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:37:25.609913+00:00"
+    "bounced_at": "2026-11-26T23:20:33.458131+00:00"
   },
   "FZ-CA-1793219267-5": {
     "lead_id": "FZ-CA-1793219267-5",
@@ -77660,7 +77660,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:38:38.640091+00:00"
+    "bounced_at": "2026-11-26T23:22:11.968959+00:00"
   },
   "FZ-US-1793256149-4": {
     "lead_id": "FZ-US-1793256149-4",
@@ -78167,7 +78167,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:30.290614+00:00"
+    "bounced_at": "2026-11-26T23:23:23.965756+00:00"
   },
   "FZ-AU-1793408462-5": {
     "lead_id": "FZ-AU-1793408462-5",
@@ -78191,7 +78191,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:25.879603+00:00"
+    "bounced_at": "2026-11-26T23:23:17.697217+00:00"
   },
   "FZ-US-1793330031-3": {
     "lead_id": "FZ-US-1793330031-3",
@@ -78537,7 +78537,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:38.026068+00:00"
+    "bounced_at": "2026-11-26T23:23:34.978797+00:00"
   },
   "FZ-US-1793378294-15": {
     "lead_id": "FZ-US-1793378294-15",
@@ -79182,7 +79182,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-26T22:39:17.891085+00:00"
+    "bounced_at": "2026-11-26T23:23:06.388214+00:00"
   },
   "FZ-CA-1793408182-19": {
     "lead_id": "FZ-CA-1793408182-19",
@@ -79447,7 +79447,7 @@
     "domain": "premierokc.com",
     "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
     "current_step": 1,
-    "status": "WAITING_REPLY",
+    "status": "BOUNCED",
     "step_history": [
       {
         "step": 1,
@@ -79456,9 +79456,10 @@
         "subject": "premierokc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-29T22:40:48.981297+00:00",
+    "next_followup_due": null,
     "replied_at": null,
-    "reply_snippet": null
+    "reply_snippet": null,
+    "bounced_at": "2026-11-26T23:22:03.480210+00:00"
   },
   "FZ-CA-1793408220-1": {
     "lead_id": "FZ-CA-1793408220-1",
@@ -81987,6 +81988,834 @@
       }
     ],
     "next_followup_due": "2026-11-29T22:40:48.981297+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793481621-1": {
+    "lead_id": "FZ-US-1793481621-1",
+    "business_name": "San Diego Mobile Car Wash",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@drdetailsandiego.com",
+    "sender_email": "faiz@mail.fzcorestudio.com",
+    "state": "CA",
+    "domain": "drdetailsandiego.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:14.016763+00:00",
+        "sender": "faiz@mail.fzcorestudio.com",
+        "subject": "quick question re drdetailsandiego.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482025-17": {
+    "lead_id": "FZ-US-1793482025-17",
+    "business_name": "Handi Services",
+    "owner_name": "Sally Hunter",
+    "recipient_email": "info@handiservice.us",
+    "sender_email": "marcus@mail.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "handiservice.us",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (Name, Phone, E-mail, Message, acceptance-157).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:21.994843+00:00",
+        "sender": "marcus@mail.fzcorestudio.com",
+        "subject": "quick question for Sally Hunter re handiservice.us"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482030-18": {
+    "lead_id": "FZ-US-1793482030-18",
+    "business_name": "R H Design and Build",
+    "owner_name": "R H Design and Build",
+    "recipient_email": "info@rafichokayem.com",
+    "sender_email": "elena@mail.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "rafichokayem.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '+1 602-568 7596' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:26.388218+00:00",
+        "sender": "elena@mail.fzcorestudio.com",
+        "subject": "rafichokayem.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482042-21": {
+    "lead_id": "FZ-US-1793482042-21",
+    "business_name": "ModaScapes Interior Design",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@modascapes.com",
+    "sender_email": "adrian@mail.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "modascapes.com",
+    "flaw_summary": "Excessive Form Fields (12 inputs) Causing High Drop-Off (Detected static form with 12 fields (FNAME, LNAME, EMAIL, PHONE, CITY).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:30.466735+00:00",
+        "sender": "adrian@mail.fzcorestudio.com",
+        "subject": "modascapes.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482047-22": {
+    "lead_id": "FZ-US-1793482047-22",
+    "business_name": "Cook Remodeling",
+    "owner_name": "Cook Remodeling",
+    "recipient_email": "info@cookremodeling.com",
+    "sender_email": "julian@mail.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "cookremodeling.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:34.809692+00:00",
+        "sender": "julian@mail.fzcorestudio.com",
+        "subject": "quick question re cookremodeling.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482050-23": {
+    "lead_id": "FZ-US-1793482050-23",
+    "business_name": "Madley Fine Cabinetry",
+    "owner_name": "Madley Fine Cabinetry",
+    "recipient_email": "info@madleyfinecabinetry.com",
+    "sender_email": "lucas@team.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "madleyfinecabinetry.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:39.289382+00:00",
+        "sender": "lucas@team.fzcorestudio.com",
+        "subject": "madleyfinecabinetry.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482052-24": {
+    "lead_id": "FZ-US-1793482052-24",
+    "business_name": "Fratantoni Luxury Estates",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@fratantoniluxuryestates.com",
+    "sender_email": "clara@team.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "fratantoniluxuryestates.com",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (dmform-0, dmform-95271, dmform-1, dmform-2, City, State (or Project Address)).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:43.082542+00:00",
+        "sender": "clara@team.fzcorestudio.com",
+        "subject": "fratantoniluxuryestates.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482053-25": {
+    "lead_id": "FZ-US-1793482053-25",
+    "business_name": "Centerstone Remodels LLC",
+    "owner_name": "Frustrated With",
+    "recipient_email": "info@centerstoneremodels.com",
+    "sender_email": "liam@team.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "centerstoneremodels.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:46.881483+00:00",
+        "sender": "liam@team.fzcorestudio.com",
+        "subject": "quick question for Frustrated re centerstoneremodels.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482080-1": {
+    "lead_id": "FZ-US-1793482080-1",
+    "business_name": "Prestwick Custom Homes | Home Builder & Remodeling",
+    "owner_name": "Business Owner",
+    "recipient_email": "jonnaa7@live.com",
+    "sender_email": "maya@team.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "prestwickcustomhomes.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '480-789-2928' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:50.530072+00:00",
+        "sender": "maya@team.fzcorestudio.com",
+        "subject": "prestwickcustomhomes.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482106-3": {
+    "lead_id": "FZ-US-1793482106-3",
+    "business_name": "Custom Design Build & Remodel.",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@customdesignbuildremodel.com",
+    "sender_email": "julian@team.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "customdesignbuildremodel.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:54.845613+00:00",
+        "sender": "julian@team.fzcorestudio.com",
+        "subject": "quick question re customdesignbuildremodel.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482109-4": {
+    "lead_id": "FZ-US-1793482109-4",
+    "business_name": "Tiny Custom House",
+    "owner_name": "Chris",
+    "recipient_email": "chris@tinycustomhouse.com",
+    "sender_email": "hannah@get.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "tinycustomhouse.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:25:59.139751+00:00",
+        "sender": "hannah@get.fzcorestudio.com",
+        "subject": "tinycustomhouse.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482111-5": {
+    "lead_id": "FZ-US-1793482111-5",
+    "business_name": "JA Mountain View Custom Homes",
+    "owner_name": "Business Owner",
+    "recipient_email": "cernatony33@gmail.com",
+    "sender_email": "owen@get.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "jamountainviewcustomhomes.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:03.623723+00:00",
+        "sender": "owen@get.fzcorestudio.com",
+        "subject": "jamountainviewcustomhomes.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482125-6": {
+    "lead_id": "FZ-US-1793482125-6",
+    "business_name": "Rafterhouse",
+    "owner_name": "Rafterhouse",
+    "recipient_email": "info@rafterhouse.com",
+    "sender_email": "chloe@get.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "rafterhouse.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(480) 499-2683' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:08.624364+00:00",
+        "sender": "chloe@get.fzcorestudio.com",
+        "subject": "rafterhouse.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482132-8": {
+    "lead_id": "FZ-US-1793482132-8",
+    "business_name": "Santa Barbara Homes",
+    "owner_name": "Brad",
+    "recipient_email": "brad@santabarbarahomesaz.com",
+    "sender_email": "mason@get.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "santabarbarahomesaz.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:12.407560+00:00",
+        "sender": "mason@get.fzcorestudio.com",
+        "subject": "santabarbarahomesaz.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482247-1": {
+    "lead_id": "FZ-US-1793482247-1",
+    "business_name": "Arizona Professional Roofing",
+    "owner_name": "Ernesto Carrazco",
+    "recipient_email": "marketing@arizonaprofessionalroofing.com",
+    "sender_email": "zoe@get.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "arizonaprofessionalroofing.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:16.402208+00:00",
+        "sender": "zoe@get.fzcorestudio.com",
+        "subject": "quick question for Ernesto Carrazco re arizonaprofessionalroofing.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482256-3": {
+    "lead_id": "FZ-US-1793482256-3",
+    "business_name": "Thomas James Roofing",
+    "owner_name": "Thomas James Roofing",
+    "recipient_email": "tj.roofingandwaterproofing@gmail.com",
+    "sender_email": "faiz@direct.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "cactusroofingandpainting.com",
+    "flaw_summary": "Excessive Form Fields (8 inputs) Causing High Drop-Off (Detected static form with 8 fields (Full Name, Email, Phone, dmform-13, dmform-14).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:20.484486+00:00",
+        "sender": "faiz@direct.fzcorestudio.com",
+        "subject": "quick question re cactusroofingandpainting.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482258-4": {
+    "lead_id": "FZ-US-1793482258-4",
+    "business_name": "Emergency Roofing",
+    "owner_name": "Emergency Roofing",
+    "recipient_email": "contact@emergencyroofingaz.com",
+    "sender_email": "ethan@direct.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "emergencyroofingaz.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(480)-910-8771' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:24.118524+00:00",
+        "sender": "ethan@direct.fzcorestudio.com",
+        "subject": "quick question re emergencyroofingaz.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482264-5": {
+    "lead_id": "FZ-US-1793482264-5",
+    "business_name": "AEL Roofing Services LLC",
+    "owner_name": "Armando",
+    "recipient_email": "armando@aelroofingservices.com",
+    "sender_email": "olivia@direct.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "aelroofingservices.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '480-776-7232' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:28.256103+00:00",
+        "sender": "olivia@direct.fzcorestudio.com",
+        "subject": "quick question for Armando re aelroofingservices.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482295-1": {
+    "lead_id": "FZ-US-1793482295-1",
+    "business_name": "AZ Custom Outdoors",
+    "owner_name": "AZ Custom Outdoors",
+    "recipient_email": "info@azcustomoutdoors.com",
+    "sender_email": "noah@direct.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "azcustomoutdoors.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:32.339088+00:00",
+        "sender": "noah@direct.fzcorestudio.com",
+        "subject": "azcustomoutdoors.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482345-4": {
+    "lead_id": "FZ-US-1793482345-4",
+    "business_name": "Desertscape Pool & Spa AZ",
+    "owner_name": "Felt Nickel",
+    "recipient_email": "adam@desertscapepoolsaz.com",
+    "sender_email": "ava@direct.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "desertscapepoolsaz.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:36.428256+00:00",
+        "sender": "ava@direct.fzcorestudio.com",
+        "subject": "quick question for Felt re desertscapepoolsaz.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482352-5": {
+    "lead_id": "FZ-US-1793482352-5",
+    "business_name": "Apricity Pools LLC.",
+    "owner_name": "Mike Was",
+    "recipient_email": "hello@apricitypools.com",
+    "sender_email": "leo@reach.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "apricitypools.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:41.087724+00:00",
+        "sender": "leo@reach.fzcorestudio.com",
+        "subject": "apricitypools.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482357-8": {
+    "lead_id": "FZ-US-1793482357-8",
+    "business_name": "Nautica Pools",
+    "owner_name": "Nautica Pools",
+    "recipient_email": "info@nauticapools.com",
+    "sender_email": "emma@reach.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "nauticapools.com",
+    "flaw_summary": "Excessive Form Fields (6 inputs) Causing High Drop-Off (Detected static form with 6 fields (Full Name*, Phone*, Email*, dmform-5, g-recaptcha-response).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:44.981786+00:00",
+        "sender": "emma@reach.fzcorestudio.com",
+        "subject": "nauticapools.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482383-9": {
+    "lead_id": "FZ-US-1793482383-9",
+    "business_name": "nuView Pools & Landscape",
+    "owner_name": "nuView Pools & Landscape",
+    "recipient_email": "info@nuviewoutdoor.com",
+    "sender_email": "nathan@reach.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "nuviewoutdoor.com",
+    "flaw_summary": "No Direct Phone Number Accessible on Mobile Fold (Zero tel: links or phone numbers detected in header or hero section.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:49.308644+00:00",
+        "sender": "nathan@reach.fzcorestudio.com",
+        "subject": "nuviewoutdoor.com mobile call button"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482413-11": {
+    "lead_id": "FZ-US-1793482413-11",
+    "business_name": "Thunderbird Pools & Spas",
+    "owner_name": "Thunderbird Pools & Spas",
+    "recipient_email": "sales@thunderbirdpools.com",
+    "sender_email": "mia@reach.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "thunderbirdpools.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:53.358438+00:00",
+        "sender": "mia@reach.fzcorestudio.com",
+        "subject": "quick question for Operated re thunderbirdpools.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482419-12": {
+    "lead_id": "FZ-US-1793482419-12",
+    "business_name": "Precision Pool Techs",
+    "owner_name": "Precisionpooltechs",
+    "recipient_email": "precisionpooltechs@gmail.com",
+    "sender_email": "caleb@reach.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "precisionpooltechs.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(480) 729-2358' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:26:57.140127+00:00",
+        "sender": "caleb@reach.fzcorestudio.com",
+        "subject": "quick question for Precisionpooltechs re precisionpooltechs.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482420-13": {
+    "lead_id": "FZ-US-1793482420-13",
+    "business_name": "American Heritage Pool Co",
+    "owner_name": "Business Owner",
+    "recipient_email": "info@americanpoolguys.com",
+    "sender_email": "harrison@hq.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "americanpoolguys.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:01.322938+00:00",
+        "sender": "harrison@hq.fzcorestudio.com",
+        "subject": "americanpoolguys.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482430-15": {
+    "lead_id": "FZ-US-1793482430-15",
+    "business_name": "Wolverine Pool Construction LLC",
+    "owner_name": "Trent",
+    "recipient_email": "trent@wolverinepools.com",
+    "sender_email": "victoria@hq.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "wolverinepools.com",
+    "flaw_summary": "Phone Number Not 1-Tap Clickable on Mobile (Phone '(602) 989-7665' found in plain text without an href='tel:' link.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:05.969009+00:00",
+        "sender": "victoria@hq.fzcorestudio.com",
+        "subject": "quick question for Trent re wolverinepools.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482446-17": {
+    "lead_id": "FZ-US-1793482446-17",
+    "business_name": "System Pools and Spas",
+    "owner_name": "Involved From",
+    "recipient_email": "office@systempoolsandspas.com",
+    "sender_email": "graham@hq.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "systempoolsandspas.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:10.265749+00:00",
+        "sender": "graham@hq.fzcorestudio.com",
+        "subject": "quick question for Involved From re systempoolsandspas.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482476-18": {
+    "lead_id": "FZ-US-1793482476-18",
+    "business_name": "Liquid Evolution Pools",
+    "owner_name": "Liquid Evolution Pools",
+    "recipient_email": "info@liquidevolutionpools.com",
+    "sender_email": "evelyn@hq.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "liquidevolutionpools.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:15.088178+00:00",
+        "sender": "evelyn@hq.fzcorestudio.com",
+        "subject": "quick question re liquidevolutionpools.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482524-19": {
+    "lead_id": "FZ-US-1793482524-19",
+    "business_name": "Monarch Pools Arizona",
+    "owner_name": "They Went",
+    "recipient_email": "info@monarchpoolsaz.com",
+    "sender_email": "connor@hq.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "monarchpoolsaz.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:18.950915+00:00",
+        "sender": "connor@hq.fzcorestudio.com",
+        "subject": "quick question for They Went re monarchpoolsaz.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793482525-20": {
+    "lead_id": "FZ-US-1793482525-20",
+    "business_name": "Canterra Construction",
+    "owner_name": "Meet Cesar",
+    "recipient_email": "admin@canterrallc.com",
+    "sender_email": "audrey@client.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "canterrallc.com",
+    "flaw_summary": "Excessive Form Fields (7 inputs) Causing High Drop-Off (Detected static form with 7 fields (dmform-0, dmform-1, dmform-2, dmform-3, dmform-5).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:23.542039+00:00",
+        "sender": "audrey@client.fzcorestudio.com",
+        "subject": "canterrallc.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793492083-2": {
+    "lead_id": "FZ-US-1793492083-2",
+    "business_name": "Sorce Signature Outdoors Co",
+    "owner_name": "Wesley Sorce",
+    "recipient_email": "info@sorcesignatureoutdoors.com",
+    "sender_email": "elliott@client.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "sorcesignatureoutdoors.com",
+    "flaw_summary": "Excessive Form Fields (9 inputs) Causing High Drop-Off (Detected static form with 9 fields (website, first_name, last_name, email, phone).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:28.130217+00:00",
+        "sender": "elliott@client.fzcorestudio.com",
+        "subject": "sorcesignatureoutdoors.com quick estimate calculator"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793492086-3": {
+    "lead_id": "FZ-US-1793492086-3",
+    "business_name": "Luis Landscapes",
+    "owner_name": "Luis Landscapes",
+    "recipient_email": "contact@luislandscapes.com",
+    "sender_email": "madeline@client.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "luislandscapes.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:32.636302+00:00",
+        "sender": "madeline@client.fzcorestudio.com",
+        "subject": "quick question re luislandscapes.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793492111-5": {
+    "lead_id": "FZ-US-1793492111-5",
+    "business_name": "Cherry Landscape, Inc.",
+    "owner_name": "Contactus",
+    "recipient_email": "contactus@cherrylandscape.com",
+    "sender_email": "trevor@client.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "cherrylandscape.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:36.691822+00:00",
+        "sender": "trevor@client.fzcorestudio.com",
+        "subject": "quick question for Contactus re cherrylandscape.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793492149-11": {
+    "lead_id": "FZ-US-1793492149-11",
+    "business_name": "Arizona Turf Masters",
+    "owner_name": "Arizona",
+    "recipient_email": "contactus@azturfmasters.com",
+    "sender_email": "claire@client.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "azturfmasters.com",
+    "flaw_summary": "Missing Sticky Mobile Bottom Call/Quote Bar (No fixed/sticky call CTA located at the mobile thumb zone (bottom 25px).)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:27:40.848841+00:00",
+        "sender": "claire@client.fzcorestudio.com",
+        "subject": "quick question for Arizona re azturfmasters.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
+    "replied_at": null,
+    "reply_snippet": null
+  },
+  "FZ-US-1793492170-14": {
+    "lead_id": "FZ-US-1793492170-14",
+    "business_name": "Baldemar Garcia Landscaping",
+    "owner_name": "Business Owner",
+    "recipient_email": "baldemargarcia2016@hotmail.com",
+    "sender_email": "charlotte@desk.fzcorestudio.com",
+    "state": "AZ",
+    "domain": "baldemarlandscaping.com",
+    "flaw_summary": "Missing 60-Second Instant Project Cost Estimator (Site forces visitors to wait for manual contact response rather than providing instant ballpark pricing.)",
+    "current_step": 1,
+    "status": "WAITING_REPLY",
+    "step_history": [
+      {
+        "step": 1,
+        "sent_at": "2026-11-26T23:28:20.970729+00:00",
+        "sender": "charlotte@desk.fzcorestudio.com",
+        "subject": "quick question re baldemarlandscaping.com"
+      }
+    ],
+    "next_followup_due": "2026-11-29T23:25:11.984949+00:00",
     "replied_at": null,
     "reply_snippet": null
   }
