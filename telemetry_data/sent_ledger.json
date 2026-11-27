@@ -39238,5 +39238,60 @@
     "angle": "60-Second Instant Quote Estimator",
     "state": "AZ",
     "domain": "baldemarlandscaping.com"
+  },
+  "FZ-US-1793492157-12": {
+    "sent_at": "2026-11-27T22:28:03.810998+00:00",
+    "recipient_email": "info@optimumconcrete.com",
+    "recipient_name": "Optimum Concrete LLC",
+    "sender_email": "julian@team.fzcorestudio.com",
+    "business_name": "Optimum Concrete LLC",
+    "subject": "optimumconcrete.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "AZ",
+    "domain": "optimumconcrete.com"
+  },
+  "FZ-US-1793394423-14": {
+    "sent_at": "2026-11-27T22:28:08.533230+00:00",
+    "recipient_email": "info@implantsurgerycenter.com",
+    "recipient_name": "Implant Surgery Center",
+    "sender_email": "hannah@get.fzcorestudio.com",
+    "business_name": "Implant Surgery Center",
+    "subject": "implantsurgerycenter.com mobile call button",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "OK",
+    "domain": "implantsurgerycenter.com"
+  },
+  "FZ-US-1793429627-4": {
+    "sent_at": "2026-11-27T22:28:12.462788+00:00",
+    "recipient_email": "sales@martininkpromo.com",
+    "recipient_name": "Business Owner",
+    "sender_email": "owen@get.fzcorestudio.com",
+    "business_name": "Martin Ink Brand Promotions & Printing",
+    "subject": "martininkpromo.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "TX",
+    "domain": "martininkpromo.com"
+  },
+  "FZ-US-1793429744-22": {
+    "sent_at": "2026-11-27T22:28:16.472402+00:00",
+    "recipient_email": "brittni@usaneonsign.com",
+    "recipient_name": "Brittni",
+    "sender_email": "chloe@get.fzcorestudio.com",
+    "business_name": "LIYU Optoelectronics USA Neon Sign",
+    "subject": "quick question for Brittni re usaneonsign.com",
+    "angle": "1-Tap Call & Sticky Bottom Bar",
+    "state": "TX",
+    "domain": "usaneonsign.com"
+  },
+  "FZ-US-1793469452-6": {
+    "sent_at": "2026-11-27T22:28:20.447755+00:00",
+    "recipient_email": "info@haydenpaving.com",
+    "recipient_name": "Hayden Paving Inc",
+    "sender_email": "mason@get.fzcorestudio.com",
+    "business_name": "Hayden Paving Inc",
+    "subject": "haydenpaving.com quick estimate calculator",
+    "angle": "60-Second Instant Quote Estimator",
+    "state": "TX",
+    "domain": "haydenpaving.com"
   }
 }
