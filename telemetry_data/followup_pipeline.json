@@ -715,7 +715,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:50.939226+00:00"
+    "bounced_at": "2026-11-28T00:43:14.152874+00:00"
   },
   "FZ-US-1792615202-9": {
     "lead_id": "FZ-US-1792615202-9",
@@ -1015,7 +1015,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:42.106716+00:00"
+    "bounced_at": "2026-11-28T00:43:05.300591+00:00"
   },
   "FZ-US-1792615385-4": {
     "lead_id": "FZ-US-1792615385-4",
@@ -2010,7 +2010,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:41.712537+00:00"
+    "bounced_at": "2026-11-28T00:43:04.975714+00:00"
   },
   "FZ-US-1792616485-10": {
     "lead_id": "FZ-US-1792616485-10",
@@ -2380,7 +2380,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:33.351780+00:00"
+    "bounced_at": "2026-11-28T00:42:57.862745+00:00"
   },
   "FZ-US-1792616603-6": {
     "lead_id": "FZ-US-1792616603-6",
@@ -2474,7 +2474,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:57.833288+00:00"
+    "bounced_at": "2026-11-28T00:41:35.823101+00:00"
   },
   "FZ-US-1792616681-3": {
     "lead_id": "FZ-US-1792616681-3",
@@ -3050,7 +3050,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:47.313048+00:00"
+    "bounced_at": "2026-11-28T00:44:56.194773+00:00"
   },
   "FZ-US-1792618324-3": {
     "lead_id": "FZ-US-1792618324-3",
@@ -4065,7 +4065,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:15.999543+00:00"
+    "bounced_at": "2026-11-28T00:45:21.415134+00:00"
   },
   "FZ-US-1792621200-2": {
     "lead_id": "FZ-US-1792621200-2",
@@ -4737,7 +4737,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:57.474049+00:00"
+    "bounced_at": "2026-11-28T00:41:35.502723+00:00"
   },
   "FZ-US-1792623373-3": {
     "lead_id": "FZ-US-1792623373-3",
@@ -4808,7 +4808,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:31.882938+00:00"
+    "bounced_at": "2026-11-28T00:43:49.535060+00:00"
   },
   "FZ-US-1792623579-7": {
     "lead_id": "FZ-US-1792623579-7",
@@ -4832,7 +4832,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:45.507537+00:00"
+    "bounced_at": "2026-11-28T00:44:54.720315+00:00"
   },
   "FZ-US-1792623680-2": {
     "lead_id": "FZ-US-1792623680-2",
@@ -5479,7 +5479,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:41.358857+00:00"
+    "bounced_at": "2026-11-28T00:43:04.661475+00:00"
   },
   "FZ-US-1792625157-8": {
     "lead_id": "FZ-US-1792625157-8",
@@ -5503,7 +5503,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:32.821585+00:00"
+    "bounced_at": "2026-11-28T00:42:57.445669+00:00"
   },
   "FZ-US-1792625188-3": {
     "lead_id": "FZ-US-1792625188-3",
@@ -5550,7 +5550,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:45.157127+00:00"
+    "bounced_at": "2026-11-28T00:44:54.406192+00:00"
   },
   "FZ-US-1792625308-19": {
     "lead_id": "FZ-US-1792625308-19",
@@ -6703,7 +6703,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:31.506556+00:00"
+    "bounced_at": "2026-11-28T00:43:49.217913+00:00"
   },
   "FZ-US-1792627387-2": {
     "lead_id": "FZ-US-1792627387-2",
@@ -7581,7 +7581,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:59.068339+00:00"
+    "bounced_at": "2026-11-28T00:41:36.850832+00:00"
   },
   "FZ-US-1792627617-6": {
     "lead_id": "FZ-US-1792627617-6",
@@ -7791,7 +7791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:39.963628+00:00"
+    "bounced_at": "2026-11-28T00:43:03.424686+00:00"
   },
   "FZ-US-1792627691-1": {
     "lead_id": "FZ-US-1792627691-1",
@@ -13557,7 +13557,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:39.607815+00:00"
+    "bounced_at": "2026-11-28T00:43:03.097904+00:00"
   },
   "FZ-US-1792787245-4": {
     "lead_id": "FZ-US-1792787245-4",
@@ -15157,7 +15157,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:50.601848+00:00"
+    "bounced_at": "2026-11-28T00:43:13.813349+00:00"
   },
   "FZ-US-1792815633-6": {
     "lead_id": "FZ-US-1792815633-6",
@@ -15619,7 +15619,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:15.258915+00:00"
+    "bounced_at": "2026-11-28T00:45:20.751345+00:00"
   },
   "FZ-US-1792820218-5": {
     "lead_id": "FZ-US-1792820218-5",
@@ -17443,7 +17443,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:15:00.481652+00:00"
+    "bounced_at": "2026-11-28T00:41:38.130038+00:00"
   },
   "FZ-US-1792726568-1": {
     "lead_id": "FZ-US-1792726568-1",
@@ -18484,7 +18484,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:41.981391+00:00"
+    "bounced_at": "2026-11-28T00:45:44.038698+00:00"
   },
   "FZ-US-1792794467-4": {
     "lead_id": "FZ-US-1792794467-4",
@@ -18738,7 +18738,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:34.912503+00:00"
+    "bounced_at": "2026-11-28T00:43:52.551096+00:00"
   },
   "FZ-US-1792794996-4": {
     "lead_id": "FZ-US-1792794996-4",
@@ -20795,7 +20795,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:53.630194+00:00"
+    "bounced_at": "2026-11-28T00:41:32.086106+00:00"
   },
   "FZ-US-1792822929-9": {
     "lead_id": "FZ-US-1792822929-9",
@@ -22042,7 +22042,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:15:00.130205+00:00"
+    "bounced_at": "2026-11-28T00:41:37.806980+00:00"
   },
   "FZ-US-1792855104-3": {
     "lead_id": "FZ-US-1792855104-3",
@@ -22504,7 +22504,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:50.263487+00:00"
+    "bounced_at": "2026-11-28T00:43:13.477041+00:00"
   },
   "FZ-US-1792859094-8": {
     "lead_id": "FZ-US-1792859094-8",
@@ -23127,7 +23127,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:15.631745+00:00"
+    "bounced_at": "2026-11-28T00:45:21.085082+00:00"
   },
   "FZ-CA-1792617030-6": {
     "lead_id": "FZ-CA-1792617030-6",
@@ -24003,7 +24003,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:32.454568+00:00"
+    "bounced_at": "2026-11-28T00:42:57.149156+00:00"
   },
   "FZ-CA-1792631077-1": {
     "lead_id": "FZ-CA-1792631077-1",
@@ -26632,7 +26632,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:59.776331+00:00"
+    "bounced_at": "2026-11-28T00:41:37.490750+00:00"
   },
   "FZ-US-1792634387-4": {
     "lead_id": "FZ-US-1792634387-4",
@@ -27415,7 +27415,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:39.242849+00:00"
+    "bounced_at": "2026-11-28T00:43:02.773079+00:00"
   },
   "FZ-US-1792634670-6": {
     "lead_id": "FZ-US-1792634670-6",
@@ -27439,7 +27439,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:31.021262+00:00"
+    "bounced_at": "2026-11-28T00:42:56.001360+00:00"
   },
   "FZ-US-1792634676-8": {
     "lead_id": "FZ-US-1792634676-8",
@@ -28914,7 +28914,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:59.422269+00:00"
+    "bounced_at": "2026-11-28T00:41:37.171153+00:00"
   },
   "FZ-US-1792642159-2": {
     "lead_id": "FZ-US-1792642159-2",
@@ -29398,7 +29398,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:49.921560+00:00"
+    "bounced_at": "2026-11-28T00:43:13.135546+00:00"
   },
   "FZ-US-1792642252-5": {
     "lead_id": "FZ-US-1792642252-5",
@@ -29445,7 +29445,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:40.324083+00:00"
+    "bounced_at": "2026-11-28T00:43:03.749548+00:00"
   },
   "FZ-US-1792642258-9": {
     "lead_id": "FZ-US-1792642258-9",
@@ -29791,7 +29791,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:38.048034+00:00"
+    "bounced_at": "2026-11-28T00:43:01.722499+00:00"
   },
   "FZ-US-1792642402-11": {
     "lead_id": "FZ-US-1792642402-11",
@@ -30368,7 +30368,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:44.476937+00:00"
+    "bounced_at": "2026-11-28T00:43:07.682707+00:00"
   },
   "FZ-US-1792643848-2": {
     "lead_id": "FZ-US-1792643848-2",
@@ -30484,7 +30484,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:46.963671+00:00"
+    "bounced_at": "2026-11-28T00:44:55.880167+00:00"
   },
   "FZ-US-1792643924-1": {
     "lead_id": "FZ-US-1792643924-1",
@@ -31821,7 +31821,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:06.572951+00:00"
+    "bounced_at": "2026-11-28T00:43:27.169118+00:00"
   },
   "FZ-US-1792648374-2": {
     "lead_id": "FZ-US-1792648374-2",
@@ -34250,7 +34250,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:34.238894+00:00"
+    "bounced_at": "2026-11-28T00:43:51.947581+00:00"
   },
   "FZ-CA-1792663418-2": {
     "lead_id": "FZ-CA-1792663418-2",
@@ -35889,7 +35889,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:29.863050+00:00"
+    "bounced_at": "2026-11-28T00:42:55.025633+00:00"
   },
   "FZ-US-1792673138-2": {
     "lead_id": "FZ-US-1792673138-2",
@@ -36558,7 +36558,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:33.880042+00:00"
+    "bounced_at": "2026-11-28T00:43:51.623952+00:00"
   },
   "FZ-US-1792673629-6": {
     "lead_id": "FZ-US-1792673629-6",
@@ -39489,7 +39489,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:14.887735+00:00"
+    "bounced_at": "2026-11-28T00:45:20.419257+00:00"
   },
   "FZ-AU-1792615707-7": {
     "lead_id": "FZ-AU-1792615707-7",
@@ -40640,7 +40640,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:14.492975+00:00"
+    "bounced_at": "2026-11-28T00:45:20.074784+00:00"
   },
   "FZ-AU-1792651066-1": {
     "lead_id": "FZ-AU-1792651066-1",
@@ -45460,7 +45460,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:44.447819+00:00"
+    "bounced_at": "2026-11-28T00:44:53.772219+00:00"
   },
   "FZ-CA-1792884623-10": {
     "lead_id": "FZ-CA-1792884623-10",
@@ -45508,7 +45508,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:31.154610+00:00"
+    "bounced_at": "2026-11-28T00:43:48.898497+00:00"
   },
   "FZ-CA-1792884655-12": {
     "lead_id": "FZ-CA-1792884655-12",
@@ -46042,7 +46042,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:06.216597+00:00"
+    "bounced_at": "2026-11-28T00:43:26.845002+00:00"
   },
   "FZ-US-1792892641-13": {
     "lead_id": "FZ-US-1792892641-13",
@@ -46460,7 +46460,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:32.083637+00:00"
+    "bounced_at": "2026-11-28T00:42:56.850955+00:00"
   },
   "FZ-US-1792892833-11": {
     "lead_id": "FZ-US-1792892833-11",
@@ -47778,7 +47778,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:44.807956+00:00"
+    "bounced_at": "2026-11-28T00:44:54.093994+00:00"
   },
   "FZ-AU-1792885039-2": {
     "lead_id": "FZ-AU-1792885039-2",
@@ -50868,7 +50868,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:46.546161+00:00"
+    "bounced_at": "2026-11-28T00:43:09.812242+00:00"
   },
   "FZ-AU-1792782901-8": {
     "lead_id": "FZ-AU-1792782901-8",
@@ -51425,7 +51425,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:05.860521+00:00"
+    "bounced_at": "2026-11-28T00:43:26.521636+00:00"
   },
   "FZ-US-1792864371-11": {
     "lead_id": "FZ-US-1792864371-11",
@@ -51910,7 +51910,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:57.124628+00:00"
+    "bounced_at": "2026-11-28T00:41:35.192227+00:00"
   },
   "FZ-US-1792876564-8": {
     "lead_id": "FZ-US-1792876564-8",
@@ -52882,7 +52882,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:41.787673+00:00"
+    "bounced_at": "2026-11-28T00:44:51.505143+00:00"
   },
   "FZ-US-1792911854-2": {
     "lead_id": "FZ-US-1792911854-2",
@@ -54154,7 +54154,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:29.454981+00:00"
+    "bounced_at": "2026-11-28T00:42:54.682144+00:00"
   },
   "FZ-US-1792932138-6": {
     "lead_id": "FZ-US-1792932138-6",
@@ -55864,7 +55864,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:43.706809+00:00"
+    "bounced_at": "2026-11-28T00:44:53.168596+00:00"
   },
   "FZ-US-1792966379-4": {
     "lead_id": "FZ-US-1792966379-4",
@@ -56885,7 +56885,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:54.504686+00:00"
+    "bounced_at": "2026-11-28T00:41:32.881521+00:00"
   },
   "FZ-US-1792966939-23": {
     "lead_id": "FZ-US-1792966939-23",
@@ -59398,7 +59398,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:30.155927+00:00"
+    "bounced_at": "2026-11-28T00:43:48.007252+00:00"
   },
   "FZ-US-1793083403-14": {
     "lead_id": "FZ-US-1793083403-14",
@@ -60389,7 +60389,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:29.760830+00:00"
+    "bounced_at": "2026-11-28T00:43:47.671657+00:00"
   },
   "FZ-US-1793083499-4": {
     "lead_id": "FZ-US-1793083499-4",
@@ -61839,7 +61839,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:26.694017+00:00"
+    "bounced_at": "2026-11-28T00:42:52.505646+00:00"
   },
   "FZ-US-1793083320-4": {
     "lead_id": "FZ-US-1793083320-4",
@@ -61909,7 +61909,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:39.540248+00:00"
+    "bounced_at": "2026-11-28T00:41:19.762704+00:00"
   },
   "FZ-US-1793104971-5": {
     "lead_id": "FZ-US-1793104971-5",
@@ -62784,7 +62784,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:19.409811+00:00"
+    "bounced_at": "2026-11-28T00:42:46.409572+00:00"
   },
   "FZ-US-1793151941-2": {
     "lead_id": "FZ-US-1793151941-2",
@@ -63590,7 +63590,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:15:37.766246+00:00"
+    "bounced_at": "2026-11-28T00:42:10.507570+00:00"
   },
   "FZ-US-1793152724-24": {
     "lead_id": "FZ-US-1793152724-24",
@@ -63775,7 +63775,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:16.074704+00:00"
+    "bounced_at": "2026-11-28T00:43:35.574802+00:00"
   },
   "FZ-AU-1793219817-4": {
     "lead_id": "FZ-AU-1793219817-4",
@@ -64673,7 +64673,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:49.898458+00:00"
+    "bounced_at": "2026-11-28T00:44:58.439913+00:00"
   },
   "FZ-US-1793052032-10": {
     "lead_id": "FZ-US-1793052032-10",
@@ -65341,7 +65341,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:03.360208+00:00"
+    "bounced_at": "2026-11-28T00:45:10.433699+00:00"
   },
   "FZ-US-1793064301-1": {
     "lead_id": "FZ-US-1793064301-1",
@@ -67067,7 +67067,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:15:09.678514+00:00"
+    "bounced_at": "2026-11-28T00:41:45.756876+00:00"
   },
   "FZ-US-1793233728-6": {
     "lead_id": "FZ-US-1793233728-6",
@@ -68908,7 +68908,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:19.038035+00:00"
+    "bounced_at": "2026-11-28T00:42:46.074647+00:00"
   },
   "FZ-US-1793255577-7": {
     "lead_id": "FZ-US-1793255577-7",
@@ -69438,7 +69438,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:15:25.466329+00:00"
+    "bounced_at": "2026-11-28T00:41:59.475525+00:00"
   },
   "FZ-US-1793255811-14": {
     "lead_id": "FZ-US-1793255811-14",
@@ -69669,7 +69669,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:15:51.200135+00:00"
+    "bounced_at": "2026-11-28T00:42:22.417646+00:00"
   },
   "FZ-US-1793302550-4": {
     "lead_id": "FZ-US-1793302550-4",
@@ -70889,7 +70889,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:06.808526+00:00"
+    "bounced_at": "2026-11-28T00:42:35.645527+00:00"
   },
   "FZ-US-1793317033-4": {
     "lead_id": "FZ-US-1793317033-4",
@@ -71051,7 +71051,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:44.644374+00:00"
+    "bounced_at": "2026-11-28T00:44:01.202107+00:00"
   },
   "FZ-US-1793317210-2": {
     "lead_id": "FZ-US-1793317210-2",
@@ -71075,7 +71075,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:22.331146+00:00"
+    "bounced_at": "2026-11-28T00:43:41.095069+00:00"
   },
   "FZ-US-1793317214-3": {
     "lead_id": "FZ-US-1793317214-3",
@@ -71283,7 +71283,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:14:52.813744+00:00"
+    "bounced_at": "2026-11-28T00:41:31.350195+00:00"
   },
   "FZ-US-1793317324-7": {
     "lead_id": "FZ-US-1793317324-7",
@@ -73492,7 +73492,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:44.054863+00:00"
+    "bounced_at": "2026-11-28T00:44:00.664681+00:00"
   },
   "FZ-US-1793064686-3": {
     "lead_id": "FZ-US-1793064686-3",
@@ -74114,7 +74114,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:24.524582+00:00"
+    "bounced_at": "2026-11-28T00:45:28.901012+00:00"
   },
   "FZ-US-1793065013-24": {
     "lead_id": "FZ-US-1793065013-24",
@@ -74230,7 +74230,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:31.454427+00:00"
+    "bounced_at": "2026-11-28T00:45:35.252653+00:00"
   },
   "FZ-US-1793082636-6": {
     "lead_id": "FZ-US-1793082636-6",
@@ -76600,7 +76600,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:53.427691+00:00"
+    "bounced_at": "2026-11-28T00:43:16.241573+00:00"
   },
   "FZ-US-1793200629-3": {
     "lead_id": "FZ-US-1793200629-3",
@@ -77153,7 +77153,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:15:17.771606+00:00"
+    "bounced_at": "2026-11-28T00:41:52.810403+00:00"
   },
   "FZ-CA-1793219267-5": {
     "lead_id": "FZ-CA-1793219267-5",
@@ -77660,7 +77660,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:17:08.929925+00:00"
+    "bounced_at": "2026-11-28T00:43:29.176269+00:00"
   },
   "FZ-US-1793256149-4": {
     "lead_id": "FZ-US-1793256149-4",
@@ -78167,7 +78167,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:28.972169+00:00"
+    "bounced_at": "2026-11-28T00:44:40.241132+00:00"
   },
   "FZ-AU-1793408462-5": {
     "lead_id": "FZ-AU-1793408462-5",
@@ -78191,7 +78191,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:22.169858+00:00"
+    "bounced_at": "2026-11-28T00:44:34.243436+00:00"
   },
   "FZ-US-1793330031-3": {
     "lead_id": "FZ-US-1793330031-3",
@@ -78501,7 +78501,7 @@
     "state": "NV",
     "domain": "arteagasconcreteinc.com",
     "flaw_summary": "Excessive Form Fields (5 inputs) Causing High Drop-Off (Detected static form with 5 fields (_app_id, INPUT, INPUT, INPUT, Message).)",
-    "current_step": 1,
+    "current_step": 2,
     "status": "WAITING_REPLY",
     "step_history": [
       {
@@ -78511,7 +78511,7 @@
         "subject": "arteagasconcreteinc.com quick estimate calculator"
       }
     ],
-    "next_followup_due": "2026-11-27T23:48:56.696309+00:00",
+    "next_followup_due": "2026-12-02T00:46:26.101746+00:00",
     "replied_at": null,
     "reply_snippet": null
   },
@@ -78537,7 +78537,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:41.079168+00:00"
+    "bounced_at": "2026-11-28T00:44:50.892129+00:00"
   },
   "FZ-US-1793378294-15": {
     "lead_id": "FZ-US-1793378294-15",
@@ -79182,7 +79182,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:18:09.726471+00:00"
+    "bounced_at": "2026-11-28T00:44:23.337180+00:00"
   },
   "FZ-CA-1793408182-19": {
     "lead_id": "FZ-CA-1793408182-19",
@@ -79459,7 +79459,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:16:59.343764+00:00"
+    "bounced_at": "2026-11-28T00:43:20.941636+00:00"
   },
   "FZ-CA-1793408220-1": {
     "lead_id": "FZ-CA-1793408220-1",
@@ -82427,7 +82427,7 @@
     "next_followup_due": null,
     "replied_at": null,
     "reply_snippet": null,
-    "bounced_at": "2026-11-28T00:19:01.733902+00:00"
+    "bounced_at": "2026-11-28T00:45:08.980014+00:00"
   },
   "FZ-US-1793482345-4": {
     "lead_id": "FZ-US-1793482345-4",
